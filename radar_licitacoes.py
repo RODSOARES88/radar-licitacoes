@@ -131,6 +131,116 @@ def texto_seguro(s, limite: int = 5000) -> str:
 
 
 # ===========================================================================
+# CLASSIFICAÇÃO POR ÁREA JURÍDICA
+# ===========================================================================
+# Cada área tem um conjunto de "termos-gatilho". Se o título OU a descrição
+# de um edital contiver QUALQUER um desses termos, recebe a tag da área.
+# Um mesmo edital pode receber múltiplas áreas (ex: "consultoria tributária
+# e trabalhista" -> Tributário + Trabalhista).
+#
+# EDITE AQUI para refinar conforme novas demandas do escritório.
+# As cores são usadas como tags coloridas no dashboard.
+
+AREAS_JURIDICAS = {
+    "Tributário": {
+        "cor": "#dc2626",
+        "termos": [
+            "tributári", "fiscal", "icms", "iss", "ipva", "iptu", "ipi", "pis",
+            "cofins", "imposto", "tributo", "execução fiscal", "execucao fiscal",
+            "recuperação de crédito", "recuperacao de credito", "credito tributário",
+            "credito tributario", "auto de infração", "auto de infracao",
+            "isenção", "isencao", "refis", "parcelamento tributário", "parcelamento tributario",
+        ],
+    },
+    "Trabalhista": {
+        "cor": "#ea580c",
+        "termos": [
+            "trabalhist", "clt", "verbas rescis", "rescis", "sindical",
+            "vínculo emprega", "vinculo emprega", "horas extras", "fgts",
+            "previdenciário do trabalho", "estabilidade", "reintegra",
+            "negociação coletiva", "negociacao coletiva", "dissídio", "dissidio",
+            "convenção coletiva", "convencao coletiva",
+        ],
+    },
+    "Previdenciário": {
+        "cor": "#7c3aed",
+        "termos": [
+            "previdenciári", "inss", "aposentadoria", "auxílio-doença",
+            "auxilio-doenca", "benefício previden", "beneficio previden",
+            "pensão por morte", "pensao por morte", "salário-maternidade",
+            "salario-maternidade", "lei 8213", "lei 8.213", "rgps", "rpps",
+        ],
+    },
+    "Administrativo": {
+        "cor": "#0891b2",
+        "termos": [
+            "administrativ", "processo administrativo", "ato administrativo",
+            "improbidade", "lei 8429", "lei 8.429", "responsabilidade do estado",
+            "concurso público", "concurso publico", "servidor público", "servidor publico",
+            "tomada de contas", "controle externo", "tcu", "tribunal de contas",
+            "regime jurídico único", "regime juridico unico", "rju",
+        ],
+    },
+    "Cível": {
+        "cor": "#16a34a",
+        "termos": [
+            "indenização", "indenizacao", "danos morais", "danos materiais",
+            "responsabilidade civil", "obrigação", "obrigacao", "contrato civil",
+            "ação ordinária", "acao ordinaria", "execução de título", "execucao de titulo",
+            "cobrança", "cobranca", "consignação", "consignacao",
+            "usucapião", "usucapiao", "ação de despejo", "acao de despejo",
+        ],
+    },
+    "Empresarial": {
+        "cor": "#1d4ed8",
+        "termos": [
+            "empresari", "societári", "societario", "falência", "falencia",
+            "recuperação judicial", "recuperacao judicial", "dissolução de sociedade",
+            "dissolucao de sociedade", "marca", "patente", "propriedade industrial",
+            "concorrência desleal", "concorrencia desleal", "antitruste",
+        ],
+    },
+    "Penal": {
+        "cor": "#9f1239",
+        "termos": [
+            "penal", "criminal", "habeas corpus", "denúncia", "denuncia",
+            "ação penal", "acao penal", "tribunal do júri", "tribunal do juri",
+            "lavagem de dinheiro", "improbidade administrativa", "crime contra",
+        ],
+    },
+    "Ambiental": {
+        "cor": "#15803d",
+        "termos": [
+            "ambient", "licenciamento ambiental", "tac ambiental",
+            "área de preservação", "area de preservacao", "ibama",
+            "auto de infração ambiental", "auto de infracao ambiental",
+            "compensação ambiental", "compensacao ambiental",
+        ],
+    },
+    "Consumidor": {
+        "cor": "#be185d",
+        "termos": [
+            "consumidor", "cdc", "código de defesa", "codigo de defesa",
+            "procon", "vício do produto", "vicio do produto", "vício do serviço",
+            "vicio do servico", "ação coletiva de consumo", "acao coletiva de consumo",
+        ],
+    },
+}
+
+
+def classificar_areas(titulo: str, descricao: str) -> list[str]:
+    """Devolve lista de áreas jurídicas que o edital toca, com base em
+    palavras-gatilho no título e na descrição. Pode devolver 0, 1 ou várias.
+    Áreas vêm na ordem do dicionário AREAS_JURIDICAS."""
+    texto = f"{titulo} {descricao}".lower()
+    achadas = []
+    for area, conf in AREAS_JURIDICAS.items():
+        if any(termo.lower() in texto for termo in conf["termos"]):
+            achadas.append(area)
+    return achadas or ["Geral"]
+
+
+# ===========================================================================
 # COLETA
 # ===========================================================================
 
@@ -245,9 +355,11 @@ def normalizar(item: dict) -> dict:
     else:
         url_montada = item_url or f"https://{PNCP_HOST}/app/editais"
 
+    titulo_safe = texto_seguro(item.get("title"), 300) or "(sem título)"
+    descricao_safe = texto_seguro(item.get("description"), 2000)
     return {
-        "titulo": texto_seguro(item.get("title"), 300) or "(sem título)",
-        "descricao": texto_seguro(item.get("description"), 2000),
+        "titulo": titulo_safe,
+        "descricao": descricao_safe,
         "orgao": texto_seguro(item.get("orgao_nome"), 200),
         "unidade": texto_seguro(item.get("unidade_nome"), 200),
         "uf": texto_seguro(item.get("uf"), 4),
@@ -264,6 +376,7 @@ def normalizar(item: dict) -> dict:
         "numero_controle": texto_seguro(item.get("numero_controle_pncp"), 60),
         "url": url_segura(url_montada),  # (S4)
         "matched_keywords": [texto_seguro(k, 80) for k in (item.get("_matched_keywords") or [item.get("_keyword")]) if k],
+        "areas": classificar_areas(titulo_safe, descricao_safe),  # NOVO
     }
 
 
@@ -314,10 +427,18 @@ def renderizar_html(items: list[dict], somente_abertos: bool) -> str:
         kws = ", ".join(it["matched_keywords"])
         cor_esfera = COR_ESFERA.get(it["esfera"], "#64748b")
         cidade_uf = f"{it['municipio']}/{it['uf']}" if it['uf'] else "—"
+        # Tags de área jurídica (várias por edital, separadas por espaço)
+        areas_tags = "".join(
+            f'<span class="area-tag" style="background:{AREAS_JURIDICAS.get(a, {}).get("cor", "#64748b")}">{escape(a)}</span>'
+            for a in it["areas"]
+        )
+        # data attribute para o filtro JS
+        areas_data = "|".join(it["areas"])
         linhas.append(f"""
-        <tr data-esfera="{escape(it['esfera'])}" data-uf="{escape(it['uf'])}" data-situacao="{escape(it['situacao'])}">
+        <tr data-esfera="{escape(it['esfera'])}" data-uf="{escape(it['uf'])}" data-situacao="{escape(it['situacao'])}" data-areas="{escape(areas_data)}">
           <td><span class="tag" style="background:{cor_esfera}">{escape(it['esfera'] or '?')}</span></td>
           <td>
+            <div class="areas-row">{areas_tags}</div>
             <a href="{escape(it['url'])}" target="_blank" rel="noopener noreferrer" class="titulo">
               {escape(it['titulo'][:200])}
             </a>
@@ -377,157 +498,4 @@ def renderizar_html(items: list[dict], somente_abertos: bool) -> str:
   .stat .num {{ font-size: 22px; font-weight: 600; }}
   .stat .lbl {{ font-size: 11px; color: #6b7280; text-transform: uppercase; }}
   .filters {{ background: white; border: 1px solid #e5e7eb; border-radius: 8px;
-              padding: 12px 16px; margin-bottom: 16px; display: flex; gap: 16px; flex-wrap: wrap; }}
-  .filters label {{ font-size: 13px; color: #374151; }}
-  .filters input, .filters select {{
-    padding: 6px 10px; border: 1px solid #d1d5db; border-radius: 6px; font-size: 13px;
-  }}
-  table {{ width: 100%; background: white; border: 1px solid #e5e7eb;
-           border-radius: 8px; border-collapse: separate; border-spacing: 0; overflow: hidden; }}
-  th, td {{ padding: 12px; text-align: left; vertical-align: top;
-            border-bottom: 1px solid #f3f4f6; font-size: 13px; }}
-  th {{ background: #f9fafb; font-weight: 600; color: #374151;
-        font-size: 12px; text-transform: uppercase; }}
-  tr:last-child td {{ border-bottom: none; }}
-  .titulo {{ color: #1d4ed8; text-decoration: none; font-weight: 600; }}
-  .titulo:hover {{ text-decoration: underline; }}
-  .desc {{ color: #4b5563; font-size: 12px; margin-top: 4px; line-height: 1.4; }}
-  .meta {{ color: #6b7280; font-size: 12px; margin-top: 6px;
-           display: flex; gap: 12px; flex-wrap: wrap; }}
-  .tag {{ display: inline-block; color: white; padding: 2px 8px;
-          border-radius: 4px; font-size: 11px; font-weight: 500; }}
-  .situacao {{ font-size: 11px; color: #6b7280; margin-top: 4px; }}
-  .valor {{ font-variant-numeric: tabular-nums; white-space: nowrap; }}
-  .btn {{ display: inline-block; background: #1d4ed8; color: white;
-          padding: 6px 12px; border-radius: 6px; text-decoration: none;
-          font-size: 12px; white-space: nowrap; }}
-  .btn:hover {{ background: #1e40af; }}
-  .empty {{ text-align: center; padding: 40px; color: #6b7280; }}
-</style>
-</head>
-<body>
-
-<header>
-  <div>
-    <h1>📡 Radar de Licitações</h1>
-    <div class="sub">Última atualização: {agora} • Fonte: PNCP • {titulo_filtro}</div>
-  </div>
-  <div class="stats">
-    <div class="stat"><div class="num">{len(items_norm)}</div><div class="lbl">Total</div></div>
-    {blocos_stats}
-  </div>
-</header>
-
-<div class="filters">
-  <label>🔍 Buscar: <input type="text" id="filter-text" placeholder="palavra, órgão, cidade..."></label>
-  <label>Esfera:
-    <select id="filter-esfera">
-      <option value="">Todas</option>
-      <option value="Federal">Federal</option>
-      <option value="Estadual">Estadual</option>
-      <option value="Municipal">Municipal</option>
-      <option value="Distrital">Distrital</option>
-    </select>
-  </label>
-  <label>UF:
-    <select id="filter-uf">
-      <option value="">Todas</option>
-    </select>
-  </label>
-</div>
-
-<table id="tbl">
-  <thead>
-    <tr>
-      <th>Esfera</th>
-      <th>Objeto / Órgão</th>
-      <th>Modalidade</th>
-      <th>Valor</th>
-      <th>Datas</th>
-      <th>Ação</th>
-    </tr>
-  </thead>
-  <tbody>
-    {''.join(linhas) if linhas else '<tr><td colspan="6" class="empty">Nenhum edital encontrado com as palavras-chave atuais.</td></tr>'}
-  </tbody>
-</table>
-
-<script>
-  const ufs = new Set();
-  document.querySelectorAll('tr[data-uf]').forEach(tr => {{
-    const uf = tr.dataset.uf;
-    if (uf) ufs.add(uf);
-  }});
-  const selUf = document.getElementById('filter-uf');
-  Array.from(ufs).sort().forEach(uf => {{
-    const opt = document.createElement('option');
-    opt.value = uf; opt.textContent = uf;
-    selUf.appendChild(opt);
-  }});
-
-  function filtrar() {{
-    const txt = document.getElementById('filter-text').value.toLowerCase();
-    const esfera = document.getElementById('filter-esfera').value;
-    const uf = document.getElementById('filter-uf').value;
-    document.querySelectorAll('tbody tr').forEach(tr => {{
-      const linha = tr.textContent.toLowerCase();
-      const okTxt = !txt || linha.includes(txt);
-      const okEsfera = !esfera || tr.dataset.esfera === esfera;
-      const okUf = !uf || tr.dataset.uf === uf;
-      tr.style.display = (okTxt && okEsfera && okUf) ? '' : 'none';
-    }});
-  }}
-  document.getElementById('filter-text').addEventListener('input', filtrar);
-  document.getElementById('filter-esfera').addEventListener('change', filtrar);
-  document.getElementById('filter-uf').addEventListener('change', filtrar);
-</script>
-
-</body>
-</html>
-"""
-    return html
-
-
-# ===========================================================================
-# MAIN
-# ===========================================================================
-
-def main():
-    ap = argparse.ArgumentParser(description="Radar de Licitações - PNCP")
-    ap.add_argument("--abrir", action="store_true", help="Abre o HTML no browser ao terminar")
-    ap.add_argument("--tudo", action="store_true",
-                    help="Inclui editais sem proposta aberta também (default: só abertos)")
-    args = ap.parse_args()
-
-    somente_abertos = not args.tudo
-    inicio = datetime.now(timezone.utc)
-    brutos = coletar_tudo(somente_abertos)
-    unicos = deduplicar(brutos)
-
-    print(f"\n[3/3] Gerando saídas...")
-    OUTPUT_JSON.write_text(
-        json.dumps(
-            {
-                "gerado_em": inicio.isoformat(),
-                "fonte": "PNCP",
-                "filtro": "recebendo_proposta" if somente_abertos else "todos",
-                "palavras_chave": PALAVRAS_CHAVE,
-                "total": len(unicos),
-                "items": [normalizar(it) for it in unicos],
-            },
-            ensure_ascii=False, indent=2, default=str,
-        ),
-        encoding="utf-8",
-    )
-    OUTPUT_HTML.write_text(renderizar_html(unicos, somente_abertos), encoding="utf-8")
-
-    print(f"\n✓ Concluído.")
-    print(f"  HTML: {OUTPUT_HTML}")
-    print(f"  JSON: {OUTPUT_JSON}")
-    print(f"  Total de editais únicos: {len(unicos)}")
-
-    if args.abrir:
-        webbrowser.open(OUTPUT_HTML.as_uri())
-if __name__ == "__main__":
-       main()
-
+              padding: 12px
