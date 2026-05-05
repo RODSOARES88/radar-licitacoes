@@ -1,1541 +1,1481 @@
 {
-  "gerado_em": "2026-05-05T15:48:22.085569+00:00",
+  "gerado_em": "2026-05-05T16:20:16.670183+00:00",
   "fonte": "PNCP",
   "filtro": "recebendo_proposta",
   "palavras_chave": [
-    "consultoria tributária",
-    "consultoria jurídica",
-    "escritório de advocacia",
+    "consultoria tributaria",
+    "consultoria juridica",
+    "escritorio de advocacia",
     "sociedade de advogados",
-    "assessoria jurídica",
-    "serviços advocatícios",
-    "serviços de advocacia",
-    "patrocínio judicial",
-    "representação judicial",
+    "assessoria juridica",
+    "servicos advocaticios",
+    "servicos de advocacia",
+    "patrocinio judicial",
+    "representacao judicial",
     "contencioso administrativo",
-    "contencioso tributário",
+    "contencioso tributario",
     "contencioso trabalhista",
-    "parecer jurídico",
-    "recuperação de créditos tributários"
+    "parecer juridico",
+    "recuperacao de creditos tributarios"
   ],
   "total": 155,
   "items": [
     {
       "titulo": "Aviso de Contratação Direta nº 202617247/2026",
       "descricao": "SERVIÇO DE CONTABILIDADE",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "ESTADO DO CEARA",
-      "unidade": "EEM FRANCISCO PORCIANO FERREIRA",
       "uf": "CE",
       "municipio": "Marco",
       "esfera": "Estadual",
-      "poder": "Não se aplica",
       "modalidade": "Dispensa",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-05-05T11:31:11.994339369",
-      "data_atualizacao": "2026-05-05T11:31:11.994339369",
-      "data_inicio_vigencia": "2026-05-05T12:00",
       "data_fim_vigencia": "2026-05-08T12:00",
       "numero_controle": "07954480000179-1-011913/2026",
       "url": "https://pncp.gov.br/app/compras/07954480000179/2026/11913",
       "matched_keywords": [
-        "consultoria tributária"
+        "consultoria tributaria"
       ]
     },
     {
       "titulo": "Edital nº 90013/2026",
       "descricao": "Prestação de serviços de assessoria e consultoria técnica para elaboração de diagnóstico de impactos, mapeamento de processos e procedimentos, e elaboração de plano de ações para reestruturação de contratos e sistemas, em razão da implementação das novas regras atinentes à reforma tributária (Emenda Constitucional nº 132/2023), para a Companhia Paulista de Trens Metropolitanos - CPTM.",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "(UO) ESP-CIA.PTA DE TRENS METROPS-CPTM",
-      "unidade": "ESP-CIA. PTA DE TRENS METROPOLITANOS-CPTM",
       "uf": "SP",
       "municipio": "São Paulo",
       "esfera": "Estadual",
-      "poder": "Executivo",
       "modalidade": "Pregão - Eletrônico",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-03-24T07:03:13.499299",
-      "data_atualizacao": "2026-05-05T07:21:06.857924491",
-      "data_inicio_vigencia": "2026-05-05T08:00",
       "data_fim_vigencia": "2026-05-20T09:00",
       "numero_controle": "71832679000123-1-000039/2026",
       "url": "https://pncp.gov.br/app/compras/71832679000123/2026/39",
       "matched_keywords": [
-        "consultoria tributária"
+        "consultoria tributaria"
       ]
     },
     {
       "titulo": "Edital nº 020/2026-SEMAPRE/2026",
       "descricao": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS DE ASSESSORIA E CONSULTORIA TÉCNICA, COM ORIENTAÇÃO, APOIO E ACOMPANHAMENTO DE ATIVIDADES VOLTADAS À ORGANIZAÇÃO, PLANEJAMENTO, ELABORAÇÃO DE PROJETOS E CONTRATOS, REGULARIZAÇÃO DOCUMENTAL, GESTÃO E MELHORIA DE PROCESSOS, NO ÂMBITO DO PROGRAMA MUNICIPAL JUNTO À SECRETARIA COMPETENTE.",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "MUNICIPIO DE LIMOEIRO DO NORTE",
-      "unidade": "Secretaria de Agricultura Familiar, Agropecuária, Pesca e Recursos Hídricos (SEMAPRE)",
       "uf": "CE",
       "municipio": "Limoeiro do Norte",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Pregão - Eletrônico",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-05-04T12:18:44.396580589",
-      "data_atualizacao": "2026-05-04T12:18:44.396580589",
-      "data_inicio_vigencia": "2026-05-06T08:00",
       "data_fim_vigencia": "2026-05-21T08:00",
       "numero_controle": "07891674000172-1-000068/2026",
       "url": "https://pncp.gov.br/app/compras/07891674000172/2026/68",
       "matched_keywords": [
-        "consultoria tributária"
+        "consultoria tributaria"
       ]
     },
     {
       "titulo": "Edital nº 90012/2026",
       "descricao": "Prestação de serviço de consultoria tributária para transição e adequação ao novo Sistema Tributário Nacional (reforma tributária incluindo os impactos da Emenda Constitucional 132/2023 e da Lei Complementar 214/2025), em conformidade com o Edital e seus anexos.",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "BANESTES SA BANCO DO ESTADO DO ESPIRITO SANTO",
-      "unidade": "EES - BANCO DO ESTADO DO ESPÍRITO SANTO",
       "uf": "ES",
       "municipio": "Vitória",
       "esfera": "Não se aplica",
-      "poder": "Não se aplica",
       "modalidade": "Pregão - Eletrônico",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-05-04T07:09:54.055631637",
-      "data_atualizacao": "2026-05-04T07:09:54.055631637",
-      "data_inicio_vigencia": "2026-05-04T09:00",
       "data_fim_vigencia": "2026-05-25T13:30",
       "numero_controle": "28127603014802-1-000006/2026",
       "url": "https://pncp.gov.br/app/compras/28127603014802/2026/6",
       "matched_keywords": [
-        "consultoria tributária"
+        "consultoria tributaria"
       ]
     },
     {
       "titulo": "Edital nº 23/2026",
       "descricao": "[LICITANET] - Contratação de empresa especializada em consultoria e assessoria técnica tributária para PRESTAÇÃO DE SERVIÇOS DE APOIO ADMINISTRATIVO ao Setor de Fiscalização, com foco na auditoria, monitoramento e revisão do Valor Adicionado Fiscal (VAF) para fins de apuração do Índice de Participação dos Municípios (IPM), compreendendo a análise e acompanhamento de obrigações acessórias (DIME, EFD, PGDAS-D, DEFIS) e demais declarações do movimento econômico do Município de Cocal do Sul-SC.",
+      "areas": [
+        "Tributario",
+        "Administrativo"
+      ],
       "orgao": "MUNICIPIO DE COCAL DO SUL",
-      "unidade": "MUNICÍPIO DE COCAL DO SUL/SC",
       "uf": "SC",
       "municipio": "Cocal do Sul",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Pregão - Eletrônico",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-30T16:37:04.658362313",
-      "data_atualizacao": "2026-04-30T16:37:04.658362313",
-      "data_inicio_vigencia": "2026-04-30T16:37:02",
       "data_fim_vigencia": "2026-05-18T09:00",
       "numero_controle": "95778056000188-1-000031/2026",
       "url": "https://pncp.gov.br/app/compras/95778056000188/2026/31",
       "matched_keywords": [
-        "consultoria tributária",
-        "consultoria jurídica",
-        "assessoria jurídica"
+        "consultoria tributaria",
+        "consultoria juridica",
+        "assessoria juridica"
       ]
     },
     {
       "titulo": "Edital nº 95002/2026",
       "descricao": "Contratação de consultoria financeira para o regime próprio de PREVIDÊNCIA SOCIAL do estado do CEARÁ, nas condições estabelecidas neste edital e seus anexos",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "ESTADO DO CEARA",
-      "unidade": "ECE-ESTADO DO CEARÁ",
       "uf": "CE",
       "municipio": "Fortaleza",
       "esfera": "Estadual",
-      "poder": "Não se aplica",
       "modalidade": "Concorrência - Eletrônica",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-02-10T07:07:04.729908",
-      "data_atualizacao": "2026-04-30T07:22:31.456458803",
-      "data_inicio_vigencia": "2026-04-30T08:00",
       "data_fim_vigencia": "2026-06-24T10:00",
       "numero_controle": "07954480000179-1-001297/2026",
       "url": "https://pncp.gov.br/app/compras/07954480000179/2026/1297",
       "matched_keywords": [
-        "consultoria tributária"
-      ]
-    },
-    {
-      "titulo": "Aviso de Contratação Direta nº 202616650/2026",
-      "descricao": "OUTROS SERVIÇOS DE TERCEIRO PESSOA JURÍDICA - SERVIÇOS TÉCNICOS PROFISSIONAIS - CONTADOR PORTARIA 01/2026 - PROVISÓRIA",
-      "orgao": "ESTADO DO CEARA",
-      "unidade": "EEFM MENEZES PIMENTEL",
-      "uf": "CE",
-      "municipio": "Potengi",
-      "esfera": "Estadual",
-      "poder": "Não se aplica",
-      "modalidade": "Dispensa",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "data_publicacao": "2026-04-29T11:50:58.354217550",
-      "data_atualizacao": "2026-04-29T11:50:58.354217550",
-      "data_inicio_vigencia": "2026-04-29T12:00",
-      "data_fim_vigencia": "2026-05-05T13:00",
-      "numero_controle": "07954480000179-1-011280/2026",
-      "url": "https://pncp.gov.br/app/compras/07954480000179/2026/11280",
-      "matched_keywords": [
-        "consultoria tributária",
-        "consultoria jurídica",
-        "assessoria jurídica"
+        "consultoria tributaria"
       ]
     },
     {
       "titulo": "Edital nº 01.PQ.SMP/2026",
       "descricao": "PRÉ-QUALIFICAÇÃO PARA CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS TÉCNICOS-JURÍDICOS E CONSULTORIA TRIBUTÁRIA VISANDO A ANÁLISE, REVISÃO, CONSOLIDAÇÃO E ATUALIZAÇÃO DO CÓDIGO TRIBUTÁRIO MUNICIPAL DO MUNICÍPIO DE CARIRÉ-CE (LEI MUNICIPAL/CTM), INCLUINDO A ADEQUAÇÃO À LEGISLAÇÃO FEDERAL E ESTADUAL APLICÁVEL, ELABORAÇÃO DE MINUTA DE PROJETO DE LEI, ATUALIZAÇÕES CORRELATAS (LEI DO IPTU, LEI DO ISS, TAXAS E CONTRIBUIÇÕES MUNICIPAIS), REGULAMENTAÇÃO POR DECRETO QUANDO APLICÁVEL, E CAPACITAÇÃO TÉCNICA DE SERVIDORES",
+      "areas": [
+        "Tributario"
+      ],
       "orgao": "MUNICIPIO DE CARIRE",
-      "unidade": "SECRETARIA DE ADMINISTRACAO, PLANEJ. E FINANCAS",
       "uf": "CE",
       "municipio": "Cariré",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Pré-qualificação",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-01-13T14:32:36.418015457",
-      "data_atualizacao": "2026-01-13T14:32:36.418015457",
-      "data_inicio_vigencia": "2026-01-13T14:32:34",
       "data_fim_vigencia": "2027-01-13T14:32:34",
       "numero_controle": "07598600000142-1-000005/2026",
       "url": "https://pncp.gov.br/app/compras/07598600000142/2026/5",
       "matched_keywords": [
-        "consultoria tributária",
-        "consultoria jurídica"
+        "consultoria tributaria",
+        "consultoria juridica"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 96/2025",
       "descricao": "CREDENCIAMENTO de pessoas jurídicas qualificadas para PERMISSÃO da exploração do serviço público de loteria na modalidade lotérica de Apostas de Quota Fixa (AQF) no território do Estado do Rio Grande do Norte, pelo período de 5 (cinco) anos, de acordo com as condições e especificações contidas na Portaria-SEFAZ nº 1306/2025 ",
+      "areas": [
+        "Tributario"
+      ],
       "orgao": "SECRETARIA DE ESTADO DE TRIBUTACAO",
-      "unidade": "ERN-SECRETARIA DE ESTADO DA TRIBUTAÇÃO",
       "uf": "RN",
       "municipio": "Natal",
       "esfera": "Estadual",
-      "poder": "Executivo",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-12-30T14:45:08.746337",
-      "data_atualizacao": "2025-12-30T14:45:08.746337",
-      "data_inicio_vigencia": "2026-01-20T14:00",
       "data_fim_vigencia": "2026-12-31T18:00",
       "numero_controle": "24519654000194-1-000019/2025",
       "url": "https://pncp.gov.br/app/compras/24519654000194/2025/19",
       "matched_keywords": [
-        "consultoria tributária",
-        "consultoria jurídica"
+        "consultoria tributaria",
+        "consultoria juridica"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 004/2025",
       "descricao": "CREDENCIAMENTO DE PESSOAS JURÍDICAS ESPECIALIZADAS NA PRESTAÇÃO DE SERVIÇOS DE CONSULTORIA E ASSESSORIA EM DIVERSAS ÁREAS DA ADMINISTRAÇÃO PÚBLICA EM ATENDIMENTO AS NECESSIDADES DOS CIDESLESTE NA PRESTAÇÃO DE SERVIÇOS AOS MUNICÍPIOS CONSORCIADOS.\n",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "CONSORCIO INTERMUNICIPAL DE DESENVOLVIMENTO ECONOMICO E SOCIAL DOS MUNICIPIOS DO LESTE DE MINAS",
-      "unidade": "CONSORCIO CIDES-LESTE",
       "uf": "MG",
       "municipio": "Caratinga",
       "esfera": "Não se aplica",
-      "poder": "Executivo",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-09-23T15:19:01.242235849",
-      "data_atualizacao": "2025-09-23T15:19:01.242235849",
-      "data_inicio_vigencia": "2025-09-23T19:00",
       "data_fim_vigencia": "2026-09-23T23:59",
       "numero_controle": "12963113000171-1-000011/2025",
       "url": "https://pncp.gov.br/app/compras/12963113000171/2025/11",
       "matched_keywords": [
-        "consultoria tributária",
-        "consultoria jurídica",
-        "parecer jurídico"
+        "consultoria tributaria",
+        "consultoria juridica",
+        "parecer juridico"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 12/2025",
       "descricao": "Credenciamento nº 002/2024. Proc. Administrativo 14.094/2023. Credenciamento de Instituições Financeiras para Prestação de Serviços Bancários de Arrecadação de Tributos Municipais e demais Receitas públicas. SF. Cumpre salientar que este processo já está publicado no PNCP link: https://pncp.gov.br/app/editais/18338178000102/2024/81; recebendo proposta desde 16/05/2024. Contudo a montagem do processo para o PNCP ocorreu em outra plataforma - ECustomize Consultoria em Software S.A\nConsiderando o explanado na descrição do objeto, por razões operacionais e adm. o processo segue montado nesta plataforma para ajustes técnicos. Permanecendo as demais regras do edital e os atos já consumados no proc. administrativo eletrônico citado.\n",
+      "areas": [
+        "Tributario",
+        "Administrativo"
+      ],
       "orgao": "MUNICIPIO DE JUIZ DE FORA",
-      "unidade": "PREFEITURA MUNICIPAL DE JUIZ DE FORA - MG",
       "uf": "MG",
       "municipio": "Juiz de Fora",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2024-05-22T16:33:33.784472",
-      "data_atualizacao": "2024-05-22T16:33:33.784472",
-      "data_inicio_vigencia": "2024-05-22T17:55",
       "data_fim_vigencia": "2026-05-18T17:59",
       "numero_controle": "18338178000102-1-000004/2025",
       "url": "https://pncp.gov.br/app/compras/18338178000102/2025/4",
       "matched_keywords": [
-        "consultoria tributária"
+        "consultoria tributaria"
       ]
     },
     {
       "titulo": "Aviso de Contratação Direta nº 8/2026",
       "descricao": "Contratação de pessoa jurídica para prestação de serviço de consultoria e assessoria em ações relacionados à aplicação da Lei nº 14.399/2022 (Lei Aldir Blanc) para atender as necessidades da Secretaria Municipal de Cultura e Turismo do Município de Penalva/MA",
+      "areas": [
+        "Penal"
+      ],
       "orgao": "MUNICIPIO DE PENALVA",
-      "unidade": "Prefeitura Municipal de Penalva",
       "uf": "MA",
       "municipio": "Penalva",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Dispensa",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-05-05T12:27:01.989150176",
-      "data_atualizacao": "2026-05-05T12:27:01.989150176",
-      "data_inicio_vigencia": "2026-05-06T08:00",
       "data_fim_vigencia": "2026-05-08T18:00",
       "numero_controle": "06179402000181-1-000056/2026",
       "url": "https://pncp.gov.br/app/compras/06179402000181/2026/56",
       "matched_keywords": [
-        "consultoria jurídica",
-        "assessoria jurídica"
+        "consultoria juridica",
+        "assessoria juridica"
       ]
     },
     {
       "titulo": "Aviso de Contratação Direta nº 023/2026",
       "descricao": "Destina-se à contratação de empresa especializada em consultoria e assessoria jurÍdica, com eventual propositura de ação para este consorcio de desenvolvimento territorial .\nEm: 2/1/2026",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "CONSORCIO DE DESENVOLVIMENTO SUSTENTAVEL DO TERRITORIO PIEMONTE NORTE DO ITAPICURU - CDS SENHOR DO BONFIM",
-      "unidade": "CONSÓRCIO PÚBLICO DE DESENVOLVIMENTO SUSTENTÁVEL DO PIEMONTE NORTE DO ITAPICURU",
       "uf": "BA",
       "municipio": "Senhor do Bonfim",
       "esfera": "Não se aplica",
-      "poder": "Executivo",
       "modalidade": "Dispensa",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-05-05T11:06:20.042744451",
-      "data_atualizacao": "2026-05-05T11:06:20.042744451",
-      "data_inicio_vigencia": "2025-12-29T08:20",
       "data_fim_vigencia": "2026-12-31T08:20",
       "numero_controle": "13332525000176-1-000025/2026",
       "url": "https://pncp.gov.br/app/compras/13332525000176/2026/25",
       "matched_keywords": [
-        "consultoria jurídica",
-        "assessoria jurídica"
+        "consultoria juridica",
+        "assessoria juridica"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 6/2026",
       "descricao": "CREDENCIAMENTO DE PESSOAS JURÍDICAS, CUJO OBJETO SOCIAL CONTEMPLE ATIVIDADES TÉCNICAS  PARA PRESTAÇÃO DE SERVIÇOS PROFISSIONAIS DE CONSULTORIA EM CUMPRIMENTO A  NOVA EXIGÊNCIA DO E-SOCIAL SST DO MINISTÉRIO DO TRABALHO PARA A TRANSMISSÃO DOS TEMAS S-2210, S-2220 E S-2240 , PARA  FUTUROS CONTRATOS A SEREM FIRMADOS COM OS 29 MUNICÍPIOS DO CONSÓRCIO PÚBLICO CIMAG.",
+      "areas": [
+        "Tributario"
+      ],
       "orgao": "CONSORCIO INTERMUNICIPAL MULTIFINALITARIO DA AMAG",
-      "unidade": "Unidade Única",
       "uf": "MG",
       "municipio": "Caxambu",
       "esfera": "Não se aplica",
-      "poder": "Executivo",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-05-04T16:05:41.384360497",
-      "data_atualizacao": "2026-05-04T16:05:41.384360497",
-      "data_inicio_vigencia": "2026-03-18T08:00",
       "data_fim_vigencia": "2027-03-18T17:00",
       "numero_controle": "21406451000101-1-000018/2026",
       "url": "https://pncp.gov.br/app/compras/21406451000101/2026/18",
       "matched_keywords": [
-        "consultoria jurídica"
+        "consultoria juridica"
       ]
     },
     {
       "titulo": "Aviso de Contratação Direta nº 7411/2026",
       "descricao": "DESPESA COM CONTRATAÇÃO TEMPORÁRIA DE PESSOA FÍSICA OU JURÍDICA PARA EMISSÃO DE RELATÓRIOS DE AÇÕES AMBIENTAIS, CONSULTORIA E ASSESSORIA AMBIENTAL REFERENTES AO ICMS ECOLÓGICO, PARA ATENDER A SECRETAR",
+      "areas": [
+        "Tributario",
+        "Ambiental"
+      ],
       "orgao": "MUNICIPIO DE CHAPADAO DO CEU",
-      "unidade": "PREFEITURA MUNICIPAL CHAPADAO DO CEU",
       "uf": "GO",
       "municipio": "Chapadão do Céu",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Dispensa",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-05-04T15:58:48.272493493",
-      "data_atualizacao": "2026-05-04T15:58:48.272493493",
-      "data_inicio_vigencia": "2026-05-04T15:55:18",
       "data_fim_vigencia": "2026-05-07T15:55:18",
       "numero_controle": "24859332000194-1-000320/2026",
       "url": "https://pncp.gov.br/app/compras/24859332000194/2026/320",
       "matched_keywords": [
-        "consultoria jurídica",
-        "assessoria jurídica"
+        "consultoria juridica",
+        "assessoria juridica"
       ]
     },
     {
       "titulo": "Aviso de Contratação Direta nº 56/2026",
       "descricao": "Contratação de empresa especializada na prestação de serviços de instalação, configuração e Consultoria continua para gerenciamento em servidores com ferramentas em sistema operacional Linux, para a nova sede da Prefeitura Municipal de Carmo de Minas.",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "MUNICIPIO DE CARMO DE MINAS",
-      "unidade": "Unidade Única",
       "uf": "MG",
       "municipio": "Carmo de Minas",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Dispensa",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-05-04T13:19:19.848877549",
-      "data_atualizacao": "2026-05-04T13:19:19.848877549",
-      "data_inicio_vigencia": "2026-05-05T06:00",
       "data_fim_vigencia": "2026-05-08T23:59",
       "numero_controle": "18188243000160-1-000043/2026",
       "url": "https://pncp.gov.br/app/compras/18188243000160/2026/43",
       "matched_keywords": [
-        "consultoria jurídica"
+        "consultoria juridica"
       ]
     },
     {
       "titulo": "Edital nº CE 36/2026",
       "descricao": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS TÉCNICOS DE ASSESSORIA E CONSULTORIA DESTINADOS À ANÁLISE E AVALIAÇÃO DAS ALTERNATIVAS INSTITUCIONAIS, JURÍDICAS E OPERACIONAIS QUE POSSIBILITEM AO SAMAE DE JARAGUÁ DO SUL AMPLIAR E REGIONALIZAR A PRESTAÇÃO DOS SERVIÇOS PÚBLICOS DE SANEAMENTO BÁSICO, ESPECIALMENTE PARA VIABILIZAR A ASSUNÇÃO DA PRESTAÇÃO DOS SERVIÇOS DE SANEAMENTO BÁSICO EM OUTROS MUNICÍPIOS, EM CONFORMIDADE COM AS EXIGÊNCIAS DO NOVO MARCO LEGAL DO SANEAMENTO",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "SERVICO AUTONOMO MUNICIPAL DE AGUA E ESGOTO",
-      "unidade": "SERVIÇO AUTÔNOMO MUNICIPAL DE ÁGUA E ESGOTO DE JARAGUÁ DO SUL",
       "uf": "SC",
       "municipio": "Jaraguá do Sul",
       "esfera": "Municipal",
-      "poder": "Executivo",
       "modalidade": "Concorrência - Eletrônica",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-05-04T10:25:22.644435799",
-      "data_atualizacao": "2026-05-04T10:25:22.644435799",
-      "data_inicio_vigencia": "2026-02-26T08:00",
       "data_fim_vigencia": "2026-06-24T08:45",
       "numero_controle": "84438381000185-1-000128/2026",
       "url": "https://pncp.gov.br/app/compras/84438381000185/2026/128",
       "matched_keywords": [
-        "consultoria jurídica",
-        "assessoria jurídica"
+        "consultoria juridica",
+        "assessoria juridica"
       ]
     },
     {
       "titulo": "Edital nº 036/2026R/2026",
       "descricao": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS TÉCNICOS DE ASSESSORIA E CONSULTORIA DESTINADOS À ANÁLISE E AVALIAÇÃO DAS ALTERNATIVAS INSTITUCIONAIS, JURÍDICAS E OPERACIONAIS QUE POSSIBILITEM AO SAMAE DE JARAGUÁ DO SUL AMPLIAR E REGIONALIZAR A PRESTAÇÃO DOS SERVIÇOS PÚBLICOS DE SANEAMENTO BÁSICO, ESPECIALMENTE PARA VIABILIZAR A ASSUNÇÃO DA PRESTAÇÃO DOS SERVIÇOS DE SANEAMENTO BÁSICO EM OUTROS MUNICÍPIOS, EM CONFORMIDADE COM AS EXIGÊNCIAS DO NOVO MARCO LEGAL DO SANEAMENTO",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "SERVICO AUTONOMO MUNICIPAL DE AGUA E ESGOTO",
-      "unidade": "SAMAE Jaraguá do Sul",
       "uf": "SC",
       "municipio": "Jaraguá do Sul",
       "esfera": "Municipal",
-      "poder": "Executivo",
       "modalidade": "Concorrência - Eletrônica",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-05-04T09:34:51.878345852",
-      "data_atualizacao": "2026-05-04T09:34:51.878345852",
-      "data_inicio_vigencia": "2026-05-05T08:00",
       "data_fim_vigencia": "2026-06-24T08:45",
       "numero_controle": "84438381000185-1-000127/2026",
       "url": "https://pncp.gov.br/app/compras/84438381000185/2026/127",
       "matched_keywords": [
-        "consultoria jurídica",
-        "assessoria jurídica"
+        "consultoria juridica",
+        "assessoria juridica"
       ]
     },
     {
       "titulo": "Edital nº 0604.01/2026-SMAF/2026",
       "descricao": "CONTRATAÇÃO DE PESSOA JURÍDICA ESPECIALIZADA PARA A PRESTAÇÃO DE SERVIÇOS TÉCNICOS ESPECIALIZADOS DE ASSESSORIA E CONSULTORIA EM GESTÃO PÚBLICA, VOLTADOS AO ACOMPANHAMENTO, MONITORAMENTO, CONTROLE, AVALIAÇÃO E APERFEIÇOAMENTO DA EXECUÇÃO DOS CONTRATOS DE GESTÃO FIRMADOS ENTRE O MUNICÍPIO E ORGANIZAÇÕES SOCIAIS, COMPREENDENDO O SUPORTE TÉCNICO À ANÁLISE DE METAS, INDICADORES DE DESEMPENHO, RELATÓRIOS GERENCIAIS E PRESTAÇÕES DE CONTAS, BEM COMO O DESENVOLVIMENTO E APRIMORAMENTO DE INSTRUMENTOS DE GOVERNANÇA, CONFORMIDADE LEGAL, GESTÃO DE RISCOS E CONTROLES INTERNOS APLICÁVEIS ÀS PARCERIAS COM O TERCEIRO SETOR, COM VISTAS AO FORTALECIMENTO DA EFICIÊNCIA ADMINISTRATIVA, DA TRANSPARÊNCIA E DA ADEQUADA FISCALIZAÇÃO DOS INSTRUMENTOS DE PARCERIA, NO ÂMBITO DA SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO E FINANÇAS",
+      "areas": [
+        "Tributario",
+        "Administrativo"
+      ],
       "orgao": "MUNICIPIO DE FORTIM",
-      "unidade": "Fortim",
       "uf": "CE",
       "municipio": "Fortim",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Pregão - Eletrônico",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-16T12:20:11.596481",
-      "data_atualizacao": "2026-05-04T09:04:36.253638384",
-      "data_inicio_vigencia": "2026-04-16T13:00",
       "data_fim_vigencia": "2026-05-06T08:00",
       "numero_controle": "35050756000120-1-000048/2026",
       "url": "https://pncp.gov.br/app/compras/35050756000120/2026/48",
       "matched_keywords": [
-        "consultoria jurídica",
-        "assessoria jurídica"
+        "consultoria juridica",
+        "assessoria juridica"
       ]
     },
     {
       "titulo": "Aviso de Contratação Direta nº 49/2026",
       "descricao": "Contratação de pessoa jurídica devidamente habilitada, com amplo conhecimento em tecnologia da informação. Tal medida é imprescindível devido às exigências na área de manutenção técnica de informática visando o suporte das atividades desempenhadas pelo CONSELHO REGIONAL DE EDUCAÇÃO FÍSICA DA 11ª REGIÃO – CREF11/MS.",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "CONSELHO REGIONAL DE EDUCACAO FISICA DA 11 REGIAO - CREF11/MS",
-      "unidade": "CONSELHO REGIONAL DE EDUCACAO FISICA - MS",
       "uf": "MS",
       "municipio": "Campo Grande",
       "esfera": "Federal",
-      "poder": "Executivo",
       "modalidade": "Dispensa",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-30T17:42:40.210810",
-      "data_atualizacao": "2026-04-30T17:42:40.210810",
-      "data_inicio_vigencia": "2026-05-04T08:00",
       "data_fim_vigencia": "2026-05-07T08:00",
       "numero_controle": "03755472000142-1-000025/2026",
       "url": "https://pncp.gov.br/app/compras/03755472000142/2026/25",
       "matched_keywords": [
-        "consultoria jurídica",
-        "assessoria jurídica"
+        "consultoria juridica",
+        "assessoria juridica"
       ]
     },
     {
       "titulo": "Edital nº 90001/2026",
       "descricao": "Contratação de serviços por meio de sociedade de Advogado(s) para prestação de serviços técnicos de natureza jurídica ao Conselho Regional de Biologia do Rio Grande do Sul – CRBio03 – sem exclusividade e sem vínculo empregatício – para manter a continuidade do Programa de Integridade, representar o CRBio-03 em ações trabalhistas e em demais órgãos de fiscalização, além de prestar consultoria ao Plenário, Diretoria e Gerências, de acordo com as necessidades e demanda.",
+      "areas": [
+        "Tributario",
+        "Trabalhista"
+      ],
       "orgao": "CONSELHO REGIONAL DE BIOLOGIA 3 REGIAO",
-      "unidade": "CONSELHO REGIONAL DE BIOLOGIA 3° REGIAO RS/SC",
       "uf": "RS",
       "municipio": "Porto Alegre",
       "esfera": "Federal",
-      "poder": "Executivo",
       "modalidade": "Concorrência - Eletrônica",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-29T07:06:28.853399",
-      "data_atualizacao": "2026-04-30T07:37:30.270909511",
-      "data_inicio_vigencia": "2026-04-30T10:00",
       "data_fim_vigencia": "2026-06-23T10:00",
       "numero_controle": "04053157000136-1-000020/2026",
       "url": "https://pncp.gov.br/app/compras/04053157000136/2026/20",
       "matched_keywords": [
-        "consultoria jurídica",
+        "consultoria juridica",
         "sociedade de advogados",
-        "assessoria jurídica"
+        "assessoria juridica"
       ]
     },
     {
       "titulo": "Edital nº 053/2025/2026",
       "descricao": "Contratação a prestação de serviços técnicos especializados de consultoria na área ambiental e de gestão costeira, a serem realizados por pessoa jurídica, visando à elaboração e à implementação do plano de gestão integrada (PGI) da orla do município de ipojuca - PE.",
+      "areas": [
+        "Ambiental"
+      ],
       "orgao": "MUNICIPIO DE IPOJUCA",
-      "unidade": "PREFEITURA MUNICIPAL DE IPOJUCA",
       "uf": "PE",
       "municipio": "Ipojuca",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Pregão - Eletrônico",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-29T09:52:24.375101",
-      "data_atualizacao": "2026-04-29T10:17:15.191399",
-      "data_inicio_vigencia": "2026-04-29T09:50",
       "data_fim_vigencia": "2026-05-15T09:00",
       "numero_controle": "11294386000108-1-000077/2026",
       "url": "https://pncp.gov.br/app/compras/11294386000108/2026/77",
       "matched_keywords": [
-        "consultoria jurídica"
+        "consultoria juridica"
       ]
     },
     {
       "titulo": "Aviso de Contratação Direta nº 005-2026/2026",
       "descricao": "Contratação de pessoa jurídica para prestação de serviços técnicos de assessoria e consultoria do Sistema Integrado de Gestão e Auditoria-SIGA, conforme condições\ndetalhadas no Termo de Referência.",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "CAMARA MUNICIPAL DE COCOS",
-      "unidade": "Câmara Municipal de Cocos",
       "uf": "BA",
       "municipio": "Cocos",
       "esfera": "Municipal",
-      "poder": "Legislativo",
       "modalidade": "Dispensa",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-29T09:59:09.500081581",
-      "data_atualizacao": "2026-04-29T09:59:09.500081581",
-      "data_inicio_vigencia": "2026-01-15T10:00",
       "data_fim_vigencia": "2026-12-31T10:00",
       "numero_controle": "16431108000179-1-000007/2026",
       "url": "https://pncp.gov.br/app/compras/16431108000179/2026/7",
       "matched_keywords": [
-        "consultoria jurídica",
-        "assessoria jurídica"
+        "consultoria juridica",
+        "assessoria juridica"
       ]
     },
     {
       "titulo": "Edital nº 90006/2026",
       "descricao": "Contratação de pessoa jurídica para a execução de serviço técnico especializado em direito e gestão educacional para suporte estratégico à secretaria municipal de educação por 36 (trinta e seis) meses.",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "MUNICIPIO DE PEDREIRA",
-      "unidade": "PREFEITURA MUNICIPAL DE PEDREIRA - SP",
       "uf": "SP",
       "municipio": "Pedreira",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Concorrência - Eletrônica",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-29T07:04:33.265554200",
-      "data_atualizacao": "2026-04-29T07:04:33.265554200",
-      "data_inicio_vigencia": "2026-04-29T08:00",
       "data_fim_vigencia": "2026-06-24T09:00",
       "numero_controle": "46410775000136-1-000405/2026",
       "url": "https://pncp.gov.br/app/compras/46410775000136/2026/405",
       "matched_keywords": [
-        "consultoria jurídica",
-        "assessoria jurídica"
+        "consultoria juridica",
+        "assessoria juridica"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 004/2026",
       "descricao": "[LICITANET] - Chamamento Público para credenciamento de pessoa jurídica para prestação de serviços de assessoria e consultoria na área de Gestão Pública em Educação, para atender as necessidades da Secretaria Municipal de Educação.",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "MUNICIPIO DE BOQUIRA",
-      "unidade": "MUNICIPIO DE BOQUIRA - BA ",
       "uf": "BA",
       "municipio": "Boquira",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-28T10:23:39.637059352",
-      "data_atualizacao": "2026-04-28T10:23:39.637059352",
-      "data_inicio_vigencia": "2026-03-09T00:00",
       "data_fim_vigencia": "2027-03-09T00:00",
       "numero_controle": "13780770000146-1-000023/2026",
       "url": "https://pncp.gov.br/app/compras/13780770000146/2026/23",
       "matched_keywords": [
-        "consultoria jurídica",
-        "assessoria jurídica",
-        "parecer jurídico"
+        "consultoria juridica",
+        "assessoria juridica",
+        "parecer juridico"
       ]
     },
     {
       "titulo": "Edital nº 90007/2026",
       "descricao": "Contratação de empresa especializada na prestação de serviços técnicos de assessoria e consultoria educacional para avaliação, elaboração e estruturação do Plano Municipal de Educação (PME) 2025-2034 do Município de Paranavaí, contemplando diagnóstico educacional, condução de processos participativos, definição de diretrizes, metas e estratégias, bem como elaboração da minuta legislativa, em conformidade com a Constituição Federal e com o Plano Nacional de Educação.",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "MUNICIPIO DE PARANAVAI",
-      "unidade": "PREFEITURA MUNICIPAL DE PARANAVAÍ - PR",
       "uf": "PR",
       "municipio": "Paranavaí",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Concorrência - Eletrônica",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-28T07:12:06.944786819",
-      "data_atualizacao": "2026-04-28T07:12:06.944786819",
-      "data_inicio_vigencia": "2026-04-28T08:00",
       "data_fim_vigencia": "2026-06-22T09:00",
       "numero_controle": "76977768000181-1-000087/2026",
       "url": "https://pncp.gov.br/app/compras/76977768000181/2026/87",
       "matched_keywords": [
-        "consultoria jurídica",
-        "assessoria jurídica"
+        "consultoria juridica",
+        "assessoria juridica"
       ]
     },
     {
       "titulo": "Edital nº 13/2026",
       "descricao": "[Portal de Compras Públicas] - Contratação de Pessoa Jurídica com Atividades Econômicas e Capacidades operativas aptas a oferecer Serviços Técnicos de Consultoria e Assessoria Visando o Fortalecimento da Gestão Pública Municipal",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "MUNICIPIO DE PEDRO II",
-      "unidade": "Prefeitura Municipal de Pedro ll",
       "uf": "PI",
       "municipio": "Pedro II",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Pregão - Eletrônico",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-27T09:23:46.463732",
-      "data_atualizacao": "2026-04-27T09:23:47.132986543",
-      "data_inicio_vigencia": "2026-04-27T09:30",
       "data_fim_vigencia": "2026-05-08T09:30",
       "numero_controle": "06553929000124-1-000020/2026",
       "url": "https://pncp.gov.br/app/compras/06553929000124/2026/20",
       "matched_keywords": [
-        "consultoria jurídica",
-        "assessoria jurídica"
+        "consultoria juridica",
+        "assessoria juridica"
       ]
     },
     {
       "titulo": "Edital nº P.E 001 2026 - SEDUC/2026",
       "descricao": "CONTRATAÇÃO DE PESSOA JURÍDICA ESPECIALIZADA PARA IMPLANTAÇÃO DE PROJETO DE EDUCAÇÃO INCLUSIVA, CONTEMPLANDO O ATENDIMENTO À REDE DE ENSINO MUNICIPAL, COM PRESTAÇÃO DE SERVIÇOS TÉCNICOS ESPECIALIZADOS PARA REALIZAÇÃO DE CAPACITAÇÃO TÉCNICA E PEDAGÓGICA (FORMAÇÃO INICIAL E CONTINUADA, ASSESSORIA TÉCNICA E PEDAGÓGICA PRESENCIAL), DE RESPONSABILIDADE DA SECRETARIA DE EDUCAÇÃO.",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "MUNICIPIO DE TABULEIRO DO NORTE",
-      "unidade": "FUNDEB",
       "uf": "CE",
       "municipio": "Tabuleiro do Norte",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Pregão - Eletrônico",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-22T09:35:26.997893296",
-      "data_atualizacao": "2026-04-22T09:35:26.997893296",
-      "data_inicio_vigencia": "2026-04-22T00:00",
       "data_fim_vigencia": "2026-05-08T09:59",
       "numero_controle": "07891682000119-1-000019/2026",
       "url": "https://pncp.gov.br/app/compras/07891682000119/2026/19",
       "matched_keywords": [
-        "consultoria jurídica",
-        "assessoria jurídica"
+        "consultoria juridica",
+        "assessoria juridica"
       ]
     },
     {
       "titulo": "Edital nº 41/2026",
       "descricao": "Registro de preço para a futura contratação de pessoa jurídica eespecializada em engenharia/consultoria ambiental, para a prestação de serviços técnicos na área ambiental, abrangendo Inventário Florestal, gestão completa do processo junto ao SINAFLOR e Manifestação do IPHAN, incluindo levantamentos de campo, análise técnica, elaboração de relatórios e demais documentos exigidos pelos órgãos competentes",
+      "areas": [
+        "Ambiental"
+      ],
       "orgao": "MUNICIPIO DE NOVA ESPERANCA",
-      "unidade": "Unidade administrativa",
       "uf": "PR",
       "municipio": "Nova Esperança",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Pregão - Eletrônico",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-17T09:25:45.422872829",
-      "data_atualizacao": "2026-04-17T09:25:45.422872829",
-      "data_inicio_vigencia": "2026-04-17T10:00",
       "data_fim_vigencia": "2026-05-12T08:59",
       "numero_controle": "75730994000109-1-000136/2026",
       "url": "https://pncp.gov.br/app/compras/75730994000109/2026/136",
       "matched_keywords": [
-        "consultoria jurídica"
+        "consultoria juridica"
       ]
     },
     {
       "titulo": "Edital nº 90041/2026",
       "descricao": "Registro de preço para a futura contratação de pessoa jurídica especializada em engenharia/consultoria ambiental, para a prestação de serviços técnicos na área ambiental, abrangendo Inventário Florestal, gestão completa do processo junto ao SINAFLOR e Manifestação do IPHAN, incluindo levantamentos de campo, análise técnica, elaboração de relatórios e demais documentos exigidos pelos órgãos competentes",
+      "areas": [
+        "Ambiental"
+      ],
       "orgao": "MUNICIPIO DE NOVA ESPERANCA",
-      "unidade": "MPR-PREFEITURA MUNICIPAL DE NOVA ESPERANÇA",
       "uf": "PR",
       "municipio": "Nova Esperança",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Pregão - Eletrônico",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-17T07:16:26.260669958",
-      "data_atualizacao": "2026-04-17T07:16:26.260669958",
-      "data_inicio_vigencia": "2026-04-17T08:00",
       "data_fim_vigencia": "2026-05-12T09:00",
       "numero_controle": "75730994000109-1-000134/2026",
       "url": "https://pncp.gov.br/app/compras/75730994000109/2026/134",
       "matched_keywords": [
-        "consultoria jurídica"
+        "consultoria juridica"
       ]
     },
     {
       "titulo": "Edital nº 90007/2026",
       "descricao": "Contratação de empresa especializada para prestação DE SERVIÇOS TÉCNICOS DE ENGENHARIA E CONSULTORIA para elaboração do projeto de REGULARIZAÇÃO FUNDIÁRIA do bairro satélite, mediante atividades de assessoria e execução de ações que contemplem as medidas jurídicas, urbanísticas, ambientais, sociais e administrativas inerentes ao processo de regularização fundiária urbana (REURB)",
+      "areas": [
+        "Administrativo",
+        "Ambiental"
+      ],
       "orgao": "MUNICIPIO DE TERESINA",
-      "unidade": "PREFEITURA MUNICIPAL DE TERESINA - PI",
       "uf": "PI",
       "municipio": "Teresina",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Concorrência - Eletrônica",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-17T07:10:47.170812794",
-      "data_atualizacao": "2026-04-17T07:10:47.170812794",
-      "data_inicio_vigencia": "2026-04-17T08:00",
       "data_fim_vigencia": "2026-06-29T09:00",
       "numero_controle": "06554869000164-1-000049/2026",
       "url": "https://pncp.gov.br/app/compras/06554869000164/2026/49",
       "matched_keywords": [
-        "consultoria jurídica",
-        "assessoria jurídica"
+        "consultoria juridica",
+        "assessoria juridica"
       ]
     },
     {
       "titulo": "Edital nº 001/2026",
       "descricao": "[Portal de Compras Públicas] - Contratação de pessoa física ou jurídica para a prestação dos serviços de Engenheiro Civil de Obra, com vistas ao assessoramento/consultoria no planejamento e acompanhamento da contratação de empresa especializada na elaboração e execução de projeto executivo de engenharia e arquitetura para a construção da nova sede da Câmara Municipal de Conselheiro Lafaiete.",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "CONSELHEIRO LAFAIETE CAMARA MUNICIPAL",
-      "unidade": "Câmara Municipal de Conselheiro Lafaiete",
       "uf": "MG",
       "municipio": "Conselheiro Lafaiete",
       "esfera": "Municipal",
-      "poder": "Legislativo",
       "modalidade": "Concorrência - Eletrônica",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-14T10:46:24.533329",
-      "data_atualizacao": "2026-04-16T15:57:20.059542",
-      "data_inicio_vigencia": "2026-04-22T12:00",
       "data_fim_vigencia": "2026-06-15T09:29",
       "numero_controle": "19380914000153-1-000014/2026",
       "url": "https://pncp.gov.br/app/compras/19380914000153/2026/14",
       "matched_keywords": [
-        "consultoria jurídica",
-        "assessoria jurídica"
+        "consultoria juridica",
+        "assessoria juridica"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 004/2024",
       "descricao": "CREDENCIAMENTO PÚBLICO DE PESSOAS JURÍDICAS, CUJO OBJETO SOCIAL CONSTITUI NA CONTRATAÇÃO DE EMPRESAS ESPECIALIZADAS PARA A PRESTAÇÃO DE SERVIÇOS DE CONSULTORIA PARA ELABORAÇÃO DO SISTEMA MUNICIPAL DE CULTURA, PARA  FUTUROS CONTRATOS A SEREM FIRMADOS COM OS 29 (VINTE E NOVE) MUNICÍPIOS DO CONSÓRCIO PÚBLICO CIMAG.",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "CONSORCIO INTERMUNICIPAL MULTIFINALITARIO DA AMAG",
-      "unidade": "Unidade Única",
       "uf": "MG",
       "municipio": "Caxambu",
       "esfera": "Não se aplica",
-      "poder": "Executivo",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2024-07-04T14:27:31.579553",
-      "data_atualizacao": "2026-04-15T09:33:48.724860985",
-      "data_inicio_vigencia": "2024-07-04T00:00",
       "data_fim_vigencia": "2026-07-31T00:00",
       "numero_controle": "21406451000101-1-000022/2024",
       "url": "https://pncp.gov.br/app/compras/21406451000101/2024/22",
       "matched_keywords": [
-        "consultoria jurídica"
+        "consultoria juridica"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 002/2026",
       "descricao": "Credenciamento de pessoas jurídicas especializadas na prestação de serviços técnicos profissionais em assessoria e consultoria em saúde pública, realização de visitas técnicas, capacitações de equipes e execução de processos seletivos, destinados ao atendimento das demandas do CISMARPA e de seus municípios consorciados.",
+      "areas": [
+        "Tributario"
+      ],
       "orgao": "CONSORCIO INTERMUNIC.SAUDE MUNIC.MICROREGIAO ALTO R.PARDO",
-      "unidade": "Unidade Única",
       "uf": "MG",
       "municipio": "Poços de Caldas",
       "esfera": "Não se aplica",
-      "poder": "Executivo",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-03-02T11:27:51.309221",
-      "data_atualizacao": "2026-04-14T11:36:27.625348364",
-      "data_inicio_vigencia": "2026-03-02T00:00",
       "data_fim_vigencia": "2026-05-29T23:59:59",
       "numero_controle": "01990521000104-1-000002/2026",
       "url": "https://pncp.gov.br/app/compras/01990521000104/2026/2",
       "matched_keywords": [
-        "consultoria jurídica",
-        "assessoria jurídica"
+        "consultoria juridica",
+        "assessoria juridica"
       ]
     },
     {
       "titulo": "Edital nº CE 004/26/2026",
       "descricao": "Aquisição de prestação de serviços de apoio ao gerenciamento, onde se\nincluem as atividades de auditoria independente exigidas, das obrigações previstas nos termos de ajustamento de conduta firmados entre o Ministério Público do Estado do Rio de Janeiro – MPRJ, o Estado do Rio de Janeiro, representado pela Secretaria de Estado do Ambiente e Sustentabilidade – SEAS, o Instituto Estadual do Ambiente – INEA, e a empresa Petróleo Brasileiro S/A – Petrobrás, no âmbito dos empreendimentos\nrelacionados ao complexo petroquímico do Rio de Janeiro – COMPERJ.",
+      "areas": [
+        "Ambiental"
+      ],
       "orgao": "ESTADO DO RIO DE JANEIRO",
-      "unidade": "SEC DE EST DO AMBIENT E SUSTENTABILIDADE",
       "uf": "RJ",
       "municipio": "Rio de Janeiro",
       "esfera": "Estadual",
-      "poder": "Não se aplica",
       "modalidade": "Concorrência - Eletrônica",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-13T12:47:06.544665",
-      "data_atualizacao": "2026-04-13T12:47:34.462083638",
-      "data_inicio_vigencia": "2026-04-13T14:00",
       "data_fim_vigencia": "2026-06-09T12:50",
       "numero_controle": "42498600000171-1-001690/2026",
       "url": "https://pncp.gov.br/app/compras/42498600000171/2026/1690",
       "matched_keywords": [
-        "consultoria jurídica"
+        "consultoria juridica"
       ]
     },
     {
       "titulo": "Edital nº 01/2026",
       "descricao": "Contratação de empresa especializada na prestação de serviços técnicos de assessoria e consultoria jurídica pública e administrativa, para atender as necessidades da Câmara Municipal de Santa Rosa de Viterbo/SP.",
+      "areas": [
+        "Administrativo"
+      ],
       "orgao": "CAMARA MUNICIPAL DE SANTA ROSA DE VITERBO",
-      "unidade": "CAMARA MUNIC DE STA ROSA DE VITERBO",
       "uf": "SP",
       "municipio": "Santa Rosa de Viterbo",
       "esfera": "Municipal",
-      "poder": "Legislativo",
       "modalidade": "Concorrência - Eletrônica",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-13T08:56:06.076508561",
-      "data_atualizacao": "2026-04-13T08:56:06.076508561",
-      "data_inicio_vigencia": "2026-04-13T09:00",
       "data_fim_vigencia": "2026-06-10T09:00",
       "numero_controle": "49224017000111-1-000013/2026",
       "url": "https://pncp.gov.br/app/compras/49224017000111/2026/13",
       "matched_keywords": [
-        "consultoria jurídica",
-        "assessoria jurídica"
+        "consultoria juridica",
+        "assessoria juridica"
       ]
     },
     {
       "titulo": "Edital nº 90003/2026",
       "descricao": "Contratação de pessoa jurídica especializada para prestação dos serviços de engenharia de modernização, conforme projetos básicos, dos atuais sistemas de ar-condicionado centrais das Delegacias da Receita Federal do Brasil em São José do Rio Preto e em Sorocaba, unidades jurisdicionadas da SRRF/8ªRF, com fornecimento de materiais e equipamentos; assim como a contratação de pessoa jurídica especializada para prestação dos serviços de assessoria à fiscalização técnica.",
+      "areas": [
+        "Tributario"
+      ],
       "orgao": "MINISTERIO DA FAZENDA",
-      "unidade": "SUP.REGIONAL RECEITA FEDERAL DA 8A.RF/SP",
       "uf": "SP",
       "municipio": "São Paulo",
       "esfera": "Federal",
-      "poder": "Executivo",
       "modalidade": "Concorrência - Eletrônica",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-08T07:03:42.652687491",
-      "data_atualizacao": "2026-04-08T07:03:42.652687491",
-      "data_inicio_vigencia": "2026-04-08T09:00",
       "data_fim_vigencia": "2026-05-22T09:30",
       "numero_controle": "00394460000141-1-000210/2026",
       "url": "https://pncp.gov.br/app/compras/00394460000141/2026/210",
       "matched_keywords": [
-        "consultoria jurídica",
-        "assessoria jurídica"
+        "consultoria juridica",
+        "assessoria juridica"
       ]
     },
     {
       "titulo": "Edital nº 92003/2026",
       "descricao": "Contratação de empresa para prestação de serviços técnicos de apoio ao processo licitatório e elaboração de projetos técnicos integrados para a realização de extensão hospitalar.",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "MUNICIPIO DE CONGONHAS",
-      "unidade": "PREFEITURA MUNICIPAL DE CONGONHAS - MG",
       "uf": "MG",
       "municipio": "Congonhas",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Concorrência - Eletrônica",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-07T07:00:12.149269325",
-      "data_atualizacao": "2026-04-07T07:00:12.149269325",
-      "data_inicio_vigencia": "2026-04-07T08:00",
       "data_fim_vigencia": "2026-05-29T09:00",
       "numero_controle": "16752446000102-1-000078/2026",
       "url": "https://pncp.gov.br/app/compras/16752446000102/2026/78",
       "matched_keywords": [
-        "consultoria jurídica",
-        "assessoria jurídica"
+        "consultoria juridica",
+        "assessoria juridica"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 01/2026",
       "descricao": "OBJETO: CREDENCIAMENTO DE PESSOAS JURÍDICAS OU PESSOAS FÍSICAS ESPECIALIZADAS NA PRESTAÇÃO DE SERVIÇOS DE ELABORAÇÃO DE PROJETOS DE ENGENHARIA E ARQUITETURA E URBANISMO, TAIS COMO: CONFECÇÃO DE LEVANTAMENTOS ARQUITETÔNICOS E DE ÁREA, PROJETO ARQUITETÔNICO, LEVANTAMENTO TOPOGRÁFICO, PROJETO ELÉTRICO, PROJETO HIDROSSANITÁRIO, PROJETO ESTRUTURAL, PROJETO DE LÓGICA E CABEAMENTO, PROJETO DE PREVENÇÃO E COMBATE A INCÊNDIO, PROJETO DE PAVIMENTAÇÃO, PROJETO DE DRENAGEM, PROJETO DE PAISAGISMO, PROJETO DE URBANISMO, PROJETO LUMINOTÉCNICO, MAQUETE ELETRÔNICA 3D, PLANILHAMENTO, COMPATIBILIZAÇÃO DE PROJETOS, FISCALIZAÇÃO DE OBRAS, CONSULTORIA TÉCNICA E ESTUDOS DE VIABILIDADE DE PROJETOS, ESPECIFICAÇÕES TÉCNICAS, MEMORIAIS DESCRITIVOS E DETALHAMENTOS.",
+      "areas": [
+        "Tributario"
+      ],
       "orgao": "MUNICIPIO DE CAPITAO ENEAS",
-      "unidade": "Unidade Única",
       "uf": "MG",
       "municipio": "Capitão Enéas",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-03-31T12:45:43.675271633",
-      "data_atualizacao": "2026-03-31T12:45:43.675271633",
-      "data_inicio_vigencia": "2026-03-31T00:00",
       "data_fim_vigencia": "2027-03-31T23:59:59",
       "numero_controle": "18017426000113-1-000001/2026",
       "url": "https://pncp.gov.br/app/compras/18017426000113/2026/1",
       "matched_keywords": [
-        "consultoria jurídica"
+        "consultoria juridica"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 9/2026",
       "descricao": "[Portal de Compras Públicas] - CREDENCIAMENTO DE PESSOAS JURÍDICAS ESPECIALIZADAS NA PRESTAÇÃO DE SERVIÇOS TÉCNICOS DE ASSESSORIA E CONSULTORIA NA ÁREA ECONÔMICA",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "CONSORCIO PUBLICO DA ASSOCIACAO DOS MUNICIPIOS DA REGIAO METROPOLITANA DE PORTO ALEGRE - CP GRANPAL",
-      "unidade": "GRANPAL",
       "uf": "RS",
       "municipio": "Porto Alegre",
       "esfera": "Não se aplica",
-      "poder": "Executivo",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-03-26T16:06:34.961144027",
-      "data_atualizacao": "2026-03-26T16:06:34.961144027",
-      "data_inicio_vigencia": "2026-03-27T09:00",
       "data_fim_vigencia": "2026-05-27T23:59",
       "numero_controle": "13693153000103-1-000014/2026",
       "url": "https://pncp.gov.br/app/compras/13693153000103/2026/14",
       "matched_keywords": [
-        "consultoria jurídica",
-        "assessoria jurídica"
+        "consultoria juridica",
+        "assessoria juridica"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº CPC 9/2026",
       "descricao": "CREDENCIAMENTO DE PESSOAS JURÍDICAS ESPECIALIZADAS NA PRESTAÇÃO DE SERVIÇOS TÉCNICOS DE ASSESSORIA E CONSULTORIA NA ÁREA ECONÔMICA",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "CONSORCIO PUBLICO DA ASSOCIACAO DOS MUNICIPIOS DA REGIAO METROPOLITANA DE PORTO ALEGRE - CP GRANPAL",
-      "unidade": "CONSÓRCIO PÚBLICO ASSOCIAÇÃO DOS MUNICÍPIOS DA REGIÃO METROPOLITANA DE PORTO ALEGRE",
       "uf": "RS",
       "municipio": "Porto Alegre",
       "esfera": "Não se aplica",
-      "poder": "Executivo",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-03-26T16:03:28.790014613",
-      "data_atualizacao": "2026-03-26T16:03:28.790014613",
-      "data_inicio_vigencia": "2026-03-27T09:00",
       "data_fim_vigencia": "2026-05-27T23:59",
       "numero_controle": "13693153000103-1-000013/2026",
       "url": "https://pncp.gov.br/app/compras/13693153000103/2026/13",
       "matched_keywords": [
-        "consultoria jurídica",
-        "assessoria jurídica"
+        "consultoria juridica",
+        "assessoria juridica"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº CPC 7/2026",
       "descricao": "CREDENCIAMENTO DE PESSOAS JURÍDICAS ESPECIALIZADAS NA PRESTAÇÃO DE SERVIÇOS TÉCNICOS DE ASSESSORIA E CONSULTORIA NA ÁREA ECONÔMICA",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "CONSORCIO PUBLICO DA ASSOCIACAO DOS MUNICIPIOS DA REGIAO METROPOLITANA DE PORTO ALEGRE - CP GRANPAL",
-      "unidade": "CONSÓRCIO PÚBLICO ASSOCIAÇÃO DOS MUNICÍPIOS DA REGIÃO METROPOLITANA DE PORTO ALEGRE",
       "uf": "RS",
       "municipio": "Porto Alegre",
       "esfera": "Não se aplica",
-      "poder": "Executivo",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-03-26T15:57:46.233241356",
-      "data_atualizacao": "2026-03-26T15:57:46.233241356",
-      "data_inicio_vigencia": "2026-03-27T09:00",
       "data_fim_vigencia": "2026-05-27T23:59",
       "numero_controle": "13693153000103-1-000012/2026",
       "url": "https://pncp.gov.br/app/compras/13693153000103/2026/12",
       "matched_keywords": [
-        "consultoria jurídica",
-        "assessoria jurídica"
+        "consultoria juridica",
+        "assessoria juridica"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 6/2026",
       "descricao": "[Portal de Compras Públicas] - CREDENCIAMENTO DE PESSOAS JURÍDICAS ESPECIALIZADAS NA PRESTAÇÃO DE SERVIÇOS TÉCNICOS DE ASSESSORIA E CONSULTORIA ADMINISTRATIVA",
+      "areas": [
+        "Administrativo"
+      ],
       "orgao": "CONSORCIO PUBLICO DA ASSOCIACAO DOS MUNICIPIOS DA REGIAO METROPOLITANA DE PORTO ALEGRE - CP GRANPAL",
-      "unidade": "GRANPAL",
       "uf": "RS",
       "municipio": "Porto Alegre",
       "esfera": "Não se aplica",
-      "poder": "Executivo",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-03-26T11:36:36.125553666",
-      "data_atualizacao": "2026-03-26T11:36:36.125553666",
-      "data_inicio_vigencia": "2026-03-27T09:00",
       "data_fim_vigencia": "2026-05-27T17:00",
       "numero_controle": "13693153000103-1-000011/2026",
       "url": "https://pncp.gov.br/app/compras/13693153000103/2026/11",
       "matched_keywords": [
-        "consultoria jurídica",
-        "assessoria jurídica"
+        "consultoria juridica",
+        "assessoria juridica"
       ]
     },
     {
       "titulo": "Edital nº 90005/2026",
       "descricao": "Contratação de empresa especializada para prestação de serviços técnicos de consultoria e assessoria para atualização das Leis Municipais nº 1.267/90 (Institui o Regime Jurídico Único dos Servidores Públicos Civis do Município de Cianorte) e nº 1.344/91 (Dispõe sobre a reforma administrativa da Prefeitura do Município de Cianorte, institui o Plano de Cargos, Carreira e Vencimentos dos Servidores Públicos Municipais de Cianorte, e dá outras providências), impl",
+      "areas": [
+        "Administrativo"
+      ],
       "orgao": "MUNICIPIO DE CIANORTE",
-      "unidade": "MPR-PREFEITURA MUNICIPAL DE CIANORTE",
       "uf": "PR",
       "municipio": "Cianorte",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Concorrência - Eletrônica",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-03-26T07:08:41.679820239",
-      "data_atualizacao": "2026-03-26T07:08:41.679820239",
-      "data_inicio_vigencia": "2026-03-26T08:00",
       "data_fim_vigencia": "2026-05-22T09:00",
       "numero_controle": "76309806000128-1-000089/2026",
       "url": "https://pncp.gov.br/app/compras/76309806000128/2026/89",
       "matched_keywords": [
-        "consultoria jurídica",
-        "assessoria jurídica"
+        "consultoria juridica",
+        "assessoria juridica"
       ]
     },
     {
       "titulo": "Edital nº 003/2026",
       "descricao": "[Portal de Compras Públicas] - Contratação de empresa na prestação de serviços técnicos especializados de natureza predominantemente intelectual na área administrativa, de forma presencial e remota, consistentes em pareceres e consultoria técnico-jurídica, destinados a assessorar \no Gabinete do Prefeito e as Secretarias Municipais do Município de Acari/RN em assuntos de natureza jurídica de interesse da Administração Pública.",
+      "areas": [
+        "Administrativo"
+      ],
       "orgao": "MUNICIPIO DE ACARI",
-      "unidade": "Secretaria Municipal de Administração e Transportes",
       "uf": "RN",
       "municipio": "Acari",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Concorrência - Eletrônica",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-03-25T11:32:06.447101514",
-      "data_atualizacao": "2026-03-25T11:32:06.447101514",
-      "data_inicio_vigencia": "2026-03-26T10:00",
       "data_fim_vigencia": "2026-05-19T10:00",
       "numero_controle": "08097008000120-1-000045/2026",
       "url": "https://pncp.gov.br/app/compras/08097008000120/2026/45",
       "matched_keywords": [
-        "consultoria jurídica",
-        "assessoria jurídica",
-        "parecer jurídico"
+        "consultoria juridica",
+        "assessoria juridica",
+        "parecer juridico"
       ]
     },
     {
       "titulo": "Edital nº 5/2026",
       "descricao": "Contratação de empresa especializada para prestação de serviços técnicos de consultoria e assessoria visando a reformulação das Leis n° 1344, de 28 de agosto de 1991 (Plano de Cargos, Carreira e Vencimentos dos Servidores Públicos Municipais e Cianorte) e n° 1267, de 11 de setembro de 1990 (Regime Jurídico Único dos Servidores Públicos Civis do Município de Cianorte), implantação de instrumento de avaliação de desempenho para avanço na carreira dos servidores, elaboração de minutas de projetos de lei e acompanhamento até a implantação definitiva, incluindo a orientação das regulamentações após a aprovação das respectivas Leis.",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "MUNICIPIO DE CIANORTE",
-      "unidade": "Unidade administrativa",
       "uf": "PR",
       "municipio": "Cianorte",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Concorrência - Eletrônica",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-03-25T11:28:32.014242422",
-      "data_atualizacao": "2026-03-25T11:28:32.014242422",
-      "data_inicio_vigencia": "2026-03-25T17:00",
       "data_fim_vigencia": "2026-05-22T09:00",
       "numero_controle": "76309806000128-1-000087/2026",
       "url": "https://pncp.gov.br/app/compras/76309806000128/2026/87",
       "matched_keywords": [
-        "consultoria jurídica",
-        "assessoria jurídica"
+        "consultoria juridica",
+        "assessoria juridica"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 006/2025",
       "descricao": "CREDENCIAMENTO DE PESSOAS JURÍDICAS, CUJO OBJETO SOCIAL CONTEMPLE ATIVIDADES TÉCNICAS PARA PRESTAÇÃO DE SERVIÇOS DE ASSESSORIA E CONSULTORIA NA ÁREA DE LICITAÇÕES PÚBLICAS, COMPRAS E CONTRATOS ADMINISTRATIVOS (LEI FEDERAL 14.133/2021), PARA ATEDENDER AS NECESSIDADE DOS 28 MUNICÍPIOS DO CONSÓRCIO PÚBLICO CIMAG.",
+      "areas": [
+        "Administrativo"
+      ],
       "orgao": "CONSORCIO INTERMUNICIPAL MULTIFINALITARIO DA AMAG",
-      "unidade": "Unidade Única",
       "uf": "MG",
       "municipio": "Caxambu",
       "esfera": "Não se aplica",
-      "poder": "Executivo",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-03-13T14:49:23.774441",
-      "data_atualizacao": "2026-03-24T14:26:10.809504985",
-      "data_inicio_vigencia": "2025-03-13T00:00",
       "data_fim_vigencia": "2027-03-13T23:59:59",
       "numero_controle": "21406451000101-1-000010/2025",
       "url": "https://pncp.gov.br/app/compras/21406451000101/2025/10",
       "matched_keywords": [
-        "consultoria jurídica",
-        "assessoria jurídica"
+        "consultoria juridica",
+        "assessoria juridica"
       ]
     },
     {
       "titulo": "Edital nº 001/2026-R/2026",
       "descricao": "Contratação de empresa especializada para a Prestação de Serviços Técnicos Especializados em Regularização Fundiária, englobando Assessoria e Consultoria Técnica Social, Jurídica, Urbanística e Ambiental e Elaboração de projetos urbano-arquitetônicos e de engenharia para regularização fundiária completa de núcleos de ocupação irregular consolidados em áreas públicas do município de Campo Limpo Paulista",
+      "areas": [
+        "Ambiental"
+      ],
       "orgao": "MUNICIPIO DE CAMPO LIMPO PAULISTA",
-      "unidade": "Campo Limpo Paulista",
       "uf": "SP",
       "municipio": "Campo Limpo Paulista",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Concorrência - Eletrônica",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-03-23T09:17:11.887150710",
-      "data_atualizacao": "2026-03-23T09:17:11.887150710",
-      "data_inicio_vigencia": "2026-03-23T10:00",
       "data_fim_vigencia": "2026-05-19T10:00",
       "numero_controle": "45780095000141-1-000007/2026",
       "url": "https://pncp.gov.br/app/compras/45780095000141/2026/7",
       "matched_keywords": [
-        "consultoria jurídica",
-        "assessoria jurídica"
+        "consultoria juridica",
+        "assessoria juridica"
       ]
     },
     {
       "titulo": "Edital nº 002/2026",
       "descricao": "Credenciamento de advogado(a) para prestação de serviços técnicos especializados de assessoria e consultoria jurídica no âmbito do Centro de Referência Especializado de Assistência Social (CREAS) do Município de Ituaçu, visando à recomposição da equipe técnica e à manutenção da regularidade dos serviços socioassistenciais.",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "MUNICIPIO DE ITUACU",
-      "unidade": "Assistência Social",
       "uf": "BA",
       "municipio": "Ituaçu",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-03-18T10:14:39.842077550",
-      "data_atualizacao": "2026-03-18T10:14:39.842077550",
-      "data_inicio_vigencia": "2026-02-27T08:00",
       "data_fim_vigencia": "2027-02-27T17:00",
       "numero_controle": "14106280000121-1-000015/2026",
       "url": "https://pncp.gov.br/app/compras/14106280000121/2026/15",
       "matched_keywords": [
-        "consultoria jurídica",
-        "assessoria jurídica"
+        "consultoria juridica",
+        "assessoria juridica"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 5/2026",
       "descricao": "[Portal de Compras Públicas] - CREDENCIAMENTO DE PESSOA JURÍDICA PARA PRESTADORAS DE SERVIÇOS ASSESSORIA E CONSULTORIA NA ÁREA ADMINISTRATIVA E JURÍDICA",
+      "areas": [
+        "Administrativo"
+      ],
       "orgao": "CONSORCIO PUBLICO DA ASSOCIACAO DOS MUNICIPIOS DA REGIAO METROPOLITANA DE PORTO ALEGRE - CP GRANPAL",
-      "unidade": "GRANPAL",
       "uf": "RS",
       "municipio": "Porto Alegre",
       "esfera": "Não se aplica",
-      "poder": "Executivo",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-03-10T12:12:04.667800749",
-      "data_atualizacao": "2026-03-10T12:12:04.667800749",
-      "data_inicio_vigencia": "2026-03-11T08:30",
       "data_fim_vigencia": "2026-05-11T23:59",
       "numero_controle": "13693153000103-1-000009/2026",
       "url": "https://pncp.gov.br/app/compras/13693153000103/2026/9",
       "matched_keywords": [
-        "consultoria jurídica",
-        "assessoria jurídica"
+        "consultoria juridica",
+        "assessoria juridica"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº CPC 5/2026",
       "descricao": "CREDENCIAMENTO DE PESSOA JURÍDICA PARA PRESTADORAS DE SERVIÇOS ASSESSORIA E CONSULTORIA NA ÁREA ADMINISTRATIVA E JURÍDICA",
+      "areas": [
+        "Administrativo"
+      ],
       "orgao": "CONSORCIO PUBLICO DA ASSOCIACAO DOS MUNICIPIOS DA REGIAO METROPOLITANA DE PORTO ALEGRE - CP GRANPAL",
-      "unidade": "CONSÓRCIO PÚBLICO ASSOCIAÇÃO DOS MUNICÍPIOS DA REGIÃO METROPOLITANA DE PORTO ALEGRE",
       "uf": "RS",
       "municipio": "Porto Alegre",
       "esfera": "Não se aplica",
-      "poder": "Executivo",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-03-10T11:55:13.729715918",
-      "data_atualizacao": "2026-03-10T11:55:13.729715918",
-      "data_inicio_vigencia": "2026-03-11T08:30",
       "data_fim_vigencia": "2026-05-11T23:59",
       "numero_controle": "13693153000103-1-000008/2026",
       "url": "https://pncp.gov.br/app/compras/13693153000103/2026/8",
       "matched_keywords": [
-        "consultoria jurídica",
+        "consultoria juridica",
         "sociedade de advogados",
-        "assessoria jurídica"
+        "assessoria juridica"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 38/2026",
       "descricao": "O presente edital tem por objeto o credenciamento de pessoas jurídicas, residentes, domiciliados e com sede fora do município de Rio das Ostras, com notório conhecimento e experiência em projetos culturais, para a prestação de serviços de análise e emissão de parecer técnico sobre projetos, ações e produtos culturais promovidos através de Editais pela Fundação Rio das Ostras de Cultura.\n1.1\nPareceristas credenciados em editais anteriores devem realizar nova inscrição.\n1.2\nOs profissionais credenciados a partir do Banco de Pareceristas poderão ser convocados nos editais da FROC, oriundos de recursos do Fundo Municipal de Cultura e da PNAB (Política Nacional Aldir Blanc), quando for o caso, a qualquer tempo durante o período de vigência deste edital, considerando as áreas estipuladas no item 1.3 a seguir.",
+      "areas": [
+        "Tributario"
+      ],
       "orgao": "FUNDACAO RIO DAS OSTRAS DE CULTURA",
-      "unidade": "FUNDAÇÃO RIO DAS OSTRAS DE CULTURA - RJ",
       "uf": "RJ",
       "municipio": "Rio das Ostras",
       "esfera": "Municipal",
-      "poder": "Executivo",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-03-06T11:08:10.962231",
-      "data_atualizacao": "2026-03-06T11:08:10.962231",
-      "data_inicio_vigencia": "2026-03-09T08:00",
       "data_fim_vigencia": "2027-10-19T17:00",
       "numero_controle": "02246138000109-1-000025/2026",
       "url": "https://pncp.gov.br/app/compras/02246138000109/2026/25",
       "matched_keywords": [
-        "consultoria jurídica",
-        "parecer jurídico"
+        "consultoria juridica",
+        "parecer juridico"
       ]
     },
     {
       "titulo": "Edital nº 19.02.01/2026",
       "descricao": "PRESTAÇÃO DE SERVIÇOS DE ASSESSORIA E CONSULTORIA JURÍDICA COM ATUAÇÃO JURÍDICO-ADMINISTRATIVA E CONSULTIVA, JUNTO ÀS SECRETARIAS DO MUNICÍPIO DE JAGUARIBE",
+      "areas": [
+        "Administrativo"
+      ],
       "orgao": "MUNICIPIO DE JAGUARIBE",
-      "unidade": "Secretaria do Trabalho e Assistência Social",
       "uf": "CE",
       "municipio": "Jaguaribe",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Pré-qualificação",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-02-26T18:26:58.062763613",
-      "data_atualizacao": "2026-02-26T18:26:58.062763613",
-      "data_inicio_vigencia": "2026-02-26T18:26:54",
       "data_fim_vigencia": "2027-02-26T18:26:54",
       "numero_controle": "07443708000166-1-000016/2026",
       "url": "https://pncp.gov.br/app/compras/07443708000166/2026/16",
       "matched_keywords": [
-        "consultoria jurídica",
-        "assessoria jurídica"
+        "consultoria juridica",
+        "assessoria juridica"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 003/2025",
       "descricao": "CREDENCIAMENTO DE PESSOAS JURÍDICAS, CUJO OBJETO SOCIAL CONTEMPLE ATIVIDADES TÉCNICAS PARA PRESTAÇÃO DE SERVIÇOS PROFISSIONAIS DE ASSESSORIA E CONSULTORIA NA AREA DE GESTÃO EM SAUDE PUBLICA, PARA FUTUROS CONTRATOS A SEREM FIRMADOS COM OS 28 MUNICÍPIOS DO CONSÓRCIO PÚBLICO CIMAG",
+      "areas": [
+        "Tributario"
+      ],
       "orgao": "CONSORCIO INTERMUNICIPAL MULTIFINALITARIO DA AMAG",
-      "unidade": "Unidade Única",
       "uf": "MG",
       "municipio": "Caxambu",
       "esfera": "Não se aplica",
-      "poder": "Executivo",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-02-17T22:02:17.988336",
-      "data_atualizacao": "2026-02-25T11:09:44.737932622",
-      "data_inicio_vigencia": "2025-02-17T00:00",
       "data_fim_vigencia": "2027-02-18T23:59:59",
       "numero_controle": "21406451000101-1-000006/2025",
       "url": "https://pncp.gov.br/app/compras/21406451000101/2025/6",
       "matched_keywords": [
-        "consultoria jurídica",
-        "assessoria jurídica"
+        "consultoria juridica",
+        "assessoria juridica"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 001/2025-CE/2025",
       "descricao": "Credenciamento de empresas especializadas na prestação de serviços de consultoria e assessoria parlamentar, legislativa e institucional para atender as demandas dos Parlamentares da Câmara Municipal de Maracanaú/CE",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "MUNICIPIO DE MARACANAU - CAMARA MUNICIPAL",
-      "unidade": "MUNICIPIO DE MARACANAU - CAMARA MUNICIPAL",
       "uf": "CE",
       "municipio": "Maracanaú",
       "esfera": "Municipal",
-      "poder": "Legislativo",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-02-18T15:36:45.398582",
-      "data_atualizacao": "2026-02-19T12:40:44.217636",
-      "data_inicio_vigencia": "2025-02-20T14:00",
       "data_fim_vigencia": "2027-02-20T14:00",
       "numero_controle": "07385024000155-1-000003/2025",
       "url": "https://pncp.gov.br/app/compras/07385024000155/2025/3",
       "matched_keywords": [
-        "consultoria jurídica",
-        "assessoria jurídica",
-        "parecer jurídico"
+        "consultoria juridica",
+        "assessoria juridica",
+        "parecer juridico"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 9/2026",
       "descricao": "Formalização de parcerias com pessoas jurídicas com fins lucrativos ou não que atuem em áreas diversas, e que não possuam ingerência com o Programa de Educação Continuada, para oferecer desconto de, no mínimo, 15% (quinze por cento) sobre seus serviços e/ou produtos aos profissionais devidamente registrados perante o CRCCE, bem como para os funcionários do CRCCE, podendo, ainda, estender referidos benefícios para os respectivos dependentes.",
+      "areas": [
+        "Tributario"
+      ],
       "orgao": "CONSELHO REGIONAL DE CONTABILIDADE DO CEARA",
-      "unidade": "CONSELHO REGIONAL DE CONTABILIDADE - CE",
       "uf": "CE",
       "municipio": "Fortaleza",
       "esfera": "Federal",
-      "poder": "Executivo",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-01-28T17:18:01.704214",
-      "data_atualizacao": "2026-01-28T17:18:01.704214",
-      "data_inicio_vigencia": "2026-01-29T17:16",
       "data_fim_vigencia": "2031-01-28T17:17",
       "numero_controle": "07093503000106-1-000002/2026",
       "url": "https://pncp.gov.br/app/compras/07093503000106/2026/2",
       "matched_keywords": [
-        "consultoria jurídica"
+        "consultoria juridica"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 1/2026",
       "descricao": "[Portal de Compras Públicas] - CREDENCIAMENTO DE PESSOAS JURÍDICAS, PRESTADORAS DE SERVIÇO A SAÚDE, PARA REALIZAÇÃO DE PERÍCIAS JUDICIAIS, CONFORME LEGISLAÇÃO VIGENTE, PARA FINS DE CONSULTORIA, ASSISTÊNCIA E ATUAÇÃO DIRETA COMO ASSISTENTE TÉCNICO JUDICIAL NA COMARCA DE VARGINHA E/OU COMARCAS CIRCUNVIZINHAS",
+      "areas": [
+        "Empresarial"
+      ],
       "orgao": "FUNDACAO HOSPITALAR DO MUNICIPIO DE VARGINHA FHOMUV",
-      "unidade": "Fundação Hospitalar do Município de Varginha",
       "uf": "MG",
       "municipio": "Varginha",
       "esfera": "Municipal",
-      "poder": "Executivo",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-01-22T07:11:24.811169757",
-      "data_atualizacao": "2026-01-22T07:11:24.811169757",
-      "data_inicio_vigencia": "2026-01-22T08:00",
       "data_fim_vigencia": "2027-01-22T08:00",
       "numero_controle": "19110162000100-1-000012/2026",
       "url": "https://pncp.gov.br/app/compras/19110162000100/2026/12",
       "matched_keywords": [
-        "consultoria jurídica"
+        "consultoria juridica"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 8/2025",
       "descricao": "Edital 004/2025 - Credenciamento de Pessoas Jurídicas nas Áreas Médicas de PRONTO ATENDIMENTO, UTIs e HOSPITALISTA",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "UNIVERSIDADE ESTADUAL DE PONTA GROSSA",
-      "unidade": "UNIVERSIDADE ESTADUAL DE PONTA GROSSA - PR",
       "uf": "PR",
       "municipio": "Ponta Grossa",
       "esfera": "Estadual",
-      "poder": "Executivo",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-05-30T14:57:46.393988",
-      "data_atualizacao": "2026-01-06T09:09:45.015600171",
-      "data_inicio_vigencia": "2026-01-06T09:10",
       "data_fim_vigencia": "2026-12-31T18:00",
       "numero_controle": "80257355000108-1-000132/2025",
       "url": "https://pncp.gov.br/app/compras/80257355000108/2025/132",
       "matched_keywords": [
-        "consultoria jurídica"
+        "consultoria juridica"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 68/2025",
       "descricao": "Prorrogação do CREDENCIAMENTO para realização de parcerias com pessoas jurídicas, com fins lucrativos ou não, que atuem em áreas diversas para CONCESSÃO DE DESCONTOS REAIS de, no mínimo, 15% (quinze por cento) sobre seus serviços e/ou produtos, beneficiando a classe dos Técnicos em Nutrição e Dietética (TND), Nutricionistas, e os servidores que possuem vínculo empregatício com o órgão dos Estados que abrangem a jurisdição do CRN-7.",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "CONSELHO REGIONAL DE NUTRICIONISTAS DA 7 REGIAO",
-      "unidade": "CONSELHO REGIONAL DE NUTRICIONISTAS/7A REGIAO",
       "uf": "PA",
       "municipio": "Belém",
       "esfera": "Federal",
-      "poder": "Executivo",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-12-10T15:35:58.043648",
-      "data_atualizacao": "2025-12-10T16:55:35.879918",
-      "data_inicio_vigencia": "2025-12-11T08:00",
       "data_fim_vigencia": "2026-12-11T18:00",
       "numero_controle": "34918342000107-1-000024/2025",
       "url": "https://pncp.gov.br/app/compras/34918342000107/2025/24",
       "matched_keywords": [
-        "consultoria jurídica"
+        "consultoria juridica"
       ]
     },
     {
       "titulo": "Edital nº 001/2025",
       "descricao": "CREDENCIAR PESSOAS JURÍDICAS, DEVIDAMENTE REGISTRADAS NO CRECI/CREA/CAU-BA, CUJO OBJETO SOCIAL CONTEMPLE ATIVIDADES DE AVALIAÇÃO E/OU CONSULTORIA IMOBILIÁRIAS, PARA A PRESTAÇÃO DOS SERVIÇOS TÉCNICOS PROFISSIONAIS, ADIANTE DESCRITOS, NO MUNICÍPIO DE CANDEIAS, DE ACORDO COM OS CRITÉRIOS, TERMOS E CONDIÇÕES ESTABELECIDAS NESTE TERMO DE REFERÊNCIA E SEUS ANEXOS, SEMPRE QUE HOUVER INTERESSE PREVIAMENTE MANIFESTADO PELA SEFAZ.",
+      "areas": [
+        "Tributario"
+      ],
       "orgao": "MUNICIPIO DE CANDEIAS",
-      "unidade": "Prefeitura Municipal de Candeias",
       "uf": "BA",
       "municipio": "Candeias",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-12-03T10:33:07.139147150",
-      "data_atualizacao": "2025-12-03T10:33:07.139147150",
-      "data_inicio_vigencia": "2025-12-03T10:30",
       "data_fim_vigencia": "2026-12-03T10:30",
       "numero_controle": "13830336000123-1-000206/2025",
       "url": "https://pncp.gov.br/app/compras/13830336000123/2025/206",
       "matched_keywords": [
-        "consultoria jurídica"
+        "consultoria juridica"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 5/2026",
       "descricao": "CREDENCIAMENTO DE PESSOA JURÍDICA PARA DISPONIBILIZAÇÃO, OPERAÇÃO E SUPORTE DE SOLUÇÃO TECNOLÓGICA DESTINADA À GESTÃO E AO PROCESSAMENTO DAS CONSIGNAÇÕES EM FOLHA DE PAGAMENTO, INCLUINDO CONTROLE DE MARGEM CONSIGNÁVEL, CADASTRO E HABILITAÇÃO DE CONSIGNATÁRIAS, GERAÇÃO DE ARQUIVOS, RELATÓRIOS, INTEGRAÇÕES COM O SISTEMA DE FOLHA E ATENDIMENTO AOS SERVIDORES E CONSIGNATÁRIAS, EM CONFORMIDADE COM A LEI MUNICIPAL Nº 1.598/2023 E O DECRETO MUNICIPAL Nº 051/2023.",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "MUNICIPIO DE AQUIRAZ",
-      "unidade": "PREFEITURA MUNICIPAL DE AQUIRAZ - CE",
       "uf": "CE",
       "municipio": "Aquiraz",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-11-24T16:08:51.993745",
-      "data_atualizacao": "2025-11-24T16:08:51.993745",
-      "data_inicio_vigencia": "2025-11-25T09:00",
       "data_fim_vigencia": "2026-11-25T09:00",
       "numero_controle": "07911696000157-1-000002/2026",
       "url": "https://pncp.gov.br/app/compras/07911696000157/2026/2",
       "matched_keywords": [
-        "consultoria jurídica"
+        "consultoria juridica"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 2/2026",
       "descricao": "Credenciamento de entidade privada para acordo de cooperação técnica para que técnicos industriais regularmente inscritos no CRT-RS possam obter benefícios na aquisição de bens e serviços, mediante a oportuna identificação profissional.",
+      "areas": [
+        "Tributario"
+      ],
       "orgao": "CONSELHO REGIONAL DOS TECNICOS INDUSTRIAIS DO RIO GRANDE DO SUL",
-      "unidade": "CONSELHO REGIONAL DOS TECNICOS INDUSTRIAIS-RS",
       "uf": "RS",
       "municipio": "Porto Alegre",
       "esfera": "Federal",
-      "poder": "Executivo",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-05-16T16:09:28.348230",
-      "data_atualizacao": "2025-10-30T15:56:31.283770013",
-      "data_inicio_vigencia": "2025-10-31T08:00",
       "data_fim_vigencia": "2026-11-03T17:00",
       "numero_controle": "32533415000117-1-000001/2026",
       "url": "https://pncp.gov.br/app/compras/32533415000117/2026/1",
       "matched_keywords": [
-        "consultoria jurídica"
+        "consultoria juridica"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 02/2025",
       "descricao": "credenciamento de pessoa jurídica e física registrado no conselho regional de engenharia e agronomia (CREA) e/ou no conselho de arquitetura e urbanismo (CAU), especializadas na prestação de serviços técnicos de engenharia civil, arquitetura, ambiental elétrica e serviços técnicos em topografia, química e demais áreas correlatas nas atividades de elaboração, análise e consultoria de projetos, vistoria, orçamento, elaboração de projetos e acompanhamento de obras, diagnóstico e acompanhamento d ...",
+      "areas": [
+        "Ambiental"
+      ],
       "orgao": "MUNICIPIO DE BOCA DA MATA",
-      "unidade": "PREFEITURA MUNICIPAL DE BOCA DA MATA",
       "uf": "AL",
       "municipio": "Boca da Mata",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-08-29T16:36:57.534352836",
-      "data_atualizacao": "2025-08-29T16:36:57.534352836",
-      "data_inicio_vigencia": "2025-08-29T15:00",
       "data_fim_vigencia": "2026-08-31T13:55",
       "numero_controle": "12264396000163-1-000058/2025",
       "url": "https://pncp.gov.br/app/compras/12264396000163/2025/58",
       "matched_keywords": [
-        "consultoria jurídica"
+        "consultoria juridica"
       ]
     },
     {
       "titulo": "Edital nº 2025.05.08.02-SMS-R /2026",
       "descricao": "PRÉ-QUALIFICAÇÃO do tipo SUBJETIVA e TOTAL das empresas para prestação de serviços técnicos especializados na área jurídica, compreendendo a assessoria e consultoria jurídica, junto a Secretaria de Saúde.",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "MUNICIPIO DE CAUCAIA",
-      "unidade": "MUNICIPIO DE CAUCAIA",
       "uf": "CE",
       "municipio": "Caucaia",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Pré-qualificação",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-08-19T16:44:16.061952",
-      "data_atualizacao": "2025-08-19T16:44:16.061952",
-      "data_inicio_vigencia": "2025-08-19T17:00",
       "data_fim_vigencia": "2026-05-14T16:00",
       "numero_controle": "07616162000106-1-000009/2026",
       "url": "https://pncp.gov.br/app/compras/07616162000106/2026/9",
       "matched_keywords": [
-        "consultoria jurídica"
+        "consultoria juridica"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 02/2025",
       "descricao": "CREDENCIAMENTO DE PESSOAS FÍSICAS E JURÍDICAS REGISTRADAS EM NÍVEL DE GRADUAÇÃO PLENA NO CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA (CREA) E OU CONSELHO DE ARQUITETURA E URBANISMO (CAU) ESPECIALIZADAS NA PRESTAÇÃO DE SERVIÇOS TÉCNICOS DE ENGENHARIA E ARQUITETURA NAS ATIVIDADES DE ELABORAÇÃO, ANÁLISE E CONSULTORIA DE PROJETOS, VISTORIA, ORÇAMENTO E ACOMPANHAMENTO DE OBRAS, DIAGNÓSTICO E ACOMPANHAMENTO DE DANOS FÍSICOS, LAUDOS DE AVALIAÇÃO E PERÍCIAS NO ÂMBITO DA CÂMARA MUNICIPAL DE ARUJÁ.",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "CAMARA MUNICIPAL DE ARUJA",
-      "unidade": "Câmara Municipal de Arujá",
       "uf": "SP",
       "municipio": "Arujá",
       "esfera": "Municipal",
-      "poder": "Legislativo",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-08-19T09:34:18.798830946",
-      "data_atualizacao": "2025-08-19T09:34:18.798830946",
-      "data_inicio_vigencia": "2025-09-02T09:00",
       "data_fim_vigencia": "2050-09-02T09:00",
       "numero_controle": "58478652000116-1-000030/2025",
       "url": "https://pncp.gov.br/app/compras/58478652000116/2025/30",
       "matched_keywords": [
-        "consultoria jurídica"
+        "consultoria juridica"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 3/2025",
       "descricao": "O presente credenciamento tem por objeto o CREDENCIAMENTO de PESSOAS JURÍDICAS PRESTADORAS\nDE SERVIÇOS ESPECIALIZADOS DE ASSESSORIA E CONSULTORIA PARA FORMULAÇÃO, IMPLEMENTAÇÃO\nE MONITORAMENTO DE PROGRAMAS, PROJETOS E POLÍTICAS CULTURAIS, conforme ANEXO I Termo de\nReferência, em caráter temporário e de abrangência pertinentes à classe, nos termos e condições\nestabelecidos no presente Instrumento Convocatórios.\n",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "CONSORCIO INTERMUNICIPAL - CI - CENTRO SUL",
-      "unidade": "CONSORCIO INTERMUNICIPAL CENTRO SUL",
       "uf": "RS",
       "municipio": "Camaquã",
       "esfera": "Municipal",
-      "poder": "Executivo",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-07-22T09:02:28.874779",
-      "data_atualizacao": "2025-07-23T00:12:46.435378",
-      "data_inicio_vigencia": "2025-07-21T00:00",
       "data_fim_vigencia": "2026-07-21T00:00",
       "numero_controle": "07926117000140-1-000018/2025",
       "url": "https://pncp.gov.br/app/compras/07926117000140/2025/18",
       "matched_keywords": [
-        "consultoria jurídica"
+        "consultoria juridica"
+      ]
+    },
+    {
+      "titulo": "Edital de Chamamento Público nº 013/2025",
+      "descricao": "Credenciamento de pessoa fisica ou juridica especializada para a prestaCao de serviCos de despachante imobiliario e de veiculos, visando atender as demandas do Municipio de TurmalinaMG, incluindo a regularizaCao de imoveis e veiculos, a emissao de documentos, a intermediaCao de processos administrativos junto a orgaos competentes e demais atividades correlatas necessarias a manutenCao da legalidade e eficiencia dos serviCos municipais.",
+      "areas": [
+        "Tributario",
+        "Administrativo"
+      ],
+      "orgao": "MUNICIPIO DE TURMALINA",
+      "uf": "MG",
+      "municipio": "Turmalina",
+      "esfera": "Municipal",
+      "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2025-06-30T09:28:08.240953",
+      "data_fim_vigencia": "2026-06-30T23:59:59",
+      "numero_controle": "25324187000100-1-000063/2025",
+      "url": "https://pncp.gov.br/app/compras/25324187000100/2025/63",
+      "matched_keywords": [
+        "consultoria juridica",
+        "parecer juridico"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 03/2025",
       "descricao": "Credenciamento de sociedade de advogados para prestação de serviços técnico profissional especializado no patrocínio e defesa em causas judiciais e/ou administrativas que envolvam participações Governamentais (royalties e participação especial) devidas pela indústria Agência Nacional do Petróleo, Gás Natural e Biocombustiveis – ANP",
+      "areas": [
+        "Tributario",
+        "Administrativo"
+      ],
       "orgao": "MUNICIPIO DE CAJAMAR",
-      "unidade": "Prefeitura Municipal de Cajamar",
       "uf": "SP",
       "municipio": "Cajamar",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Credenciamento",
       "situacao": "Revogada",
       "valor": null,
       "data_publicacao": "2025-06-09T09:07:50.285628",
-      "data_atualizacao": "2025-10-01T13:27:01.453795",
-      "data_inicio_vigencia": "2025-07-21T09:00",
       "data_fim_vigencia": "2029-07-20T23:59",
       "numero_controle": "46523023000181-1-000077/2025",
       "url": "https://pncp.gov.br/app/compras/46523023000181/2025/77",
@@ -1546,1940 +1486,1857 @@
     {
       "titulo": "Edital de Chamamento Público nº 04/2025",
       "descricao": "Credenciamento de sociedade de advogados para prestação de serviços advocatícios contenciosos e acompanhamento processual em todos os graus de jurisdição da Justiça Federal para apurar e reaver os valores pagos a menor pelo SUS",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "MUNICIPIO DE CAJAMAR",
-      "unidade": "Prefeitura Municipal de Cajamar",
       "uf": "SP",
       "municipio": "Cajamar",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Credenciamento",
       "situacao": "Revogada",
       "valor": null,
       "data_publicacao": "2025-06-09T09:10:58.995850",
-      "data_atualizacao": "2025-10-01T13:26:31.241102",
-      "data_inicio_vigencia": "2025-07-22T09:00",
       "data_fim_vigencia": "2029-07-20T23:59",
       "numero_controle": "46523023000181-1-000078/2025",
       "url": "https://pncp.gov.br/app/compras/46523023000181/2025/78",
       "matched_keywords": [
         "sociedade de advogados",
-        "serviços advocatícios"
+        "servicos advocaticios"
       ]
     },
     {
       "titulo": "Edital nº (24989) | 10-0/2026",
       "descricao": "Contratação de empresa especializada para locação de estrutura completa para realização de evento, contemplando som, iluminação, palco, banheiros, fechamentos, geradores, estrutura completa para a realização de rodeio e shows e demais serviços especificados no Termo de Referência – Anexo I do Edital, para realização da 17º Expotur promovida pelo Município de Turvelândia/Go.",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "MUNICIPIO DE TURVELANDIA",
-      "unidade": "PREFEITURA MUNICIPAL DE  TURVELÂNDIA",
       "uf": "GO",
       "municipio": "Turvelândia",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Pregão - Eletrônico",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-05-05T10:42:51.645524316",
-      "data_atualizacao": "2026-05-05T10:42:51.645524316",
-      "data_inicio_vigencia": "2026-05-04T00:00",
       "data_fim_vigencia": "2026-05-18T08:30",
       "numero_controle": "25107657000183-1-000044/2026",
       "url": "https://pncp.gov.br/app/compras/25107657000183/2026/44",
       "matched_keywords": [
-        "assessoria jurídica"
+        "assessoria juridica"
       ]
     },
     {
       "titulo": "Aviso de Contratação Direta nº 019/2026",
       "descricao": "Contratação de empresa para prestação de serviços de formação, capacitação e assessoria em saúde mental no contexto escolar, destinados aos profissionais da rede municipal de ensino de Conceição da Aparecida, compreendendo planejamento, execução, acompanhamento e avaliação de programa estrutura de formação continuada",
+      "areas": [
+        "Tributario"
+      ],
       "orgao": "MUNICIPIO DE CONCEICAO DA APARECIDA",
-      "unidade": "PREFEITURA MUNICIPAL DE CONCEIÇÃO DA APARECIDA - MG",
       "uf": "MG",
       "municipio": "Conceição da Aparecida",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Dispensa",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-05-05T07:17:09.899098255",
-      "data_atualizacao": "2026-05-05T07:17:09.899098255",
-      "data_inicio_vigencia": "2026-05-05T08:00",
       "data_fim_vigencia": "2026-05-12T07:45",
       "numero_controle": "18243295000192-1-000040/2026",
       "url": "https://pncp.gov.br/app/compras/18243295000192/2026/40",
       "matched_keywords": [
-        "assessoria jurídica"
+        "assessoria juridica"
       ]
     },
     {
       "titulo": "Aviso de Contratação Direta nº 6/2026",
       "descricao": "Contratação de pessoa jurídica especializada para a prestação de serviços técnicos em Saúde e Segurança do Trabalho SST, com foco na gestão da saúde ocupacional e na segurança dos servidores municipais, por meio da organização das informações ocupacionais, apoio à gestão administrativa, adequação às normas regulamentadoras e promoção de condições seguras no ambiente de trabalho.",
+      "areas": [
+        "Administrativo",
+        "Ambiental"
+      ],
       "orgao": "MUNICIPIO DE BUENOPOLIS",
-      "unidade": "MUNICIPIO DE BUENOPOLIS",
       "uf": "MG",
       "municipio": "Buenópolis",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Dispensa",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-05-04T15:33:14.506519589",
-      "data_atualizacao": "2026-05-04T15:33:14.506519589",
-      "data_inicio_vigencia": "2026-05-06T09:00",
       "data_fim_vigencia": "2026-05-15T09:00",
       "numero_controle": "17694852000129-1-000034/2026",
       "url": "https://pncp.gov.br/app/compras/17694852000129/2026/34",
       "matched_keywords": [
-        "assessoria jurídica"
+        "assessoria juridica"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 1/2026",
       "descricao": "Credenciamento de pessoa jurídica para prestação de serviços de fornecimento, gerenciamento, implementação e administração do auxílio-alimentação, mediante emissão de CARTÕES MAGNÉTICOS.",
+      "areas": [
+        "Tributario"
+      ],
       "orgao": "CAMARA MUNICIPAL DE PIMENTA BUENO",
-      "unidade": "CÂMARA MUNICIPAL DE PIMENTA BUENO",
       "uf": "RO",
       "municipio": "Pimenta Bueno",
       "esfera": "Municipal",
-      "poder": "Legislativo",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-05-04T13:01:40.916348674",
-      "data_atualizacao": "2026-05-04T13:01:40.916348674",
-      "data_inicio_vigencia": "2026-05-04T11:30",
       "data_fim_vigencia": "2026-05-19T08:59",
       "numero_controle": "84568872000140-1-000015/2026",
       "url": "https://pncp.gov.br/app/compras/84568872000140/2026/15",
       "matched_keywords": [
-        "assessoria jurídica"
+        "assessoria juridica"
       ]
     },
     {
       "titulo": "Edital nº PCE 23/2026",
       "descricao": "Constitui objeto do presente processo o registro de preços para o fornecimento de Gás Liquefeito de Petróleo (GLP - gás de cozinha), acondicionado em botijões de 13 kg e 45 kg, destinado ao atendimento das necessidades das Secretarias Municipais do Município de Corbélia/PR.",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "MUNICIPIO DE CORBELIA",
-      "unidade": "SMGA - DEPART.DE GOVERNO, ASSESSORIA JURIDICA, PLANEJAMENTO E CONTROLADORIA",
       "uf": "PR",
       "municipio": "Corbélia",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Pregão - Eletrônico",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-30T08:46:38.599866310",
-      "data_atualizacao": "2026-04-30T08:46:38.599866310",
-      "data_inicio_vigencia": "2026-04-30T18:00",
       "data_fim_vigencia": "2026-05-27T07:59",
       "numero_controle": "76208826000102-1-000089/2026",
       "url": "https://pncp.gov.br/app/compras/76208826000102/2026/89",
       "matched_keywords": [
-        "assessoria jurídica"
+        "assessoria juridica"
       ]
     },
     {
       "titulo": "Edital nº CCE 13/2026",
       "descricao": "Constitui objeto do presente processo a contratação de empresa especializada para a execução de 40 (quarenta) Unidades Habitacionais Unifamiliares, localizadas nos Distritos de Nossa Senhora da Penha, Ouro Verde do Piquiri e no Município de Corbélia/PR.",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "MUNICIPIO DE CORBELIA",
-      "unidade": "SMGA - DEPART.DE GOVERNO, ASSESSORIA JURIDICA, PLANEJAMENTO E CONTROLADORIA",
       "uf": "PR",
       "municipio": "Corbélia",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Concorrência - Eletrônica",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-29T11:24:18.633279846",
-      "data_atualizacao": "2026-04-29T11:24:18.633279846",
-      "data_inicio_vigencia": "2026-04-29T18:00",
       "data_fim_vigencia": "2026-06-11T07:59",
       "numero_controle": "76208826000102-1-000085/2026",
       "url": "https://pncp.gov.br/app/compras/76208826000102/2026/85",
       "matched_keywords": [
-        "assessoria jurídica"
+        "assessoria juridica"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 2/2024",
       "descricao": "CHAMAMENTO PÚBLICO PARA CREDENCIAMENTO DE PESSOAS JURÍDICAS PRESTADORAS DE SERVIÇOS NA ÁREA DA SAÚDE E OUTRAS ATIVIDADES ATINENTES ÀS FINALIDADES DO CONSÓRCIO NA FORMA DO ARTIGO 79, I DA LEI Nº 14.133/2021",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "CONSORCIO INTERMUNICIPAL DE SAUDE DO NOROESTE DO ESTADO DO RIO GRANDE DO SUL",
-      "unidade": "Consórcio Intermunicipal do noroeste do estado do RS",
       "uf": "RS",
       "municipio": "Ijuí",
       "esfera": "Não se aplica",
-      "poder": "Executivo",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2024-12-04T13:02:01.534948",
-      "data_atualizacao": "2026-04-29T09:46:53.628980",
-      "data_inicio_vigencia": "2024-11-04T00:00",
       "data_fim_vigencia": "2029-11-03T00:00",
       "numero_controle": "02231696000192-1-000020/2024",
       "url": "https://pncp.gov.br/app/compras/02231696000192/2024/20",
       "matched_keywords": [
-        "assessoria jurídica"
+        "assessoria juridica"
       ]
     },
     {
       "titulo": "Edital nº 3/2026",
       "descricao": "CONCESSÃO DE USO DE BEM IMÓVEL DO PATRIMÔNIO MUNICIPAL MATRICULADO SOB O N° 28.293, JUNTO AO CARTÓRIO DE REGISTRO DE IMÓVEIS DE COLORADO, SENDO UM BARRACÃO INDUSTRIAL COM ENDEREÇO À RUA VEREADOR ANTONIO ALVES DE CARVALHO, N° 88, NO JARDIM LICCE 1, MEDIANTE PROCESSO LICITATÓRIO, PARA PESSOA JURÍDICA QUE ATENDA ÀS POLÍTICAS PÚBLICAS DE DESENVOLVIMENTO DO MUNICÍPIO QUE ENVOLVE GERAÇÃO DE EMPREGO E RENDA, CONFORME LEI MUNICIPAL Nº 1418/2025.",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "MUNICIPIO DE SANTO INACIO",
-      "unidade": "ASSESSORIA E PLANEJAMENTO",
       "uf": "PR",
       "municipio": "Santo Inácio",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Concorrência - Presencial",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-22T16:14:39.459588189",
-      "data_atualizacao": "2026-04-22T16:14:39.459588189",
-      "data_inicio_vigencia": "2026-05-26T09:30",
       "data_fim_vigencia": "2026-05-26T09:30",
       "numero_controle": "76970375000146-1-000037/2026",
       "url": "https://pncp.gov.br/app/compras/76970375000146/2026/37",
       "matched_keywords": [
-        "assessoria jurídica"
+        "assessoria juridica"
       ]
     },
     {
       "titulo": "Edital nº 009/2026",
       "descricao": "[Portal de Compras Públicas] - Seleção da(s) proposta(s) mais vantajosa(s) visando o REGISTRO DE PREÇOS, para futura e eventual contratação de Pessoa(s) Jurídica(s) para prestação dos serviços de organização de eventos diversos, realizados pela Prefeitura Municipal de Lima Campos - MA, compreendendo o planejamento, a organização, a execução, a operacionalização, a produção, a locação de equipamentos e todos os demais serviços correlatos, de interesse desta Administração Pública Municipal.",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "MUNICIPIO DE LIMA CAMPOS",
-      "unidade": "SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO E FINANÇAS",
       "uf": "MA",
       "municipio": "Lima Campos",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Pregão - Eletrônico",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-17T16:32:52.773950",
-      "data_atualizacao": "2026-04-17T16:32:54.413145650",
-      "data_inicio_vigencia": "2026-04-17T23:59",
       "data_fim_vigencia": "2026-05-07T08:59",
       "numero_controle": "06933519000109-1-000010/2026",
       "url": "https://pncp.gov.br/app/compras/06933519000109/2026/10",
       "matched_keywords": [
-        "assessoria jurídica"
+        "assessoria juridica"
       ]
     },
     {
       "titulo": "Edital nº CCE 11/2026",
       "descricao": "Constitui objeto do presente processo a Contratação de Empresa Especializada em Obras e Serviços para Execução de Obra de Recape Asfáltico de vias urbanas em CBUQ, objeto do Convênio nº 1972/2025 formalizado entre a SEDU e o Município de Corbélia - SAM 102. Para a realização do processo licitatório, as informações e documentos pertinentes ao Edital estão disponíveis no Portal dos Municípios - SAM 102 - LOTE 1.",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "MUNICIPIO DE CORBELIA",
-      "unidade": "SMGA - DEPART.DE GOVERNO, ASSESSORIA JURIDICA, PLANEJAMENTO E CONTROLADORIA",
       "uf": "PR",
       "municipio": "Corbélia",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Concorrência - Eletrônica",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-17T14:52:19.114508951",
-      "data_atualizacao": "2026-04-17T14:52:19.114508951",
-      "data_inicio_vigencia": "2026-04-17T18:00",
       "data_fim_vigencia": "2026-06-02T07:59",
       "numero_controle": "76208826000102-1-000072/2026",
       "url": "https://pncp.gov.br/app/compras/76208826000102/2026/72",
       "matched_keywords": [
-        "assessoria jurídica"
+        "assessoria juridica"
       ]
     },
     {
       "titulo": "Edital nº 03/2026",
       "descricao": "Contratação de empresa para prestação de serviços destinados a apoiar a gestão\nintegrada de resíduos sólidos urbanos e fortalecimento dos municípios consorciados,\nincluindo atividades de diagnóstico (PP-DRSU), otimização de rotas e PEVs (ROT),\nprojetos de UTC (UTC), compostagem (COM), educação e comunicação ambiental\n(EDU/COM), governança e monitoramento (PMO/MA/AUD), assessoramento técnico\ne jurídico (LIC/JUR), e suporte correlato ao desenvolvimento do Sistema SGIRS (SGSUP).",
+      "areas": [
+        "Ambiental"
+      ],
       "orgao": "CONSORCIO PUBLICO PARA DESENVOLVIMENTO DA MICRO REGIAO DO ALTO PARAOPEBA E VERTENTES - CONDAPAV",
-      "unidade": "CONSÓRCIO PUB DESEN DA MICRORREGIÃO DO ALTO P",
       "uf": "MG",
       "municipio": "Cristiano Otoni",
       "esfera": "Não se aplica",
-      "poder": "Executivo",
       "modalidade": "Concorrência - Eletrônica",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-16T14:30:08.323760582",
-      "data_atualizacao": "2026-04-16T14:30:08.323760582",
-      "data_inicio_vigencia": "2026-04-16T17:00",
       "data_fim_vigencia": "2026-06-10T08:00",
       "numero_controle": "06346208000143-1-000003/2026",
       "url": "https://pncp.gov.br/app/compras/06346208000143/2026/3",
       "matched_keywords": [
-        "assessoria jurídica"
+        "assessoria juridica"
       ]
     },
     {
       "titulo": "Edital nº CCE 8/2026",
       "descricao": "Constitui objeto do presente processo a Contratação de Empresa Especializada em Obras e Serviços para Execução de Obra de Recape Asfáltico de vias urbanas em CBUQ, objeto do Convênio nº 1973/2025 formalizado entre a SEDU e o Município de Corbélia - SAM 103. Para a realização do processo licitatório, as informações e documentos pertinentes ao Edital estão disponíveis no Portal dos Municípios - SAM 103 - LOTE 1.\nA execução será por Administração Indireta (Empreitada Global). A Obra tem como preço global para investimento, o Valor Máximo de: R$ R$10.612.502,32 (dez milhões, seiscentos e doze mil, quinhentos e dois reais e trinta e dois centavos).",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "MUNICIPIO DE CORBELIA",
-      "unidade": "SMGA - DEPART.DE GOVERNO, ASSESSORIA JURIDICA, PLANEJAMENTO E CONTROLADORIA",
       "uf": "PR",
       "municipio": "Corbélia",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Concorrência - Eletrônica",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-13T13:22:00.052094625",
-      "data_atualizacao": "2026-04-13T13:22:00.052094625",
-      "data_inicio_vigencia": "2026-04-13T18:00",
       "data_fim_vigencia": "2026-05-25T07:59",
       "numero_controle": "76208826000102-1-000065/2026",
       "url": "https://pncp.gov.br/app/compras/76208826000102/2026/65",
       "matched_keywords": [
-        "assessoria jurídica"
+        "assessoria juridica"
       ]
     },
     {
       "titulo": "Edital nº CCE 7/2026",
       "descricao": "Constitui objeto do presente processo a contratação de empresa especializada em obras e serviços para execução de obra de pavimentação asfáltica de estrada rural municipal - Estrada Barra Bonita, objeto do Convênio SEAB nº 765/2025. Para a realização do processo licitatório, as informações e documentos pertinentes ao Edital estão disponíveis no Portal dos Municípios - SAM 99 - LOTE 1 - Projeto Especial :PROGRAMA RURAL. Valor Viabilizado : R$ 6.326.530,95.",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "MUNICIPIO DE CORBELIA",
-      "unidade": "SMGA - DEPART.DE GOVERNO, ASSESSORIA JURIDICA, PLANEJAMENTO E CONTROLADORIA",
       "uf": "PR",
       "municipio": "Corbélia",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Concorrência - Eletrônica",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-13T11:28:42.917870966",
-      "data_atualizacao": "2026-04-13T11:28:42.917870966",
-      "data_inicio_vigencia": "2026-04-13T18:00",
       "data_fim_vigencia": "2026-05-22T07:59",
       "numero_controle": "76208826000102-1-000064/2026",
       "url": "https://pncp.gov.br/app/compras/76208826000102/2026/64",
       "matched_keywords": [
-        "assessoria jurídica"
+        "assessoria juridica"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 3/2026",
       "descricao": "[LICITANET] - CREDENCIAMENTO DE PESSOAS JURÍDICAS ESPECIALIZADAS NA PRESTAÇÃO DE SERVIÇOS MÉDICOS. OS SERVIÇOS A SEREM CREDENCIADOS COMPREENDEM A REALIZAÇÃO DE CONSULTAS, EXAMES, PROCEDIMENTOS E CIRURGIAS  DE FORMA COMPLEMENTAR AO SISTEMA ÚNICO DE SAÚDE (SUS), VISANDO ATENDER ÀS DEMANDAS DA SECRETARIA MUNICIPAL DE SAÚDE DO MUNICÍPIO DE CAMPINÁPOLIS – MT.\n\n\n",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "MUNICIPIO DE CAMPINAPOLIS",
-      "unidade": "MUNICIPIO DE CAMPINÁPOLIS/MT",
       "uf": "MT",
       "municipio": "Campinápolis",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-09T14:01:58.758098035",
-      "data_atualizacao": "2026-04-09T14:01:58.758098035",
-      "data_inicio_vigencia": "2026-04-23T00:00",
       "data_fim_vigencia": "2027-04-23T23:59:59",
       "numero_controle": "00965152000129-1-000003/2026",
       "url": "https://pncp.gov.br/app/compras/00965152000129/2026/3",
       "matched_keywords": [
-        "assessoria jurídica"
+        "assessoria juridica"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº C0005/2024",
       "descricao": "Aquisição de Materiais",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "PIAUI SECRETARIA DE SAUDE",
-      "unidade": "Administração Central",
       "uf": "PI",
       "municipio": "Teresina",
       "esfera": "Estadual",
-      "poder": "Executivo",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-03-13T17:58:56.793066",
-      "data_atualizacao": "2026-04-07T17:21:23.456538",
-      "data_inicio_vigencia": "2023-10-03T03:00",
       "data_fim_vigencia": "2028-10-03T03:00",
       "numero_controle": "06553564000138-1-000026/2024",
       "url": "https://pncp.gov.br/app/compras/06553564000138/2024/26",
       "matched_keywords": [
-        "assessoria jurídica"
+        "assessoria juridica"
       ]
     },
     {
       "titulo": "Edital nº 105/2025",
       "descricao": "Contratação de empresa especializada em locação de impressoras e multifuncionais.",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "MUNICIPIO DE IMBE",
-      "unidade": "Prefeitura Municipal de Imbé",
       "uf": "RS",
       "municipio": "Imbé",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Pregão - Eletrônico",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-02T16:34:41.679385132",
-      "data_atualizacao": "2026-04-02T16:34:41.679385132",
-      "data_inicio_vigencia": "2025-12-16T08:31",
       "data_fim_vigencia": "2026-12-16T08:31",
       "numero_controle": "90256652000184-1-000309/2025",
       "url": "https://pncp.gov.br/app/compras/90256652000184/2025/309",
       "matched_keywords": [
-        "assessoria jurídica"
+        "assessoria juridica"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 02/2026",
       "descricao": "[Portal de Compras Públicas] - O presente Edital tem por objeto o CREDENCIAMENTO DE PESSOAS JURÍDICAS, PARA PRESTAÇÃO DE SERVIÇOS NA ÁREA DE LICENCIAMENTO AMBIENTAL em atividades de impacto local definidas nas resoluções do CONSEMA.",
+      "areas": [
+        "Ambiental"
+      ],
       "orgao": "CONSORCIO INTERMUNICIPAL DA REGIAO NORDESTE",
-      "unidade": "Comissão Permanente de Licitação",
       "uf": "RS",
       "municipio": "Sananduva",
       "esfera": "Não se aplica",
-      "poder": "Executivo",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-03-27T10:13:14.513742249",
-      "data_atualizacao": "2026-03-27T10:13:14.513742249",
-      "data_inicio_vigencia": "2026-03-30T08:00",
       "data_fim_vigencia": "2027-03-30T23:59",
       "numero_controle": "15344304000143-1-000011/2026",
       "url": "https://pncp.gov.br/app/compras/15344304000143/2026/11",
       "matched_keywords": [
-        "assessoria jurídica"
+        "assessoria juridica"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº PRI 12/2026",
       "descricao": "Constitui objeto do presente processo o credenciamento de empresas especializadas para a prestação de serviços de manutenção preventiva e corretiva, incluindo mão de obra e serviços de \"socorro\", bem como o fornecimento de peças para a manutenção de máquinas e equipamentos agrícolas e rodoviários pesados pertencentes ao Município de Corbélia/PR.",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "MUNICIPIO DE CORBELIA",
-      "unidade": "SMGA - DEPART.DE GOVERNO, ASSESSORIA JURIDICA, PLANEJAMENTO E CONTROLADORIA",
       "uf": "PR",
       "municipio": "Corbélia",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-03-25T16:45:07.982340163",
-      "data_atualizacao": "2026-03-25T16:45:07.982340163",
-      "data_inicio_vigencia": "2026-03-18T07:30",
       "data_fim_vigencia": "2026-12-31T18:00",
       "numero_controle": "76208826000102-1-000049/2026",
       "url": "https://pncp.gov.br/app/compras/76208826000102/2026/49",
       "matched_keywords": [
-        "assessoria jurídica"
+        "assessoria juridica"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº PRI 13/2026",
       "descricao": "Constitui objeto do presente processo, o credenciamento de empresas especializadas para a prestação de serviços de lavagem de veículos (carros, vans, micro ônibus, ônibus, ambulância, caminhões, coletores de lixo, máquinas pesadas) pertencentes a Frota do Município de Corbélia/PR, sob demanda das Secretariais Municipais.",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "MUNICIPIO DE CORBELIA",
-      "unidade": "SMGA - DEPART.DE GOVERNO, ASSESSORIA JURIDICA, PLANEJAMENTO E CONTROLADORIA",
       "uf": "PR",
       "municipio": "Corbélia",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-03-17T18:35:10.288953822",
-      "data_atualizacao": "2026-03-17T18:35:10.288953822",
-      "data_inicio_vigencia": "2026-03-17T18:00",
       "data_fim_vigencia": "2026-12-31T18:00",
       "numero_controle": "76208826000102-1-000043/2026",
       "url": "https://pncp.gov.br/app/compras/76208826000102/2026/43",
       "matched_keywords": [
-        "assessoria jurídica"
+        "assessoria juridica"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº PRI 6/2026",
       "descricao": "Constitui objeto deste processo o credenciamento de empresas para a prestação de serviços de apoio técnico diurno para atender as necessidades do Município de Corbélia/PR.",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "MUNICIPIO DE CORBELIA",
-      "unidade": "SMGA - DEPART.DE GOVERNO, ASSESSORIA JURIDICA, PLANEJAMENTO E CONTROLADORIA",
       "uf": "PR",
       "municipio": "Corbélia",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-03-05T10:09:06.800640431",
-      "data_atualizacao": "2026-03-05T10:09:06.800640431",
-      "data_inicio_vigencia": "2026-03-04T18:00",
       "data_fim_vigencia": "2026-12-31T18:00",
       "numero_controle": "76208826000102-1-000031/2026",
       "url": "https://pncp.gov.br/app/compras/76208826000102/2026/31",
       "matched_keywords": [
-        "assessoria jurídica",
-        "parecer jurídico"
+        "assessoria juridica",
+        "parecer juridico"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 003/2026",
       "descricao": "CREDENCIAMENTO DE PESSOAS FÍSICAS E JURÍDICAS PARA PRESTAÇÃO DE SERVIÇOS DE TERCEIRIZAÇÃO DE MÃO DE OBRA, VISANDO ATENDER ÀS DEMANDAS DAS SECRETARIAS DO MUNICÍPIO DE MIRANTE-BA.",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "MUNICIPIO DE MIRANTE",
-      "unidade": "Prefeitura Municipal de Mirante",
       "uf": "BA",
       "municipio": "Mirante",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-02-26T15:36:55.765447868",
-      "data_atualizacao": "2026-02-26T15:36:55.765447868",
-      "data_inicio_vigencia": "2026-02-26T15:35",
       "data_fim_vigencia": "2026-12-31T08:00",
       "numero_controle": "16416521000164-1-000023/2026",
       "url": "https://pncp.gov.br/app/compras/16416521000164/2026/23",
       "matched_keywords": [
-        "assessoria jurídica"
+        "assessoria juridica"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº (4044) | 1-0/2026",
       "descricao": "CHAMAMENTO PÚBLICO PARA CADASTRAMENTO PARA POSTERIOR CREDENCIAMENTO / CONTRATAÇÃO, DE PESSOAS FÍSICAS/JURÍDICAS, PARA PRESTAÇÃO DE SERVIÇOS EM DIFERENTES ÁREAS DA SAÚDE, PARA ATUAR JUNTO ÀS UNIDADES DA SECRETARIA MUNICIPAL DE SAÚDE.",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "FUNDO MUNICIPAL DE SAUDE",
-      "unidade": "JESUPOLIS - FMS",
       "uf": "GO",
       "municipio": "Jesúpolis",
       "esfera": "Municipal",
-      "poder": "Executivo",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-02-24T12:56:27.142315",
-      "data_atualizacao": "2026-02-24T12:56:27.142315",
-      "data_inicio_vigencia": "2026-01-16T08:00",
       "data_fim_vigencia": "2026-12-31T17:00",
       "numero_controle": "10411406000110-1-000006/2026",
       "url": "https://pncp.gov.br/app/compras/10411406000110/2026/6",
       "matched_keywords": [
-        "assessoria jurídica",
-        "parecer jurídico"
+        "assessoria juridica",
+        "parecer juridico"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 4/2026",
       "descricao": "Credenciamento de empresas especializadas na prestação de serviços de assessoria de comunicação e midia",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "CONSORCIO INTERMUNICIPAL MULTIFINALITARIO DA AREA MINEIRA DA SUDENE",
-      "unidade": "CONSÓRCIO INTERMUN. MULTIFIN.- CIMAMS",
       "uf": "MG",
       "municipio": "Montes Claros",
       "esfera": "Não se aplica",
-      "poder": "Executivo",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-02-10T14:58:19.751921081",
-      "data_atualizacao": "2026-02-10T14:58:19.751921081",
-      "data_inicio_vigencia": "2026-02-16T09:00",
       "data_fim_vigencia": "2027-02-16T09:00",
       "numero_controle": "21505692000108-1-000008/2026",
       "url": "https://pncp.gov.br/app/compras/21505692000108/2026/8",
       "matched_keywords": [
-        "assessoria jurídica"
+        "assessoria juridica"
+      ]
+    },
+    {
+      "titulo": "Edital de Chamamento Público nº (11383) | 1-0/2026",
+      "descricao": "CHAMAMENTO PÚBLICO/CREDENCIAMENTO DE PROFISSIONAIS DE SAÚDE, PESSOAS FÍSICAS OU JURÍDICAS ESPECIALIZADAS PARA ATENDER AS NECESSIDADES DA SECRETARIA MUNICIPAL DE SAÚDE, QUANTO AO SEU FUNCIONAMENTO TANTO ATENDIMENTO PARA PROMOÇÃO, PROTEÇÃO, RECUPERAÇÃO DA SAÚDE DE MÉDIA COMPLEXIDADE.",
+      "areas": [
+        "Tributario"
+      ],
+      "orgao": "FUNDO MUNICIPAL DE SAUDE - DIORAMA",
+      "uf": "GO",
+      "municipio": "Diorama",
+      "esfera": "Municipal",
+      "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-02-02T14:19:06.089804703",
+      "data_fim_vigencia": "2026-12-31T16:00",
+      "numero_controle": "10523857000140-1-000009/2026",
+      "url": "https://pncp.gov.br/app/compras/10523857000140/2026/9",
+      "matched_keywords": [
+        "assessoria juridica"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 05/2025",
       "descricao": "[LICITANET] - CREDENCIAMENTO DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS CONTENCIOSOS E ACOMPANHAMENTO PROCESSUAL EM TODOS OS GRAUS DE JURISDIÇÃO, INICIALMENTE NA JUSTIÇA FEDERAL PARA APURAR E REAVER OS VALORES PAGOS A TÍTULO DE IRPJ/IRRF A UNIÃO, NOS TERMOS DO TEMA 1.130 DA REPERCUSSÃO GERAL DO STF, ESPECIALMENTE DOTADA DE CAPACIDADE TÉCNICA/JURÍDICA PARA ATUAR NA FASE DE CUMPRIMENTO DE SENTENÇA, PARA ATENDIMENTO DOS MUNICÍPIOS CONSORCIADOS.\n\n",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "CONSORCIO INTERMUNICIPAL DE DESENVOLVIMENTO REGIONAL",
-      "unidade": "CONVALE- Consórcio Intermunicipal de Desenvolvimento Regional/MG",
       "uf": "MG",
       "municipio": "Uberaba",
       "esfera": "Não se aplica",
-      "poder": "Executivo",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-09-02T12:38:39.302105",
-      "data_atualizacao": "2026-05-04T16:46:04.869136",
-      "data_inicio_vigencia": "2025-10-17T00:00",
       "data_fim_vigencia": "2026-10-16T23:59:59",
       "numero_controle": "19864323000151-1-000015/2025",
       "url": "https://pncp.gov.br/app/compras/19864323000151/2025/15",
       "matched_keywords": [
-        "serviços advocatícios"
+        "servicos advocaticios"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 01/2025-CHPC/2035",
       "descricao": "Credenciamento de serviços advocatícios destinados à VDP (Verba de Desempenho Parlamentar) da Câmara Municipal de Sobral-CE.",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "MUNICIPIO DE SOBRAL/CAMARA MUNICIPAL",
-      "unidade": "MUNICIPIO DE SOBRAL - CAMARA MUNICIPAL",
       "uf": "CE",
       "municipio": "Sobral",
       "esfera": "Municipal",
-      "poder": "Legislativo",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-02-25T08:41:48.089097",
-      "data_atualizacao": "2025-02-25T08:41:48.089097",
-      "data_inicio_vigencia": "2025-02-25T08:45",
       "data_fim_vigencia": "2035-02-23T23:59",
       "numero_controle": "09485046000112-1-000001/2035",
       "url": "https://pncp.gov.br/app/compras/09485046000112/2035/1",
       "matched_keywords": [
-        "serviços advocatícios"
+        "servicos advocaticios"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 01/2024-CHPC/2034",
       "descricao": "Credenciamento de serviços advocatícios destinados à VDP (Verba de Desempenho Parlamentar) da Câmara Municipal de Sobral-CE.",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "MUNICIPIO DE SOBRAL/CAMARA MUNICIPAL",
-      "unidade": "MUNICIPIO DE SOBRAL - CAMARA MUNICIPAL",
       "uf": "CE",
       "municipio": "Sobral",
       "esfera": "Municipal",
-      "poder": "Legislativo",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2024-06-11T12:30:45.066675",
-      "data_atualizacao": "2025-02-24T12:32:01.443252550",
-      "data_inicio_vigencia": "2024-06-11T13:00",
       "data_fim_vigencia": "2034-06-11T13:00",
       "numero_controle": "09485046000112-1-000001/2034",
       "url": "https://pncp.gov.br/app/compras/09485046000112/2034/1",
       "matched_keywords": [
-        "serviços advocatícios"
+        "servicos advocaticios"
       ]
     },
     {
       "titulo": "Edital nº 90006/2026",
       "descricao": "Contratação de serviços contínuos de limpeza, conservação e higienização, com fornecimento de mão de obra, materiais e equipamentos sob demanda, para atender a Advocacia-Geral da União – em Brasília/DF, a serem executados com regime de dedicação exclusiva de mão de obra, conforme condições, quantidades e exigências estabelecidas neste Edital e seus anexos",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "ADVOCACIA GERAL DA UNIAO",
-      "unidade": "SUPER. DE ADMINISTRACAO NO DISTRITO FEDERAL",
       "uf": "DF",
       "municipio": "Brasília",
       "esfera": "Federal",
-      "poder": "Executivo",
       "modalidade": "Pregão - Eletrônico",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-05-05T07:03:41.842371309",
-      "data_atualizacao": "2026-05-05T07:03:41.842371309",
-      "data_inicio_vigencia": "2026-05-05T08:00",
       "data_fim_vigencia": "2026-05-20T10:00",
       "numero_controle": "26994558000123-1-000081/2026",
       "url": "https://pncp.gov.br/app/compras/26994558000123/2026/81",
       "matched_keywords": [
-        "serviços de advocacia"
+        "servicos de advocacia"
       ]
     },
     {
       "titulo": "Edital nº 90001/2026",
       "descricao": "Contratação serviços contínuos  limpeza, conservação e asseio, com fornecimento de mão de obra e material de Limpeza e Higiene, material de higiene à serem pagos conforme consumo, com possibilidade de subcontratação de serviços como o de controle de pragas e vetores urbanos (dedetização e/ou desratização), limpeza de fachadas envidraçadas, elaboração laudos de insalubridade, periculosidade e limpeza e desinfecção de caixas d’água para atender a AGU Franca, CPOR e CMSP.",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "ADVOCACIA GERAL DA UNIAO",
-      "unidade": "SUPERINT. DE ADMINISTRACAO EM SAO PAULO",
       "uf": "SP",
       "municipio": "São Paulo",
       "esfera": "Federal",
-      "poder": "Executivo",
       "modalidade": "Pregão - Eletrônico",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-05-05T07:03:31.825485131",
-      "data_atualizacao": "2026-05-05T07:03:31.825485131",
-      "data_inicio_vigencia": "2026-05-05T09:00",
       "data_fim_vigencia": "2026-05-20T10:30",
       "numero_controle": "26994558000123-1-000080/2026",
       "url": "https://pncp.gov.br/app/compras/26994558000123/2026/80",
       "matched_keywords": [
-        "serviços de advocacia"
+        "servicos de advocacia"
       ]
     },
     {
       "titulo": "Edital nº 90005/2026",
       "descricao": "Contratação de serviços contínuos de apoio administrativo (auxiliar administrativo II) visando atender às demandas das unidades da Advocacia Geral da União em Macapá/AP.",
+      "areas": [
+        "Administrativo"
+      ],
       "orgao": "ADVOCACIA GERAL DA UNIAO",
-      "unidade": "SUPER. DE ADMINISTRACAO NO DISTRITO FEDERAL",
       "uf": "DF",
       "municipio": "Brasília",
       "esfera": "Federal",
-      "poder": "Executivo",
       "modalidade": "Pregão - Eletrônico",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-05-05T07:00:24.088956967",
-      "data_atualizacao": "2026-05-05T07:00:24.088956967",
-      "data_inicio_vigencia": "2026-05-05T08:00",
       "data_fim_vigencia": "2026-05-20T10:00",
       "numero_controle": "26994558000123-1-000079/2026",
       "url": "https://pncp.gov.br/app/compras/26994558000123/2026/79",
       "matched_keywords": [
-        "serviços de advocacia"
+        "servicos de advocacia"
       ]
     },
     {
       "titulo": "Aviso de Contratação Direta nº 30/2026",
       "descricao": "Contratação de empresa especializada para a prestação de serviços de confecção, sob demanda, de 3 (três) placas de inauguração destinadas às unidades da Advocacia-Geral do Estado de Minas Gerais",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "ADVOCACIA-GERAL DO ESTADO",
-      "unidade": "DAPO",
       "uf": "MG",
       "municipio": "Belo Horizonte",
       "esfera": "Estadual",
-      "poder": "Executivo",
       "modalidade": "Dispensa",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-30T12:03:16.456342250",
-      "data_atualizacao": "2026-04-30T12:03:16.456342250",
-      "data_inicio_vigencia": "2026-04-30T12:03:16",
       "data_fim_vigencia": "2026-05-07T08:00:21",
       "numero_controle": "16745465000101-1-000018/2026",
       "url": "https://pncp.gov.br/app/compras/16745465000101/2026/18",
       "matched_keywords": [
-        "serviços de advocacia"
+        "servicos de advocacia"
       ]
     },
     {
       "titulo": "Edital nº 90004/2026",
       "descricao": "Contratação de serviços contínuos de limpeza, asseio e conservação com fornecimento de material e utensílios sob demanda para atender as necessidades das unidades da Advocacia Geral da União no Estado de Sergipe.",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "ADVOCACIA GERAL DA UNIAO",
-      "unidade": "SUPERINT. DE ADMINISTRACAO EM PERNAMBUCO",
       "uf": "PE",
       "municipio": "Recife",
       "esfera": "Federal",
-      "poder": "Executivo",
       "modalidade": "Pregão - Eletrônico",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-23T07:12:58.043118937",
-      "data_atualizacao": "2026-04-23T07:12:58.043118937",
-      "data_inicio_vigencia": "2026-04-23T08:00",
       "data_fim_vigencia": "2026-05-08T09:00",
       "numero_controle": "26994558000123-1-000073/2026",
       "url": "https://pncp.gov.br/app/compras/26994558000123/2026/73",
       "matched_keywords": [
-        "serviços de advocacia"
+        "servicos de advocacia"
       ]
     },
     {
       "titulo": "Edital nº 90001/2026",
       "descricao": "Contratação de prestação serviços continuados de assistentes administrativos, com dedicação exclusiva de mão de obra, para apoio administrativo às Unidades circunscritas à Superintendência Regional de Administração 2ª Região, no Estado do Espírito Santo (UAD, PU, PF e CJU) e no Estado do Rio de Janeiro (SAD, PRU, PRF, ESAGU, CJU e CGAU; PSF e PSU Niterói, PSF e PSU Petrópolis, PSF e PSU Campos dos Goytacazes, PSF e PSU Volta Redonda e PSF/EANFB Nova Friburgo).",
+      "areas": [
+        "Administrativo"
+      ],
       "orgao": "ADVOCACIA GERAL DA UNIAO",
-      "unidade": "SUPERINT. DE ADMINISTRACAO NO RIO DE JANEIRO",
       "uf": "RJ",
       "municipio": "Rio de Janeiro",
       "esfera": "Federal",
-      "poder": "Executivo",
       "modalidade": "Pregão - Eletrônico",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-17T07:10:02.108007670",
-      "data_atualizacao": "2026-04-17T07:10:02.108007670",
-      "data_inicio_vigencia": "2026-04-17T08:00",
       "data_fim_vigencia": "2026-05-06T09:30",
       "numero_controle": "26994558000123-1-000071/2026",
       "url": "https://pncp.gov.br/app/compras/26994558000123/2026/71",
       "matched_keywords": [
-        "serviços de advocacia"
+        "servicos de advocacia"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 1/2026",
       "descricao": "O objeto a ser credenciado é a prestação de serviços de PARA PRESTAÇÃO DE SERVIÇOS\nTÉCNICO- ESPECIALIZADOS PARA ATUAÇÃO COMO ASSISTENTE TÉCNICO NA ELABORAÇÃO DE\nCÁLCULOS E PARECERES TÉCNICOS E HORA TÉCNICA ESPECIALIZADA, NO ÂMBITO JUDICIAL E\nEXTRAJUDICIAL.",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "CONSORCIO INTERMUNICIPAL - CI - CENTRO SUL",
-      "unidade": "CONSORCIO INTERMUNICIPAL CENTRO SUL",
       "uf": "RS",
       "municipio": "Camaquã",
       "esfera": "Municipal",
-      "poder": "Executivo",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-05-05T09:08:43.693311794",
-      "data_atualizacao": "2026-05-05T09:08:43.693311794",
-      "data_inicio_vigencia": "2026-05-04T00:00",
       "data_fim_vigencia": "2027-05-04T00:00",
       "numero_controle": "07926117000140-1-000019/2026",
       "url": "https://pncp.gov.br/app/compras/07926117000140/2026/19",
       "matched_keywords": [
-        "representação judicial"
+        "representacao judicial"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 90/2025",
       "descricao": "O Município de Canoas, por\nintermédio da Secretaria Municipal de Licitações e Contratos, torna público o\nCredenciamento, para fins de contratação de pessoas jurídicas especializadas na prestação de\nserviços de acolhimento institucional, continuado ou temporário, nas modalidades de\nResidência Inclusiva para pessoas com deficiência com idade entre 18 e 59 anos, ou seja,\njovens adultos com deficiência cujos vínculos familiares estejam rompidos ou fragilizados e\nque não dispõem de condições de autossustentabilidade, de retaguarda familiar temporária ou\npermanente, prioritariamente da rede de acolhimento do Município de Canoas e região e\nbeneficiários do Benefício de Prestação Continuada – BPC conforme o Art.2, § 1º da\nResolução Nº3, de 7 de Março de 2013, que dispõe sobre a expansão qualificada dos Serviços\nde Acolhimento Institucional para Jovens e Adultos com Deficiência em situação de\ndependência, em Residências Inclusivas, a fim de prover a acolhida portadores de\nnecessidades especiais, com diferentes graus de dependência, mediante necessidade de\nacolhimento determinado por órgão judicial ou encaminhamento socioassistencial.",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "MUNICIPIO DE CANOAS",
-      "unidade": "PREFEITURA MUNICIPAL DE CANOAS PREFEITURA MUNICIPAL DE CANOAS",
       "uf": "RS",
       "municipio": "Canoas",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-02-25T14:17:30.196638",
-      "data_atualizacao": "2026-02-25T14:17:30.196638",
-      "data_inicio_vigencia": "2025-07-14T00:00",
       "data_fim_vigencia": "2027-12-31T00:00",
       "numero_controle": "88577416000118-1-000227/2025",
       "url": "https://pncp.gov.br/app/compras/88577416000118/2025/227",
       "matched_keywords": [
-        "representação judicial"
+        "representacao judicial"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 008/2026",
       "descricao": "CREDENCIAMENTO DE PESSOA JURÍDICA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS DE ACOLHIMENTO INSTITUCIONAL DE JOVENS E ADULTOS (18 A 59 ANOS), NA MODALIDADE RESIDÊNCIA INCLUSIVA, MEDIANTE ORDEM JUDICIAL OU PARECER DE PROFISSIONAIS APTOS DO QUADRO DA SECRETARIA DE DESENVOLVIMENTO SOCIAL",
+      "areas": [
+        "Tributario"
+      ],
       "orgao": "MUNICIPIO DE NOVA SERRANA",
-      "unidade": "Unidade Única",
       "uf": "MG",
       "municipio": "Nova Serrana",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-05-05T12:09:49.776512613",
-      "data_atualizacao": "2026-05-05T12:09:49.776512613",
-      "data_inicio_vigencia": "2026-05-06T00:00",
       "data_fim_vigencia": "2027-05-06T23:59:59",
       "numero_controle": "18291385000159-1-000096/2026",
       "url": "https://pncp.gov.br/app/compras/18291385000159/2026/96",
       "matched_keywords": [
-        "parecer jurídico"
+        "parecer juridico"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 06/2026",
       "descricao": "CREDENCIAMENTO DE PESSOA JURÍDICA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS DE ACOLHIMENTO INSTITUCIONAL DE IDOSOS (ILPI), GRAU I, II E III E RESIDÊNCIA INCLUSA, PARA JOVENS E ADULTOS, MEDIANTE ORDEM JUDICIAL  OU PARECER DE PROFISSIONAIS APTOS DO QUADRO DA SECRETARIA DE DESENVOLVIMENTO SOCIAL.",
+      "areas": [
+        "Tributario"
+      ],
       "orgao": "MUNICIPIO DE IGARATINGA",
-      "unidade": "Unidade Única",
       "uf": "MG",
       "municipio": "Igaratinga",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-05-04T16:22:31.513300184",
-      "data_atualizacao": "2026-05-04T16:22:31.513300184",
-      "data_inicio_vigencia": "2026-05-05T00:00",
       "data_fim_vigencia": "2026-06-03T23:59:59",
       "numero_controle": "18313825000121-1-000050/2026",
       "url": "https://pncp.gov.br/app/compras/18313825000121/2026/50",
       "matched_keywords": [
-        "parecer jurídico"
+        "parecer juridico"
       ]
     },
     {
       "titulo": "Aviso de Contratação Direta nº 57/2026",
       "descricao": "Contratação de empresa(s) especializada(s) para locação de estruturas temporárias e equipamentos destinados à realização do evento Festival do Búfalo,no Município de Sarapuí/SP,contemplando fornecimento,transporte,montagem,instalação,operação,manutenção e desmontagem de palco,camarim, portal e gerador de  energia.",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "MUNICIPIO DE SARAPUI",
-      "unidade": "DIRETORIA DE AGRIC., ABASTECIMENTO, MEIO AMBIENTE E TURISMO",
       "uf": "SP",
       "municipio": "Sarapuí",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Dispensa",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-05-04T15:35:13.409256517",
-      "data_atualizacao": "2026-05-04T15:35:13.409256517",
-      "data_inicio_vigencia": "2026-05-05T08:00",
       "data_fim_vigencia": "2026-05-07T17:00",
       "numero_controle": "46634341000110-1-000076/2026",
       "url": "https://pncp.gov.br/app/compras/46634341000110/2026/76",
       "matched_keywords": [
-        "parecer jurídico"
+        "parecer juridico"
       ]
     },
     {
       "titulo": "Aviso de Contratação Direta nº 9/2026",
       "descricao": "Contratação de empresa especializada para fornecimento, instalação, configuração, treinamento presencial e suporte técnico de sistema de sonorização profissional destinado ao Plenário da Câmara Municipal de Quatro Barras. Conforme especificações constantes no TR. Em consonância com o parecer jurídico 43/2026.",
+      "areas": [
+        "Tributario"
+      ],
       "orgao": "CAMARA MUNICIPAL DE QUATRO BARRAS",
-      "unidade": "Unidade administrativa",
       "uf": "PR",
       "municipio": "Quatro Barras",
       "esfera": "Municipal",
-      "poder": "Legislativo",
       "modalidade": "Dispensa",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-05-04T15:04:41.389634562",
-      "data_atualizacao": "2026-05-04T15:04:41.389634562",
-      "data_inicio_vigencia": "2026-05-04T17:00",
       "data_fim_vigencia": "2026-05-07T17:00",
       "numero_controle": "02177287000155-1-000023/2026",
       "url": "https://pncp.gov.br/app/compras/02177287000155/2026/23",
       "matched_keywords": [
-        "parecer jurídico"
+        "parecer juridico"
       ]
     },
     {
       "titulo": "Edital nº 8/2026",
       "descricao": "Contratação de empresa especializada na prestação de serviços de dedetização, desinsetização e desratização, a serem realizados em todas as áreas internas e externas, bem como na limpeza das caixas d’água das dependências da Câmara Municipal de Quatro Barras, conforme especificações constantes no TR. Em consonância com o parecer jurídico 39/2026.",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "CAMARA MUNICIPAL DE QUATRO BARRAS",
-      "unidade": "Unidade administrativa",
       "uf": "PR",
       "municipio": "Quatro Barras",
       "esfera": "Municipal",
-      "poder": "Legislativo",
       "modalidade": "Dispensa",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-29T14:25:10.309821130",
-      "data_atualizacao": "2026-04-29T14:25:10.309821130",
-      "data_inicio_vigencia": "2026-04-29T17:00",
       "data_fim_vigencia": "2026-05-05T17:00",
       "numero_controle": "02177287000155-1-000022/2026",
       "url": "https://pncp.gov.br/app/compras/02177287000155/2026/22",
       "matched_keywords": [
-        "parecer jurídico"
+        "parecer juridico"
       ]
     },
     {
       "titulo": "Edital nº 17/2026",
       "descricao": "ATA DE REGISTRO DE PREÇO PARA LOCAÇÃO DE MÁQUINAS PESADAS, INCLUINDO O FORNECIMENTO DE OPERADOR, PARA A PREFEITURA DO MUNICÍPIO DE SARAPUÍ. ",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "MUNICIPIO DE SARAPUI",
-      "unidade": "DIRETORIA DE OBRAS, VIAÇÃO E URBANISMO",
       "uf": "SP",
       "municipio": "Sarapuí",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Pregão - Eletrônico",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-29T12:07:18.786623358",
-      "data_atualizacao": "2026-04-29T12:07:18.786623358",
-      "data_inicio_vigencia": "2026-04-30T09:00",
       "data_fim_vigencia": "2026-05-18T09:00",
       "numero_controle": "46634341000110-1-000071/2026",
       "url": "https://pncp.gov.br/app/compras/46634341000110/2026/71",
       "matched_keywords": [
-        "parecer jurídico"
+        "parecer juridico"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 4/2025",
       "descricao": "SERVIÇOS NA ÁREA AMBIENTAL",
+      "areas": [
+        "Ambiental"
+      ],
       "orgao": "CONSORCIO INTERMUNICIPAL DE SERVICOS DO VALE DO TAQUARI",
-      "unidade": "CONSÓRCIO INTERMUNICIPAL DE SERVIÇOS DO VALE DO TAQUARI",
       "uf": "RS",
       "municipio": "Lajeado",
       "esfera": "Não se aplica",
-      "poder": "Executivo",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-07-11T09:07:49.610600",
-      "data_atualizacao": "2026-04-28T12:02:44.561022",
-      "data_inicio_vigencia": "2025-07-01T09:00",
       "data_fim_vigencia": "2027-06-30T07:59",
       "numero_controle": "07242772000189-1-000020/2025",
       "url": "https://pncp.gov.br/app/compras/07242772000189/2025/20",
       "matched_keywords": [
-        "parecer jurídico"
+        "parecer juridico"
       ]
     },
     {
       "titulo": "Edital nº 038/2026",
       "descricao": "Registro de Preços para futura e eventual Contratação de pessoa jurídica especializada no fornecimento de mão de obra para a prestação de serviços de VIGIAS, PORTEIROS e MONITORES ESCOLARES, visando atender às demandas contínuas das Secretarias Municipais.",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "MUNICIPIO DE CAMPO NOVO DO PARECIS",
-      "unidade": "PREFEITURA MUNICIPAL DE CAMPO NOVO DO PARECIS - MT",
       "uf": "MT",
       "municipio": "Campo Novo do Parecis",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Pregão - Eletrônico",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-24T09:25:38.260767585",
-      "data_atualizacao": "2026-04-24T09:25:38.260767585",
-      "data_inicio_vigencia": "2026-04-24T08:00",
       "data_fim_vigencia": "2026-05-11T08:00",
       "numero_controle": "24772287000136-1-000066/2026",
       "url": "https://pncp.gov.br/app/compras/24772287000136/2026/66",
       "matched_keywords": [
-        "parecer jurídico"
+        "parecer juridico"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 002/2026",
       "descricao": "CHAMAMENTO PÚBLICO PARA CREDENCIAMENTO DE PESSOAS FÍSICAS E JURÍDICAS COM COMPROVADO CONHECIMENTO E ATUAÇÃO NAS ÁREAS ARTÍSTICAS E CULTURAL, PARA EXERCEREM ATIVIDADE DE ANÁLISE E EMISSÃO DE PARECERES TÉCNICO DE PROJETOS CULTURAIS, CONFORME  POLÍTICA NACIONAL ALDIR BLANC CICLO 2 DE FOMENTO Á CULTURA (LEI FEDERAL Nº 14.399/2022), ATENDENDO AS NECESSIDADES DO DEPARTAMENTO DE CULTURA DA PREFEITURA MUNICIPAL DE CAPIM GROSSO- BAHIA.",
+      "areas": [
+        "Tributario"
+      ],
       "orgao": "MUNICIPIO DE CAPIM GROSSO",
-      "unidade": "SECRETARIA DE ADMINISTRAÇÃO",
       "uf": "BA",
       "municipio": "Capim Grosso",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-23T15:57:54.697237114",
-      "data_atualizacao": "2026-04-23T15:57:54.697237114",
-      "data_inicio_vigencia": "2026-04-23T08:30",
       "data_fim_vigencia": "2027-04-22T08:00",
       "numero_controle": "13230982000150-1-000071/2026",
       "url": "https://pncp.gov.br/app/compras/13230982000150/2026/71",
       "matched_keywords": [
-        "parecer jurídico"
+        "parecer juridico"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 03/2026",
       "descricao": "Credenciamento de pessoa física ou pessoa jurídica para prestação de serviços profissionais especializados em Assistente Social, Psicólogo(a) e Profissional de Educação Física,  visando atender às demandas do Programa de Fortalecimento do Sistema Único de Assistência Social no Rio Doce – PROFORT/SUAS, em apoio às atividades desenvolvidas pela Secretaria Municipal de Assistência Social do Município de Sobrália/MG.",
+      "areas": [
+        "Tributario"
+      ],
       "orgao": "MUNICIPIO DE SOBRALIA",
-      "unidade": "Unidade Única",
       "uf": "MG",
       "municipio": "Sobrália",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-23T15:50:02.520656845",
-      "data_atualizacao": "2026-04-23T15:50:02.520656845",
-      "data_inicio_vigencia": "2026-05-13T00:00",
       "data_fim_vigencia": "2027-05-13T23:59:59",
       "numero_controle": "18083055000178-1-000009/2026",
       "url": "https://pncp.gov.br/app/compras/18083055000178/2026/9",
       "matched_keywords": [
-        "parecer jurídico"
+        "parecer juridico"
       ]
     },
     {
       "titulo": "Edital nº 19/2026",
       "descricao": "ATA DE REGISTRO DE PREÇO PARA FORNECIMENTO DE MATERIAIS E MÃO DE OBRA VISANDO A IMPLANTAÇÃO DE ALAMBRADO, INCLUINDO MURETA DE CONCRETO, POSTES/ESCORAS E ARAMES, LOGRADOUROS E IMÓVEIS PÚBLICOS DO MUNICÍPIO DE SARAPUÍ.",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "MUNICIPIO DE SARAPUI",
-      "unidade": "DIRETORIA DE OBRAS, VIAÇÃO E URBANISMO",
       "uf": "SP",
       "municipio": "Sarapuí",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Pregão - Eletrônico",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-22T13:03:26.156838938",
-      "data_atualizacao": "2026-04-22T13:03:26.156838938",
-      "data_inicio_vigencia": "2026-04-23T09:00",
       "data_fim_vigencia": "2026-05-11T09:00",
       "numero_controle": "46634341000110-1-000058/2026",
       "url": "https://pncp.gov.br/app/compras/46634341000110/2026/58",
       "matched_keywords": [
-        "parecer jurídico"
+        "parecer juridico"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº CPC 7/2026",
       "descricao": "Credenciamento de pessoas jurídicas interessadas em atuar na Comissão de Avaliação e Seleção (CAS) para emissão de pareceres técnicos sobre projetos culturais a serem financiados com verbas da Política Nacional Aldir Blanc de Fomento à Cultura (PNAB), em conformidade com a Lei Federal nº 14.399, de 08 de julho de 2022.",
+      "areas": [
+        "Tributario"
+      ],
       "orgao": "MUNICIPIO DE FARROUPILHA",
-      "unidade": "Departamento de Cultura",
       "uf": "RS",
       "municipio": "Farroupilha",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-22T12:59:25.026860070",
-      "data_atualizacao": "2026-04-22T12:59:25.026860070",
-      "data_inicio_vigencia": "2026-04-23T08:00",
       "data_fim_vigencia": "2026-05-27T23:59",
       "numero_controle": "89848949000150-1-000490/2026",
       "url": "https://pncp.gov.br/app/compras/89848949000150/2026/490",
       "matched_keywords": [
-        "parecer jurídico"
+        "parecer juridico"
       ]
     },
     {
       "titulo": "Edital nº 27/2026",
       "descricao": "AQUISIÇÃO DE COLHEDORA DE FORRAGEM PARA ÁREA TOTAL, COM ACIONAMENTO TRATORIZADO, DESTINADA À PATRULHA AGRÍCOLA DO MUNICÍPIO.",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "MUNICIPIO DE SARAPUI",
-      "unidade": "DIRETORIA DE AGRIC., ABASTECIMENTO, MEIO AMBIENTE E TURISMO",
       "uf": "SP",
       "municipio": "Sarapuí",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Pregão - Eletrônico",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-17T16:03:43.782111899",
-      "data_atualizacao": "2026-04-17T16:03:43.782111899",
-      "data_inicio_vigencia": "2026-04-17T17:00",
       "data_fim_vigencia": "2026-05-07T09:00",
       "numero_controle": "46634341000110-1-000057/2026",
       "url": "https://pncp.gov.br/app/compras/46634341000110/2026/57",
       "matched_keywords": [
-        "parecer jurídico"
+        "parecer juridico"
       ]
     },
     {
       "titulo": "Edital nº 0086/2026",
       "descricao": "Contratação de pessoa jurídica da área de arquitetura e/ou engenharia para\nelaboração do projeto básico e executivo de obras de engenharia, estudos e pareceres\nnecessários à recomposição, ampliação e modernização do sistema de proteção hidráulica e\nestrutural localizado no município de Canoas/RS.",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "MUNICIPIO DE CANOAS",
-      "unidade": "PREFEITURA MUNICIPAL DE CANOAS PREFEITURA MUNICIPAL DE CANOAS",
       "uf": "RS",
       "municipio": "Canoas",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Concorrência - Eletrônica",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-14T13:40:52.181271792",
-      "data_atualizacao": "2026-04-14T13:40:52.181271792",
-      "data_inicio_vigencia": "2026-04-14T12:58",
       "data_fim_vigencia": "2026-06-08T08:00",
       "numero_controle": "88577416000118-1-000064/2026",
       "url": "https://pncp.gov.br/app/compras/88577416000118/2026/64",
       "matched_keywords": [
-        "parecer jurídico"
+        "parecer juridico"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 004/2026",
       "descricao": "Credenciamento de pessoas jurídicas especializadas na prestação de serviços médico-hospitalares para realização de procedimentos cirúrgicos eletivos, incluindo pré-operatório, intraoperatório e pós-operatório imediato, em atendimento ao Programa Estadual “Fila Zero na Cirurgia”, instituído pelo Decreto Estadual nº 1.083/2024.",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "MUNICIPIO DE CAMPO NOVO DO PARECIS",
-      "unidade": "PREFEITURA MUNICIPAL DE CAMPO NOVO DO PARECIS - MT",
       "uf": "MT",
       "municipio": "Campo Novo do Parecis",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Credenciamento",
       "situacao": "Revogada",
       "valor": null,
       "data_publicacao": "2026-03-18T08:23:31.391474",
-      "data_atualizacao": "2026-04-10T15:25:29.572912694",
-      "data_inicio_vigencia": "2026-03-18T08:00",
       "data_fim_vigencia": "2028-03-18T08:00",
       "numero_controle": "24772287000136-1-000041/2026",
       "url": "https://pncp.gov.br/app/compras/24772287000136/2026/41",
       "matched_keywords": [
-        "parecer jurídico"
+        "parecer juridico"
       ]
     },
     {
       "titulo": "Edital nº 50/2026",
       "descricao": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS DE LOCAÇÃO DE SISTEMA WEB, COM FORNECIMENTO DE LICENÇA DE USO EM FORMATO SAAS PARA GESTÃO ELETRÔNICA DE DOCUMENTOS E PROCESSOS DIGITAIS, COM OS RESPECTIVOS SERVIÇOS DE IMPLANTAÇÃO, HOSPEDAGEM, TREINAMENTO, PARAMETRIZAÇÃO E SUPORTE TÉCNICO REMOTO, VISANDO A COMUNICAÇÃO INTERNA, EXTERNA, GESTÃO DOCUMENTAL ELETRÔNICA E CENTRAL DE ATENDIMENTO DA PREFEITURA MUNICIPAL DE JUNQUEIRÓPOLIS.",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "MUNICIPIO DE JUNQUEIROPOLIS",
-      "unidade": "MUNICIPIO DE JUNQUEIROPOLIS",
       "uf": "SP",
       "municipio": "Junqueirópolis",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Pregão - Eletrônico",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-10T14:18:50.204359500",
-      "data_atualizacao": "2026-04-10T14:18:50.204359500",
-      "data_inicio_vigencia": "2026-04-11T00:01",
       "data_fim_vigencia": "2026-05-11T08:30",
       "numero_controle": "44881449000181-1-000066/2026",
       "url": "https://pncp.gov.br/app/compras/44881449000181/2026/66",
       "matched_keywords": [
-        "parecer jurídico"
+        "parecer juridico"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 02/2026",
       "descricao": "[LICITANET] - CREDENCIAMENTO DE PESSOAS JURÍDICAS ESPECIALIZADAS NA PRESTAÇÃO DE SERVIÇOS MÉDICOS DESTINADOS AO SUPORTE ASSISTENCIAL DA UNIDADE DE TERAPIA INTENSIVA (UTI) DO HOSPITAL MUNICIPAL DE ROLIM DE MOURA/RO, NAS MODALIDADES DE TELEMEDICINA E ATENDIMENTO PRESENCIAL, CONFORME DEMANDA DA SECRETARIA MUNICIPAL DE SAÚDE – SEMUSA.",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "MUNICIPIO DE ROLIM DE MOURA",
-      "unidade": "MUNICÍPIO DE ROLIM DE MOURA/RO",
       "uf": "RO",
       "municipio": "Rolim de Moura",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-08T11:23:07.024534561",
-      "data_atualizacao": "2026-04-08T11:23:07.024534561",
-      "data_inicio_vigencia": "2026-05-05T00:00",
       "data_fim_vigencia": "2026-08-04T00:00",
       "numero_controle": "04394805000118-1-000062/2026",
       "url": "https://pncp.gov.br/app/compras/04394805000118/2026/62",
       "matched_keywords": [
-        "parecer jurídico"
+        "parecer juridico"
       ]
     },
     {
       "titulo": "Edital nº 9/2026",
       "descricao": "Contratação de empresa especializada para implementação de projeto de modernização da gestão pública para Prefeitura Municipal de Astorga, Estado do Paraná, com fornecimento de serviços especializados, conforme condições, quantidades, exigências e especificações discriminadas em Edital, Termo de Referência e seus demais anexos integrantes.",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "MUNICIPIO DE ASTORGA",
-      "unidade": "Unidade administrativa",
       "uf": "PR",
       "municipio": "Astorga",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Concorrência - Eletrônica",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-07T11:30:32.837638425",
-      "data_atualizacao": "2026-04-07T11:30:32.837638425",
-      "data_inicio_vigencia": "2026-04-01T08:00",
       "data_fim_vigencia": "2026-05-28T08:59",
       "numero_controle": "75743377000130-1-000058/2026",
       "url": "https://pncp.gov.br/app/compras/75743377000130/2026/58",
       "matched_keywords": [
-        "parecer jurídico"
+        "parecer juridico"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 002-26CR-PMG/2026",
       "descricao": "Credenciamento de serviço na área de perícia médica, pessoa física ou jurídica, com Emissão de Pareceres (Laudos), objetinvado atender a demanda de processos administrativos de redução de carga horária dos servidores públicos municipais prevista na Lei Nº 1.677 de 05 de setembro de 2024.",
+      "areas": [
+        "Tributario",
+        "Administrativo"
+      ],
       "orgao": "MUNICIPIO DE GUANAMBI",
-      "unidade": "SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO",
       "uf": "BA",
       "municipio": "Guanambi",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-06T14:51:49.382511441",
-      "data_atualizacao": "2026-04-06T14:51:49.382511441",
-      "data_inicio_vigencia": "2026-04-13T08:00",
       "data_fim_vigencia": "2027-04-13T08:00",
       "numero_controle": "13982640000196-1-000036/2026",
       "url": "https://pncp.gov.br/app/compras/13982640000196/2026/36",
       "matched_keywords": [
-        "parecer jurídico"
+        "parecer juridico"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 003/2026",
       "descricao": "CREDENCIAMENTO DE PESSOA JURÍDICA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS DE ACOLHIMENTO INSTITUCIONAL DE IDOSOS (ILPI), GRAU I, II E III E RESIDÊNCIA INCLUSIVA, PARA JOVENS E ADULTOS, MEDIANTE ORDEM JUDICIAL OU PARECER DE PROFISSIONAIS APTOS DO QUADRO DA SECRETARIA DE DESENVOLVIMENTO SOCIAL.",
+      "areas": [
+        "Tributario"
+      ],
       "orgao": "MUNICIPIO DE NOVA SERRANA",
-      "unidade": "Unidade Única",
       "uf": "MG",
       "municipio": "Nova Serrana",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-02-12T15:02:56.007911",
-      "data_atualizacao": "2026-04-01T13:39:42.475450394",
-      "data_inicio_vigencia": "2026-02-13T00:00",
       "data_fim_vigencia": "2027-02-12T23:59:59",
       "numero_controle": "18291385000159-1-000021/2026",
       "url": "https://pncp.gov.br/app/compras/18291385000159/2026/21",
       "matched_keywords": [
-        "parecer jurídico"
+        "parecer juridico"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 1/2026",
       "descricao": "CREDENCIAMENTO de pessoas jurídicas, na modalidade cooperativas de trabalho médico, para a prestação complementar de serviços médicos no âmbito do Sistema Único de Saúde (SUS) municipal.",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "MUNICIPIO DE SANTA CRUZ",
-      "unidade": "Prefeitura",
       "uf": "RN",
       "municipio": "Santa Cruz",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-03-25T14:59:02.461927",
-      "data_atualizacao": "2026-03-25T14:59:02.461927",
-      "data_inicio_vigencia": "2026-03-10T09:00",
       "data_fim_vigencia": "2027-03-09T09:00",
       "numero_controle": "08358889000195-1-000069/2026",
       "url": "https://pncp.gov.br/app/compras/08358889000195/2026/69",
       "matched_keywords": [
-        "parecer jurídico"
+        "parecer juridico"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 01/2025",
       "descricao": "Credenciamento de pessoas físicas e jurídicas para a prestação de serviços na área de Perícia Médica com Emissão de Pareceres (Laudos), a fim de atender a demanda do ILHABELA PREV, conforme especificações do Termo de Referência.\n",
+      "areas": [
+        "Tributario"
+      ],
       "orgao": "INSTITUTO DE PREVIDENCIA DOS SERVIDORES PUBLICOS DO MUNICIPIO DE ILHABELA - ILHABELA PREV.",
-      "unidade": "Instituto de Previdência da Estância Balneária de Ilhabela",
       "uf": "SP",
       "municipio": "Ilhabela",
       "esfera": "Municipal",
-      "poder": "Executivo",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-02-19T10:53:57.198713",
-      "data_atualizacao": "2026-03-20T12:22:41.956219",
-      "data_inicio_vigencia": "2025-02-19T12:00",
       "data_fim_vigencia": "2027-02-19T12:00",
       "numero_controle": "07984395000153-1-000009/2025",
       "url": "https://pncp.gov.br/app/compras/07984395000153/2025/9",
       "matched_keywords": [
-        "parecer jurídico"
+        "parecer juridico"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 7/2026",
       "descricao": "CREDENCIAMENTO DE PESSOAS JURÍDICAS PARA PRESTAÇÃO DE SERVIÇOS EM CONSULTAS DE ESPECIALIDADES MÉDICAS PARA ATENDER AS NECESSIDADES DA SECRETARIA MUNICIPAL DE SAÚDE DO MUNICÍPIO DE FRANCISCO DUMONT",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "MUNICIPIO DE FRANCISCO DUMONT",
-      "unidade": "MUNICIPIO DE FRANCISCO DUMONT",
       "uf": "MG",
       "municipio": "Francisco Dumont",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-03-03T15:16:11.098661766",
-      "data_atualizacao": "2026-03-03T15:16:11.098661766",
-      "data_inicio_vigencia": "2026-03-04T08:00",
       "data_fim_vigencia": "2028-12-31T17:00",
       "numero_controle": "16885485000188-1-000011/2026",
       "url": "https://pncp.gov.br/app/compras/16885485000188/2026/11",
       "matched_keywords": [
-        "parecer jurídico"
+        "parecer juridico"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 001/2026",
       "descricao": "[Portal de Compras Públicas] - CREDENCIAMENTO DE PESSOAS JURÍDICAS PARA PRESTAÇÃO DE SERVIÇOS MÉDICOS DESTINADOS AO ATENDIMENTO DA DEMANDA DO FUNDO MUNICIPAL DE SAÚDE DE MOJUÍ DOS CAMPOS/PA.",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "MUNICIPIO DE MOJUI DOS CAMPOS",
-      "unidade": "FUNDO MUNICIPAL DE SAÚDE",
       "uf": "PA",
       "municipio": "Mojuí dos Campos",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-03-02T10:38:25.821448901",
-      "data_atualizacao": "2026-03-02T10:38:25.821448901",
-      "data_inicio_vigencia": "2026-03-02T14:00",
       "data_fim_vigencia": "2027-03-02T14:00",
       "numero_controle": "17349848000123-1-000010/2026",
       "url": "https://pncp.gov.br/app/compras/17349848000123/2026/10",
       "matched_keywords": [
-        "parecer jurídico"
+        "parecer juridico"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº CRE 28/2025",
       "descricao": "CREDENCIAMENTO DE PESSOA JURÍDICA ESPECIALIZADA E REGISTRADA JUNTO AO CONSELHO REGIONAL DE CORRETORES DE IMÓVEIS (CRECI), CREA SC OU CAU SC, PARA PRESTAÇÃO DE SERVIÇO TÉCNICO DE AVALIAÇÃO DE BENS IMÓVEIS, COM EMISSÃO DE LAUDO OU PARECER TÉCNICO DE AVALIAÇÃO, NOS TERMOS DA LEGISLAÇÃO VIGENTE, EM ATENDIMENTO A DEMANDA DO MUNICÍPIO DE PONTE SERRADA/SC.",
+      "areas": [
+        "Tributario"
+      ],
       "orgao": "MUNICIPIO DE PONTE SERRADA",
-      "unidade": "PREFEITURA MUNICIPAL DE PONTE SERRADA - SC",
       "uf": "SC",
       "municipio": "Ponte Serrada",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-08-19T15:46:06.374340",
-      "data_atualizacao": "2026-02-27T09:02:59.754495",
-      "data_inicio_vigencia": "2025-08-20T08:00",
       "data_fim_vigencia": "2027-08-20T08:00",
       "numero_controle": "82777236000101-1-000170/2025",
       "url": "https://pncp.gov.br/app/compras/82777236000101/2025/170",
       "matched_keywords": [
-        "parecer jurídico"
+        "parecer juridico"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 01/2026",
       "descricao": "[LICITANET] - CREDENCIAMENTO DE PESSOA FÍSICA OU JURÍDICA PARA PRESTAÇÃO DE SERVIÇOS TÉCNICOS DE ASSISTÊNCIA SOCIAL, CONSISTENTES NA EMISSÃO DE PARECER SOCIAL, NO ÂMBITO DA SECRETARIA MUNICIPAL DE CULTURA DE SANTA RITA DO TOCANTINS/TO.",
+      "areas": [
+        "Tributario"
+      ],
       "orgao": "MUNICIPIO DE SANTA RITA DO TOCANTINS",
-      "unidade": "MUNICÍPIO DE SANTA RITA DO TOCANTINS/TO",
       "uf": "TO",
       "municipio": "Santa Rita do Tocantins",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-02-09T12:06:59.172280",
-      "data_atualizacao": "2026-02-22T10:10:44.645999",
-      "data_inicio_vigencia": "2026-02-11T00:00",
       "data_fim_vigencia": "2028-02-11T00:00",
       "numero_controle": "01613127000149-1-000003/2026",
       "url": "https://pncp.gov.br/app/compras/01613127000149/2026/3",
       "matched_keywords": [
-        "parecer jurídico"
+        "parecer juridico"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 1/2026",
       "descricao": "[Portal de Compras Públicas] - CREDENCIAMENTO DE PROFISSIONAIS HABILITADOS, PESSOAS FÍSICAS OU JURÍDICAS, NAS ÁREA DE PSICOLOGIA, PARA PRESTAÇÃO DE SERVIÇOS ESPECIALIZADOS DE AVALIAÇÃO EDUCACIONAL INDIVIDUALIZADA A ESTUDANTES DA REDE MUNICIPAL DE ENSINO DE CURITIBANOS/SC, CONFORME DEMANDA DA SECRETARIA MUNICIPAL DE EDUCAÇÃO. DE ACORDO COM O ANEXO I DESTE EDITAL, NOS TERMOS E NAS CONDIÇÕES ESTABELECIDAS NO PRESENTE INSTRUMENTO CONVOCATÓRIO E SEUS ANEXOS, QUE SE SUBORDINAM ÀS NORMAS GERAIS DA LEI FEDERAL Nº 14.133/2021 E DECRETO MUNICIPAL Nº 6.083/2024.",
+      "areas": [
+        "Tributario"
+      ],
       "orgao": "MUNICIPIO DE CURITIBANOS",
-      "unidade": "FUNDO MUNICIPAL DE EDUCAÇÃO",
       "uf": "SC",
       "municipio": "Curitibanos",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-02-18T18:21:51.214685407",
-      "data_atualizacao": "2026-02-18T18:21:51.214685407",
-      "data_inicio_vigencia": "2026-02-23T13:15",
       "data_fim_vigencia": "2027-02-23T13:00",
       "numero_controle": "83754044000134-1-000033/2026",
       "url": "https://pncp.gov.br/app/compras/83754044000134/2026/33",
       "matched_keywords": [
-        "parecer jurídico"
+        "parecer juridico"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº CD-003/2026",
       "descricao": "CREDENCIAMENTO DE PESSOA JURÍDICA PARA PRESTAÇÃO DE SERVIÇOS MÉDICOS ESPECIALIZADOS NO ÂMBITO DA ORGANIZAÇÃO DE PROCURA DE ÓRGÃOS DO EXTREMO SUL (OPO), DO SERVIÇO DE OXIGENOTERAPIA DOMICILIAR PROLONGADA E DO PROGRAMA MELHOR EM CASA, cujas especificações técnicas, quantidades e demais condições encontram-se detalhados neste instrumento, a fim de atender as demandas da Secretaria Municipal de Saúde",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "unidade": "Prefeitura Municipal de Teixeira de Freitas",
       "uf": "BA",
       "municipio": "Teixeira de Freitas",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-02-11T21:26:30.513440020",
-      "data_atualizacao": "2026-02-11T21:26:30.513440020",
-      "data_inicio_vigencia": "2026-02-24T09:00",
       "data_fim_vigencia": "2027-02-24T09:00",
       "numero_controle": "13650403000128-1-000041/2026",
       "url": "https://pncp.gov.br/app/compras/13650403000128/2026/41",
       "matched_keywords": [
-        "parecer jurídico"
+        "parecer juridico"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº PRI 1/2026",
       "descricao": "Inexibilidade para contratação de empresa, vinculada ao Credenciamento 001/2026 - Credenciamento de pessoa jurídica especializada e registrada junto ao Conselho Regional de Corretores de Imóveis (CRECI), CREA SC ou CAU SC, para prestação de serviço técnico de avaliação de bens imóveis, com emissão de laudo ou parecer técnico de avaliação, nos termos da tabela abaixo, conforme condições e exigências estabelecidas neste instrumento.",
+      "areas": [
+        "Tributario"
+      ],
       "orgao": "MUNICIPIO DE BOM RETIRO",
-      "unidade": "Sec. Municipal de Adm Fazenda",
       "uf": "SC",
       "municipio": "Bom Retiro",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-01-26T11:05:55.711763",
-      "data_atualizacao": "2026-01-26T11:05:55.711763",
-      "data_inicio_vigencia": "2026-01-26T00:00",
       "data_fim_vigencia": "2028-01-26T00:00",
       "numero_controle": "82777343000121-1-000020/2026",
       "url": "https://pncp.gov.br/app/compras/82777343000121/2026/20",
       "matched_keywords": [
-        "parecer jurídico"
+        "parecer juridico"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 2026.01.15.1/2026",
       "descricao": "Credenciamento de pessoa jurídicas especializadas para serem prestadores de serviços de saúde ao Município de Farias Brito/CE, para a realização de procedimentos na rede assistencial vinculada ao Sistema Único de Sa¬úde (SUS)",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "MUNICIPIO DE FARIAS BRITO",
-      "unidade": "PREFEITURA MUNICIPAL DE FARIAS BRITO - CE",
       "uf": "CE",
       "municipio": "Farias Brito",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-01-21T16:32:46.266951401",
-      "data_atualizacao": "2026-01-21T16:32:46.266951401",
-      "data_inicio_vigencia": "2026-01-19T00:00",
       "data_fim_vigencia": "2027-01-19T23:59",
       "numero_controle": "07595572000100-1-000005/2026",
       "url": "https://pncp.gov.br/app/compras/07595572000100/2026/5",
       "matched_keywords": [
-        "parecer jurídico"
+        "parecer juridico"
       ]
     },
     {
       "titulo": "Edital nº 334/2026",
       "descricao": "CHAMAMENTO PÚBLICO PARA CREDENCIAMENTO DE PRESTADORES DE SERVIÇOS EM SAÚDE (PESSOA FÍSICA) E PRESTADORES DE SERVIÇOS MÉDICOS (PESSOA JURÍDICA).",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "FUNDO MUNICIPAL DE SAUDE DE HIDROLANDIA",
-      "unidade": "SEC MUN DE SAÚDE E SANEAMENTO",
       "uf": "GO",
       "municipio": "Hidrolândia",
       "esfera": "Municipal",
-      "poder": "Executivo",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-01-20T14:58:08.108772138",
-      "data_atualizacao": "2026-01-20T14:58:08.108772138",
-      "data_inicio_vigencia": "2026-01-08T14:49",
       "data_fim_vigencia": "2026-12-31T17:00",
       "numero_controle": "11320964000133-1-000001/2026",
       "url": "https://pncp.gov.br/app/compras/11320964000133/2026/1",
       "matched_keywords": [
-        "parecer jurídico"
+        "parecer juridico"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 12/2025",
       "descricao": "CREDENCIAMENTO DE PESSOA FÍSICA E OU JURÍDICA, PARA A  PRESTAÇÃO DE SERVIÇOS MÉDICOS EM SEGURANÇA NO TRABALHO, GENERALISTAS, GINECOLOGISTA E PEDIATRA, EM ATENDIMENTO À SOLICITAÇÃO DA SECRETARIA MUNICIPAL DE SAÚDE E SECRETÁRIA DE ADMINISTRAÇÃO DA PREFEITURA DE FELÍCIO DOS SANTOS-MG",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "MUNICIPIO DE FELICIO DOS SANTOS",
-      "unidade": "Unidade Única",
       "uf": "MG",
       "municipio": "Felício dos Santos",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-12-31T15:41:20.457793",
-      "data_atualizacao": "2026-01-19T13:58:16.856546722",
-      "data_inicio_vigencia": "2026-01-01T09:00",
       "data_fim_vigencia": "2026-12-31T09:00",
       "numero_controle": "17754201000187-1-000093/2025",
       "url": "https://pncp.gov.br/app/compras/17754201000187/2025/93",
       "matched_keywords": [
-        "parecer jurídico"
+        "parecer juridico"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 022/2025",
       "descricao": "[Portal de Compras Públicas] - CREDENCIAMENTO DE PESSOAS JURÍDICAS, PARA A PRESTAÇÃO DE SERVIÇOS MÉDICOS EM DIVERSAS ESPECIALIDADES, A SEREM EXECUTADOS NO HOSPITAL MUNICIPAL DE PLACAS/PA",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "MUNICIPIO DE PLACAS",
-      "unidade": "FUNDO MUNICIPAL DE SAUDE",
       "uf": "PA",
       "municipio": "Placas",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-12-30T23:53:26.437196",
-      "data_atualizacao": "2026-01-16T10:51:03.170146026",
-      "data_inicio_vigencia": "2026-01-16T11:00",
       "data_fim_vigencia": "2026-12-31T14:00",
       "numero_controle": "01611858000155-1-000142/2025",
       "url": "https://pncp.gov.br/app/compras/01611858000155/2025/142",
       "matched_keywords": [
-        "parecer jurídico"
+        "parecer juridico"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 001/2025",
       "descricao": "Este procedimento tem por objeto o credenciamento de profissional médico especialista ou empresa na área de perícia médica, conforme legislação vigente, não havendo qualquer vínculo empregatício, tendo como escopo atestar as condições de saúde, diagnóstico, prognóstico, terapêutica e outras dos servidores ativos e inativos segurados do IPREM com finalidade de avaliar capacidade laborativa, para a instrução de processos administrativos de Aposentadoria por Invalidez, Aposentadoria Especial, Pensão por Morte, reavaliação periódica de aposentadorias por invalidez, conforme previsto na Lei Municipal n.º 1.945/2005 e suas alterações, bem como avaliação e emissão de laudo para Isenção de Imposto de Renda, pareceres em processos de compensação previdenciária (COMPREV) entre os regimes de previdência, assistência técnica judicial decorrente dos laudos emitidos e participar em Junta Médica para emissão de Relatório Pericial Conclusivo.\nO objeto inclui, ainda, a prestação de serviço nas hipóteses em que os laudos emitidos sejam objeto de questionamento judicial.\n",
+      "areas": [
+        "Tributario",
+        "Previdenciario",
+        "Administrativo"
+      ],
       "orgao": "INSTITUTO DE PREVIDENCIA MUNICIPAL DE TRES MARIAS - IPREM",
-      "unidade": "Unidade Única",
       "uf": "MG",
       "municipio": "Três Marias",
       "esfera": "Municipal",
-      "poder": "Executivo",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-12-12T11:40:37.917734039",
-      "data_atualizacao": "2025-12-12T11:40:37.917734039",
-      "data_inicio_vigencia": "2025-12-14T00:00",
       "data_fim_vigencia": "2026-12-14T23:59:59",
       "numero_controle": "06069513000135-1-000037/2025",
       "url": "https://pncp.gov.br/app/compras/06069513000135/2025/37",
       "matched_keywords": [
-        "parecer jurídico"
+        "parecer juridico"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 0009/2025",
       "descricao": "Chamamento público para credenciamento de pessoa(s) físicas e/ou jurídica(s) especializada(s) para a prestação de serviços de médicos, nas especialidades de pediatria, ginecologia, médico do trabalho, urologista e ortopedista, nas unidades de saúde do município de Couto de Magalhães de Minas/MG.",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "MUNICIPIO DE COUTO DE MAGALHAES DE MINAS",
-      "unidade": "Unidade Única",
       "uf": "MG",
       "municipio": "Couto de Magalhães de Minas",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-02-03T12:53:21.425216",
-      "data_atualizacao": "2025-12-11T12:34:56.592684835",
-      "data_inicio_vigencia": "2025-02-03T00:00",
       "data_fim_vigencia": "2026-12-31T23:59:59",
       "numero_controle": "17754177000186-1-000014/2025",
       "url": "https://pncp.gov.br/app/compras/17754177000186/2025/14",
       "matched_keywords": [
-        "parecer jurídico"
+        "parecer juridico"
       ]
     },
     {
       "titulo": "Edital nº 5/2025",
       "descricao": "CREDENCIAMENTO DE PESSOAS JURÍDICAS INTERESSADAS, PARA CONCESSÃO DE DESCONTOS E BENEFÍCIOS NA AQUISIÇÃO DE PRODUTOS E SERVIÇOS, NO ÂMBITO DO PROGRAMA DE BENEFÍCIOS DOS SERVIDORES MUNICIPAIS DA EDUCAÇÃO - PROBEN+, DA SECRETARIA MUNICIPAL DE EDUCAÇÃO- SEMED",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "SECRETARIA MUNICIPAL DE EDUCACAO (SEMED)",
-      "unidade": "Secretaria Municipal de Educação",
       "uf": "AM",
       "municipio": "Manaus",
       "esfera": "Municipal",
-      "poder": "Executivo",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-12-10T13:16:48.028576806",
-      "data_atualizacao": "2025-12-10T13:16:48.028576806",
-      "data_inicio_vigencia": "2025-12-09T17:20",
       "data_fim_vigencia": "2026-12-08T17:00",
       "numero_controle": "04312674000182-1-000055/2025",
       "url": "https://pncp.gov.br/app/compras/04312674000182/2025/55",
       "matched_keywords": [
-        "parecer jurídico"
+        "parecer juridico"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº (1018) | 27-0/2025",
       "descricao": "Chamamento Público tem por objeto CREDENCIAR PESSOA JURÍDICA PARA A PRESTAÇÃO DE SERVIÇOS MÉDICOS ESPECIALIZADOS (JUNTA MÉDICA) COM ATUAÇÃO NO MUNICÍPO DE DIANÓPOLIS/TO",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "MUNICIPIO DE DIANOPOLIS",
-      "unidade": "PREFEITURA MUNICIPAL DE DIANOPOLIS",
       "uf": "TO",
       "municipio": "Dianópolis",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-12-10T08:05:39.663928",
-      "data_atualizacao": "2025-12-10T08:05:39.663928",
-      "data_inicio_vigencia": "2025-12-10T09:00",
       "data_fim_vigencia": "2026-11-30T23:59",
       "numero_controle": "01138957000161-1-000066/2025",
       "url": "https://pncp.gov.br/app/compras/01138957000161/2025/66",
       "matched_keywords": [
-        "parecer jurídico"
+        "parecer juridico"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 005/2025",
       "descricao": "Credenciamento de pessoas jurídicas especializadas na realização de Exame Citopatológico Cervico-Vaginal / Microflora – Rastreamento e/ou Repetição/Seguimento (Citopatológico do Colo de Útero).",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "MUNICIPIO DE CAMPO NOVO DO PARECIS",
-      "unidade": "PREFEITURA MUNICIPAL DE CAMPO NOVO DO PARECIS - MT",
       "uf": "MT",
       "municipio": "Campo Novo do Parecis",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-11-17T09:37:30.821287187",
-      "data_atualizacao": "2025-11-17T09:37:30.821287187",
-      "data_inicio_vigencia": "2025-11-07T08:00",
       "data_fim_vigencia": "2028-12-31T08:00",
       "numero_controle": "24772287000136-1-000190/2025",
       "url": "https://pncp.gov.br/app/compras/24772287000136/2025/190",
       "matched_keywords": [
-        "parecer jurídico"
+        "parecer juridico"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 003/2025",
       "descricao": "CREDENCIAMENTO DE PESSOAS JURÍDICAS OU FÍSICAS PARA PRESTAÇÃO DE SERVIÇOS NA ÁREA DE ATENDIMENTO MÉDICO, AMBULATORIAL, DIAGNÓSTICO, EXAMES MÉDICOS HOSPITALARES E DEMAIS PROFISSIONAIS DA SAÚDE, COM PARÂMETRO DE PREÇO DEFINIDO EM TABELA DIFERENCIADA, DESTINADOS A PACIENTES DA REDE SUS-SISTEMA ÚNICO DE SAÚDE DOS MUNICÍPIOS CONSORCIADOS PARA ATENDER A DEMANDA DO CONSÓRCIO INTERMUNICIPAL DE GESTÃO E SAÚDE DA MICRORREGIÃO DO MÉDIO MUCURI - CISMEM",
+      "areas": [
+        "Tributario"
+      ],
       "orgao": "CONSORCIO INTERMUNICIPAL DE GESTAO E SAUDE DA MICROREGIAO DO MEDIO MUCURI",
-      "unidade": "Unidade Única",
       "uf": "MG",
       "municipio": "Águas Formosas",
       "esfera": "Não se aplica",
-      "poder": "Executivo",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-10-17T10:58:30.837681",
-      "data_atualizacao": "2025-11-07T11:11:11.827214766",
-      "data_inicio_vigencia": "2025-10-17T00:00",
       "data_fim_vigencia": "2026-10-17T23:59:59",
       "numero_controle": "00688535000105-1-000006/2025",
       "url": "https://pncp.gov.br/app/compras/00688535000105/2025/6",
       "matched_keywords": [
-        "parecer jurídico"
+        "parecer juridico"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº CRE 26/2025",
       "descricao": "Credenciamento de pessoa físicas e jurídicas para exercerem as atividades de análise e emissão de parecer técnico e compor bancas presenciais de projetos culturais inscritos nos editais promovidos pela Secretaria de Comunicação, Cultura, Turismo e Eventos e/ou participar de banca avaliadora em eventos competitivos do Município de Joaçaba/SC.",
+      "areas": [
+        "Tributario"
+      ],
       "orgao": "MUNICIPIO DE JOACABA",
-      "unidade": "PREFEITURA MUNICIPAL DE JOAÇABA",
       "uf": "SC",
       "municipio": "Joaçaba",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-10-10T16:01:57.483067553",
-      "data_atualizacao": "2025-10-10T16:01:57.483067553",
-      "data_inicio_vigencia": "2025-10-10T16:00",
       "data_fim_vigencia": "2027-10-10T19:00",
       "numero_controle": "82939380000199-1-000237/2025",
       "url": "https://pncp.gov.br/app/compras/82939380000199/2025/237",
       "matched_keywords": [
-        "parecer jurídico"
+        "parecer juridico"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 16/2025",
       "descricao": "[Portal de Compras Públicas] - CREDENCIAMENTO DE PESSOAS FÍSICAS OU JURÍDICAS ESPECIALIZADAS NA AVALIAÇÃO DE IMÓVEIS, PARA A PRESTAÇÃO DE SERVIÇOS E ELABORAÇÃO DE PARECER TÉCNICO DE AVALIAÇÃO MERCADOLÓGICA (PTAM) EM CONFORMIDADE COM A NBR 14653, A FIM DE SUBSIDIAR AS DEMANDAS ADMINISTRATIVAS, JURÍDICAS E PATRIMONIAIS DA PREFEITURA MUNICIPAL DE BRUSQUE.",
+      "areas": [
+        "Administrativo"
+      ],
       "orgao": "MUNICIPIO DE BRUSQUE",
-      "unidade": "Secretaria Municipal de Fazenda",
       "uf": "SC",
       "municipio": "Brusque",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-09-26T11:21:53.147208348",
-      "data_atualizacao": "2025-09-26T11:21:53.147208348",
-      "data_inicio_vigencia": "2025-08-27T08:40",
       "data_fim_vigencia": "2026-08-27T08:40",
       "numero_controle": "83102343000194-1-000151/2025",
       "url": "https://pncp.gov.br/app/compras/83102343000194/2025/151",
       "matched_keywords": [
-        "parecer jurídico"
+        "parecer juridico"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº CRE 12/2025",
       "descricao": "CREDENCIAMENTO DE PESSOAS JURÍDICAS PARA PRESTAÇÃO DE SERVIÇOS DE GEOLOGIA, VOLTADOS AO LEVANTAMENTO, ANÁLISE E MONITORAMENTO AMBIENTAL, GESTÃO DE RECURSOS NATURAIS E MITIGAÇÃO DE IMPACTOS, para atender às demandas da Secretaria de Desenvolvimento Econômico do Município de Sapezal-MT.",
+      "areas": [
+        "Ambiental"
+      ],
       "orgao": "MUNICIPIO DE SAPEZAL",
-      "unidade": "MUNICÍPIO DE SAPEZAL/MT",
       "uf": "MT",
       "municipio": "Sapezal",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-09-22T11:11:19.148181",
-      "data_atualizacao": "2025-09-22T11:11:19.148181",
-      "data_inicio_vigencia": "2025-09-18T08:00",
       "data_fim_vigencia": "2026-09-18T15:00",
       "numero_controle": "01614225000109-1-000309/2025",
       "url": "https://pncp.gov.br/app/compras/01614225000109/2025/309",
       "matched_keywords": [
-        "parecer jurídico"
+        "parecer juridico"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 357/2026",
       "descricao": "Credenciamento de pessoas físicas e/ou jurídicas, para prestação de serviços de avaliação de imóveis que o município de Dois Vizinhos, venha a adquirir, alienar, permutar ou locar. ",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "MUNICIPIO DE DOIS VIZINHOS",
-      "unidade": "PREFEITURA MUNICIPAL DE DOIS VIZINHOS - PR",
       "uf": "PR",
       "municipio": "Dois Vizinhos",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-09-18T15:21:06.395679",
-      "data_atualizacao": "2025-09-18T15:21:06.395679",
-      "data_inicio_vigencia": "2025-09-19T08:00",
       "data_fim_vigencia": "2026-09-21T08:00",
       "numero_controle": "76205640000108-1-000138/2026",
       "url": "https://pncp.gov.br/app/compras/76205640000108/2026/138",
       "matched_keywords": [
-        "parecer jurídico"
+        "parecer juridico"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 1/2026",
       "descricao": "CREDENCIAMENTO DE PESSOA FÍSICA E/OU JURÍDICA, para realização dos seguintes serviços: emissão de Atestado de Saúde Ocupacional - ASO, emissão de Parecer (medicina, psicologia, odontologia e assistência social), realização de Perícia Singular, Homologação de Atestado e/ou participação em Junta Médica ou Junta Odontológica, para ser realizadas em SERVIDORES E MEMBROS DA PRT-8ª REGIÃO, ATIVOS E INATIVOS, SEUS RESPECTIVOS DEPENDENTES E PENSIONISTAS, Cidades de Belém; Macapá, Marabá e Santarém",
+      "areas": [
+        "Tributario"
+      ],
       "orgao": "MINISTERIO PUBLICO DA UNIAO",
-      "unidade": "PROCURADORIA REG.DO TRABALHO 8ª. REGIAO-PA",
       "uf": "PA",
       "municipio": "Belém",
       "esfera": "Federal",
-      "poder": "Executivo",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-05-06T13:48:44.466437",
-      "data_atualizacao": "2025-09-04T11:51:14.834634",
-      "data_inicio_vigencia": "2025-09-04T12:00",
       "data_fim_vigencia": "2030-05-06T15:00",
       "numero_controle": "26989715000102-1-000001/2026",
       "url": "https://pncp.gov.br/app/compras/26989715000102/2026/1",
       "matched_keywords": [
-        "parecer jurídico"
+        "parecer juridico"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº PRI 16/2025",
       "descricao": "PRESTAÇÃO DE SERVIÇOS TÉCNICOS ESPECIALIZADOS DE AVALIAÇÃO DE BENS IMÓVEIS, URBANOS E RURAIS, POR MEIO DA ELABORAÇÃO DE LAUDOS TÉCNICOS DE AVALIAÇÃO MERCADOLÓGICA, EM CONFORMIDADE COM AS NORMAS TÉCNICAS DA ABNT, ESPECIALMENTE A NBR 14653.",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "MUNICIPIO DE BRUSQUE",
-      "unidade": "SFGE - Secretaria Municipal de Fazenda e Gestão Estratégica",
       "uf": "SC",
       "municipio": "Brusque",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-08-26T09:17:43.606434",
-      "data_atualizacao": "2025-08-26T09:17:43.606434",
-      "data_inicio_vigencia": "2025-08-27T08:40",
       "data_fim_vigencia": "2026-08-27T08:40",
       "numero_controle": "83102343000194-1-000130/2025",
       "url": "https://pncp.gov.br/app/compras/83102343000194/2025/130",
       "matched_keywords": [
-        "parecer jurídico"
+        "parecer juridico"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº IPB0012/2025",
       "descricao": "[Portal de Compras Públicas] - Contratação de pessoa física e/ou jurídica para prestação de serviço de perícia médica a ser realizada por médico perito especialista em Medicina do trabalho emitindo parecer técnico pericial conclusivo, nos termos da tabela constante no Item 1 do Termo de Referência.",
+      "areas": [
+        "Geral"
+      ],
       "orgao": "INSTITUTO DE PREVIDENCIA SOCIAL DO MUNICIPIO DE BETIM - IPREMB",
-      "unidade": "Instituto de Previdência Social do Município de Betim - IPREMB",
       "uf": "MG",
       "municipio": "Betim",
       "esfera": "Municipal",
-      "poder": "Executivo",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-08-06T09:53:33.834879560",
-      "data_atualizacao": "2025-08-06T09:53:33.834879560",
-      "data_inicio_vigencia": "2025-08-06T11:00",
       "data_fim_vigencia": "2026-08-06T11:00",
       "numero_controle": "07842278000155-1-000001/2025",
       "url": "https://pncp.gov.br/app/compras/07842278000155/2025/1",
       "matched_keywords": [
-        "parecer jurídico"
+        "parecer juridico"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 001/2025",
       "descricao": "CREDENCIAMENTO DE PESSOA FÍSICA/JURÍDICA PARA PRESTAÇÃO DE SERVIÇOS TÉCNICOS DE PERÍCIA MÉDICA EM SEGURADOS DO RPPS, em atendimento ao INSTITUTO DE PREVIDÊNCIA DOS SERVIDORES PÚBLICOS DO MUNICÍPIO DE SABARÁ - SABARAPREV/MG",
+      "areas": [
+        "Previdenciario"
+      ],
       "orgao": "INSTITUTO DE PREVIDENCIA DOS SERVIDORES PUBLICOS DO MUNICIPIO DE SABARA",
-      "unidade": "SABARAPREV",
       "uf": "MG",
       "municipio": "Sabará",
       "esfera": "Municipal",
-      "poder": "Executivo",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-07-29T12:08:31.976300",
-      "data_atualizacao": "2025-07-29T13:06:39.251308",
-      "data_inicio_vigencia": "2025-08-04T14:00",
       "data_fim_vigencia": "2026-08-04T14:00",
       "numero_controle": "05788157000147-1-000004/2025",
       "url": "https://pncp.gov.br/app/compras/05788157000147/2025/4",
       "matched_keywords": [
-        "parecer jurídico"
-      ]
-    },
-    {
-      "titulo": "Edital de Chamamento Público nº 013/2025",
-      "descricao": "Credenciamento de pessoa fisica ou juridica especializada para a prestaCao de serviCos de despachante imobiliario e de veiculos, visando atender as demandas do Municipio de TurmalinaMG, incluindo a regularizaCao de imoveis e veiculos, a emissao de documentos, a intermediaCao de processos administrativos junto a orgaos competentes e demais atividades correlatas necessarias a manutenCao da legalidade e eficiencia dos serviCos municipais.",
-      "orgao": "MUNICIPIO DE TURMALINA",
-      "unidade": "Unidade Única",
-      "uf": "MG",
-      "municipio": "Turmalina",
-      "esfera": "Municipal",
-      "poder": "Não se aplica",
-      "modalidade": "Credenciamento",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "data_publicacao": "2025-06-30T09:28:08.240953",
-      "data_atualizacao": "2025-07-17T10:30:28.029700714",
-      "data_inicio_vigencia": "2025-06-30T08:00",
-      "data_fim_vigencia": "2026-06-30T23:59:59",
-      "numero_controle": "25324187000100-1-000063/2025",
-      "url": "https://pncp.gov.br/app/compras/25324187000100/2025/63",
-      "matched_keywords": [
-        "parecer jurídico"
+        "parecer juridico"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 001/2025",
       "descricao": "Credenciamento de pessoas jurídicas especializadas na prestação de serviços funerários, incluindo o fornecimento de urnas e o translado, a serem executados pelas permissionárias do Município.",
+      "areas": [
+        "Tributario"
+      ],
       "orgao": "MUNICIPIO DE CAMPO NOVO DO PARECIS",
-      "unidade": "PREFEITURA MUNICIPAL DE CAMPO NOVO DO PARECIS - MT",
       "uf": "MT",
       "municipio": "Campo Novo do Parecis",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-06-13T16:07:19.814353155",
-      "data_atualizacao": "2025-06-13T16:07:19.814353155",
-      "data_inicio_vigencia": "2025-04-07T09:50",
       "data_fim_vigencia": "2028-12-31T08:00",
       "numero_controle": "24772287000136-1-000083/2025",
       "url": "https://pncp.gov.br/app/compras/24772287000136/2025/83",
       "matched_keywords": [
-        "parecer jurídico"
+        "parecer juridico"
       ]
     },
     {
       "titulo": "Edital nº 84/2025",
       "descricao": "CREDENCIAMENTO E POSSÍVEL CONTRATAÇÃO DE PESSOAS JURÍDICAS E FÍSICAS ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS DE AVALIAÇÃO IMOBILIÁRIA, COM EMISSÃO DE LAUDO OU PARECER TÉCNICO DE AVALIAÇÃO, PARA BASE DE CÁLCULO DO ITBI",
+      "areas": [
+        "Tributario"
+      ],
       "orgao": "MUNICIPIO DE TRAMANDAI",
-      "unidade": "Secretaria Municipal da Fazenda",
       "uf": "RS",
       "municipio": "Tramandaí",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-05-22T15:33:20.012652633",
-      "data_atualizacao": "2025-05-22T15:33:20.012652633",
-      "data_inicio_vigencia": "2025-06-03T14:00",
       "data_fim_vigencia": "2028-12-31T23:59",
       "numero_controle": "88771001000180-1-000166/2025",
       "url": "https://pncp.gov.br/app/compras/88771001000180/2025/166",
       "matched_keywords": [
-        "parecer jurídico"
+        "parecer juridico"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 002/2025",
       "descricao": "Credenciamento para contratação de pessoas jurídicas especializadas para prestar serviços de saúde, por meio da realização de consultas e emissão de laudos diagnósticos, com o objetivo de complementar os atendimentos oferecidos pela rede pública municipal de Campo Novo do Parecis/MT.",
+      "areas": [
+        "Tributario"
+      ],
       "orgao": "MUNICIPIO DE CAMPO NOVO DO PARECIS",
-      "unidade": "PREFEITURA MUNICIPAL DE CAMPO NOVO DO PARECIS - MT",
       "uf": "MT",
       "municipio": "Campo Novo do Parecis",
       "esfera": "Municipal",
-      "poder": "Não se aplica",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-04-25T08:14:26.994174674",
-      "data_atualizacao": "2025-04-25T08:14:26.994174674",
-      "data_inicio_vigencia": "2025-04-23T09:00",
       "data_fim_vigencia": "2028-12-31T08:00",
       "numero_controle": "24772287000136-1-000043/2025",
       "url": "https://pncp.gov.br/app/compras/24772287000136/2025/43",
       "matched_keywords": [
-        "parecer jurídico"
+        "parecer juridico"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 1/2024",
       "descricao": "Credenciamento de pessoas físicas aptas à realização de eventuais serviços, onerosos, de apoio técnico especializado nas áreas profissionais indicadas no Anexo I do Edital, por meio eletrônico, mediante o preenchimento e envio de formulário eletrônico disponibilizado no site www.mprn.mp.br.",
+      "areas": [
+        "Tributario"
+      ],
       "orgao": "MINISTERIO PUBLICO DO ESTADO DO RIO GRANDE DO NORTE",
-      "unidade": "PGJ",
       "uf": "RN",
       "municipio": "Natal",
       "esfera": "Estadual",
-      "poder": "Executivo",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2024-11-06T15:05:30.840134",
-      "data_atualizacao": "2025-02-10T13:25:02.824544",
-      "data_inicio_vigencia": "2024-10-31T09:00",
       "data_fim_vigencia": "2029-10-30T17:00",
       "numero_controle": "08539710000104-1-000142/2024",
       "url": "https://pncp.gov.br/app/compras/08539710000104/2024/142",
       "matched_keywords": [
-        "parecer jurídico"
+        "parecer juridico"
       ]
     },
     {
       "titulo": "Edital de Chamamento Público nº 65/2025",
       "descricao": "Realização de CREDENCIAMENTO DE PROFISSIONAIS de nível superior, pessoa física ou jurídica, com formação em Serviço Social, Psicologia ou Medicina com especialização em Psiquiatria, para prestação de serviços de realização de Perícias, elaboração de Laudos, Relatórios, Pareceres, Exames e Avaliações com fins de progressão de regime na área da Execução Penal, desenvolvidas no âmbito das Coordenadorias da Secretaria da Administração Penitenciária do Estado de São Paulo.",
+      "areas": [
+        "Tributario",
+        "Penal"
+      ],
       "orgao": "SAO PAULO SECRETARIA DA ADMINISTRACAO PENITENCIARIA",
-      "unidade": "ESP-DEPARTAMENTO DE ADMINISTRACAO  ADM.PENIT3",
       "uf": "SP",
       "municipio": "São Paulo",
       "esfera": "Estadual",
-      "poder": "Executivo",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-01-28T11:08:32.868347",
-      "data_atualizacao": "2025-01-28T11:08:32.868347",
-      "data_inicio_vigencia": "2025-01-29T08:00",
       "data_fim_vigencia": "2026-10-19T18:00",
       "numero_controle": "96291141000180-1-000176/2025",
       "url": "https://pncp.gov.br/app/compras/96291141000180/2025/176",
       "matched_keywords": [
-        "parecer jurídico"
+        "parecer juridico"
       ]
     }
   ]
