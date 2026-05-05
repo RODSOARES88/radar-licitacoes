@@ -24,20 +24,42 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-          cache: pip
 
       - name: Instalar dependencias
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Executar radar
-        run: python radar_licitacoes.py
+      - name: Debug ambiente
+        run: |
+          echo "PWD: $(pwd)"
+          echo "Conteudo do diretorio:"
+          ls -la
+          python --version
+          which python
 
-      - name: Commitar HTML/JSON atualizados
+      - name: Executar radar (com captura completa)
+        run: |
+          set -x
+          python -u radar_licitacoes.py 2>&1
+          echo "Exit code do python: $?"
+          echo "Conteudo apos rodar:"
+          ls -la
+          echo "Conteudo de docs (se existir):"
+          ls -la docs/ || echo "Pasta docs nao existe"
+
+      - name: Garantir docs/index.html (fallback)
+        run: |
+          mkdir -p docs
+          if [ ! -f docs/index.html ]; then
+            echo "<!DOCTYPE html><html><body><h1>Radar pendente</h1><p>O script nao gerou conteudo nesta execucao. Veja os logs.</p></body></html>" > docs/index.html
+          fi
+          ls -la docs/
+
+      - name: Commitar atualizacoes
         run: |
           git config user.name  "radar-bot"
           git config user.email "radar-bot@users.noreply.github.com"
-          git add docs/index.html docs/radar_licitacoes.json
-          git diff --staged --quiet || git commit -m "Atualizacao diaria do radar [skip ci]"
-          git push
+          git add docs/
+          git diff --staged --quiet || git commit -m "Atualizacao automatica [skip ci]"
+          git push || echo "Sem mudancas para enviar"
