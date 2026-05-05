@@ -528,5 +528,6 @@ def main():
 
     if args.abrir:
         webbrowser.open(OUTPUT_HTML.as_uri())
-
+if __name__ == "__main__":
+       main()
 
