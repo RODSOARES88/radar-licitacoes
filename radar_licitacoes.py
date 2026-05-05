@@ -186,4 +186,56 @@ def renderizar_html(items, somente_abertos):
         fim_html = f'<div><b>Fim:</b> {fmt_data(it["data_fim_vigencia"])}</div>' if it["data_fim_vigencia"] else ""
         desc_extra = "..." if len(it["descricao"]) > 240 else ""
         linha = (f'<tr data-esfera="{escape(it["esfera"])}" data-uf="{escape(it["uf"])}" data-areas="{escape(areas_data)}">'
-                 f'<td><span class="tag" style="background:{cor_esfera}">{escape
+                 f'<td><span class="tag" style="background:{cor_esfera}">{escape(it["esfera"] or "?")}</span></td>'
+                 f'<td><div class="areas-row">{areas_tags}</div>'
+                 f'<a href="{escape(it["url"])}" target="_blank" rel="noopener noreferrer" class="titulo">{escape(it["titulo"][:200])}</a>'
+                 f'<div class="desc">{escape(it["descricao"][:240])}{desc_extra}</div>'
+                 f'<div class="meta"><span>{escape(it["orgao"][:80])}</span>'
+                 f'<span>{escape(cidade_uf)}</span><span>{escape(kws)}</span></div></td>'
+                 f'<td>{escape(it["modalidade"])}<div class="situacao">{escape(it["situacao"])}</div></td>'
+                 f'<td class="valor">{fmt_valor(it["valor"])}</td>'
+                 f'<td><div><b>Pub:</b> {fmt_data(it["data_publicacao"])}</div>{fim_html}</td>'
+                 f'<td><a href="{escape(it["url"])}" target="_blank" rel="noopener noreferrer" class="btn">Ver edital</a></td></tr>')
+        linhas_lista.append(linha)
+    linhas = "".join(linhas_lista) if linhas_lista else '<tr><td colspan="6" class="empty">Nenhum edital encontrado.</td></tr>'
+
+    por_esfera = {}
+    for i in items_norm:
+        e = i["esfera"] or "?"
+        por_esfera[e] = por_esfera.get(e, 0) + 1
+    blocos_stats = "".join(f'<div class="stat"><div class="num" style="color:{COR_ESFERA.get(e, "#64748b")}">{n}</div><div class="lbl">{escape(e)}</div></div>' for e, n in sorted(por_esfera.items(), key=lambda x: -x[1]))
+    opcoes_areas = "".join(f'<option value="{escape(a)}">{escape(a)}</option>' for a in list(AREAS_JURIDICAS.keys()) + ["Geral"])
+    titulo_filtro = "editais com proposta ABERTA" if somente_abertos else "todos os editais"
+    total = len(items_norm)
+
+    css = "*{box-sizing:border-box}body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;background:#f7f8fa;color:#1a1a1a;margin:0;padding:24px}header{display:flex;justify-content:space-between;align-items:center;margin-bottom:24px;flex-wrap:wrap;gap:12px}h1{margin:0;font-size:24px}.sub{color:#6b7280;font-size:13px;margin-top:4px}.stats{display:flex;gap:12px;flex-wrap:wrap}.stat{background:white;border:1px solid #e5e7eb;border-radius:8px;padding:10px 16px;min-width:110px}.stat .num{font-size:22px;font-weight:600}.stat .lbl{font-size:11px;color:#6b7280;text-transform:uppercase}.filters{background:white;border:1px solid #e5e7eb;border-radius:8px;padding:12px 16px;margin-bottom:16px;display:flex;gap:16px;flex-wrap:wrap}.filters label{font-size:13px;color:#374151}.filters input,.filters select{padding:6px 10px;border:1px solid #d1d5db;border-radius:6px;font-size:13px}table{width:100%;background:white;border:1px solid #e5e7eb;border-radius:8px;border-collapse:separate;border-spacing:0;overflow:hidden}th,td{padding:12px;text-align:left;vertical-align:top;border-bottom:1px solid #f3f4f6;font-size:13px}th{background:#f9fafb;font-weight:600;color:#374151;font-size:12px;text-transform:uppercase}tr:last-child td{border-bottom:none}.titulo{color:#1d4ed8;text-decoration:none;font-weight:600}.titulo:hover{text-decoration:underline}.desc{color:#4b5563;font-size:12px;margin-top:4px;line-height:1.4}.meta{color:#6b7280;font-size:12px;margin-top:6px;display:flex;gap:12px;flex-wrap:wrap}.tag{display:inline-block;color:white;padding:2px 8px;border-radius:4px;font-size:11px;font-weight:500}.area-tag{display:inline-block;color:white;padding:1px 7px;border-radius:3px;font-size:10px;font-weight:600;margin-right:4px;margin-bottom:4px}.areas-row{margin-bottom:6px}.situacao{font-size:11px;color:#6b7280;margin-top:4px}.valor{font-variant-numeric:tabular-nums;white-space:nowrap}.btn{display:inline-block;background:#1d4ed8;color:white;padding:6px 12px;border-radius:6px;text-decoration:none;font-size:12px;white-space:nowrap}.btn:hover{background:#1e40af}.empty{text-align:center;padding:40px;color:#6b7280}"
+
+    js = "const ufs=new Set();document.querySelectorAll('tr[data-uf]').forEach(t=>{const u=t.dataset.uf;if(u)ufs.add(u)});const sU=document.getElementById('filter-uf');Array.from(ufs).sort().forEach(u=>{const o=document.createElement('option');o.value=u;o.textContent=u;sU.appendChild(o)});function filtrar(){const txt=document.getElementById('filter-text').value.toLowerCase();const ar=document.getElementById('filter-area').value;const es=document.getElementById('filter-esfera').value;const uf=document.getElementById('filter-uf').value;document.querySelectorAll('tbody tr').forEach(t=>{const ln=t.textContent.toLowerCase();const ars=(t.dataset.areas||'').split('|');const a=!txt||ln.includes(txt);const b=!ar||ars.includes(ar);const c=!es||t.dataset.esfera===es;const d=!uf||t.dataset.uf===uf;t.style.display=(a&&b&&c&&d)?'':'none'})}['filter-text','filter-area','filter-esfera','filter-uf'].forEach(i=>document.getElementById(i).addEventListener(i==='filter-text'?'input':'change',filtrar));"
+
+    return f"""<!DOCTYPE html><html lang="pt-BR"><head><meta charset="utf-8"><title>Radar de Licitacoes</title><meta name="viewport" content="width=device-width,initial-scale=1"><style>{css}</style></head><body><header><div><h1>Radar de Licitacoes</h1><div class="sub">Atualizado: {agora} - PNCP - {titulo_filtro}</div></div><div class="stats"><div class="stat"><div class="num">{total}</div><div class="lbl">Total</div></div>{blocos_stats}</div></header><div class="filters"><label>Buscar: <input type="text" id="filter-text" placeholder="palavra, orgao..."></label><label>Area: <select id="filter-area"><option value="">Todas</option>{opcoes_areas}</select></label><label>Esfera: <select id="filter-esfera"><option value="">Todas</option><option value="Federal">Federal</option><option value="Estadual">Estadual</option><option value="Municipal">Municipal</option><option value="Distrital">Distrital</option></select></label><label>UF: <select id="filter-uf"><option value="">Todas</option></select></label></div><table><thead><tr><th>Esfera</th><th>Objeto / Orgao</th><th>Modalidade</th><th>Valor</th><th>Datas</th><th>Acao</th></tr></thead><tbody>{linhas}</tbody></table><script>{js}</script></body></html>"""
+
+
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--abrir", action="store_true")
+    ap.add_argument("--tudo", action="store_true")
+    args = ap.parse_args()
+    somente_abertos = not args.tudo
+    inicio = datetime.now(timezone.utc)
+    brutos = coletar_tudo(somente_abertos)
+    unicos = deduplicar(brutos)
+    print(f"\n[3/3] Gerando saidas...")
+    OUTPUT_JSON.write_text(json.dumps({
+        "gerado_em": inicio.isoformat(), "fonte": "PNCP",
+        "filtro": "recebendo_proposta" if somente_abertos else "todos",
+        "palavras_chave": PALAVRAS_CHAVE, "total": len(unicos),
+        "items": [normalizar(it) for it in unicos],
+    }, ensure_ascii=False, indent=2, default=str), encoding="utf-8")
+    OUTPUT_HTML.write_text(renderizar_html(unicos, somente_abertos), encoding="utf-8")
+    print(f"\nConcluido. Total: {len(unicos)} editais.")
+    if args.abrir:
+        webbrowser.open(OUTPUT_HTML.as_uri())
+
+
+if __name__ == "__main__":
+    main()
