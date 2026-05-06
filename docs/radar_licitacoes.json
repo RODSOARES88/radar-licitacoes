@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-05-06T14:24:39.895391+00:00",
+  "gerado_em": "2026-05-06T14:35:05.977676+00:00",
   "fonte": "PNCP",
   "filtro": "recebendo_proposta",
   "palavras_chave": [
@@ -31,6 +31,7 @@
       "municipio": "Marco",
       "esfera": "Estadual",
       "modalidade": "Dispensa",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-05-05T11:31:11.994339369",
       "data_fim_vigencia": "2026-05-08T12:00",
@@ -38,17 +39,12 @@
       "matched_keywords": [
         "consultoria tributaria"
       ],
-      "tipo": "Contrato",
-      "meses": 1.0,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 1m em Marco/CE. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 1m em Marco/CE. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital nº 90013/2026",
@@ -61,6 +57,7 @@
       "municipio": "São Paulo",
       "esfera": "Estadual",
       "modalidade": "Pregão - Eletrônico",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-03-24T07:03:13.499299",
       "data_fim_vigencia": "2026-05-20T09:00",
@@ -68,17 +65,12 @@
       "matched_keywords": [
         "consultoria tributaria"
       ],
-      "tipo": "Contrato",
-      "meses": 1.0,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 1m em São Paulo/SP. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 1m em São Paulo/SP. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital nº 020/2026-SEMAPRE/2026",
@@ -91,6 +83,7 @@
       "municipio": "Limoeiro do Norte",
       "esfera": "Municipal",
       "modalidade": "Pregão - Eletrônico",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-05-04T12:18:44.396580589",
       "data_fim_vigencia": "2026-05-21T08:00",
@@ -98,17 +91,12 @@
       "matched_keywords": [
         "consultoria tributaria"
       ],
-      "tipo": "Contrato",
-      "meses": 1.0,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 1m em Limoeiro do Norte/CE. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 1m em Limoeiro do Norte/CE. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital nº 90012/2026",
@@ -121,6 +109,7 @@
       "municipio": "Vitória",
       "esfera": "Não se aplica",
       "modalidade": "Pregão - Eletrônico",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-05-04T07:09:54.055631637",
       "data_fim_vigencia": "2026-05-25T13:30",
@@ -128,17 +117,12 @@
       "matched_keywords": [
         "consultoria tributaria"
       ],
-      "tipo": "Contrato",
-      "meses": 1.0,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 1m em Vitória/ES. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 1m em Vitória/ES. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital nº 23/2026",
@@ -152,6 +136,7 @@
       "municipio": "Cocal do Sul",
       "esfera": "Municipal",
       "modalidade": "Pregão - Eletrônico",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-30T16:37:04.658362313",
       "data_fim_vigencia": "2026-05-18T09:00",
@@ -161,17 +146,12 @@
         "consultoria juridica",
         "assessoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 1.0,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 1m em Cocal do Sul/SC. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 1m em Cocal do Sul/SC. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital nº 95002/2026",
@@ -184,6 +164,7 @@
       "municipio": "Fortaleza",
       "esfera": "Estadual",
       "modalidade": "Concorrência - Eletrônica",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-02-10T07:07:04.729908",
       "data_fim_vigencia": "2026-06-24T10:00",
@@ -191,17 +172,12 @@
       "matched_keywords": [
         "consultoria tributaria"
       ],
-      "tipo": "Contrato",
-      "meses": 1.8,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 1m em Fortaleza/CE. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 1m em Fortaleza/CE. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital nº 01.PQ.SMP/2026",
@@ -214,6 +190,7 @@
       "municipio": "Cariré",
       "esfera": "Municipal",
       "modalidade": "Pré-qualificação",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-01-13T14:32:36.418015457",
       "data_fim_vigencia": "2027-01-13T14:32:34",
@@ -222,17 +199,12 @@
         "consultoria tributaria",
         "consultoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 12.2,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 12m em Cariré/CE. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 12m em Cariré/CE. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 96/2025",
@@ -245,6 +217,7 @@
       "municipio": "Natal",
       "esfera": "Estadual",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-12-30T14:45:08.746337",
       "data_fim_vigencia": "2026-12-31T18:00",
@@ -253,17 +226,12 @@
         "consultoria tributaria",
         "consultoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 11.5,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 11m em Natal/RN. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 11m em Natal/RN. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 004/2025",
@@ -276,6 +244,7 @@
       "municipio": "Caratinga",
       "esfera": "Não se aplica",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-09-23T15:19:01.242235849",
       "data_fim_vigencia": "2026-09-23T23:59",
@@ -285,17 +254,12 @@
         "consultoria juridica",
         "parecer juridico"
       ],
-      "tipo": "Contrato",
-      "meses": 12.2,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 12m em Caratinga/MG. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 12m em Caratinga/MG. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 12/2025",
@@ -309,6 +273,7 @@
       "municipio": "Juiz de Fora",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2024-05-22T16:33:33.784472",
       "data_fim_vigencia": "2026-05-18T17:59",
@@ -316,17 +281,12 @@
       "matched_keywords": [
         "consultoria tributaria"
       ],
-      "tipo": "Contrato",
-      "meses": 24.2,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 24m em Juiz de Fora/MG. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 24m em Juiz de Fora/MG. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital nº P.E 004/2026 - SEDUC/2026",
@@ -339,6 +299,7 @@
       "municipio": "Tabuleiro do Norte",
       "esfera": "Municipal",
       "modalidade": "Pregão - Eletrônico",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-05-06T08:34:50.997334313",
       "data_fim_vigencia": "2026-05-22T09:29",
@@ -347,17 +308,12 @@
         "consultoria juridica",
         "assessoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 1.0,
-      "valor_mensal": 0.0,
-      "presenca": "Esporadico",
-      "viagens_mes": 1,
-      "custo_logistica_mes": 2500,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 1m em Tabuleiro do Norte/CE. valor nao informado. presenca esporadico (1x/mes). logistica estimada R$ 2.500/mes."
+      "resumo": "Contrato 1m em Tabuleiro do Norte/CE. valor nao informado. presenca esporadico (1x/mes). logistica ~R$ 2.500/mes.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Esporadico",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 1/2027",
@@ -370,6 +326,7 @@
       "municipio": "Pacajá",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-05-05T16:40:43.864962",
       "data_fim_vigencia": "2027-05-06T14:00",
@@ -378,17 +335,12 @@
         "consultoria juridica",
         "assessoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 12.2,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 12m em Pacajá/PA. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 12m em Pacajá/PA. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital nº 004/2026",
@@ -401,6 +353,7 @@
       "municipio": "Carangola",
       "esfera": "Municipal",
       "modalidade": "Pregão - Eletrônico",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-05-05T15:16:44.986493741",
       "data_fim_vigencia": "2026-05-15T14:00",
@@ -409,17 +362,12 @@
         "consultoria juridica",
         "assessoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 1.0,
-      "valor_mensal": 0.0,
-      "presenca": "Semanal",
-      "viagens_mes": 4,
-      "custo_logistica_mes": 1400,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 1m em Carangola/MG. valor nao informado. presenca semanal (4x/mes). logistica estimada R$ 1.400/mes."
+      "resumo": "Contrato 1m em Carangola/MG. valor nao informado. presenca semanal (4x/mes). logistica ~R$ 1.400/mes.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Semanal",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Aviso de Contratação Direta nº 8/2026",
@@ -432,6 +380,7 @@
       "municipio": "Penalva",
       "esfera": "Municipal",
       "modalidade": "Dispensa",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-05-05T12:27:01.989150176",
       "data_fim_vigencia": "2026-05-08T18:00",
@@ -440,17 +389,12 @@
         "consultoria juridica",
         "assessoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 1.0,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 1m em Penalva/MA. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 1m em Penalva/MA. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Aviso de Contratação Direta nº 023/2026",
@@ -463,6 +407,7 @@
       "municipio": "Senhor do Bonfim",
       "esfera": "Não se aplica",
       "modalidade": "Dispensa",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-05-05T11:06:20.042744451",
       "data_fim_vigencia": "2026-12-31T08:20",
@@ -471,17 +416,12 @@
         "consultoria juridica",
         "assessoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 12.2,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 12m em Senhor do Bonfim/BA. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 12m em Senhor do Bonfim/BA. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 6/2026",
@@ -494,6 +434,7 @@
       "municipio": "Caxambu",
       "esfera": "Não se aplica",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-05-04T16:05:41.384360497",
       "data_fim_vigencia": "2027-03-18T17:00",
@@ -501,17 +442,12 @@
       "matched_keywords": [
         "consultoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 12.2,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 12m em Caxambu/MG. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 12m em Caxambu/MG. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Aviso de Contratação Direta nº 7411/2026",
@@ -525,6 +461,7 @@
       "municipio": "Chapadão do Céu",
       "esfera": "Municipal",
       "modalidade": "Dispensa",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-05-04T15:58:48.272493493",
       "data_fim_vigencia": "2026-05-07T15:55:18",
@@ -533,17 +470,12 @@
         "consultoria juridica",
         "assessoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 1.0,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 1m em Chapadão do Céu/GO. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 1m em Chapadão do Céu/GO. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Aviso de Contratação Direta nº 56/2026",
@@ -556,6 +488,7 @@
       "municipio": "Carmo de Minas",
       "esfera": "Municipal",
       "modalidade": "Dispensa",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-05-04T13:19:19.848877549",
       "data_fim_vigencia": "2026-05-08T23:59",
@@ -563,17 +496,12 @@
       "matched_keywords": [
         "consultoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 1.0,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 1m em Carmo de Minas/MG. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 1m em Carmo de Minas/MG. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital nº CE 36/2026",
@@ -586,6 +514,7 @@
       "municipio": "Jaraguá do Sul",
       "esfera": "Municipal",
       "modalidade": "Concorrência - Eletrônica",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-05-04T10:25:22.644435799",
       "data_fim_vigencia": "2026-06-24T08:45",
@@ -594,17 +523,12 @@
         "consultoria juridica",
         "assessoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 3.9,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": "AGU",
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 3m em Jaraguá do Sul/SC. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes. cliente-trofeu: AGU."
+      "resumo": "Contrato 3m em Jaraguá do Sul/SC. valor nao informado. sem presencial detectado. cliente-trofeu: AGU.",
+      "lucro": null,
+      "trofeu": "AGU",
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital nº 036/2026R/2026",
@@ -617,6 +541,7 @@
       "municipio": "Jaraguá do Sul",
       "esfera": "Municipal",
       "modalidade": "Concorrência - Eletrônica",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-05-04T09:34:51.878345852",
       "data_fim_vigencia": "2026-06-24T08:45",
@@ -625,17 +550,12 @@
         "consultoria juridica",
         "assessoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 1.7,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": "AGU",
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 1m em Jaraguá do Sul/SC. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes. cliente-trofeu: AGU."
+      "resumo": "Contrato 1m em Jaraguá do Sul/SC. valor nao informado. sem presencial detectado. cliente-trofeu: AGU.",
+      "lucro": null,
+      "trofeu": "AGU",
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Aviso de Contratação Direta nº 49/2026",
@@ -648,6 +568,7 @@
       "municipio": "Campo Grande",
       "esfera": "Federal",
       "modalidade": "Dispensa",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-30T17:42:40.210810",
       "data_fim_vigencia": "2026-05-07T08:00",
@@ -656,17 +577,12 @@
         "consultoria juridica",
         "assessoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 1.0,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 1m em Campo Grande/MS. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 1m em Campo Grande/MS. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital nº 90001/2026",
@@ -680,6 +596,7 @@
       "municipio": "Porto Alegre",
       "esfera": "Federal",
       "modalidade": "Concorrência - Eletrônica",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-29T07:06:28.853399",
       "data_fim_vigencia": "2026-06-23T10:00",
@@ -689,17 +606,12 @@
         "sociedade de advogados",
         "assessoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 1.8,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 1m em Porto Alegre/RS. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 1m em Porto Alegre/RS. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital nº 053/2025/2026",
@@ -712,6 +624,7 @@
       "municipio": "Ipojuca",
       "esfera": "Municipal",
       "modalidade": "Pregão - Eletrônico",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-29T09:52:24.375101",
       "data_fim_vigencia": "2026-05-15T09:00",
@@ -719,17 +632,12 @@
       "matched_keywords": [
         "consultoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 1.0,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 1m em Ipojuca/PE. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 1m em Ipojuca/PE. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Aviso de Contratação Direta nº 005-2026/2026",
@@ -742,6 +650,7 @@
       "municipio": "Cocos",
       "esfera": "Municipal",
       "modalidade": "Dispensa",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-29T09:59:09.500081581",
       "data_fim_vigencia": "2026-12-31T10:00",
@@ -750,17 +659,12 @@
         "consultoria juridica",
         "assessoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 11.7,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 11m em Cocos/BA. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 11m em Cocos/BA. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital nº 90006/2026",
@@ -773,6 +677,7 @@
       "municipio": "Pedreira",
       "esfera": "Municipal",
       "modalidade": "Concorrência - Eletrônica",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-29T07:04:33.265554200",
       "data_fim_vigencia": "2026-06-24T09:00",
@@ -781,17 +686,12 @@
         "consultoria juridica",
         "assessoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 1.9,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 1m em Pedreira/SP. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 1m em Pedreira/SP. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 004/2026",
@@ -804,6 +704,7 @@
       "municipio": "Boquira",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-28T10:23:39.637059352",
       "data_fim_vigencia": "2027-03-09T00:00",
@@ -813,17 +714,12 @@
         "assessoria juridica",
         "parecer juridico"
       ],
-      "tipo": "Contrato",
-      "meses": 12.2,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 12m em Boquira/BA. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 12m em Boquira/BA. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital nº 90007/2026",
@@ -836,6 +732,7 @@
       "municipio": "Paranavaí",
       "esfera": "Municipal",
       "modalidade": "Concorrência - Eletrônica",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-28T07:12:06.944786819",
       "data_fim_vigencia": "2026-06-22T09:00",
@@ -844,17 +741,12 @@
         "consultoria juridica",
         "assessoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 1.8,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 1m em Paranavaí/PR. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 1m em Paranavaí/PR. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital nº 13/2026",
@@ -867,6 +759,7 @@
       "municipio": "Pedro II",
       "esfera": "Municipal",
       "modalidade": "Pregão - Eletrônico",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-27T09:23:46.463732",
       "data_fim_vigencia": "2026-05-08T09:30",
@@ -875,17 +768,12 @@
         "consultoria juridica",
         "assessoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 1.0,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 1m em Pedro II/PI. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 1m em Pedro II/PI. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital nº P.E 001 2026 - SEDUC/2026",
@@ -898,6 +786,7 @@
       "municipio": "Tabuleiro do Norte",
       "esfera": "Municipal",
       "modalidade": "Pregão - Eletrônico",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-22T09:35:26.997893296",
       "data_fim_vigencia": "2026-05-08T09:59",
@@ -906,17 +795,12 @@
         "consultoria juridica",
         "assessoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 1.0,
-      "valor_mensal": 0.0,
-      "presenca": "Esporadico",
-      "viagens_mes": 1,
-      "custo_logistica_mes": 2500,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 1m em Tabuleiro do Norte/CE. valor nao informado. presenca esporadico (1x/mes). logistica estimada R$ 2.500/mes."
+      "resumo": "Contrato 1m em Tabuleiro do Norte/CE. valor nao informado. presenca esporadico (1x/mes). logistica ~R$ 2.500/mes.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Esporadico",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital nº 41/2026",
@@ -929,6 +813,7 @@
       "municipio": "Nova Esperança",
       "esfera": "Municipal",
       "modalidade": "Pregão - Eletrônico",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-17T09:25:45.422872829",
       "data_fim_vigencia": "2026-05-12T08:59",
@@ -936,17 +821,12 @@
       "matched_keywords": [
         "consultoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 1.0,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 1m em Nova Esperança/PR. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 1m em Nova Esperança/PR. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital nº 90041/2026",
@@ -959,6 +839,7 @@
       "municipio": "Nova Esperança",
       "esfera": "Municipal",
       "modalidade": "Pregão - Eletrônico",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-17T07:16:26.260669958",
       "data_fim_vigencia": "2026-05-12T09:00",
@@ -966,17 +847,12 @@
       "matched_keywords": [
         "consultoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 1.0,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 1m em Nova Esperança/PR. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 1m em Nova Esperança/PR. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital nº 90007/2026",
@@ -990,6 +866,7 @@
       "municipio": "Teresina",
       "esfera": "Municipal",
       "modalidade": "Concorrência - Eletrônica",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-17T07:10:47.170812794",
       "data_fim_vigencia": "2026-06-29T09:00",
@@ -998,17 +875,12 @@
         "consultoria juridica",
         "assessoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 2.4,
-      "valor_mensal": 0.0,
-      "presenca": "Intenso",
-      "viagens_mes": 16,
-      "custo_logistica_mes": 42000,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 2m em Teresina/PI. valor nao informado. presenca intenso (16x/mes). logistica estimada R$ 42.000/mes."
+      "resumo": "Contrato 2m em Teresina/PI. valor nao informado. presenca intenso (16x/mes). logistica ~R$ 42.000/mes.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Intenso",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital nº 001/2026",
@@ -1021,6 +893,7 @@
       "municipio": "Conselheiro Lafaiete",
       "esfera": "Municipal",
       "modalidade": "Concorrência - Eletrônica",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-14T10:46:24.533329",
       "data_fim_vigencia": "2026-06-15T09:29",
@@ -1029,17 +902,12 @@
         "consultoria juridica",
         "assessoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 1.8,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 1m em Conselheiro Lafaiete/MG. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 1m em Conselheiro Lafaiete/MG. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 004/2024",
@@ -1052,6 +920,7 @@
       "municipio": "Caxambu",
       "esfera": "Não se aplica",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2024-07-04T14:27:31.579553",
       "data_fim_vigencia": "2026-07-31T00:00",
@@ -1059,17 +928,12 @@
       "matched_keywords": [
         "consultoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 25.2,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 25m em Caxambu/MG. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 25m em Caxambu/MG. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 002/2026",
@@ -1082,6 +946,7 @@
       "municipio": "Poços de Caldas",
       "esfera": "Não se aplica",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-03-02T11:27:51.309221",
       "data_fim_vigencia": "2026-05-29T23:59:59",
@@ -1090,17 +955,12 @@
         "consultoria juridica",
         "assessoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 2.9,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 2m em Poços de Caldas/MG. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 2m em Poços de Caldas/MG. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital nº CE 004/26/2026",
@@ -1113,6 +973,7 @@
       "municipio": "Rio de Janeiro",
       "esfera": "Estadual",
       "modalidade": "Concorrência - Eletrônica",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-13T12:47:06.544665",
       "data_fim_vigencia": "2026-06-09T12:50",
@@ -1120,17 +981,12 @@
       "matched_keywords": [
         "consultoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 1.9,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 1m em Rio de Janeiro/RJ. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 1m em Rio de Janeiro/RJ. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital nº 01/2026",
@@ -1143,6 +999,7 @@
       "municipio": "Santa Rosa de Viterbo",
       "esfera": "Municipal",
       "modalidade": "Concorrência - Eletrônica",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-13T08:56:06.076508561",
       "data_fim_vigencia": "2026-06-10T09:00",
@@ -1151,17 +1008,12 @@
         "consultoria juridica",
         "assessoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 1.9,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 1m em Santa Rosa de Viterbo/SP. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 1m em Santa Rosa de Viterbo/SP. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital nº 90003/2026",
@@ -1174,6 +1026,7 @@
       "municipio": "São Paulo",
       "esfera": "Federal",
       "modalidade": "Concorrência - Eletrônica",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-08T07:03:42.652687491",
       "data_fim_vigencia": "2026-05-22T09:30",
@@ -1182,17 +1035,12 @@
         "consultoria juridica",
         "assessoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 1.5,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": "Ministerio",
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 1m em São Paulo/SP. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes. cliente-trofeu: Ministerio."
+      "resumo": "Contrato 1m em São Paulo/SP. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital nº 92003/2026",
@@ -1205,6 +1053,7 @@
       "municipio": "Congonhas",
       "esfera": "Municipal",
       "modalidade": "Concorrência - Eletrônica",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-07T07:00:12.149269325",
       "data_fim_vigencia": "2026-05-29T09:00",
@@ -1213,17 +1062,12 @@
         "consultoria juridica",
         "assessoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 1.7,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 1m em Congonhas/MG. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 1m em Congonhas/MG. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 01/2026",
@@ -1236,6 +1080,7 @@
       "municipio": "Capitão Enéas",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-03-31T12:45:43.675271633",
       "data_fim_vigencia": "2027-03-31T23:59:59",
@@ -1243,17 +1088,12 @@
       "matched_keywords": [
         "consultoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 12.2,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 12m em Capitão Enéas/MG. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 12m em Capitão Enéas/MG. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 9/2026",
@@ -1266,6 +1106,7 @@
       "municipio": "Porto Alegre",
       "esfera": "Não se aplica",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-03-26T16:06:34.961144027",
       "data_fim_vigencia": "2026-05-27T23:59",
@@ -1274,17 +1115,12 @@
         "consultoria juridica",
         "assessoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 2.0,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 2m em Porto Alegre/RS. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 2m em Porto Alegre/RS. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº CPC 9/2026",
@@ -1297,6 +1133,7 @@
       "municipio": "Porto Alegre",
       "esfera": "Não se aplica",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-03-26T16:03:28.790014613",
       "data_fim_vigencia": "2026-05-27T23:59",
@@ -1305,17 +1142,12 @@
         "consultoria juridica",
         "assessoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 2.0,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 2m em Porto Alegre/RS. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 2m em Porto Alegre/RS. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº CPC 7/2026",
@@ -1328,6 +1160,7 @@
       "municipio": "Porto Alegre",
       "esfera": "Não se aplica",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-03-26T15:57:46.233241356",
       "data_fim_vigencia": "2026-05-27T23:59",
@@ -1336,17 +1169,12 @@
         "consultoria juridica",
         "assessoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 2.0,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 2m em Porto Alegre/RS. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 2m em Porto Alegre/RS. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 6/2026",
@@ -1359,6 +1187,7 @@
       "municipio": "Porto Alegre",
       "esfera": "Não se aplica",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-03-26T11:36:36.125553666",
       "data_fim_vigencia": "2026-05-27T17:00",
@@ -1367,17 +1196,12 @@
         "consultoria juridica",
         "assessoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 2.0,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 2m em Porto Alegre/RS. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 2m em Porto Alegre/RS. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital nº 90005/2026",
@@ -1390,6 +1214,7 @@
       "municipio": "Cianorte",
       "esfera": "Municipal",
       "modalidade": "Concorrência - Eletrônica",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-03-26T07:08:41.679820239",
       "data_fim_vigencia": "2026-05-22T09:00",
@@ -1398,17 +1223,12 @@
         "consultoria juridica",
         "assessoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 1.9,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 1m em Cianorte/PR. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 1m em Cianorte/PR. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital nº 003/2026",
@@ -1421,6 +1241,7 @@
       "municipio": "Acari",
       "esfera": "Municipal",
       "modalidade": "Concorrência - Eletrônica",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-03-25T11:32:06.447101514",
       "data_fim_vigencia": "2026-05-19T10:00",
@@ -1430,17 +1251,12 @@
         "assessoria juridica",
         "parecer juridico"
       ],
-      "tipo": "Contrato",
-      "meses": 1.8,
-      "valor_mensal": 0.0,
-      "presenca": "Esporadico",
-      "viagens_mes": 1,
-      "custo_logistica_mes": 2500,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 1m em Acari/RN. valor nao informado. presenca esporadico (1x/mes). logistica estimada R$ 2.500/mes."
+      "resumo": "Contrato 1m em Acari/RN. valor nao informado. presenca esporadico (1x/mes). logistica ~R$ 2.500/mes.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Esporadico",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital nº 5/2026",
@@ -1453,6 +1269,7 @@
       "municipio": "Cianorte",
       "esfera": "Municipal",
       "modalidade": "Concorrência - Eletrônica",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-03-25T11:28:32.014242422",
       "data_fim_vigencia": "2026-05-22T09:00",
@@ -1461,17 +1278,12 @@
         "consultoria juridica",
         "assessoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 1.9,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 1m em Cianorte/PR. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 1m em Cianorte/PR. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 006/2025",
@@ -1484,6 +1296,7 @@
       "municipio": "Caxambu",
       "esfera": "Não se aplica",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-03-13T14:49:23.774441",
       "data_fim_vigencia": "2027-03-13T23:59:59",
@@ -1492,17 +1305,12 @@
         "consultoria juridica",
         "assessoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 24.3,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 24m em Caxambu/MG. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 24m em Caxambu/MG. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital nº 001/2026-R/2026",
@@ -1515,6 +1323,7 @@
       "municipio": "Campo Limpo Paulista",
       "esfera": "Municipal",
       "modalidade": "Concorrência - Eletrônica",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-03-23T09:17:11.887150710",
       "data_fim_vigencia": "2026-05-19T10:00",
@@ -1523,17 +1332,12 @@
         "consultoria juridica",
         "assessoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 1.9,
-      "valor_mensal": 0.0,
-      "presenca": "Intenso",
-      "viagens_mes": 16,
-      "custo_logistica_mes": 14800,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 1m em Campo Limpo Paulista/SP. valor nao informado. presenca intenso (16x/mes). logistica estimada R$ 14.800/mes."
+      "resumo": "Contrato 1m em Campo Limpo Paulista/SP. valor nao informado. presenca intenso (16x/mes). logistica ~R$ 14.800/mes.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Intenso",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital nº 002/2026",
@@ -1546,6 +1350,7 @@
       "municipio": "Ituaçu",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-03-18T10:14:39.842077550",
       "data_fim_vigencia": "2027-02-27T17:00",
@@ -1554,17 +1359,12 @@
         "consultoria juridica",
         "assessoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 12.2,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 12m em Ituaçu/BA. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 12m em Ituaçu/BA. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 5/2026",
@@ -1577,6 +1377,7 @@
       "municipio": "Porto Alegre",
       "esfera": "Não se aplica",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-03-10T12:12:04.667800749",
       "data_fim_vigencia": "2026-05-11T23:59",
@@ -1585,17 +1386,12 @@
         "consultoria juridica",
         "assessoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 2.0,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 2m em Porto Alegre/RS. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 2m em Porto Alegre/RS. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº CPC 5/2026",
@@ -1608,6 +1404,7 @@
       "municipio": "Porto Alegre",
       "esfera": "Não se aplica",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-03-10T11:55:13.729715918",
       "data_fim_vigencia": "2026-05-11T23:59",
@@ -1617,17 +1414,12 @@
         "sociedade de advogados",
         "assessoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 2.0,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 2m em Porto Alegre/RS. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 2m em Porto Alegre/RS. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 38/2026",
@@ -1640,6 +1432,7 @@
       "municipio": "Rio das Ostras",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-03-06T11:08:10.962231",
       "data_fim_vigencia": "2027-10-19T17:00",
@@ -1648,17 +1441,12 @@
         "consultoria juridica",
         "parecer juridico"
       ],
-      "tipo": "Contrato",
-      "meses": 19.6,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 19m em Rio das Ostras/RJ. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 19m em Rio das Ostras/RJ. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital nº 19.02.01/2026",
@@ -1671,6 +1459,7 @@
       "municipio": "Jaguaribe",
       "esfera": "Municipal",
       "modalidade": "Pré-qualificação",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-02-26T18:26:58.062763613",
       "data_fim_vigencia": "2027-02-26T18:26:54",
@@ -1679,17 +1468,12 @@
         "consultoria juridica",
         "assessoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 12.2,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": "AGU",
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 12m em Jaguaribe/CE. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes. cliente-trofeu: AGU."
+      "resumo": "Contrato 12m em Jaguaribe/CE. valor nao informado. sem presencial detectado. cliente-trofeu: AGU.",
+      "lucro": null,
+      "trofeu": "AGU",
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 003/2025",
@@ -1702,6 +1486,7 @@
       "municipio": "Caxambu",
       "esfera": "Não se aplica",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-02-17T22:02:17.988336",
       "data_fim_vigencia": "2027-02-18T23:59:59",
@@ -1710,17 +1495,12 @@
         "consultoria juridica",
         "assessoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 24.4,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 24m em Caxambu/MG. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 24m em Caxambu/MG. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 001/2025-CE/2025",
@@ -1733,6 +1513,7 @@
       "municipio": "Maracanaú",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-02-18T15:36:45.398582",
       "data_fim_vigencia": "2027-02-20T14:00",
@@ -1741,17 +1522,12 @@
         "consultoria juridica",
         "parecer juridico"
       ],
-      "tipo": "Contrato",
-      "meses": 24.3,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 24m em Maracanaú/CE. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 24m em Maracanaú/CE. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 9/2026",
@@ -1764,6 +1540,7 @@
       "municipio": "Fortaleza",
       "esfera": "Federal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-01-28T17:18:01.704214",
       "data_fim_vigencia": "2031-01-28T17:17",
@@ -1771,17 +1548,12 @@
       "matched_keywords": [
         "consultoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 60.8,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 60m em Fortaleza/CE. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 60m em Fortaleza/CE. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 1/2026",
@@ -1794,6 +1566,7 @@
       "municipio": "Varginha",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-01-22T07:11:24.811169757",
       "data_fim_vigencia": "2027-01-22T08:00",
@@ -1801,17 +1574,12 @@
       "matched_keywords": [
         "consultoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 12.2,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 12m em Varginha/MG. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 12m em Varginha/MG. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 8/2025",
@@ -1824,6 +1592,7 @@
       "municipio": "Ponta Grossa",
       "esfera": "Estadual",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-05-30T14:57:46.393988",
       "data_fim_vigencia": "2026-12-31T18:00",
@@ -1831,17 +1600,12 @@
       "matched_keywords": [
         "consultoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 12.0,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 11m em Ponta Grossa/PR. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 11m em Ponta Grossa/PR. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 68/2025",
@@ -1854,6 +1618,7 @@
       "municipio": "Belém",
       "esfera": "Federal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-12-10T15:35:58.043648",
       "data_fim_vigencia": "2026-12-11T18:00",
@@ -1861,17 +1626,12 @@
       "matched_keywords": [
         "consultoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 12.2,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 12m em Belém/PA. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 12m em Belém/PA. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital nº 001/2025",
@@ -1884,6 +1644,7 @@
       "municipio": "Candeias",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-12-03T10:33:07.139147150",
       "data_fim_vigencia": "2026-12-03T10:30",
@@ -1891,17 +1652,12 @@
       "matched_keywords": [
         "consultoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 12.2,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 12m em Candeias/BA. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 12m em Candeias/BA. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 5/2026",
@@ -1914,6 +1670,7 @@
       "municipio": "Aquiraz",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-11-24T16:08:51.993745",
       "data_fim_vigencia": "2026-11-25T09:00",
@@ -1921,17 +1678,12 @@
       "matched_keywords": [
         "consultoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 12.2,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 12m em Aquiraz/CE. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 12m em Aquiraz/CE. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 2/2026",
@@ -1944,6 +1696,7 @@
       "municipio": "Porto Alegre",
       "esfera": "Federal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-05-16T16:09:28.348230",
       "data_fim_vigencia": "2026-11-03T17:00",
@@ -1951,17 +1704,12 @@
       "matched_keywords": [
         "consultoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 12.3,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 12m em Porto Alegre/RS. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 12m em Porto Alegre/RS. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 02/2025",
@@ -1974,6 +1722,7 @@
       "municipio": "Boca da Mata",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-08-29T16:36:57.534352836",
       "data_fim_vigencia": "2026-08-31T13:55",
@@ -1981,17 +1730,12 @@
       "matched_keywords": [
         "consultoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 12.2,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 12m em Boca da Mata/AL. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 12m em Boca da Mata/AL. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital nº 2025.05.08.02-SMS-R /2026",
@@ -2004,6 +1748,7 @@
       "municipio": "Caucaia",
       "esfera": "Municipal",
       "modalidade": "Pré-qualificação",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-08-19T16:44:16.061952",
       "data_fim_vigencia": "2026-05-14T16:00",
@@ -2011,17 +1756,12 @@
       "matched_keywords": [
         "consultoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 8.9,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 8m em Caucaia/CE. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 8m em Caucaia/CE. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 02/2025",
@@ -2034,6 +1774,7 @@
       "municipio": "Arujá",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-08-19T09:34:18.798830946",
       "data_fim_vigencia": "2050-09-02T09:00",
@@ -2041,17 +1782,12 @@
       "matched_keywords": [
         "consultoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 304.4,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 304m em Arujá/SP. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 304m em Arujá/SP. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 03/2025",
@@ -2065,6 +1801,7 @@
       "municipio": "Cajamar",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Revogada",
       "valor": null,
       "data_publicacao": "2025-06-09T09:07:50.285628",
       "data_fim_vigencia": "2029-07-20T23:59",
@@ -2072,17 +1809,12 @@
       "matched_keywords": [
         "sociedade de advogados"
       ],
-      "tipo": "Contrato",
-      "meses": 48.7,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 48m em Cajamar/SP. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 48m em Cajamar/SP. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 04/2025",
@@ -2095,6 +1827,7 @@
       "municipio": "Cajamar",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Revogada",
       "valor": null,
       "data_publicacao": "2025-06-09T09:10:58.995850",
       "data_fim_vigencia": "2029-07-20T23:59",
@@ -2103,17 +1836,12 @@
         "sociedade de advogados",
         "servicos advocaticios"
       ],
-      "tipo": "Contrato",
-      "meses": 48.6,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 48m em Cajamar/SP. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 48m em Cajamar/SP. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital nº LEE 2/2026",
@@ -2126,6 +1854,7 @@
       "municipio": "Corbélia",
       "esfera": "Municipal",
       "modalidade": "Leilão - Eletrônico",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-05-06T10:22:29.455804245",
       "data_fim_vigencia": "2026-06-15T07:59",
@@ -2133,17 +1862,12 @@
       "matched_keywords": [
         "assessoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 1.3,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 1m em Corbélia/PR. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 1m em Corbélia/PR. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital nº PCE 24/2026",
@@ -2156,6 +1880,7 @@
       "municipio": "Osório",
       "esfera": "Municipal",
       "modalidade": "Pregão - Eletrônico",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-05-05T17:24:43.633952672",
       "data_fim_vigencia": "2026-05-19T08:59",
@@ -2163,17 +1888,12 @@
       "matched_keywords": [
         "assessoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 1.0,
-      "valor_mensal": 0.0,
-      "presenca": "Intenso",
-      "viagens_mes": 16,
-      "custo_logistica_mes": 26000,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 1m em Osório/RS. valor nao informado. presenca intenso (16x/mes). logistica estimada R$ 26.000/mes."
+      "resumo": "Contrato 1m em Osório/RS. valor nao informado. presenca intenso (16x/mes). logistica ~R$ 26.000/mes.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Intenso",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital nº (24989) | 10-0/2026",
@@ -2186,6 +1906,7 @@
       "municipio": "Turvelândia",
       "esfera": "Municipal",
       "modalidade": "Pregão - Eletrônico",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-05-05T10:42:51.645524316",
       "data_fim_vigencia": "2026-05-18T08:30",
@@ -2193,17 +1914,12 @@
       "matched_keywords": [
         "assessoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 1.0,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 1m em Turvelândia/GO. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 1m em Turvelândia/GO. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Aviso de Contratação Direta nº 019/2026",
@@ -2216,6 +1932,7 @@
       "municipio": "Conceição da Aparecida",
       "esfera": "Municipal",
       "modalidade": "Dispensa",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-05-05T07:17:09.899098255",
       "data_fim_vigencia": "2026-05-12T07:45",
@@ -2223,17 +1940,12 @@
       "matched_keywords": [
         "assessoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 1.0,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 1m em Conceição da Aparecida/MG. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 1m em Conceição da Aparecida/MG. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Aviso de Contratação Direta nº 6/2026",
@@ -2247,6 +1959,7 @@
       "municipio": "Buenópolis",
       "esfera": "Municipal",
       "modalidade": "Dispensa",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-05-04T15:33:14.506519589",
       "data_fim_vigencia": "2026-05-15T09:00",
@@ -2254,17 +1967,12 @@
       "matched_keywords": [
         "assessoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 1.0,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 1m em Buenópolis/MG. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 1m em Buenópolis/MG. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 1/2026",
@@ -2277,6 +1985,7 @@
       "municipio": "Pimenta Bueno",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-05-04T13:01:40.916348674",
       "data_fim_vigencia": "2026-05-19T08:59",
@@ -2284,17 +1993,12 @@
       "matched_keywords": [
         "assessoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 1.0,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 1m em Pimenta Bueno/RO. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 1m em Pimenta Bueno/RO. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital nº PCE 23/2026",
@@ -2307,6 +2011,7 @@
       "municipio": "Corbélia",
       "esfera": "Municipal",
       "modalidade": "Pregão - Eletrônico",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-30T08:46:38.599866310",
       "data_fim_vigencia": "2026-05-27T07:59",
@@ -2314,17 +2019,12 @@
       "matched_keywords": [
         "assessoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 1.0,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 1m em Corbélia/PR. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 1m em Corbélia/PR. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital nº CCE 13/2026",
@@ -2337,6 +2037,7 @@
       "municipio": "Corbélia",
       "esfera": "Municipal",
       "modalidade": "Concorrência - Eletrônica",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-29T11:24:18.633279846",
       "data_fim_vigencia": "2026-06-11T07:59",
@@ -2344,17 +2045,12 @@
       "matched_keywords": [
         "assessoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 1.4,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 1m em Corbélia/PR. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 1m em Corbélia/PR. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 2/2024",
@@ -2367,6 +2063,7 @@
       "municipio": "Ijuí",
       "esfera": "Não se aplica",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2024-12-04T13:02:01.534948",
       "data_fim_vigencia": "2029-11-03T00:00",
@@ -2374,17 +2071,12 @@
       "matched_keywords": [
         "assessoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 60.8,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 60m em Ijuí/RS. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 60m em Ijuí/RS. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital nº 3/2026",
@@ -2397,6 +2089,7 @@
       "municipio": "Santo Inácio",
       "esfera": "Municipal",
       "modalidade": "Concorrência - Presencial",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-22T16:14:39.459588189",
       "data_fim_vigencia": "2026-05-26T09:30",
@@ -2404,17 +2097,12 @@
       "matched_keywords": [
         "assessoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 1.0,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 1m em Santo Inácio/PR. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 1m em Santo Inácio/PR. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital nº 009/2026",
@@ -2427,6 +2115,7 @@
       "municipio": "Lima Campos",
       "esfera": "Municipal",
       "modalidade": "Pregão - Eletrônico",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-17T16:32:52.773950",
       "data_fim_vigencia": "2026-05-07T08:59",
@@ -2434,17 +2123,12 @@
       "matched_keywords": [
         "assessoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 1.0,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 1m em Lima Campos/MA. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 1m em Lima Campos/MA. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital nº CCE 11/2026",
@@ -2457,6 +2141,7 @@
       "municipio": "Corbélia",
       "esfera": "Municipal",
       "modalidade": "Concorrência - Eletrônica",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-17T14:52:19.114508951",
       "data_fim_vigencia": "2026-06-02T07:59",
@@ -2464,17 +2149,12 @@
       "matched_keywords": [
         "assessoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 1.5,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 1m em Corbélia/PR. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 1m em Corbélia/PR. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital nº 03/2026",
@@ -2487,6 +2167,7 @@
       "municipio": "Cristiano Otoni",
       "esfera": "Não se aplica",
       "modalidade": "Concorrência - Eletrônica",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-16T14:30:08.323760582",
       "data_fim_vigencia": "2026-06-10T08:00",
@@ -2494,17 +2175,12 @@
       "matched_keywords": [
         "assessoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 1.8,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 1m em Cristiano Otoni/MG. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 1m em Cristiano Otoni/MG. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital nº CCE 8/2026",
@@ -2517,6 +2193,7 @@
       "municipio": "Corbélia",
       "esfera": "Municipal",
       "modalidade": "Concorrência - Eletrônica",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-13T13:22:00.052094625",
       "data_fim_vigencia": "2026-05-25T07:59",
@@ -2524,17 +2201,12 @@
       "matched_keywords": [
         "assessoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 1.4,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 1m em Corbélia/PR. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 1m em Corbélia/PR. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital nº CCE 7/2026",
@@ -2547,6 +2219,7 @@
       "municipio": "Corbélia",
       "esfera": "Municipal",
       "modalidade": "Concorrência - Eletrônica",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-13T11:28:42.917870966",
       "data_fim_vigencia": "2026-05-22T07:59",
@@ -2554,17 +2227,12 @@
       "matched_keywords": [
         "assessoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 1.3,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 1m em Corbélia/PR. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 1m em Corbélia/PR. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 3/2026",
@@ -2577,6 +2245,7 @@
       "municipio": "Campinápolis",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-09T14:01:58.758098035",
       "data_fim_vigencia": "2027-04-23T23:59:59",
@@ -2584,17 +2253,12 @@
       "matched_keywords": [
         "assessoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 12.2,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 12m em Campinápolis/MT. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 12m em Campinápolis/MT. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº C0005/2024",
@@ -2607,6 +2271,7 @@
       "municipio": "Teresina",
       "esfera": "Estadual",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-03-13T17:58:56.793066",
       "data_fim_vigencia": "2028-10-03T03:00",
@@ -2614,17 +2279,12 @@
       "matched_keywords": [
         "assessoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 60.9,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 60m em Teresina/PI. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 60m em Teresina/PI. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital nº 105/2025",
@@ -2637,6 +2297,7 @@
       "municipio": "Imbé",
       "esfera": "Municipal",
       "modalidade": "Pregão - Eletrônico",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-02T16:34:41.679385132",
       "data_fim_vigencia": "2026-12-16T08:31",
@@ -2644,17 +2305,12 @@
       "matched_keywords": [
         "assessoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 12.2,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 12m em Imbé/RS. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 12m em Imbé/RS. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 02/2026",
@@ -2667,6 +2323,7 @@
       "municipio": "Sananduva",
       "esfera": "Não se aplica",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-03-27T10:13:14.513742249",
       "data_fim_vigencia": "2027-03-30T23:59",
@@ -2674,17 +2331,12 @@
       "matched_keywords": [
         "assessoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 12.2,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 12m em Sananduva/RS. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 12m em Sananduva/RS. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº PRI 12/2026",
@@ -2697,6 +2349,7 @@
       "municipio": "Corbélia",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-03-25T16:45:07.982340163",
       "data_fim_vigencia": "2026-12-31T18:00",
@@ -2704,17 +2357,12 @@
       "matched_keywords": [
         "assessoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 9.6,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 9m em Corbélia/PR. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 9m em Corbélia/PR. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº PRI 13/2026",
@@ -2727,6 +2375,7 @@
       "municipio": "Corbélia",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-03-17T18:35:10.288953822",
       "data_fim_vigencia": "2026-12-31T18:00",
@@ -2734,17 +2383,12 @@
       "matched_keywords": [
         "assessoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 9.6,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 9m em Corbélia/PR. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 9m em Corbélia/PR. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº PRI 6/2026",
@@ -2757,6 +2401,7 @@
       "municipio": "Corbélia",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-03-05T10:09:06.800640431",
       "data_fim_vigencia": "2026-12-31T18:00",
@@ -2765,17 +2410,12 @@
         "assessoria juridica",
         "parecer juridico"
       ],
-      "tipo": "Contrato",
-      "meses": 10.1,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 10m em Corbélia/PR. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 10m em Corbélia/PR. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 003/2026",
@@ -2788,6 +2428,7 @@
       "municipio": "Mirante",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-02-26T15:36:55.765447868",
       "data_fim_vigencia": "2026-12-31T08:00",
@@ -2795,17 +2436,12 @@
       "matched_keywords": [
         "assessoria juridica"
       ],
-      "tipo": "Contrato",
-      "meses": 10.2,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 10m em Mirante/BA. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 10m em Mirante/BA. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 05/2025",
@@ -2818,6 +2454,7 @@
       "municipio": "Uberaba",
       "esfera": "Não se aplica",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-09-02T12:38:39.302105",
       "data_fim_vigencia": "2026-10-16T23:59:59",
@@ -2825,17 +2462,12 @@
       "matched_keywords": [
         "servicos advocaticios"
       ],
-      "tipo": "Contrato",
-      "meses": 12.1,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 12m em Uberaba/MG. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 12m em Uberaba/MG. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 01/2025-CHPC/2035",
@@ -2848,6 +2480,7 @@
       "municipio": "Sobral",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-02-25T08:41:48.089097",
       "data_fim_vigencia": "2035-02-23T23:59",
@@ -2855,17 +2488,12 @@
       "matched_keywords": [
         "servicos advocaticios"
       ],
-      "tipo": "Contrato",
-      "meses": 121.7,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 121m em Sobral/CE. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 121m em Sobral/CE. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 01/2024-CHPC/2034",
@@ -2878,6 +2506,7 @@
       "municipio": "Sobral",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2024-06-11T12:30:45.066675",
       "data_fim_vigencia": "2034-06-11T13:00",
@@ -2885,17 +2514,12 @@
       "matched_keywords": [
         "servicos advocaticios"
       ],
-      "tipo": "Contrato",
-      "meses": 121.7,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 121m em Sobral/CE. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 121m em Sobral/CE. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Aviso de Contratação Direta nº 33/2026",
@@ -2908,6 +2532,7 @@
       "municipio": "Belo Horizonte",
       "esfera": "Estadual",
       "modalidade": "Dispensa",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-05-06T11:22:28.109373365",
       "data_fim_vigencia": "2026-05-13T08:00:48",
@@ -2915,17 +2540,12 @@
       "matched_keywords": [
         "servicos de advocacia"
       ],
-      "tipo": "Contrato",
-      "meses": 1.0,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 1m em Belo Horizonte/MG. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 1m em Belo Horizonte/MG. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital nº 90006/2026",
@@ -2938,6 +2558,7 @@
       "municipio": "Brasília",
       "esfera": "Federal",
       "modalidade": "Pregão - Eletrônico",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-05-05T07:03:41.842371309",
       "data_fim_vigencia": "2026-05-20T10:00",
@@ -2945,17 +2566,12 @@
       "matched_keywords": [
         "servicos de advocacia"
       ],
-      "tipo": "Contrato",
-      "meses": 1.0,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 1m em Brasília/DF. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 1m em Brasília/DF. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital nº 90001/2026",
@@ -2968,6 +2584,7 @@
       "municipio": "São Paulo",
       "esfera": "Federal",
       "modalidade": "Pregão - Eletrônico",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-05-05T07:03:31.825485131",
       "data_fim_vigencia": "2026-05-20T10:30",
@@ -2975,17 +2592,12 @@
       "matched_keywords": [
         "servicos de advocacia"
       ],
-      "tipo": "Contrato",
-      "meses": 1.0,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 1m em São Paulo/SP. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 1m em São Paulo/SP. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital nº 90005/2026",
@@ -2998,6 +2610,7 @@
       "municipio": "Brasília",
       "esfera": "Federal",
       "modalidade": "Pregão - Eletrônico",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-05-05T07:00:24.088956967",
       "data_fim_vigencia": "2026-05-20T10:00",
@@ -3005,17 +2618,12 @@
       "matched_keywords": [
         "servicos de advocacia"
       ],
-      "tipo": "Contrato",
-      "meses": 1.0,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 1m em Brasília/DF. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 1m em Brasília/DF. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Aviso de Contratação Direta nº 30/2026",
@@ -3028,6 +2636,7 @@
       "municipio": "Belo Horizonte",
       "esfera": "Estadual",
       "modalidade": "Dispensa",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-30T12:03:16.456342250",
       "data_fim_vigencia": "2026-05-07T08:00:21",
@@ -3035,17 +2644,12 @@
       "matched_keywords": [
         "servicos de advocacia"
       ],
-      "tipo": "Contrato",
-      "meses": 1.0,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 1m em Belo Horizonte/MG. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 1m em Belo Horizonte/MG. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital nº 90004/2026",
@@ -3058,6 +2662,7 @@
       "municipio": "Recife",
       "esfera": "Federal",
       "modalidade": "Pregão - Eletrônico",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-23T07:12:58.043118937",
       "data_fim_vigencia": "2026-05-08T09:00",
@@ -3065,17 +2670,12 @@
       "matched_keywords": [
         "servicos de advocacia"
       ],
-      "tipo": "Contrato",
-      "meses": 1.0,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 1m em Recife/PE. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 1m em Recife/PE. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 1/2026",
@@ -3088,6 +2688,7 @@
       "municipio": "Camaquã",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-05-05T09:08:43.693312",
       "data_fim_vigencia": "2027-05-04T00:00",
@@ -3095,17 +2696,12 @@
       "matched_keywords": [
         "representacao judicial"
       ],
-      "tipo": "Contrato",
-      "meses": 12.2,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 12m em Camaquã/RS. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 12m em Camaquã/RS. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 90/2025",
@@ -3118,6 +2714,7 @@
       "municipio": "Canoas",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-02-25T14:17:30.196638",
       "data_fim_vigencia": "2027-12-31T00:00",
@@ -3125,17 +2722,12 @@
       "matched_keywords": [
         "representacao judicial"
       ],
-      "tipo": "Contrato",
-      "meses": 30.0,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 30m em Canoas/RS. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 30m em Canoas/RS. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 008/2026",
@@ -3148,6 +2740,7 @@
       "municipio": "Nova Serrana",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-05-05T12:09:49.776512613",
       "data_fim_vigencia": "2027-05-06T23:59:59",
@@ -3155,17 +2748,12 @@
       "matched_keywords": [
         "parecer juridico"
       ],
-      "tipo": "Contrato",
-      "meses": 12.2,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 12m em Nova Serrana/MG. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 12m em Nova Serrana/MG. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 06/2026",
@@ -3178,6 +2766,7 @@
       "municipio": "Igaratinga",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-05-04T16:22:31.513300184",
       "data_fim_vigencia": "2026-06-03T23:59:59",
@@ -3185,17 +2774,12 @@
       "matched_keywords": [
         "parecer juridico"
       ],
-      "tipo": "Contrato",
-      "meses": 1.0,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 1m em Igaratinga/MG. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 1m em Igaratinga/MG. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Aviso de Contratação Direta nº 57/2026",
@@ -3208,6 +2792,7 @@
       "municipio": "Sarapuí",
       "esfera": "Municipal",
       "modalidade": "Dispensa",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-05-04T15:35:13.409256517",
       "data_fim_vigencia": "2026-05-07T17:00",
@@ -3215,17 +2800,12 @@
       "matched_keywords": [
         "parecer juridico"
       ],
-      "tipo": "Contrato",
-      "meses": 1.0,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 1m em Sarapuí/SP. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 1m em Sarapuí/SP. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Aviso de Contratação Direta nº 9/2026",
@@ -3238,6 +2818,7 @@
       "municipio": "Quatro Barras",
       "esfera": "Municipal",
       "modalidade": "Dispensa",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-05-04T15:04:41.389634562",
       "data_fim_vigencia": "2026-05-07T17:00",
@@ -3245,17 +2826,12 @@
       "matched_keywords": [
         "parecer juridico"
       ],
-      "tipo": "Evento",
-      "meses": 0.1,
-      "valor_mensal": 0.0,
-      "presenca": "Esporadico",
-      "viagens_mes": 1,
-      "custo_logistica_mes": 1500,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Evento unico em Quatro Barras/PR. valor nao informado. presenca esporadico (1x/mes). logistica estimada R$ 1.500/mes."
+      "resumo": "Evento unico em Quatro Barras/PR. valor nao informado. presenca esporadico (1x/mes). logistica ~R$ 1.500/mes.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Esporadico",
+      "tipo": "Evento"
     },
     {
       "titulo": "Edital nº 17/2026",
@@ -3268,6 +2844,7 @@
       "municipio": "Sarapuí",
       "esfera": "Municipal",
       "modalidade": "Pregão - Eletrônico",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-29T12:07:18.786623358",
       "data_fim_vigencia": "2026-05-18T09:00",
@@ -3275,17 +2852,12 @@
       "matched_keywords": [
         "parecer juridico"
       ],
-      "tipo": "Contrato",
-      "meses": 1.0,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 1m em Sarapuí/SP. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 1m em Sarapuí/SP. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 4/2025",
@@ -3298,6 +2870,7 @@
       "municipio": "Lajeado",
       "esfera": "Não se aplica",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-07-11T09:07:49.610600",
       "data_fim_vigencia": "2027-06-30T07:59",
@@ -3305,17 +2878,12 @@
       "matched_keywords": [
         "parecer juridico"
       ],
-      "tipo": "Contrato",
-      "meses": 24.3,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 24m em Lajeado/RS. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 24m em Lajeado/RS. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital nº 038/2026",
@@ -3328,6 +2896,7 @@
       "municipio": "Campo Novo do Parecis",
       "esfera": "Municipal",
       "modalidade": "Pregão - Eletrônico",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-24T09:25:38.260767585",
       "data_fim_vigencia": "2026-05-11T08:00",
@@ -3335,17 +2904,12 @@
       "matched_keywords": [
         "parecer juridico"
       ],
-      "tipo": "Contrato",
-      "meses": 1.0,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 1m em Campo Novo do Parecis/MT. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 1m em Campo Novo do Parecis/MT. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 002/2026",
@@ -3358,6 +2922,7 @@
       "municipio": "Capim Grosso",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-23T15:57:54.697237114",
       "data_fim_vigencia": "2027-04-22T08:00",
@@ -3365,17 +2930,12 @@
       "matched_keywords": [
         "parecer juridico"
       ],
-      "tipo": "Contrato",
-      "meses": 12.1,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 12m em Capim Grosso/BA. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 12m em Capim Grosso/BA. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 03/2026",
@@ -3388,6 +2948,7 @@
       "municipio": "Sobrália",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-23T15:50:02.520656845",
       "data_fim_vigencia": "2027-05-13T23:59:59",
@@ -3395,17 +2956,12 @@
       "matched_keywords": [
         "parecer juridico"
       ],
-      "tipo": "Contrato",
-      "meses": 12.2,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 12m em Sobrália/MG. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 12m em Sobrália/MG. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital nº 19/2026",
@@ -3418,6 +2974,7 @@
       "municipio": "Sarapuí",
       "esfera": "Municipal",
       "modalidade": "Pregão - Eletrônico",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-22T13:03:26.156838938",
       "data_fim_vigencia": "2026-05-11T09:00",
@@ -3425,17 +2982,12 @@
       "matched_keywords": [
         "parecer juridico"
       ],
-      "tipo": "Contrato",
-      "meses": 1.0,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 1m em Sarapuí/SP. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 1m em Sarapuí/SP. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº CPC 7/2026",
@@ -3448,6 +3000,7 @@
       "municipio": "Farroupilha",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-22T12:59:25.026860070",
       "data_fim_vigencia": "2026-05-27T23:59",
@@ -3455,17 +3008,12 @@
       "matched_keywords": [
         "parecer juridico"
       ],
-      "tipo": "Contrato",
-      "meses": 1.1,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 1m em Farroupilha/RS. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 1m em Farroupilha/RS. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital nº 27/2026",
@@ -3478,6 +3026,7 @@
       "municipio": "Sarapuí",
       "esfera": "Municipal",
       "modalidade": "Pregão - Eletrônico",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-17T16:03:43.782111899",
       "data_fim_vigencia": "2026-05-07T09:00",
@@ -3485,17 +3034,12 @@
       "matched_keywords": [
         "parecer juridico"
       ],
-      "tipo": "Contrato",
-      "meses": 1.0,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 1m em Sarapuí/SP. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 1m em Sarapuí/SP. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital nº 0086/2026",
@@ -3508,6 +3052,7 @@
       "municipio": "Canoas",
       "esfera": "Municipal",
       "modalidade": "Concorrência - Eletrônica",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-14T13:40:52.181271792",
       "data_fim_vigencia": "2026-06-08T08:00",
@@ -3515,17 +3060,12 @@
       "matched_keywords": [
         "parecer juridico"
       ],
-      "tipo": "Contrato",
-      "meses": 1.8,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 1m em Canoas/RS. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 1m em Canoas/RS. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 004/2026",
@@ -3538,6 +3078,7 @@
       "municipio": "Campo Novo do Parecis",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Revogada",
       "valor": null,
       "data_publicacao": "2026-03-18T08:23:31.391474",
       "data_fim_vigencia": "2028-03-18T08:00",
@@ -3545,17 +3086,12 @@
       "matched_keywords": [
         "parecer juridico"
       ],
-      "tipo": "Contrato",
-      "meses": 24.4,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 24m em Campo Novo do Parecis/MT. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 24m em Campo Novo do Parecis/MT. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital nº 50/2026",
@@ -3568,6 +3104,7 @@
       "municipio": "Junqueirópolis",
       "esfera": "Municipal",
       "modalidade": "Pregão - Eletrônico",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-10T14:18:50.204359500",
       "data_fim_vigencia": "2026-05-11T08:30",
@@ -3575,17 +3112,12 @@
       "matched_keywords": [
         "parecer juridico"
       ],
-      "tipo": "Evento",
-      "meses": 0.1,
-      "valor_mensal": 0.0,
-      "presenca": "Esporadico",
-      "viagens_mes": 1,
-      "custo_logistica_mes": 800,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Evento unico em Junqueirópolis/SP. valor nao informado. presenca esporadico (1x/mes). logistica estimada R$ 800/mes."
+      "resumo": "Evento unico em Junqueirópolis/SP. valor nao informado. presenca esporadico (1x/mes). logistica ~R$ 800/mes.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Esporadico",
+      "tipo": "Evento"
     },
     {
       "titulo": "Edital de Chamamento Público nº 02/2026",
@@ -3598,6 +3130,7 @@
       "municipio": "Rolim de Moura",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-08T11:23:07.024534561",
       "data_fim_vigencia": "2026-08-04T00:00",
@@ -3605,17 +3138,12 @@
       "matched_keywords": [
         "parecer juridico"
       ],
-      "tipo": "Contrato",
-      "meses": 3.0,
-      "valor_mensal": 0.0,
-      "presenca": "Esporadico",
-      "viagens_mes": 1,
-      "custo_logistica_mes": 3500,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 3m em Rolim de Moura/RO. valor nao informado. presenca esporadico (1x/mes). logistica estimada R$ 3.500/mes."
+      "resumo": "Contrato 3m em Rolim de Moura/RO. valor nao informado. presenca esporadico (1x/mes). logistica ~R$ 3.500/mes.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Esporadico",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital nº 9/2026",
@@ -3628,6 +3156,7 @@
       "municipio": "Astorga",
       "esfera": "Municipal",
       "modalidade": "Concorrência - Eletrônica",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-07T11:30:32.837638425",
       "data_fim_vigencia": "2026-05-28T08:59",
@@ -3635,17 +3164,12 @@
       "matched_keywords": [
         "parecer juridico"
       ],
-      "tipo": "Contrato",
-      "meses": 1.9,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 1m em Astorga/PR. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 1m em Astorga/PR. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 002-26CR-PMG/2026",
@@ -3659,6 +3183,7 @@
       "municipio": "Guanambi",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-04-06T14:51:49.382511441",
       "data_fim_vigencia": "2027-04-13T08:00",
@@ -3666,17 +3191,12 @@
       "matched_keywords": [
         "parecer juridico"
       ],
-      "tipo": "Contrato",
-      "meses": 12.2,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 12m em Guanambi/BA. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 12m em Guanambi/BA. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 003/2026",
@@ -3689,6 +3209,7 @@
       "municipio": "Nova Serrana",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-02-12T15:02:56.007911",
       "data_fim_vigencia": "2027-02-12T23:59:59",
@@ -3696,17 +3217,12 @@
       "matched_keywords": [
         "parecer juridico"
       ],
-      "tipo": "Contrato",
-      "meses": 12.1,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 12m em Nova Serrana/MG. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 12m em Nova Serrana/MG. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 1/2026",
@@ -3719,6 +3235,7 @@
       "municipio": "Santa Cruz",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-03-25T14:59:02.461927",
       "data_fim_vigencia": "2027-03-09T09:00",
@@ -3726,17 +3243,12 @@
       "matched_keywords": [
         "parecer juridico"
       ],
-      "tipo": "Contrato",
-      "meses": 12.1,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 12m em Santa Cruz/RN. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 12m em Santa Cruz/RN. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 01/2025",
@@ -3749,6 +3261,7 @@
       "municipio": "Ilhabela",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-02-19T10:53:57.198713",
       "data_fim_vigencia": "2027-02-19T12:00",
@@ -3756,17 +3269,12 @@
       "matched_keywords": [
         "parecer juridico"
       ],
-      "tipo": "Contrato",
-      "meses": 24.3,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 24m em Ilhabela/SP. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 24m em Ilhabela/SP. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 7/2026",
@@ -3779,6 +3287,7 @@
       "municipio": "Francisco Dumont",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-03-03T15:16:11.098661766",
       "data_fim_vigencia": "2028-12-31T17:00",
@@ -3786,17 +3295,12 @@
       "matched_keywords": [
         "parecer juridico"
       ],
-      "tipo": "Contrato",
-      "meses": 34.4,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 34m em Francisco Dumont/MG. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 34m em Francisco Dumont/MG. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 001/2026",
@@ -3809,6 +3313,7 @@
       "municipio": "Mojuí dos Campos",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-03-02T10:38:25.821448901",
       "data_fim_vigencia": "2027-03-02T14:00",
@@ -3816,17 +3321,12 @@
       "matched_keywords": [
         "parecer juridico"
       ],
-      "tipo": "Contrato",
-      "meses": 12.2,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 12m em Mojuí dos Campos/PA. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 12m em Mojuí dos Campos/PA. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº CRE 28/2025",
@@ -3839,6 +3339,7 @@
       "municipio": "Ponte Serrada",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-08-19T15:46:06.374340",
       "data_fim_vigencia": "2027-08-20T08:00",
@@ -3846,17 +3347,12 @@
       "matched_keywords": [
         "parecer juridico"
       ],
-      "tipo": "Contrato",
-      "meses": 24.3,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 24m em Ponte Serrada/SC. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 24m em Ponte Serrada/SC. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº (4044) | 1-0/2026",
@@ -3869,6 +3365,7 @@
       "municipio": "Jesúpolis",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-02-24T12:56:27.142315",
       "data_fim_vigencia": "2026-12-31T17:00",
@@ -3876,17 +3373,12 @@
       "matched_keywords": [
         "parecer juridico"
       ],
-      "tipo": "Contrato",
-      "meses": 11.6,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 11m em Jesúpolis/GO. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 11m em Jesúpolis/GO. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 01/2026",
@@ -3899,6 +3391,7 @@
       "municipio": "Santa Rita do Tocantins",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-02-09T12:06:59.172280",
       "data_fim_vigencia": "2028-02-11T00:00",
@@ -3906,17 +3399,12 @@
       "matched_keywords": [
         "parecer juridico"
       ],
-      "tipo": "Contrato",
-      "meses": 24.3,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 24m em Santa Rita do Tocantins/TO. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 24m em Santa Rita do Tocantins/TO. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 1/2026",
@@ -3929,6 +3417,7 @@
       "municipio": "Curitibanos",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-02-18T18:21:51.214685407",
       "data_fim_vigencia": "2027-02-23T13:00",
@@ -3936,17 +3425,12 @@
       "matched_keywords": [
         "parecer juridico"
       ],
-      "tipo": "Contrato",
-      "meses": 12.1,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 12m em Curitibanos/SC. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 12m em Curitibanos/SC. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº CD-003/2026",
@@ -3959,6 +3443,7 @@
       "municipio": "Teixeira de Freitas",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-02-11T21:26:30.513440020",
       "data_fim_vigencia": "2027-02-24T09:00",
@@ -3966,17 +3451,12 @@
       "matched_keywords": [
         "parecer juridico"
       ],
-      "tipo": "Contrato",
-      "meses": 12.2,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 12m em Teixeira de Freitas/BA. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 12m em Teixeira de Freitas/BA. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº PRI 1/2026",
@@ -3989,6 +3469,7 @@
       "municipio": "Bom Retiro",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-01-26T11:05:55.711763",
       "data_fim_vigencia": "2028-01-26T00:00",
@@ -3996,17 +3477,12 @@
       "matched_keywords": [
         "parecer juridico"
       ],
-      "tipo": "Contrato",
-      "meses": 24.3,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 24m em Bom Retiro/SC. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 24m em Bom Retiro/SC. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 2026.01.15.1/2026",
@@ -4019,6 +3495,7 @@
       "municipio": "Farias Brito",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-01-21T16:32:46.266951401",
       "data_fim_vigencia": "2027-01-19T23:59",
@@ -4026,17 +3503,12 @@
       "matched_keywords": [
         "parecer juridico"
       ],
-      "tipo": "Contrato",
-      "meses": 12.2,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 12m em Farias Brito/CE. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 12m em Farias Brito/CE. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital nº 334/2026",
@@ -4049,6 +3521,7 @@
       "municipio": "Hidrolândia",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-01-20T14:58:08.108772138",
       "data_fim_vigencia": "2026-12-31T17:00",
@@ -4056,17 +3529,12 @@
       "matched_keywords": [
         "parecer juridico"
       ],
-      "tipo": "Contrato",
-      "meses": 11.9,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 11m em Hidrolândia/GO. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 11m em Hidrolândia/GO. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 12/2025",
@@ -4079,6 +3547,7 @@
       "municipio": "Felício dos Santos",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-12-31T15:41:20.457793",
       "data_fim_vigencia": "2026-12-31T09:00",
@@ -4086,17 +3555,12 @@
       "matched_keywords": [
         "parecer juridico"
       ],
-      "tipo": "Contrato",
-      "meses": 12.1,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 12m em Felício dos Santos/MG. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 12m em Felício dos Santos/MG. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 022/2025",
@@ -4109,6 +3573,7 @@
       "municipio": "Placas",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-12-30T23:53:26.437196",
       "data_fim_vigencia": "2026-12-31T14:00",
@@ -4116,17 +3581,12 @@
       "matched_keywords": [
         "parecer juridico"
       ],
-      "tipo": "Contrato",
-      "meses": 11.6,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 11m em Placas/PA. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 11m em Placas/PA. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 001/2025",
@@ -4141,6 +3601,7 @@
       "municipio": "Três Marias",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-12-12T11:40:37.917734039",
       "data_fim_vigencia": "2026-12-14T23:59:59",
@@ -4148,17 +3609,12 @@
       "matched_keywords": [
         "parecer juridico"
       ],
-      "tipo": "Contrato",
-      "meses": 12.2,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 12m em Três Marias/MG. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 12m em Três Marias/MG. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 0009/2025",
@@ -4171,6 +3627,7 @@
       "municipio": "Couto de Magalhães de Minas",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-02-03T12:53:21.425216",
       "data_fim_vigencia": "2026-12-31T23:59:59",
@@ -4178,17 +3635,12 @@
       "matched_keywords": [
         "parecer juridico"
       ],
-      "tipo": "Contrato",
-      "meses": 23.2,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 23m em Couto de Magalhães de Minas/MG. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 23m em Couto de Magalhães de Minas/MG. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital nº 5/2025",
@@ -4201,6 +3653,7 @@
       "municipio": "Manaus",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-12-10T13:16:48.028576806",
       "data_fim_vigencia": "2026-12-08T17:00",
@@ -4208,17 +3661,12 @@
       "matched_keywords": [
         "parecer juridico"
       ],
-      "tipo": "Contrato",
-      "meses": 12.1,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 12m em Manaus/AM. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 12m em Manaus/AM. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº (1018) | 27-0/2025",
@@ -4231,6 +3679,7 @@
       "municipio": "Dianópolis",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-12-10T08:05:39.663928",
       "data_fim_vigencia": "2026-11-30T23:59",
@@ -4238,17 +3687,12 @@
       "matched_keywords": [
         "parecer juridico"
       ],
-      "tipo": "Contrato",
-      "meses": 11.8,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 11m em Dianópolis/TO. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 11m em Dianópolis/TO. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 005/2025",
@@ -4261,6 +3705,7 @@
       "municipio": "Campo Novo do Parecis",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-11-17T09:37:30.821287187",
       "data_fim_vigencia": "2028-12-31T08:00",
@@ -4268,17 +3713,12 @@
       "matched_keywords": [
         "parecer juridico"
       ],
-      "tipo": "Contrato",
-      "meses": 38.3,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 38m em Campo Novo do Parecis/MT. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 38m em Campo Novo do Parecis/MT. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 003/2025",
@@ -4291,6 +3731,7 @@
       "municipio": "Águas Formosas",
       "esfera": "Não se aplica",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-10-17T10:58:30.837681",
       "data_fim_vigencia": "2026-10-17T23:59:59",
@@ -4298,17 +3739,12 @@
       "matched_keywords": [
         "parecer juridico"
       ],
-      "tipo": "Contrato",
-      "meses": 12.2,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 12m em Águas Formosas/MG. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 12m em Águas Formosas/MG. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº CRE 26/2025",
@@ -4321,6 +3757,7 @@
       "municipio": "Joaçaba",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-10-10T16:01:57.483067553",
       "data_fim_vigencia": "2027-10-10T19:00",
@@ -4328,17 +3765,12 @@
       "matched_keywords": [
         "parecer juridico"
       ],
-      "tipo": "Contrato",
-      "meses": 24.3,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 24m em Joaçaba/SC. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 24m em Joaçaba/SC. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 16/2025",
@@ -4351,6 +3783,7 @@
       "municipio": "Brusque",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-09-26T11:21:53.147208348",
       "data_fim_vigencia": "2026-08-27T08:40",
@@ -4358,17 +3791,12 @@
       "matched_keywords": [
         "parecer juridico"
       ],
-      "tipo": "Contrato",
-      "meses": 12.2,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 12m em Brusque/SC. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 12m em Brusque/SC. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº CRE 12/2025",
@@ -4381,6 +3809,7 @@
       "municipio": "Sapezal",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-09-22T11:11:19.148181",
       "data_fim_vigencia": "2026-09-18T15:00",
@@ -4388,17 +3817,12 @@
       "matched_keywords": [
         "parecer juridico"
       ],
-      "tipo": "Contrato",
-      "meses": 12.2,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 12m em Sapezal/MT. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 12m em Sapezal/MT. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 357/2026",
@@ -4411,6 +3835,7 @@
       "municipio": "Dois Vizinhos",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-09-18T15:21:06.395679",
       "data_fim_vigencia": "2026-09-21T08:00",
@@ -4418,17 +3843,12 @@
       "matched_keywords": [
         "parecer juridico"
       ],
-      "tipo": "Contrato",
-      "meses": 12.2,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 12m em Dois Vizinhos/PR. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 12m em Dois Vizinhos/PR. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 1/2026",
@@ -4441,6 +3861,7 @@
       "municipio": "Belém",
       "esfera": "Federal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-05-06T13:48:44.466437",
       "data_fim_vigencia": "2030-05-06T15:00",
@@ -4448,17 +3869,12 @@
       "matched_keywords": [
         "parecer juridico"
       ],
-      "tipo": "Contrato",
-      "meses": 56.8,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": "Ministerio",
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 56m em Belém/PA. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes. cliente-trofeu: Ministerio."
+      "resumo": "Contrato 56m em Belém/PA. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº PRI 16/2025",
@@ -4471,6 +3887,7 @@
       "municipio": "Brusque",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-08-26T09:17:43.606434",
       "data_fim_vigencia": "2026-08-27T08:40",
@@ -4478,17 +3895,12 @@
       "matched_keywords": [
         "parecer juridico"
       ],
-      "tipo": "Contrato",
-      "meses": 12.2,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 12m em Brusque/SC. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 12m em Brusque/SC. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº IPB0012/2025",
@@ -4501,6 +3913,7 @@
       "municipio": "Betim",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-08-06T09:53:33.834879560",
       "data_fim_vigencia": "2026-08-06T11:00",
@@ -4508,17 +3921,12 @@
       "matched_keywords": [
         "parecer juridico"
       ],
-      "tipo": "Contrato",
-      "meses": 12.2,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 12m em Betim/MG. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 12m em Betim/MG. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 001/2025",
@@ -4531,6 +3939,7 @@
       "municipio": "Sabará",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-07-29T12:08:31.976300",
       "data_fim_vigencia": "2026-08-04T14:00",
@@ -4538,17 +3947,12 @@
       "matched_keywords": [
         "parecer juridico"
       ],
-      "tipo": "Contrato",
-      "meses": 12.2,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 12m em Sabará/MG. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 12m em Sabará/MG. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 013/2025",
@@ -4562,6 +3966,7 @@
       "municipio": "Turmalina",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-06-30T09:28:08.240953",
       "data_fim_vigencia": "2026-06-30T23:59:59",
@@ -4569,17 +3974,12 @@
       "matched_keywords": [
         "parecer juridico"
       ],
-      "tipo": "Contrato",
-      "meses": 12.2,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 12m em Turmalina/MG. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 12m em Turmalina/MG. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 001/2025",
@@ -4592,6 +3992,7 @@
       "municipio": "Campo Novo do Parecis",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-06-13T16:07:19.814353155",
       "data_fim_vigencia": "2028-12-31T08:00",
@@ -4599,17 +4000,12 @@
       "matched_keywords": [
         "parecer juridico"
       ],
-      "tipo": "Contrato",
-      "meses": 45.4,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 45m em Campo Novo do Parecis/MT. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 45m em Campo Novo do Parecis/MT. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital nº 84/2025",
@@ -4622,6 +4018,7 @@
       "municipio": "Tramandaí",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-05-22T15:33:20.012652633",
       "data_fim_vigencia": "2028-12-31T23:59",
@@ -4629,17 +4026,12 @@
       "matched_keywords": [
         "parecer juridico"
       ],
-      "tipo": "Contrato",
-      "meses": 43.6,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 43m em Tramandaí/RS. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 43m em Tramandaí/RS. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 002/2025",
@@ -4652,6 +4044,7 @@
       "municipio": "Campo Novo do Parecis",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-04-25T08:14:26.994174674",
       "data_fim_vigencia": "2028-12-31T08:00",
@@ -4659,17 +4052,12 @@
       "matched_keywords": [
         "parecer juridico"
       ],
-      "tipo": "Contrato",
-      "meses": 44.9,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 44m em Campo Novo do Parecis/MT. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 44m em Campo Novo do Parecis/MT. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 1/2024",
@@ -4682,6 +4070,7 @@
       "municipio": "Natal",
       "esfera": "Estadual",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2024-11-06T15:05:30.840134",
       "data_fim_vigencia": "2029-10-30T17:00",
@@ -4689,17 +4078,12 @@
       "matched_keywords": [
         "parecer juridico"
       ],
-      "tipo": "Contrato",
-      "meses": 60.8,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": "Ministerio",
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 60m em Natal/RN. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes. cliente-trofeu: Ministerio."
+      "resumo": "Contrato 60m em Natal/RN. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital de Chamamento Público nº 65/2025",
@@ -4713,6 +4097,7 @@
       "municipio": "São Paulo",
       "esfera": "Estadual",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2025-01-28T11:08:32.868347",
       "data_fim_vigencia": "2026-10-19T18:00",
@@ -4720,17 +4105,12 @@
       "matched_keywords": [
         "parecer juridico"
       ],
-      "tipo": "Contrato",
-      "meses": 20.9,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 20m em São Paulo/SP. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 20m em São Paulo/SP. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     },
     {
       "titulo": "Edital nº 3/2023",
@@ -4743,6 +4123,7 @@
       "municipio": "Contagem",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2024-12-17T15:02:42.086066",
       "data_fim_vigencia": "2028-09-17T09:00",
@@ -4750,17 +4131,12 @@
       "matched_keywords": [
         "parecer juridico"
       ],
-      "tipo": "Contrato",
-      "meses": 48.7,
-      "valor_mensal": 0.0,
-      "presenca": "Remoto",
-      "viagens_mes": 0,
-      "custo_logistica_mes": 0,
-      "tem_reembolso": false,
-      "trofeu": null,
-      "lucro_estimado": null,
       "bandeira": "amarelo",
-      "resumo": "Contrato 48m em Contagem/MG. valor nao informado. sem presencial detectado. logistica estimada R$ 0/mes."
+      "resumo": "Contrato 48m em Contagem/MG. valor nao informado. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
     }
   ]
 }
