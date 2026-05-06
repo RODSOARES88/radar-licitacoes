@@ -28,7 +28,6 @@ PAUSA_ENTRE_REQUESTS = 0.4
 LIMITE_RESPOSTA_BYTES = 5_000_000
 TIMEOUT_SEGUNDOS = 30
 
-# Output em docs/ - GitHub Pages serve essa pasta como site
 OUTPUT_DIR = Path(__file__).resolve().parent / "docs"
 OUTPUT_DIR.mkdir(exist_ok=True)
 OUTPUT_HTML = OUTPUT_DIR / "index.html"
@@ -132,7 +131,8 @@ def deduplicar(items):
 def normalizar(item):
     item_url = item.get("item_url") or ""
     if item_url and not item_url.startswith("http"):
-        url_montada = f"https://{PNCP_HOST}/app" + item_url
+        # PNCP serve editais publicos em /app/editais/, nao /app/compras/
+        url_montada = f"https://{PNCP_HOST}/app" + item_url.replace("/compras/", "/editais/")
     else:
         url_montada = item_url or f"https://{PNCP_HOST}/app/editais"
     titulo_safe = texto_seguro(item.get("title"), 300) or "(sem titulo)"
