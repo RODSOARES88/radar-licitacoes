@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-05-05T16:20:16.670183+00:00",
+  "gerado_em": "2026-05-06T11:45:39.890921+00:00",
   "fonte": "PNCP",
   "filtro": "recebendo_proposta",
   "palavras_chave": [
@@ -239,6 +239,72 @@
       ]
     },
     {
+      "titulo": "Edital nº P.E 004/2026 - SEDUC/2026",
+      "descricao": "CONTRATAÇÃO DE PESSOA JURÍDICA ESPECIALIZADA PARA IMPLANTAÇÃO DE PROJETO DE ROBÓTICA EDUCACIONAL, CONTEMPLANDO O ATENDIMENTO À REDE DE ENSINO MUNICIPAL, INCLUINDO AQUISIÇÃO DE RECURSOS TECNOLÓGICOS, SENDO: KITS EDUCACIONAIS, MATERIAIS DIDÁTICOS PEDAGÓGICOS, GUIAS DE MONTAGENS DIGITAIS, GUIA DE MONTAGENS IMPRESSOS, DISPOSITIVOS MÓVEIS, PRESTAÇÃO DE SERVIÇOS TÉCNICOS ESPECIALIZADOS PARA REALIZAÇÃO DE CAPACITAÇÃO TÉCNICA E PEDAGÓGICA (FORMAÇÃO INICIAL E CONTINUADA, ASSESSORIA TÉCNICA E PEDAGÓGICA PRESENCIAL) DURANTE O ANO LETIVO, DE RESPONSABILIDADE DA SECRETARIA DE EDUCAÇÃO.",
+      "areas": [
+        "Geral"
+      ],
+      "orgao": "MUNICIPIO DE TABULEIRO DO NORTE",
+      "uf": "CE",
+      "municipio": "Tabuleiro do Norte",
+      "esfera": "Municipal",
+      "modalidade": "Pregão - Eletrônico",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-05-06T08:34:50.997334313",
+      "data_fim_vigencia": "2026-05-22T09:29",
+      "numero_controle": "07891682000119-1-000026/2026",
+      "url": "https://pncp.gov.br/app/compras/07891682000119/2026/26",
+      "matched_keywords": [
+        "consultoria juridica",
+        "assessoria juridica"
+      ]
+    },
+    {
+      "titulo": "Edital de Chamamento Público nº 1/2027",
+      "descricao": "CHAMAMENTO PÚBLICO PARA CREDENCIAMENTO DE PESSOAS JURÍDICAS DEVIDAMENTE CONSTITUIDAS E ESPECIALIZADAS NA PRESTAÇÃO DE SERVIÇOS DE SAÚDE, COMPREENDENDO SERVIÇOS MÉDICOS E MULTIPROFISSIONAIS, PARA O ATENDIMENTO DAS DEMANDAS E NECESSIDADES DA REDE ASSISTENCIAL VINCULADA AO FUNDO MUNICIPAL DE SAÚDE DE PACAJÁ/PA",
+      "areas": [
+        "Tributario"
+      ],
+      "orgao": "MUNICIPIO DE PACAJA",
+      "uf": "PA",
+      "municipio": "Pacajá",
+      "esfera": "Municipal",
+      "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-05-05T16:40:43.864962",
+      "data_fim_vigencia": "2027-05-06T14:00",
+      "numero_controle": "22981427000150-1-000001/2027",
+      "url": "https://pncp.gov.br/app/compras/22981427000150/2027/1",
+      "matched_keywords": [
+        "consultoria juridica",
+        "assessoria juridica"
+      ]
+    },
+    {
+      "titulo": "Edital nº 004/2026",
+      "descricao": "Contratação de pessoa jurídica especializada para prestação de serviços técnicos profissionais de assessoria e consultoria contábil, por meio de profissional devidamente habilitado e inscrito no Conselho Regional de Contabilidade (CRC), para atendimento às demandas do IPESC.\nA prestação dos serviços compreenderá obrigatoriamente a realização de visitas técnicas presenciais na sede do Instituto, podendo ser exigida a realização de até 01 (uma) visita por semana, com carga horária de até 08 (oito) horas por visita, bem como suporte técnico remoto contínuo, mediante atendimento por telefone, e-mail e aplicativos de comunicação, sempre que solicitado.\n",
+      "areas": [
+        "Tributario"
+      ],
+      "orgao": "INSTITUTO DE PREVIDENCIA DOS SERVIDORES PUBLICOS DO MUNICIPIO DE CARANGOLA/MG -IPESC",
+      "uf": "MG",
+      "municipio": "Carangola",
+      "esfera": "Municipal",
+      "modalidade": "Pregão - Eletrônico",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-05-05T15:16:44.986493741",
+      "data_fim_vigencia": "2026-05-15T14:00",
+      "numero_controle": "04015843000112-1-000003/2026",
+      "url": "https://pncp.gov.br/app/compras/04015843000112/2026/3",
+      "matched_keywords": [
+        "consultoria juridica",
+        "assessoria juridica"
+      ]
+    },
+    {
       "titulo": "Aviso de Contratação Direta nº 8/2026",
       "descricao": "Contratação de pessoa jurídica para prestação de serviço de consultoria e assessoria em ações relacionados à aplicação da Lei nº 14.399/2022 (Lei Aldir Blanc) para atender as necessidades da Secretaria Municipal de Cultura e Turismo do Município de Penalva/MA",
       "areas": [
@@ -386,29 +452,6 @@
       "data_fim_vigencia": "2026-06-24T08:45",
       "numero_controle": "84438381000185-1-000127/2026",
       "url": "https://pncp.gov.br/app/compras/84438381000185/2026/127",
-      "matched_keywords": [
-        "consultoria juridica",
-        "assessoria juridica"
-      ]
-    },
-    {
-      "titulo": "Edital nº 0604.01/2026-SMAF/2026",
-      "descricao": "CONTRATAÇÃO DE PESSOA JURÍDICA ESPECIALIZADA PARA A PRESTAÇÃO DE SERVIÇOS TÉCNICOS ESPECIALIZADOS DE ASSESSORIA E CONSULTORIA EM GESTÃO PÚBLICA, VOLTADOS AO ACOMPANHAMENTO, MONITORAMENTO, CONTROLE, AVALIAÇÃO E APERFEIÇOAMENTO DA EXECUÇÃO DOS CONTRATOS DE GESTÃO FIRMADOS ENTRE O MUNICÍPIO E ORGANIZAÇÕES SOCIAIS, COMPREENDENDO O SUPORTE TÉCNICO À ANÁLISE DE METAS, INDICADORES DE DESEMPENHO, RELATÓRIOS GERENCIAIS E PRESTAÇÕES DE CONTAS, BEM COMO O DESENVOLVIMENTO E APRIMORAMENTO DE INSTRUMENTOS DE GOVERNANÇA, CONFORMIDADE LEGAL, GESTÃO DE RISCOS E CONTROLES INTERNOS APLICÁVEIS ÀS PARCERIAS COM O TERCEIRO SETOR, COM VISTAS AO FORTALECIMENTO DA EFICIÊNCIA ADMINISTRATIVA, DA TRANSPARÊNCIA E DA ADEQUADA FISCALIZAÇÃO DOS INSTRUMENTOS DE PARCERIA, NO ÂMBITO DA SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO E FINANÇAS",
-      "areas": [
-        "Tributario",
-        "Administrativo"
-      ],
-      "orgao": "MUNICIPIO DE FORTIM",
-      "uf": "CE",
-      "municipio": "Fortim",
-      "esfera": "Municipal",
-      "modalidade": "Pregão - Eletrônico",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "data_publicacao": "2026-04-16T12:20:11.596481",
-      "data_fim_vigencia": "2026-05-06T08:00",
-      "numero_controle": "35050756000120-1-000048/2026",
-      "url": "https://pncp.gov.br/app/compras/35050756000120/2026/48",
       "matched_keywords": [
         "consultoria juridica",
         "assessoria juridica"
@@ -1203,7 +1246,6 @@
       "url": "https://pncp.gov.br/app/compras/07385024000155/2025/3",
       "matched_keywords": [
         "consultoria juridica",
-        "assessoria juridica",
         "parecer juridico"
       ]
     },
@@ -1418,50 +1460,6 @@
       ]
     },
     {
-      "titulo": "Edital de Chamamento Público nº 3/2025",
-      "descricao": "O presente credenciamento tem por objeto o CREDENCIAMENTO de PESSOAS JURÍDICAS PRESTADORAS\nDE SERVIÇOS ESPECIALIZADOS DE ASSESSORIA E CONSULTORIA PARA FORMULAÇÃO, IMPLEMENTAÇÃO\nE MONITORAMENTO DE PROGRAMAS, PROJETOS E POLÍTICAS CULTURAIS, conforme ANEXO I Termo de\nReferência, em caráter temporário e de abrangência pertinentes à classe, nos termos e condições\nestabelecidos no presente Instrumento Convocatórios.\n",
-      "areas": [
-        "Geral"
-      ],
-      "orgao": "CONSORCIO INTERMUNICIPAL - CI - CENTRO SUL",
-      "uf": "RS",
-      "municipio": "Camaquã",
-      "esfera": "Municipal",
-      "modalidade": "Credenciamento",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "data_publicacao": "2025-07-22T09:02:28.874779",
-      "data_fim_vigencia": "2026-07-21T00:00",
-      "numero_controle": "07926117000140-1-000018/2025",
-      "url": "https://pncp.gov.br/app/compras/07926117000140/2025/18",
-      "matched_keywords": [
-        "consultoria juridica"
-      ]
-    },
-    {
-      "titulo": "Edital de Chamamento Público nº 013/2025",
-      "descricao": "Credenciamento de pessoa fisica ou juridica especializada para a prestaCao de serviCos de despachante imobiliario e de veiculos, visando atender as demandas do Municipio de TurmalinaMG, incluindo a regularizaCao de imoveis e veiculos, a emissao de documentos, a intermediaCao de processos administrativos junto a orgaos competentes e demais atividades correlatas necessarias a manutenCao da legalidade e eficiencia dos serviCos municipais.",
-      "areas": [
-        "Tributario",
-        "Administrativo"
-      ],
-      "orgao": "MUNICIPIO DE TURMALINA",
-      "uf": "MG",
-      "municipio": "Turmalina",
-      "esfera": "Municipal",
-      "modalidade": "Credenciamento",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "data_publicacao": "2025-06-30T09:28:08.240953",
-      "data_fim_vigencia": "2026-06-30T23:59:59",
-      "numero_controle": "25324187000100-1-000063/2025",
-      "url": "https://pncp.gov.br/app/compras/25324187000100/2025/63",
-      "matched_keywords": [
-        "consultoria juridica",
-        "parecer juridico"
-      ]
-    },
-    {
       "titulo": "Edital de Chamamento Público nº 03/2025",
       "descricao": "Credenciamento de sociedade de advogados para prestação de serviços técnico profissional especializado no patrocínio e defesa em causas judiciais e/ou administrativas que envolvam participações Governamentais (royalties e participação especial) devidas pela indústria Agência Nacional do Petróleo, Gás Natural e Biocombustiveis – ANP",
       "areas": [
@@ -1503,6 +1501,27 @@
       "matched_keywords": [
         "sociedade de advogados",
         "servicos advocaticios"
+      ]
+    },
+    {
+      "titulo": "Edital nº PCE 24/2026",
+      "descricao": "Constitui objeto da presente licitação a contratação de Pessoa Jurídica, especializada em serviços de higienização, limpeza, asseio e conservação de bens móveis e imóveis, de caráter diário e contínuo, com fornecimento de todos os materiais de consumo necessários, conforme condições, quantidades e exigências estabelecidas no Estudo Técnico Preliminar/Termo de Referência e Edital.",
+      "areas": [
+        "Geral"
+      ],
+      "orgao": "MUNICIPIO DE OSORIO",
+      "uf": "RS",
+      "municipio": "Osório",
+      "esfera": "Municipal",
+      "modalidade": "Pregão - Eletrônico",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-05-05T17:24:43.633952672",
+      "data_fim_vigencia": "2026-05-19T08:59",
+      "numero_controle": "88814181000130-1-000245/2026",
+      "url": "https://pncp.gov.br/app/compras/88814181000130/2026/245",
+      "matched_keywords": [
+        "assessoria juridica"
       ]
     },
     {
@@ -1971,48 +1990,6 @@
       ]
     },
     {
-      "titulo": "Edital de Chamamento Público nº 4/2026",
-      "descricao": "Credenciamento de empresas especializadas na prestação de serviços de assessoria de comunicação e midia",
-      "areas": [
-        "Geral"
-      ],
-      "orgao": "CONSORCIO INTERMUNICIPAL MULTIFINALITARIO DA AREA MINEIRA DA SUDENE",
-      "uf": "MG",
-      "municipio": "Montes Claros",
-      "esfera": "Não se aplica",
-      "modalidade": "Credenciamento",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "data_publicacao": "2026-02-10T14:58:19.751921081",
-      "data_fim_vigencia": "2027-02-16T09:00",
-      "numero_controle": "21505692000108-1-000008/2026",
-      "url": "https://pncp.gov.br/app/compras/21505692000108/2026/8",
-      "matched_keywords": [
-        "assessoria juridica"
-      ]
-    },
-    {
-      "titulo": "Edital de Chamamento Público nº (11383) | 1-0/2026",
-      "descricao": "CHAMAMENTO PÚBLICO/CREDENCIAMENTO DE PROFISSIONAIS DE SAÚDE, PESSOAS FÍSICAS OU JURÍDICAS ESPECIALIZADAS PARA ATENDER AS NECESSIDADES DA SECRETARIA MUNICIPAL DE SAÚDE, QUANTO AO SEU FUNCIONAMENTO TANTO ATENDIMENTO PARA PROMOÇÃO, PROTEÇÃO, RECUPERAÇÃO DA SAÚDE DE MÉDIA COMPLEXIDADE.",
-      "areas": [
-        "Tributario"
-      ],
-      "orgao": "FUNDO MUNICIPAL DE SAUDE - DIORAMA",
-      "uf": "GO",
-      "municipio": "Diorama",
-      "esfera": "Municipal",
-      "modalidade": "Credenciamento",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "data_publicacao": "2026-02-02T14:19:06.089804703",
-      "data_fim_vigencia": "2026-12-31T16:00",
-      "numero_controle": "10523857000140-1-000009/2026",
-      "url": "https://pncp.gov.br/app/compras/10523857000140/2026/9",
-      "matched_keywords": [
-        "assessoria juridica"
-      ]
-    },
-    {
       "titulo": "Edital de Chamamento Público nº 05/2025",
       "descricao": "[LICITANET] - CREDENCIAMENTO DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS CONTENCIOSOS E ACOMPANHAMENTO PROCESSUAL EM TODOS OS GRAUS DE JURISDIÇÃO, INICIALMENTE NA JUSTIÇA FEDERAL PARA APURAR E REAVER OS VALORES PAGOS A TÍTULO DE IRPJ/IRRF A UNIÃO, NOS TERMOS DO TEMA 1.130 DA REPERCUSSÃO GERAL DO STF, ESPECIALMENTE DOTADA DE CAPACIDADE TÉCNICA/JURÍDICA PARA ATUAR NA FASE DE CUMPRIMENTO DE SENTENÇA, PARA ATENDIMENTO DOS MUNICÍPIOS CONSORCIADOS.\n\n",
       "areas": [
@@ -2214,7 +2191,7 @@
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
-      "data_publicacao": "2026-05-05T09:08:43.693311794",
+      "data_publicacao": "2026-05-05T09:08:43.693312",
       "data_fim_vigencia": "2027-05-04T00:00",
       "numero_controle": "07926117000140-1-000019/2026",
       "url": "https://pncp.gov.br/app/compras/07926117000140/2026/19",
@@ -2323,27 +2300,6 @@
       "data_fim_vigencia": "2026-05-07T17:00",
       "numero_controle": "02177287000155-1-000023/2026",
       "url": "https://pncp.gov.br/app/compras/02177287000155/2026/23",
-      "matched_keywords": [
-        "parecer juridico"
-      ]
-    },
-    {
-      "titulo": "Edital nº 8/2026",
-      "descricao": "Contratação de empresa especializada na prestação de serviços de dedetização, desinsetização e desratização, a serem realizados em todas as áreas internas e externas, bem como na limpeza das caixas d’água das dependências da Câmara Municipal de Quatro Barras, conforme especificações constantes no TR. Em consonância com o parecer jurídico 39/2026.",
-      "areas": [
-        "Geral"
-      ],
-      "orgao": "CAMARA MUNICIPAL DE QUATRO BARRAS",
-      "uf": "PR",
-      "municipio": "Quatro Barras",
-      "esfera": "Municipal",
-      "modalidade": "Dispensa",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "data_publicacao": "2026-04-29T14:25:10.309821130",
-      "data_fim_vigencia": "2026-05-05T17:00",
-      "numero_controle": "02177287000155-1-000022/2026",
-      "url": "https://pncp.gov.br/app/compras/02177287000155/2026/22",
       "matched_keywords": [
         "parecer juridico"
       ]
@@ -3234,6 +3190,28 @@
       ]
     },
     {
+      "titulo": "Edital de Chamamento Público nº 013/2025",
+      "descricao": "Credenciamento de pessoa fisica ou juridica especializada para a prestaCao de serviCos de despachante imobiliario e de veiculos, visando atender as demandas do Municipio de TurmalinaMG, incluindo a regularizaCao de imoveis e veiculos, a emissao de documentos, a intermediaCao de processos administrativos junto a orgaos competentes e demais atividades correlatas necessarias a manutenCao da legalidade e eficiencia dos serviCos municipais.",
+      "areas": [
+        "Tributario",
+        "Administrativo"
+      ],
+      "orgao": "MUNICIPIO DE TURMALINA",
+      "uf": "MG",
+      "municipio": "Turmalina",
+      "esfera": "Municipal",
+      "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2025-06-30T09:28:08.240953",
+      "data_fim_vigencia": "2026-06-30T23:59:59",
+      "numero_controle": "25324187000100-1-000063/2025",
+      "url": "https://pncp.gov.br/app/compras/25324187000100/2025/63",
+      "matched_keywords": [
+        "parecer juridico"
+      ]
+    },
+    {
       "titulo": "Edital de Chamamento Público nº 001/2025",
       "descricao": "Credenciamento de pessoas jurídicas especializadas na prestação de serviços funerários, incluindo o fornecimento de urnas e o translado, a serem executados pelas permissionárias do Município.",
       "areas": [
@@ -3335,6 +3313,27 @@
       "data_fim_vigencia": "2026-10-19T18:00",
       "numero_controle": "96291141000180-1-000176/2025",
       "url": "https://pncp.gov.br/app/compras/96291141000180/2025/176",
+      "matched_keywords": [
+        "parecer juridico"
+      ]
+    },
+    {
+      "titulo": "Edital nº 3/2023",
+      "descricao": "1.1 - A Prefeitura do Município de Contagem, por intermédio da Secretaria Municipal de Administração, torna público que receberá pedidos de credenciamento de pessoa física e pessoa Jurídica interessadas em participar do procedimento de CREDENCIAMENTO DE PARECERISTA DE PROJETOS CULTURAIS A FIM DE ANALISAR AS PROPOSTAS CULTURAIS SUBMETIDAS AO FUNDO MUNICIPAL DE INCENTIVO A CULTURA (FMIC) OUTROS MECANISMOS DE FOMENTO, AO TODO SERÃO 1.500 (mil quinhentos) PARECERES,  nos termos fixados pela Lei Federal nº 14.133/2021.\n ",
+      "areas": [
+        "Geral"
+      ],
+      "orgao": "MUNICIPIO DE CONTAGEM",
+      "uf": "MG",
+      "municipio": "Contagem",
+      "esfera": "Municipal",
+      "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2024-12-17T15:02:42.086066",
+      "data_fim_vigencia": "2028-09-17T09:00",
+      "numero_controle": "18715508000131-1-000021/2023",
+      "url": "https://pncp.gov.br/app/compras/18715508000131/2023/21",
       "matched_keywords": [
         "parecer juridico"
       ]
