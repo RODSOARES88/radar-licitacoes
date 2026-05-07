@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-05-06T14:48:38.498154+00:00",
+  "gerado_em": "2026-05-07T11:44:19.689066+00:00",
   "fonte": "PNCP",
   "filtro": "recebendo_proposta",
   "palavras_chave": [
@@ -18,8 +18,64 @@
     "parecer juridico",
     "recuperacao de creditos tributarios"
   ],
-  "total": 155,
+  "total": 158,
   "items": [
+    {
+      "titulo": "Aviso de Contratação Direta nº 202617304/2026",
+      "descricao": "Aquisição de Serviços Técnicos Profissionais - Contador",
+      "areas": [
+        "Tributario"
+      ],
+      "orgao": "ESTADO DO CEARA",
+      "uf": "CE",
+      "municipio": "Tabuleiro do Norte",
+      "esfera": "Estadual",
+      "modalidade": "Dispensa",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "valor_efetivo": 500.0,
+      "n_itens": 1,
+      "data_publicacao": "2026-05-06T12:23:02.374365897",
+      "data_fim_vigencia": "2026-05-11T14:00",
+      "url": "https://pncp.gov.br/app/editais/07954480000179/2026/12130",
+      "matched_keywords": [
+        "consultoria tributaria"
+      ],
+      "bandeira": "amarelo",
+      "resumo": "Contrato 1m em Tabuleiro do Norte/CE. valor R$ 500 (~R$ 500/mes). 1 itens em sem unidade de fornecimento. sem presencial detectado. <b>lucro liquido ~R$ 500/mes</b> (estimativa otimista, deságio típico 20-40%).",
+      "lucro": 500.0,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
+    },
+    {
+      "titulo": "Aviso de Contratação Direta nº 202617026/2026",
+      "descricao": "Aquisição - Serviços de Terceiros - Técnicos Profissionais.",
+      "areas": [
+        "Tributario"
+      ],
+      "orgao": "ESTADO DO CEARA",
+      "uf": "CE",
+      "municipio": "Tabuleiro do Norte",
+      "esfera": "Estadual",
+      "modalidade": "Dispensa",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "valor_efetivo": 400.0,
+      "n_itens": 1,
+      "data_publicacao": "2026-05-06T11:53:10.177396043",
+      "data_fim_vigencia": "2026-05-18T13:00",
+      "url": "https://pncp.gov.br/app/editais/07954480000179/2026/12125",
+      "matched_keywords": [
+        "consultoria tributaria"
+      ],
+      "bandeira": "amarelo",
+      "resumo": "Contrato 1m em Tabuleiro do Norte/CE. valor R$ 400 (~R$ 400/mes). 1 itens em sem unidade de fornecimento. sem presencial detectado. <b>lucro liquido ~R$ 400/mes</b> (estimativa otimista, deságio típico 20-40%).",
+      "lucro": 400.0,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
+    },
     {
       "titulo": "Aviso de Contratação Direta nº 202617247/2026",
       "descricao": "SERVIÇO DE CONTABILIDADE",
@@ -304,6 +360,92 @@
       "bandeira": "cinza",
       "resumo": "Contrato 24m em Juiz de Fora/MG. <i>valor nao informado na busca</i>. sem presencial detectado. <b>sem dados suficientes para estimar lucro</b>.",
       "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
+    },
+    {
+      "titulo": "Edital nº C.E 003 2026 SEINFRA/2026",
+      "descricao": "CONTRATAÇÃO DE EMPRESA JURÍDICA PARA ASSESSORIA E CONSULTORIA ESPECIALIZADA COM EXPERTISE EM DIREITO REGULATÓRIO E DA ENERGIA, ALIADA A CONHECIMENTO TÉCNICO EM GRANDEZAS ELÉTRICAS E NO SISTEMA DE FATURAMENTO DE ENERGIA ELÉTRICA, DESTINADA À RECUPERAÇÃO DE VALORES PAGOS INDEVIDAMENTE OU A MAIOR NAS FATURAS DE ENERGIA ELÉTRICA DE TITULARIDADE DO MUNICÍPIO, ABRANGENDO UNIDADES CONSUMIDORAS VINCULADAS A PRÉDIOS PÚBLICOS E AO SISTEMA DE ILUMINAÇÃO PÚBLICA. O OBJETO COMPREENDE A ANÁLISE REGULATÓRIA DA",
+      "areas": [
+        "Consumidor"
+      ],
+      "orgao": "MUNICIPIO DE TABULEIRO DO NORTE",
+      "uf": "CE",
+      "municipio": "Tabuleiro do Norte",
+      "esfera": "Municipal",
+      "modalidade": "Concorrência - Eletrônica",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "valor_efetivo": 743576.69,
+      "n_itens": 1,
+      "data_publicacao": "2026-05-06T14:36:33.063902268",
+      "data_fim_vigencia": "2026-05-21T08:00",
+      "url": "https://pncp.gov.br/app/editais/07891682000119/2026/27",
+      "matched_keywords": [
+        "consultoria juridica",
+        "assessoria juridica"
+      ],
+      "bandeira": "verde",
+      "resumo": "Contrato 1m em Tabuleiro do Norte/CE. valor R$ 743.577 (~R$ 743.577/mes). 1 itens em un. sem presencial detectado. <b>lucro liquido ~R$ 743.577/mes</b> (estimativa otimista, deságio típico 20-40%).",
+      "lucro": 743576.69,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
+    },
+    {
+      "titulo": "Edital de Chamamento Público nº 17/2026",
+      "descricao": "Constitui objeto deste Edital o credenciamento de pessoas jurídicas (operadoras/administradoras e, quando aplicável, corretoras), interessadas em ofertar plano odontológico coletivo empresarial aos empregados do CREF14-GO/TO e seus dependentes.",
+      "areas": [
+        "Empresarial"
+      ],
+      "orgao": "CONSELHO REGIONAL DE EDUCACAO FISICA DA 14 REGIAO - CREF14/GO-TO",
+      "uf": "GO",
+      "municipio": "Goiânia",
+      "esfera": "Federal",
+      "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "valor_efetivo": 11002.0,
+      "n_itens": 1,
+      "data_publicacao": "2026-05-06T13:01:09.473288",
+      "data_fim_vigencia": "2028-12-29T17:00",
+      "url": "https://pncp.gov.br/app/editais/08024822000114/2026/16",
+      "matched_keywords": [
+        "consultoria juridica",
+        "assessoria juridica"
+      ],
+      "bandeira": "amarelo",
+      "resumo": "Contrato 32m em Goiânia/GO. valor R$ 11.002 (~R$ 343/mes). 1 itens em unidade. sem presencial detectado. <b>lucro liquido ~R$ 343/mes</b> (estimativa otimista, deságio típico 20-40%).",
+      "lucro": 342.7414330218068,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
+    },
+    {
+      "titulo": "Edital nº 121-1/2025",
+      "descricao": "Contratação de consultoria especializada para apoiar o governo de Mato Grosso na identificação de alternativas para universalização do acesso ao saneamento básico em seus municípios, e posterior estruturação de concessão dos serviços, por meio da modelagem técnica, jurídica e econômico-financeira.",
+      "areas": [
+        "Geral"
+      ],
+      "orgao": "SECRETARIA DE ESTADO DE INFRAESTRUTURA E LOGISTICA DE MATO GROSSO",
+      "uf": "MT",
+      "municipio": "Cuiabá",
+      "esfera": "Estadual",
+      "modalidade": "Concorrência - Eletrônica",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "valor_efetivo": 19897505.38,
+      "n_itens": 1,
+      "data_publicacao": "2026-05-06T12:22:57.237255624",
+      "data_fim_vigencia": "2026-06-26T09:30",
+      "url": "https://pncp.gov.br/app/editais/57356434000146/2025/212",
+      "matched_keywords": [
+        "consultoria juridica"
+      ],
+      "bandeira": "verde",
+      "resumo": "Contrato 1m em Cuiabá/MT. valor R$ 19.897.505 (~R$ 11.704.415/mes). 1 itens em 1 un. sem presencial detectado. <b>lucro liquido ~R$ 11.704.415/mes</b> (estimativa otimista, deságio típico 20-40%).",
+      "lucro": 11704414.929411765,
       "trofeu": null,
       "presenca": "Remoto",
       "tipo": "Contrato"
@@ -623,35 +765,6 @@
       "resumo": "Contrato 1m em Jaraguá do Sul/SC. valor R$ 1.634.529 (~R$ 980.717/mes). 1 itens em servico. sem presencial detectado. cliente-trofeu: AGU. <b>lucro liquido ~R$ 980.717/mes</b> (estimativa otimista, deságio típico 20-40%).",
       "lucro": 980717.316,
       "trofeu": "AGU",
-      "presenca": "Remoto",
-      "tipo": "Contrato"
-    },
-    {
-      "titulo": "Aviso de Contratação Direta nº 49/2026",
-      "descricao": "Contratação de pessoa jurídica devidamente habilitada, com amplo conhecimento em tecnologia da informação. Tal medida é imprescindível devido às exigências na área de manutenção técnica de informática visando o suporte das atividades desempenhadas pelo CONSELHO REGIONAL DE EDUCAÇÃO FÍSICA DA 11ª REGIÃO – CREF11/MS.",
-      "areas": [
-        "Geral"
-      ],
-      "orgao": "CONSELHO REGIONAL DE EDUCACAO FISICA DA 11 REGIAO - CREF11/MS",
-      "uf": "MS",
-      "municipio": "Campo Grande",
-      "esfera": "Federal",
-      "modalidade": "Dispensa",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "valor_efetivo": 4331.67,
-      "n_itens": 1,
-      "data_publicacao": "2026-04-30T17:42:40.210810",
-      "data_fim_vigencia": "2026-05-07T08:00",
-      "url": "https://pncp.gov.br/app/editais/03755472000142/2026/25",
-      "matched_keywords": [
-        "consultoria juridica",
-        "assessoria juridica"
-      ],
-      "bandeira": "amarelo",
-      "resumo": "Contrato 1m em Campo Grande/MS. valor R$ 4.332 (~R$ 4.332/mes). 1 itens em mes / meses. sem presencial detectado. <b>lucro liquido ~R$ 4.332/mes</b> (estimativa otimista, deságio típico 20-40%).",
-      "lucro": 4331.67,
-      "trofeu": null,
       "presenca": "Remoto",
       "tipo": "Contrato"
     },
@@ -1602,8 +1715,7 @@
       "data_fim_vigencia": "2027-02-26T18:26:54",
       "url": "https://pncp.gov.br/app/editais/07443708000166/2026/16",
       "matched_keywords": [
-        "consultoria juridica",
-        "assessoria juridica"
+        "consultoria juridica"
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 12m em Jaguaribe/CE. <i>valor nao informado na busca</i>. sem presencial detectado. cliente-trofeu: AGU. <b>sem dados suficientes para estimar lucro</b>.",
@@ -1866,62 +1978,6 @@
       "tipo": "Contrato"
     },
     {
-      "titulo": "Edital de Chamamento Público nº 02/2025",
-      "descricao": "credenciamento de pessoa jurídica e física registrado no conselho regional de engenharia e agronomia (CREA) e/ou no conselho de arquitetura e urbanismo (CAU), especializadas na prestação de serviços técnicos de engenharia civil, arquitetura, ambiental elétrica e serviços técnicos em topografia, química e demais áreas correlatas nas atividades de elaboração, análise e consultoria de projetos, vistoria, orçamento, elaboração de projetos e acompanhamento de obras, diagnóstico e acompanhamento d ...",
-      "areas": [
-        "Ambiental"
-      ],
-      "orgao": "MUNICIPIO DE BOCA DA MATA",
-      "uf": "AL",
-      "municipio": "Boca da Mata",
-      "esfera": "Municipal",
-      "modalidade": "Credenciamento",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "valor_efetivo": 0,
-      "n_itens": 0,
-      "data_publicacao": "2025-08-29T16:36:57.534352836",
-      "data_fim_vigencia": "2026-08-31T13:55",
-      "url": "https://pncp.gov.br/app/editais/12264396000163/2025/58",
-      "matched_keywords": [
-        "consultoria juridica"
-      ],
-      "bandeira": "cinza",
-      "resumo": "Contrato 12m em Boca da Mata/AL. <i>valor nao informado na busca</i>. sem presencial detectado. <b>sem dados suficientes para estimar lucro</b>.",
-      "lucro": null,
-      "trofeu": null,
-      "presenca": "Remoto",
-      "tipo": "Contrato"
-    },
-    {
-      "titulo": "Edital nº 2025.05.08.02-SMS-R /2026",
-      "descricao": "PRÉ-QUALIFICAÇÃO do tipo SUBJETIVA e TOTAL das empresas para prestação de serviços técnicos especializados na área jurídica, compreendendo a assessoria e consultoria jurídica, junto a Secretaria de Saúde.",
-      "areas": [
-        "Geral"
-      ],
-      "orgao": "MUNICIPIO DE CAUCAIA",
-      "uf": "CE",
-      "municipio": "Caucaia",
-      "esfera": "Municipal",
-      "modalidade": "Pré-qualificação",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "valor_efetivo": 0,
-      "n_itens": 0,
-      "data_publicacao": "2025-08-19T16:44:16.061952",
-      "data_fim_vigencia": "2026-05-14T16:00",
-      "url": "https://pncp.gov.br/app/editais/07616162000106/2026/9",
-      "matched_keywords": [
-        "consultoria juridica"
-      ],
-      "bandeira": "cinza",
-      "resumo": "Contrato 8m em Caucaia/CE. <i>valor nao informado na busca</i>. sem presencial detectado. <b>sem dados suficientes para estimar lucro</b>.",
-      "lucro": null,
-      "trofeu": null,
-      "presenca": "Remoto",
-      "tipo": "Contrato"
-    },
-    {
       "titulo": "Edital de Chamamento Público nº 03/2025",
       "descricao": "Credenciamento de sociedade de advogados para prestação de serviços técnico profissional especializado no patrocínio e defesa em causas judiciais e/ou administrativas que envolvam participações Governamentais (royalties e participação especial) devidas pela indústria Agência Nacional do Petróleo, Gás Natural e Biocombustiveis – ANP",
       "areas": [
@@ -1980,6 +2036,35 @@
       "tipo": "Contrato"
     },
     {
+      "titulo": "Edital nº 001/2026",
+      "descricao": "[Portal de Compras Públicas] - O Instituto de Previdência dos Servidores do Município de Guarapari/ES – IPG/ES torna público que, por intermédio de seu Agente de Contratação, realizará licitação na modalidade Pregão Eletrônico, sob o critério de julgamento de maior desconto sobre a Taxa de Remuneração do Agente de Viagens – RAV (Service Fee ou Taxa de Transação). \n\nVisando à contratação de empresa especializada na prestação de serviços de agenciamento, cotação, reserva, emissão, marcação, remarcação e reembolso de passagens aéreas nacionais, conforme condições, especificações e exigências estabelecidas neste Edital 001/2026 e em seus anexos, especialmente no Termo de Referência nº 050/2025.\n\nO procedimento licitatório será realizado no âmbito do Processo nº 200204/2025, devidamente autorizado pela autoridade competente e submetido à análise da Assessoria Jurídica da Autarquia.",
+      "areas": [
+        "Tributario",
+        "Empresarial"
+      ],
+      "orgao": "INSTITUTO DE PREVIDENCIA DOS SERVIDORES DO MUNICIPIO DE GUARAPARI / ES - IPG",
+      "uf": "ES",
+      "municipio": "Guarapari",
+      "esfera": "Municipal",
+      "modalidade": "Pregão - Eletrônico",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "valor_efetivo": 50.0,
+      "n_itens": 1,
+      "data_publicacao": "2026-05-06T14:01:56.973413",
+      "data_fim_vigencia": "2026-05-22T08:30",
+      "url": "https://pncp.gov.br/app/editais/02970007000161/2026/15",
+      "matched_keywords": [
+        "assessoria juridica"
+      ],
+      "bandeira": "amarelo",
+      "resumo": "Contrato 1m em Guarapari/ES. valor R$ 50 (~R$ 50/mes). 1 itens em servico. sem presencial detectado. despesas reembolsaveis. <b>lucro liquido ~R$ 50/mes</b> (estimativa otimista, deságio típico 20-40%).",
+      "lucro": 50.0,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
+    },
+    {
       "titulo": "Aviso de Contratação Direta nº 4/2026",
       "descricao": "Contratação de empresa especializada para a prestação de serviços técnicos profissionais de suporte administrativo, visando à implementação e execução do Programa de Regularização Fundiária Urbana (REURB), nos termos da Lei Federal nº 13.465/2017, compreendendo todas as etapas necessárias à estruturação, instrução, aprovação, registro e titulação dos núcleos urbanos informais do Município de Sapé/PB",
       "areas": [
@@ -1995,8 +2080,8 @@
       "valor": null,
       "valor_efetivo": 57999.96,
       "n_itens": 1,
-      "data_publicacao": "2026-05-06T11:43:22.104514418",
-      "data_fim_vigencia": "2026-05-11T00:00",
+      "data_publicacao": "2026-05-06T11:43:22.104514",
+      "data_fim_vigencia": "2026-05-11T23:59:59",
       "url": "https://pncp.gov.br/app/editais/08917080000156/2026/11",
       "matched_keywords": [
         "assessoria juridica",
@@ -2275,17 +2360,17 @@
       "modalidade": "Concorrência - Presencial",
       "situacao": "Divulgada no PNCP",
       "valor": null,
-      "valor_efetivo": 0.01,
-      "n_itens": 1,
+      "valor_efetivo": 0,
+      "n_itens": 0,
       "data_publicacao": "2026-04-22T16:14:39.459588189",
       "data_fim_vigencia": "2026-05-26T09:30",
       "url": "https://pncp.gov.br/app/editais/76970375000146/2026/37",
       "matched_keywords": [
         "assessoria juridica"
       ],
-      "bandeira": "amarelo",
-      "resumo": "Contrato 1m em Santo Inácio/PR. valor R$ 0 (~R$ 0/mes). 1 itens em serv. sem presencial detectado. <b>lucro liquido ~R$ 0/mes</b> (estimativa otimista, deságio típico 20-40%).",
-      "lucro": 0.01,
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Santo Inácio/PR. <i>valor nao informado na busca</i>. sem presencial detectado. <b>sem dados suficientes para estimar lucro</b>.",
+      "lucro": null,
       "trofeu": null,
       "presenca": "Remoto",
       "tipo": "Contrato"
@@ -2585,7 +2670,7 @@
       "valor": null,
       "valor_efetivo": 0,
       "n_itens": 0,
-      "data_publicacao": "2026-03-17T18:35:10.288953822",
+      "data_publicacao": "2026-03-17T18:35:10.288954",
       "data_fim_vigencia": "2026-12-31T18:00",
       "url": "https://pncp.gov.br/app/editais/76208826000102/2026/43",
       "matched_keywords": [
@@ -2593,35 +2678,6 @@
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 9m em Corbélia/PR. <i>valor nao informado na busca</i>. sem presencial detectado. <b>sem dados suficientes para estimar lucro</b>.",
-      "lucro": null,
-      "trofeu": null,
-      "presenca": "Remoto",
-      "tipo": "Contrato"
-    },
-    {
-      "titulo": "Edital de Chamamento Público nº PRI 6/2026",
-      "descricao": "Constitui objeto deste processo o credenciamento de empresas para a prestação de serviços de apoio técnico diurno para atender as necessidades do Município de Corbélia/PR.",
-      "areas": [
-        "Geral"
-      ],
-      "orgao": "MUNICIPIO DE CORBELIA",
-      "uf": "PR",
-      "municipio": "Corbélia",
-      "esfera": "Municipal",
-      "modalidade": "Credenciamento",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "valor_efetivo": 0,
-      "n_itens": 0,
-      "data_publicacao": "2026-03-05T10:09:06.800640431",
-      "data_fim_vigencia": "2026-12-31T18:00",
-      "url": "https://pncp.gov.br/app/editais/76208826000102/2026/31",
-      "matched_keywords": [
-        "assessoria juridica",
-        "parecer juridico"
-      ],
-      "bandeira": "cinza",
-      "resumo": "Contrato 10m em Corbélia/PR. <i>valor nao informado na busca</i>. sem presencial detectado. <b>sem dados suficientes para estimar lucro</b>.",
       "lucro": null,
       "trofeu": null,
       "presenca": "Remoto",
@@ -2707,6 +2763,34 @@
       "bandeira": "cinza",
       "resumo": "Contrato 121m em Sobral/CE. <i>valor nao informado na busca</i>. sem presencial detectado. <b>sem dados suficientes para estimar lucro</b>.",
       "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
+    },
+    {
+      "titulo": "Edital nº 90007/2026",
+      "descricao": "Contratação de serviços de engenharia contínuos de Manutenção preventiva, corretiva e preditiva, bem como  para a realização de serviços diversos no imóvel da AGU no Estado de Mato Grosso, compreendendo a supervisão e  gerenciamento dos serviços, o fornecimento de mão de obra, materiais, equipamentos e demais insumos necessários  e adequados à sua realização, conforme condições e exigências estabelecidas noedtial e seus anexos.",
+      "areas": [
+        "Geral"
+      ],
+      "orgao": "ADVOCACIA GERAL DA UNIAO",
+      "uf": "DF",
+      "municipio": "Brasília",
+      "esfera": "Federal",
+      "modalidade": "Pregão - Eletrônico",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "valor_efetivo": 1231023.29,
+      "n_itens": 1,
+      "data_publicacao": "2026-05-07T07:07:36.509146217",
+      "data_fim_vigencia": "2026-05-21T10:00",
+      "url": "https://pncp.gov.br/app/editais/26994558000123/2026/84",
+      "matched_keywords": [
+        "servicos de advocacia"
+      ],
+      "bandeira": "verde",
+      "resumo": "Contrato 1m em Brasília/DF. valor R$ 1.231.023 (~R$ 1.231.023/mes). 1 itens em unidade. sem presencial detectado. <b>lucro liquido ~R$ 1.231.023/mes</b> (estimativa otimista, deságio típico 20-40%).",
+      "lucro": 1231023.29,
       "trofeu": null,
       "presenca": "Remoto",
       "tipo": "Contrato"
@@ -2824,34 +2908,6 @@
       "tipo": "Contrato"
     },
     {
-      "titulo": "Aviso de Contratação Direta nº 30/2026",
-      "descricao": "Contratação de empresa especializada para a prestação de serviços de confecção, sob demanda, de 3 (três) placas de inauguração destinadas às unidades da Advocacia-Geral do Estado de Minas Gerais",
-      "areas": [
-        "Geral"
-      ],
-      "orgao": "ADVOCACIA-GERAL DO ESTADO",
-      "uf": "MG",
-      "municipio": "Belo Horizonte",
-      "esfera": "Estadual",
-      "modalidade": "Dispensa",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "valor_efetivo": 5850.0,
-      "n_itens": 1,
-      "data_publicacao": "2026-04-30T12:03:16.456342250",
-      "data_fim_vigencia": "2026-05-07T08:00:21",
-      "url": "https://pncp.gov.br/app/editais/16745465000101/2026/18",
-      "matched_keywords": [
-        "servicos de advocacia"
-      ],
-      "bandeira": "verde",
-      "resumo": "Contrato 1m em Belo Horizonte/MG. valor R$ 5.850 (~R$ 5.850/mes). 1 itens em unidade. sem presencial detectado. <b>lucro liquido ~R$ 5.850/mes</b> (estimativa otimista, deságio típico 20-40%).",
-      "lucro": 5850.0,
-      "trofeu": null,
-      "presenca": "Remoto",
-      "tipo": "Contrato"
-    },
-    {
       "titulo": "Edital nº 90004/2026",
       "descricao": "Contratação de serviços contínuos de limpeza, asseio e conservação com fornecimento de material e utensílios sob demanda para atender as necessidades das unidades da Advocacia Geral da União no Estado de Sergipe.",
       "areas": [
@@ -2864,17 +2920,17 @@
       "modalidade": "Pregão - Eletrônico",
       "situacao": "Divulgada no PNCP",
       "valor": null,
-      "valor_efetivo": 297484.32,
-      "n_itens": 8,
+      "valor_efetivo": 0,
+      "n_itens": 0,
       "data_publicacao": "2026-04-23T07:12:58.043118937",
       "data_fim_vigencia": "2026-05-08T09:00",
       "url": "https://pncp.gov.br/app/editais/26994558000123/2026/73",
       "matched_keywords": [
         "servicos de advocacia"
       ],
-      "bandeira": "verde",
-      "resumo": "Contrato 1m em Recife/PE. valor R$ 297.484 (~R$ 297.484/mes). 8 itens em metro quadrado. sem presencial detectado. <b>lucro liquido ~R$ 297.484/mes</b> (estimativa otimista, deságio típico 20-40%).",
-      "lucro": 297484.32,
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Recife/PE. <i>valor nao informado na busca</i>. sem presencial detectado. <b>sem dados suficientes para estimar lucro</b>.",
+      "lucro": null,
       "trofeu": null,
       "presenca": "Remoto",
       "tipo": "Contrato"
@@ -2931,6 +2987,62 @@
       "bandeira": "cinza",
       "resumo": "Contrato 30m em Canoas/RS. <i>valor nao informado na busca</i>. sem presencial detectado. <b>sem dados suficientes para estimar lucro</b>.",
       "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
+    },
+    {
+      "titulo": "Aviso de Contratação Direta nº 73/2026",
+      "descricao": "A presente contratação tem por objeto a locação de estrutura de sonorização profissional,incluindo montagem,operação e desmontagem,destinada à realização do 2º Festival do Búfalo,que ocorrerá nos dias 22,23e24 de maio de 2026,na Pista de Montaria Wanderley Bernardes,localizada no município de Sarapuí período de 03 dias",
+      "areas": [
+        "Tributario"
+      ],
+      "orgao": "MUNICIPIO DE SARAPUI",
+      "uf": "SP",
+      "municipio": "Sarapuí",
+      "esfera": "Municipal",
+      "modalidade": "Dispensa",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "valor_efetivo": 33747.0,
+      "n_itens": 1,
+      "data_publicacao": "2026-05-06T17:09:41.077374182",
+      "data_fim_vigencia": "2026-05-11T17:00",
+      "url": "https://pncp.gov.br/app/editais/46634341000110/2026/78",
+      "matched_keywords": [
+        "parecer juridico"
+      ],
+      "bandeira": "verde",
+      "resumo": "Contrato 1m em Sarapuí/SP. valor R$ 33.747 (~R$ 33.747/mes). 1 itens em servicos. sem presencial detectado. <b>lucro liquido ~R$ 33.747/mes</b> (estimativa otimista, deságio típico 20-40%).",
+      "lucro": 33747.0,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
+    },
+    {
+      "titulo": "Edital de Chamamento Público nº 008/2026",
+      "descricao": "Credenciamento de pessoas físicas e/ou jurídicas para a prestação de serviços profissionais de Medicina Veterinária, visando atender às demandas da Secretaria Municipal de Agricultura e Desenvolvimento Rural do Município de Correntina/BA, compreendendo a realização de atendimentos clínicos e preventivos em animais de pequeno e grande porte, execução de ações voltadas à saúde animal e controle de zoonoses, assistência técnica aos produtores rurais, emissão de laudos, pareceres e relatórios técnicos, bem como o desenvolvimento de atividades educativas, sanitárias e de manejo, conforme necessidades da Administração Pública Municipal",
+      "areas": [
+        "Tributario"
+      ],
+      "orgao": "MUNICIPIO DE CORRENTINA",
+      "uf": "BA",
+      "municipio": "Correntina",
+      "esfera": "Municipal",
+      "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "valor_efetivo": 60000.0,
+      "n_itens": 1,
+      "data_publicacao": "2026-05-06T16:17:46.526742",
+      "data_fim_vigencia": "2027-05-05T08:00",
+      "url": "https://pncp.gov.br/app/editais/14221741000107/2026/47",
+      "matched_keywords": [
+        "parecer juridico"
+      ],
+      "bandeira": "verde",
+      "resumo": "Contrato 12m em Correntina/BA. valor R$ 60.000 (~R$ 5.000/mes). 1 itens em mes. sem presencial detectado. <b>lucro liquido ~R$ 5.000/mes</b> (estimativa otimista, deságio típico 20-40%).",
+      "lucro": 5000.0,
       "trofeu": null,
       "presenca": "Remoto",
       "tipo": "Contrato"
@@ -3116,17 +3228,17 @@
       "modalidade": "Pregão - Eletrônico",
       "situacao": "Divulgada no PNCP",
       "valor": null,
-      "valor_efetivo": 3441788.4,
-      "n_itens": 6,
+      "valor_efetivo": 0,
+      "n_itens": 0,
       "data_publicacao": "2026-04-24T09:25:38.260767585",
       "data_fim_vigencia": "2026-05-11T08:00",
       "url": "https://pncp.gov.br/app/editais/24772287000136/2026/66",
       "matched_keywords": [
         "parecer juridico"
       ],
-      "bandeira": "verde",
-      "resumo": "Contrato 96m em Campo Novo do Parecis/MT. valor R$ 3.441.788 (~R$ 5.030/mes). 6 itens em mes. sem presencial detectado. <b>lucro liquido ~R$ 5.030/mes</b> (estimativa otimista, deságio típico 20-40%).",
-      "lucro": 5030.43,
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Campo Novo do Parecis/MT. <i>valor nao informado na busca</i>. sem presencial detectado. <b>sem dados suficientes para estimar lucro</b>.",
+      "lucro": null,
       "trofeu": null,
       "presenca": "Remoto",
       "tipo": "Contrato"
@@ -3144,17 +3256,17 @@
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
-      "valor_efetivo": 10000.0,
-      "n_itens": 1,
+      "valor_efetivo": 0,
+      "n_itens": 0,
       "data_publicacao": "2026-04-23T15:57:54.697237114",
       "data_fim_vigencia": "2027-04-22T08:00",
       "url": "https://pncp.gov.br/app/editais/13230982000150/2026/71",
       "matched_keywords": [
         "parecer juridico"
       ],
-      "bandeira": "amarelo",
-      "resumo": "Contrato 12m em Capim Grosso/BA. valor R$ 10.000 (~R$ 826/mes). 1 itens em servico. sem presencial detectado. <b>lucro liquido ~R$ 826/mes</b> (estimativa otimista, deságio típico 20-40%).",
-      "lucro": 826.4462809917355,
+      "bandeira": "cinza",
+      "resumo": "Contrato 12m em Capim Grosso/BA. <i>valor nao informado na busca</i>. sem presencial detectado. <b>sem dados suficientes para estimar lucro</b>.",
+      "lucro": null,
       "trofeu": null,
       "presenca": "Remoto",
       "tipo": "Contrato"
@@ -3172,17 +3284,17 @@
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
-      "valor_efetivo": 89533.44,
-      "n_itens": 3,
+      "valor_efetivo": 0,
+      "n_itens": 0,
       "data_publicacao": "2026-04-23T15:50:02.520656845",
       "data_fim_vigencia": "2027-05-13T23:59:59",
       "url": "https://pncp.gov.br/app/editais/18083055000178/2026/9",
       "matched_keywords": [
         "parecer juridico"
       ],
-      "bandeira": "verde",
-      "resumo": "Contrato 12m em Sobrália/MG. valor R$ 89.533 (~R$ 7.359/mes). 3 itens em prestacao de servico. sem presencial detectado. <b>lucro liquido ~R$ 7.359/mes</b> (estimativa otimista, deságio típico 20-40%).",
-      "lucro": 7358.912876712329,
+      "bandeira": "cinza",
+      "resumo": "Contrato 12m em Sobrália/MG. <i>valor nao informado na busca</i>. sem presencial detectado. <b>sem dados suficientes para estimar lucro</b>.",
+      "lucro": null,
       "trofeu": null,
       "presenca": "Remoto",
       "tipo": "Contrato"
@@ -3200,17 +3312,17 @@
       "modalidade": "Pregão - Eletrônico",
       "situacao": "Divulgada no PNCP",
       "valor": null,
-      "valor_efetivo": 210760.0,
-      "n_itens": 1,
+      "valor_efetivo": 0,
+      "n_itens": 0,
       "data_publicacao": "2026-04-22T13:03:26.156838938",
       "data_fim_vigencia": "2026-05-11T09:00",
       "url": "https://pncp.gov.br/app/editais/46634341000110/2026/58",
       "matched_keywords": [
         "parecer juridico"
       ],
-      "bandeira": "verde",
-      "resumo": "Contrato 1m em Sarapuí/SP. valor R$ 210.760 (~R$ 210.760/mes). 1 itens em metro. sem presencial detectado. <b>lucro liquido ~R$ 210.760/mes</b> (estimativa otimista, deságio típico 20-40%).",
-      "lucro": 210760.0,
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Sarapuí/SP. <i>valor nao informado na busca</i>. sem presencial detectado. <b>sem dados suficientes para estimar lucro</b>.",
+      "lucro": null,
       "trofeu": null,
       "presenca": "Remoto",
       "tipo": "Contrato"
@@ -3228,17 +3340,17 @@
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
-      "valor_efetivo": 24000.0,
-      "n_itens": 1,
+      "valor_efetivo": 0,
+      "n_itens": 0,
       "data_publicacao": "2026-04-22T12:59:25.026860070",
       "data_fim_vigencia": "2026-05-27T23:59",
       "url": "https://pncp.gov.br/app/editais/89848949000150/2026/490",
       "matched_keywords": [
         "parecer juridico"
       ],
-      "bandeira": "verde",
-      "resumo": "Contrato 1m em Farroupilha/RS. valor R$ 24.000 (~R$ 21.176/mes). 1 itens em unidade (un). sem presencial detectado. <b>lucro liquido ~R$ 21.176/mes</b> (estimativa otimista, deságio típico 20-40%).",
-      "lucro": 21176.470588235294,
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Farroupilha/RS. <i>valor nao informado na busca</i>. sem presencial detectado. <b>sem dados suficientes para estimar lucro</b>.",
+      "lucro": null,
       "trofeu": null,
       "presenca": "Remoto",
       "tipo": "Contrato"
@@ -3519,6 +3631,34 @@
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 24m em Ilhabela/SP. <i>valor nao informado na busca</i>. sem presencial detectado. <b>sem dados suficientes para estimar lucro</b>.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
+    },
+    {
+      "titulo": "Edital de Chamamento Público nº PRI 6/2026",
+      "descricao": "Constitui objeto deste processo o credenciamento de empresas para a prestação de serviços de apoio técnico diurno para atender as necessidades do Município de Corbélia/PR.",
+      "areas": [
+        "Geral"
+      ],
+      "orgao": "MUNICIPIO DE CORBELIA",
+      "uf": "PR",
+      "municipio": "Corbélia",
+      "esfera": "Municipal",
+      "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "valor_efetivo": 0,
+      "n_itens": 0,
+      "data_publicacao": "2026-03-05T10:09:06.800640431",
+      "data_fim_vigencia": "2026-12-31T18:00",
+      "url": "https://pncp.gov.br/app/editais/76208826000102/2026/31",
+      "matched_keywords": [
+        "parecer juridico"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 10m em Corbélia/PR. <i>valor nao informado na busca</i>. sem presencial detectado. <b>sem dados suficientes para estimar lucro</b>.",
       "lucro": null,
       "trofeu": null,
       "presenca": "Remoto",
@@ -4362,63 +4502,6 @@
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 44m em Campo Novo do Parecis/MT. <i>valor nao informado na busca</i>. sem presencial detectado. <b>sem dados suficientes para estimar lucro</b>.",
-      "lucro": null,
-      "trofeu": null,
-      "presenca": "Remoto",
-      "tipo": "Contrato"
-    },
-    {
-      "titulo": "Edital de Chamamento Público nº 1/2024",
-      "descricao": "Credenciamento de pessoas físicas aptas à realização de eventuais serviços, onerosos, de apoio técnico especializado nas áreas profissionais indicadas no Anexo I do Edital, por meio eletrônico, mediante o preenchimento e envio de formulário eletrônico disponibilizado no site www.mprn.mp.br.",
-      "areas": [
-        "Tributario"
-      ],
-      "orgao": "MINISTERIO PUBLICO DO ESTADO DO RIO GRANDE DO NORTE",
-      "uf": "RN",
-      "municipio": "Natal",
-      "esfera": "Estadual",
-      "modalidade": "Credenciamento",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "valor_efetivo": 0,
-      "n_itens": 0,
-      "data_publicacao": "2024-11-06T15:05:30.840134",
-      "data_fim_vigencia": "2029-10-30T17:00",
-      "url": "https://pncp.gov.br/app/editais/08539710000104/2024/142",
-      "matched_keywords": [
-        "parecer juridico"
-      ],
-      "bandeira": "cinza",
-      "resumo": "Contrato 60m em Natal/RN. <i>valor nao informado na busca</i>. sem presencial detectado. <b>sem dados suficientes para estimar lucro</b>.",
-      "lucro": null,
-      "trofeu": null,
-      "presenca": "Remoto",
-      "tipo": "Contrato"
-    },
-    {
-      "titulo": "Edital de Chamamento Público nº 65/2025",
-      "descricao": "Realização de CREDENCIAMENTO DE PROFISSIONAIS de nível superior, pessoa física ou jurídica, com formação em Serviço Social, Psicologia ou Medicina com especialização em Psiquiatria, para prestação de serviços de realização de Perícias, elaboração de Laudos, Relatórios, Pareceres, Exames e Avaliações com fins de progressão de regime na área da Execução Penal, desenvolvidas no âmbito das Coordenadorias da Secretaria da Administração Penitenciária do Estado de São Paulo.",
-      "areas": [
-        "Tributario",
-        "Penal"
-      ],
-      "orgao": "SAO PAULO SECRETARIA DA ADMINISTRACAO PENITENCIARIA",
-      "uf": "SP",
-      "municipio": "São Paulo",
-      "esfera": "Estadual",
-      "modalidade": "Credenciamento",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "valor_efetivo": 0,
-      "n_itens": 0,
-      "data_publicacao": "2025-01-28T11:08:32.868347",
-      "data_fim_vigencia": "2026-10-19T18:00",
-      "url": "https://pncp.gov.br/app/editais/96291141000180/2025/176",
-      "matched_keywords": [
-        "parecer juridico"
-      ],
-      "bandeira": "cinza",
-      "resumo": "Contrato 20m em São Paulo/SP. <i>valor nao informado na busca</i>. sem presencial detectado. <b>sem dados suficientes para estimar lucro</b>.",
       "lucro": null,
       "trofeu": null,
       "presenca": "Remoto",
