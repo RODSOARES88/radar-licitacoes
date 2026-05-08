@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-05-07T11:44:19.689066+00:00",
+  "gerado_em": "2026-05-08T11:08:56.791083+00:00",
   "fonte": "PNCP",
   "filtro": "recebendo_proposta",
   "palavras_chave": [
@@ -20,6 +20,34 @@
   ],
   "total": 158,
   "items": [
+    {
+      "titulo": "Edital nº 19/2026",
+      "descricao": "Contratação a prestação de serviços de fornecimento, implantação, conversão e migração de dados, treinamento, suporte técnico, manutenção evolutiva e corretiva, bem como disponibilização de licença de uso de sistema informatizado integrado de gestão tributária municipal, em ambiente de servidor local, destinado à administração das receitas próprias do Município de Carmo de Minas/MG",
+      "areas": [
+        "Ambiental"
+      ],
+      "orgao": "MUNICIPIO DE CARMO DE MINAS",
+      "uf": "MG",
+      "municipio": "Carmo de Minas",
+      "esfera": "Municipal",
+      "modalidade": "Pregão - Eletrônico",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "valor_efetivo": 133900.27,
+      "n_itens": 8,
+      "data_publicacao": "2026-05-07T15:44:38.899560604",
+      "data_fim_vigencia": "2026-05-25T13:00",
+      "url": "https://pncp.gov.br/app/editais/18188243000160/2026/46",
+      "matched_keywords": [
+        "consultoria tributaria"
+      ],
+      "bandeira": "verde",
+      "resumo": "Evento unico em Carmo de Minas/MG. valor R$ 133.900. 8 itens em maªs/serv.. presenca esporadico (1x/mes). logistica ~R$ 350/mes. <b>lucro liquido ~R$ 133.550</b> (estimativa otimista, deságio típico 20-40%).",
+      "lucro": 133550.27,
+      "trofeu": null,
+      "presenca": "Esporadico",
+      "tipo": "Evento"
+    },
     {
       "titulo": "Aviso de Contratação Direta nº 202617304/2026",
       "descricao": "Aquisição de Serviços Técnicos Profissionais - Contador",
@@ -325,7 +353,6 @@
       "url": "https://pncp.gov.br/app/editais/12963113000171/2025/11",
       "matched_keywords": [
         "consultoria tributaria",
-        "consultoria juridica",
         "parecer juridico"
       ],
       "bandeira": "cinza",
@@ -360,6 +387,94 @@
       "bandeira": "cinza",
       "resumo": "Contrato 24m em Juiz de Fora/MG. <i>valor nao informado na busca</i>. sem presencial detectado. <b>sem dados suficientes para estimar lucro</b>.",
       "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
+    },
+    {
+      "titulo": "Aviso de Contratação Direta nº 009/2026/2026",
+      "descricao": "Contratação de empresa prestadora de serviço de assessoria e consultoria para operacionalização, adequações técnicas e legais exigidas pela Lei n° 14.339, de 8 de julho de 2022, que instituiu a Política Nacional Aldir Blanc – PNAB II. ",
+      "areas": [
+        "Geral"
+      ],
+      "orgao": "MUNICIPIO DE CONSELHEIRO LAFAIETE",
+      "uf": "MG",
+      "municipio": "Conselheiro Lafaiete",
+      "esfera": "Municipal",
+      "modalidade": "Dispensa",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "valor_efetivo": 36640.0,
+      "n_itens": 1,
+      "data_publicacao": "2026-05-07T17:05:09.462854180",
+      "data_fim_vigencia": "2026-05-13T09:00",
+      "url": "https://pncp.gov.br/app/editais/19718360000151/2026/51",
+      "matched_keywords": [
+        "consultoria juridica",
+        "assessoria juridica"
+      ],
+      "bandeira": "verde",
+      "resumo": "Contrato 1m em Conselheiro Lafaiete/MG. valor R$ 36.640 (~R$ 36.640/mes). 1 itens em servico. sem presencial detectado. <b>lucro liquido ~R$ 36.640/mes</b> (estimativa otimista, deságio típico 20-40%).",
+      "lucro": 36640.0,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
+    },
+    {
+      "titulo": "Aviso de Contratação Direta nº 6/2026",
+      "descricao": "Contratação de empresa especializada para prestação de serviços continuados de consultoria e assessoria de investimentos, incluindo sistema online para acompanhamento dos investimentos (plataforma), elaboração de estudo de ALM (Asset Liability Management) e demais serviços de assessoramento e suporte ao Regime Próprio de Previdência Social (RPPS), em conformidade com a Resolução CMN nº 5.272/25 e Portaria MPS nº 1.467/2022, visando atender as necessidades da Autarquia.",
+      "areas": [
+        "Previdenciario"
+      ],
+      "orgao": "REGIME PROPRIO DE PREVIDENCIA SOCIAL - RPPS",
+      "uf": "PR",
+      "municipio": "Palmeira",
+      "esfera": "Municipal",
+      "modalidade": "Dispensa",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "valor_efetivo": 36000.0,
+      "n_itens": 1,
+      "data_publicacao": "2026-05-07T14:48:28.776640103",
+      "data_fim_vigencia": "2026-05-14T08:00",
+      "url": "https://pncp.gov.br/app/editais/07681157000179/2026/24",
+      "matched_keywords": [
+        "consultoria juridica",
+        "assessoria juridica",
+        "parecer juridico"
+      ],
+      "bandeira": "amarelo",
+      "resumo": "Contrato 12m em Palmeira/PR. valor R$ 36.000 (~R$ 3.000/mes). 1 itens em mes. sem presencial detectado. <b>lucro liquido ~R$ 3.000/mes</b> (estimativa otimista, deságio típico 20-40%).",
+      "lucro": 3000.0,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
+    },
+    {
+      "titulo": "Aviso de Contratação Direta nº 202617443/2026",
+      "descricao": "AQUISIÇÃO DE SERVIÇOS DE TERCEIROS PARA SERVIÇOS TÉCNICOS PROFISSIONAIS DA EEMTI JOSÉ TRISTÃO FILHO",
+      "areas": [
+        "Tributario"
+      ],
+      "orgao": "ESTADO DO CEARA",
+      "uf": "CE",
+      "municipio": "Guaiúba",
+      "esfera": "Estadual",
+      "modalidade": "Dispensa",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "valor_efetivo": 200.0,
+      "n_itens": 1,
+      "data_publicacao": "2026-05-07T14:04:45.442346049",
+      "data_fim_vigencia": "2026-05-12T15:00",
+      "url": "https://pncp.gov.br/app/editais/07954480000179/2026/12388",
+      "matched_keywords": [
+        "consultoria juridica",
+        "assessoria juridica"
+      ],
+      "bandeira": "amarelo",
+      "resumo": "Contrato 1m em Guaiúba/CE. valor R$ 200 (~R$ 200/mes). 1 itens em sem unidade de fornecimento. sem presencial detectado. <b>lucro liquido ~R$ 200/mes</b> (estimativa otimista, deságio típico 20-40%).",
+      "lucro": 200.0,
       "trofeu": null,
       "presenca": "Remoto",
       "tipo": "Contrato"
@@ -653,36 +768,6 @@
       "tipo": "Contrato"
     },
     {
-      "titulo": "Aviso de Contratação Direta nº 7411/2026",
-      "descricao": "DESPESA COM CONTRATAÇÃO TEMPORÁRIA DE PESSOA FÍSICA OU JURÍDICA PARA EMISSÃO DE RELATÓRIOS DE AÇÕES AMBIENTAIS, CONSULTORIA E ASSESSORIA AMBIENTAL REFERENTES AO ICMS ECOLÓGICO, PARA ATENDER A SECRETAR",
-      "areas": [
-        "Tributario",
-        "Ambiental"
-      ],
-      "orgao": "MUNICIPIO DE CHAPADAO DO CEU",
-      "uf": "GO",
-      "municipio": "Chapadão do Céu",
-      "esfera": "Municipal",
-      "modalidade": "Dispensa",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "valor_efetivo": 18200.0,
-      "n_itens": 1,
-      "data_publicacao": "2026-05-04T15:58:48.272493493",
-      "data_fim_vigencia": "2026-05-07T15:55:18",
-      "url": "https://pncp.gov.br/app/editais/24859332000194/2026/320",
-      "matched_keywords": [
-        "consultoria juridica",
-        "assessoria juridica"
-      ],
-      "bandeira": "verde",
-      "resumo": "Contrato 1m em Chapadão do Céu/GO. valor R$ 18.200 (~R$ 18.200/mes). 1 itens em srv. sem presencial detectado. <b>lucro liquido ~R$ 18.200/mes</b> (estimativa otimista, deságio típico 20-40%).",
-      "lucro": 18200.0,
-      "trofeu": null,
-      "presenca": "Remoto",
-      "tipo": "Contrato"
-    },
-    {
       "titulo": "Aviso de Contratação Direta nº 56/2026",
       "descricao": "Contratação de empresa especializada na prestação de serviços de instalação, configuração e Consultoria continua para gerenciamento em servidores com ferramentas em sistema operacional Linux, para a nova sede da Prefeitura Municipal de Carmo de Minas.",
       "areas": [
@@ -928,8 +1013,8 @@
       "modalidade": "Concorrência - Eletrônica",
       "situacao": "Divulgada no PNCP",
       "valor": null,
-      "valor_efetivo": 69333.57,
-      "n_itens": 1,
+      "valor_efetivo": 0,
+      "n_itens": 0,
       "data_publicacao": "2026-04-28T07:12:06.944786819",
       "data_fim_vigencia": "2026-06-22T09:00",
       "url": "https://pncp.gov.br/app/editais/76977768000181/2026/87",
@@ -937,9 +1022,9 @@
         "consultoria juridica",
         "assessoria juridica"
       ],
-      "bandeira": "verde",
-      "resumo": "Contrato 1m em Paranavaí/PR. valor R$ 69.334 (~R$ 37.818/mes). 1 itens em unidade. sem presencial detectado. <b>lucro liquido ~R$ 37.818/mes</b> (estimativa otimista, deságio típico 20-40%).",
-      "lucro": 37818.31090909091,
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Paranavaí/PR. <i>valor nao informado na busca</i>. sem presencial detectado. <b>sem dados suficientes para estimar lucro</b>.",
+      "lucro": null,
       "trofeu": null,
       "presenca": "Remoto",
       "tipo": "Contrato"
@@ -957,8 +1042,8 @@
       "modalidade": "Pregão - Eletrônico",
       "situacao": "Divulgada no PNCP",
       "valor": null,
-      "valor_efetivo": 180000.0,
-      "n_itens": 1,
+      "valor_efetivo": 0,
+      "n_itens": 0,
       "data_publicacao": "2026-04-27T09:23:46.463732",
       "data_fim_vigencia": "2026-05-08T09:30",
       "url": "https://pncp.gov.br/app/editais/06553929000124/2026/20",
@@ -966,9 +1051,9 @@
         "consultoria juridica",
         "assessoria juridica"
       ],
-      "bandeira": "verde",
-      "resumo": "Contrato 1m em Pedro II/PI. valor R$ 180.000 (~R$ 180.000/mes). 1 itens em servico. sem presencial detectado. <b>lucro liquido ~R$ 180.000/mes</b> (estimativa otimista, deságio típico 20-40%).",
-      "lucro": 180000.0,
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Pedro II/PI. <i>valor nao informado na busca</i>. sem presencial detectado. <b>sem dados suficientes para estimar lucro</b>.",
+      "lucro": null,
       "trofeu": null,
       "presenca": "Remoto",
       "tipo": "Contrato"
@@ -1657,8 +1742,7 @@
       "url": "https://pncp.gov.br/app/editais/13693153000103/2026/8",
       "matched_keywords": [
         "consultoria juridica",
-        "sociedade de advogados",
-        "assessoria juridica"
+        "sociedade de advogados"
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 2m em Porto Alegre/RS. <i>valor nao informado na busca</i>. sem presencial detectado. <b>sem dados suficientes para estimar lucro</b>.",
@@ -1944,34 +2028,6 @@
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 12m em Aquiraz/CE. <i>valor nao informado na busca</i>. sem presencial detectado. <b>sem dados suficientes para estimar lucro</b>.",
-      "lucro": null,
-      "trofeu": null,
-      "presenca": "Remoto",
-      "tipo": "Contrato"
-    },
-    {
-      "titulo": "Edital de Chamamento Público nº 2/2026",
-      "descricao": "Credenciamento de entidade privada para acordo de cooperação técnica para que técnicos industriais regularmente inscritos no CRT-RS possam obter benefícios na aquisição de bens e serviços, mediante a oportuna identificação profissional.",
-      "areas": [
-        "Tributario"
-      ],
-      "orgao": "CONSELHO REGIONAL DOS TECNICOS INDUSTRIAIS DO RIO GRANDE DO SUL",
-      "uf": "RS",
-      "municipio": "Porto Alegre",
-      "esfera": "Federal",
-      "modalidade": "Credenciamento",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "valor_efetivo": 0,
-      "n_itens": 0,
-      "data_publicacao": "2025-05-16T16:09:28.348230",
-      "data_fim_vigencia": "2026-11-03T17:00",
-      "url": "https://pncp.gov.br/app/editais/32533415000117/2026/1",
-      "matched_keywords": [
-        "consultoria juridica"
-      ],
-      "bandeira": "cinza",
-      "resumo": "Contrato 12m em Porto Alegre/RS. <i>valor nao informado na busca</i>. sem presencial detectado. <b>sem dados suficientes para estimar lucro</b>.",
       "lucro": null,
       "trofeu": null,
       "presenca": "Remoto",
@@ -2370,34 +2426,6 @@
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 1m em Santo Inácio/PR. <i>valor nao informado na busca</i>. sem presencial detectado. <b>sem dados suficientes para estimar lucro</b>.",
-      "lucro": null,
-      "trofeu": null,
-      "presenca": "Remoto",
-      "tipo": "Contrato"
-    },
-    {
-      "titulo": "Edital nº 009/2026",
-      "descricao": "[Portal de Compras Públicas] - Seleção da(s) proposta(s) mais vantajosa(s) visando o REGISTRO DE PREÇOS, para futura e eventual contratação de Pessoa(s) Jurídica(s) para prestação dos serviços de organização de eventos diversos, realizados pela Prefeitura Municipal de Lima Campos - MA, compreendendo o planejamento, a organização, a execução, a operacionalização, a produção, a locação de equipamentos e todos os demais serviços correlatos, de interesse desta Administração Pública Municipal.",
-      "areas": [
-        "Geral"
-      ],
-      "orgao": "MUNICIPIO DE LIMA CAMPOS",
-      "uf": "MA",
-      "municipio": "Lima Campos",
-      "esfera": "Municipal",
-      "modalidade": "Pregão - Eletrônico",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "valor_efetivo": 0,
-      "n_itens": 0,
-      "data_publicacao": "2026-04-17T16:32:52.773950",
-      "data_fim_vigencia": "2026-05-07T08:59",
-      "url": "https://pncp.gov.br/app/editais/06933519000109/2026/10",
-      "matched_keywords": [
-        "assessoria juridica"
-      ],
-      "bandeira": "cinza",
-      "resumo": "Contrato 1m em Lima Campos/MA. <i>valor nao informado na busca</i>. sem presencial detectado. <b>sem dados suficientes para estimar lucro</b>.",
       "lucro": null,
       "trofeu": null,
       "presenca": "Remoto",
@@ -2992,6 +3020,62 @@
       "tipo": "Contrato"
     },
     {
+      "titulo": "Edital nº 0086/2026",
+      "descricao": "Contratação de pessoa jurídica da área de arquitetura e/ou engenharia para\nelaboração do projeto básico e executivo de obras de engenharia, estudos e pareceres\nnecessários à recomposição, ampliação e modernização do sistema de proteção hidráulica e\nestrutural localizado no município de Canoas/RS.",
+      "areas": [
+        "Geral"
+      ],
+      "orgao": "MUNICIPIO DE CANOAS",
+      "uf": "RS",
+      "municipio": "Canoas",
+      "esfera": "Municipal",
+      "modalidade": "Concorrência - Eletrônica",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "valor_efetivo": 0,
+      "n_itens": 0,
+      "data_publicacao": "2026-04-14T13:40:52.181272",
+      "data_fim_vigencia": "2026-06-08T08:00",
+      "url": "https://pncp.gov.br/app/editais/88577416000118/2026/64",
+      "matched_keywords": [
+        "parecer juridico"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Canoas/RS. <i>valor nao informado na busca</i>. sem presencial detectado. <b>sem dados suficientes para estimar lucro</b>.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
+    },
+    {
+      "titulo": "Edital nº 2/2026",
+      "descricao": "O objeto da presente licitação é Contratação de pessoa jurídica para prestação deserviços de Medicina do Trabalho e Saúde Ocupacional e Segurança do Trabalho (SST),conforme condições, quantidades, critérios técnicos e exigências estabelecidas no Termo de Referência – Anexo I deste Edital",
+      "areas": [
+        "Geral"
+      ],
+      "orgao": "CONSORCIO INTERMUNICIPAL DE SAUDE COSTA OESTE DO PARANA",
+      "uf": "PR",
+      "municipio": "Toledo",
+      "esfera": "Não se aplica",
+      "modalidade": "Concorrência - Eletrônica",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "valor_efetivo": 51906.73,
+      "n_itens": 8,
+      "data_publicacao": "2026-05-07T16:00:57.418606133",
+      "data_fim_vigencia": "2026-06-30T08:59",
+      "url": "https://pncp.gov.br/app/editais/73449977000164/2026/25",
+      "matched_keywords": [
+        "parecer juridico"
+      ],
+      "bandeira": "verde",
+      "resumo": "Contrato 1m em Toledo/PR. valor R$ 51.907 (~R$ 29.381/mes). 8 itens em unidade. sem presencial detectado. <b>lucro liquido ~R$ 29.381/mes</b> (estimativa otimista, deságio típico 20-40%).",
+      "lucro": 29381.167924528305,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
+    },
+    {
       "titulo": "Aviso de Contratação Direta nº 73/2026",
       "descricao": "A presente contratação tem por objeto a locação de estrutura de sonorização profissional,incluindo montagem,operação e desmontagem,destinada à realização do 2º Festival do Búfalo,que ocorrerá nos dias 22,23e24 de maio de 2026,na Pista de Montaria Wanderley Bernardes,localizada no município de Sarapuí período de 03 dias",
       "areas": [
@@ -3102,62 +3186,6 @@
       "trofeu": null,
       "presenca": "Remoto",
       "tipo": "Contrato"
-    },
-    {
-      "titulo": "Aviso de Contratação Direta nº 57/2026",
-      "descricao": "Contratação de empresa(s) especializada(s) para locação de estruturas temporárias e equipamentos destinados à realização do evento Festival do Búfalo,no Município de Sarapuí/SP,contemplando fornecimento,transporte,montagem,instalação,operação,manutenção e desmontagem de palco,camarim, portal e gerador de  energia.",
-      "areas": [
-        "Geral"
-      ],
-      "orgao": "MUNICIPIO DE SARAPUI",
-      "uf": "SP",
-      "municipio": "Sarapuí",
-      "esfera": "Municipal",
-      "modalidade": "Dispensa",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "valor_efetivo": 31897.98,
-      "n_itens": 2,
-      "data_publicacao": "2026-05-04T15:35:13.409256517",
-      "data_fim_vigencia": "2026-05-07T17:00",
-      "url": "https://pncp.gov.br/app/editais/46634341000110/2026/76",
-      "matched_keywords": [
-        "parecer juridico"
-      ],
-      "bandeira": "verde",
-      "resumo": "Contrato 1m em Sarapuí/SP. valor R$ 31.898 (~R$ 31.898/mes). 2 itens em lote. sem presencial detectado. <b>lucro liquido ~R$ 31.898/mes</b> (estimativa otimista, deságio típico 20-40%).",
-      "lucro": 31897.98,
-      "trofeu": null,
-      "presenca": "Remoto",
-      "tipo": "Contrato"
-    },
-    {
-      "titulo": "Aviso de Contratação Direta nº 9/2026",
-      "descricao": "Contratação de empresa especializada para fornecimento, instalação, configuração, treinamento presencial e suporte técnico de sistema de sonorização profissional destinado ao Plenário da Câmara Municipal de Quatro Barras. Conforme especificações constantes no TR. Em consonância com o parecer jurídico 43/2026.",
-      "areas": [
-        "Tributario"
-      ],
-      "orgao": "CAMARA MUNICIPAL DE QUATRO BARRAS",
-      "uf": "PR",
-      "municipio": "Quatro Barras",
-      "esfera": "Municipal",
-      "modalidade": "Dispensa",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "valor_efetivo": 64995.33,
-      "n_itens": 1,
-      "data_publicacao": "2026-05-04T15:04:41.389634562",
-      "data_fim_vigencia": "2026-05-07T17:00",
-      "url": "https://pncp.gov.br/app/editais/02177287000155/2026/23",
-      "matched_keywords": [
-        "parecer juridico"
-      ],
-      "bandeira": "verde",
-      "resumo": "Evento unico em Quatro Barras/PR. valor R$ 64.995. 1 itens em   und. presenca esporadico (1x/mes). logistica ~R$ 1.500/mes. <b>lucro liquido ~R$ 63.495</b> (estimativa otimista, deságio típico 20-40%).",
-      "lucro": 63495.33,
-      "trofeu": null,
-      "presenca": "Esporadico",
-      "tipo": "Evento"
     },
     {
       "titulo": "Edital nº 17/2026",
@@ -3350,62 +3378,6 @@
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 1m em Farroupilha/RS. <i>valor nao informado na busca</i>. sem presencial detectado. <b>sem dados suficientes para estimar lucro</b>.",
-      "lucro": null,
-      "trofeu": null,
-      "presenca": "Remoto",
-      "tipo": "Contrato"
-    },
-    {
-      "titulo": "Edital nº 27/2026",
-      "descricao": "AQUISIÇÃO DE COLHEDORA DE FORRAGEM PARA ÁREA TOTAL, COM ACIONAMENTO TRATORIZADO, DESTINADA À PATRULHA AGRÍCOLA DO MUNICÍPIO.",
-      "areas": [
-        "Geral"
-      ],
-      "orgao": "MUNICIPIO DE SARAPUI",
-      "uf": "SP",
-      "municipio": "Sarapuí",
-      "esfera": "Municipal",
-      "modalidade": "Pregão - Eletrônico",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "valor_efetivo": 0,
-      "n_itens": 0,
-      "data_publicacao": "2026-04-17T16:03:43.782111899",
-      "data_fim_vigencia": "2026-05-07T09:00",
-      "url": "https://pncp.gov.br/app/editais/46634341000110/2026/57",
-      "matched_keywords": [
-        "parecer juridico"
-      ],
-      "bandeira": "cinza",
-      "resumo": "Contrato 1m em Sarapuí/SP. <i>valor nao informado na busca</i>. sem presencial detectado. <b>sem dados suficientes para estimar lucro</b>.",
-      "lucro": null,
-      "trofeu": null,
-      "presenca": "Remoto",
-      "tipo": "Contrato"
-    },
-    {
-      "titulo": "Edital nº 0086/2026",
-      "descricao": "Contratação de pessoa jurídica da área de arquitetura e/ou engenharia para\nelaboração do projeto básico e executivo de obras de engenharia, estudos e pareceres\nnecessários à recomposição, ampliação e modernização do sistema de proteção hidráulica e\nestrutural localizado no município de Canoas/RS.",
-      "areas": [
-        "Geral"
-      ],
-      "orgao": "MUNICIPIO DE CANOAS",
-      "uf": "RS",
-      "municipio": "Canoas",
-      "esfera": "Municipal",
-      "modalidade": "Concorrência - Eletrônica",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "valor_efetivo": 0,
-      "n_itens": 0,
-      "data_publicacao": "2026-04-14T13:40:52.181271792",
-      "data_fim_vigencia": "2026-06-08T08:00",
-      "url": "https://pncp.gov.br/app/editais/88577416000118/2026/64",
-      "matched_keywords": [
-        "parecer juridico"
-      ],
-      "bandeira": "cinza",
-      "resumo": "Contrato 1m em Canoas/RS. <i>valor nao informado na busca</i>. sem presencial detectado. <b>sem dados suficientes para estimar lucro</b>.",
       "lucro": null,
       "trofeu": null,
       "presenca": "Remoto",
@@ -4502,6 +4474,34 @@
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 44m em Campo Novo do Parecis/MT. <i>valor nao informado na busca</i>. sem presencial detectado. <b>sem dados suficientes para estimar lucro</b>.",
+      "lucro": null,
+      "trofeu": null,
+      "presenca": "Remoto",
+      "tipo": "Contrato"
+    },
+    {
+      "titulo": "Edital de Chamamento Público nº 1/2024",
+      "descricao": "Credenciamento de pessoas físicas aptas à realização de eventuais serviços, onerosos, de apoio técnico especializado nas áreas profissionais indicadas no Anexo I do Edital, por meio eletrônico, mediante o preenchimento e envio de formulário eletrônico disponibilizado no site www.mprn.mp.br.",
+      "areas": [
+        "Tributario"
+      ],
+      "orgao": "MINISTERIO PUBLICO DO ESTADO DO RIO GRANDE DO NORTE",
+      "uf": "RN",
+      "municipio": "Natal",
+      "esfera": "Estadual",
+      "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "valor_efetivo": 0,
+      "n_itens": 0,
+      "data_publicacao": "2024-11-06T15:05:30.840134",
+      "data_fim_vigencia": "2029-10-30T17:00",
+      "url": "https://pncp.gov.br/app/editais/08539710000104/2024/142",
+      "matched_keywords": [
+        "parecer juridico"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 60m em Natal/RN. <i>valor nao informado na busca</i>. sem presencial detectado. <b>sem dados suficientes para estimar lucro</b>.",
       "lucro": null,
       "trofeu": null,
       "presenca": "Remoto",
