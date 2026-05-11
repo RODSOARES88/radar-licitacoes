@@ -1,7 +1,7 @@
 {
-  "gerado_em": "2026-05-11T14:49:40.505387+00:00",
+  "gerado_em": "2026-05-11T14:57:47.883287+00:00",
   "fonte": "PNCP",
-  "filtro": "recebendo_proposta + servicos_juridicos",
+  "filtro": "recebendo_proposta + juridico",
   "palavras_chave": [
     "consultoria tributaria",
     "consultoria juridica",
@@ -39,7 +39,11 @@
       "matched_keywords": [
         "consultoria juridica",
         "assessoria juridica"
-      ]
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Fortaleza/CE. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
     },
     {
       "titulo": "Aviso de Contratação Direta nº 023/2026",
@@ -60,7 +64,11 @@
       "matched_keywords": [
         "consultoria juridica",
         "assessoria juridica"
-      ]
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 12m em Senhor do Bonfim/BA. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
     },
     {
       "titulo": "Edital nº 90001/2026",
@@ -83,7 +91,11 @@
         "consultoria juridica",
         "sociedade de advogados",
         "assessoria juridica"
-      ]
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Porto Alegre/RS. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
     },
     {
       "titulo": "Edital nº 01/2026",
@@ -104,7 +116,11 @@
       "matched_keywords": [
         "consultoria juridica",
         "assessoria juridica"
-      ]
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Santa Rosa de Viterbo/SP. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
     },
     {
       "titulo": "Edital nº 002/2026",
@@ -124,7 +140,11 @@
       "url": "https://pncp.gov.br/app/editais/14106280000121/2026/15",
       "matched_keywords": [
         "consultoria juridica"
-      ]
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 12m em Ituaçu/BA. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
     },
     {
       "titulo": "Edital nº 19.02.01/2026",
@@ -144,7 +164,11 @@
       "url": "https://pncp.gov.br/app/editais/07443708000166/2026/16",
       "matched_keywords": [
         "consultoria juridica"
-      ]
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 12m em Jaguaribe/CE. valor nao informado na busca. sem presencial detectado. trofeu: AGU.",
+      "lucro": null,
+      "trofeu": "AGU"
     },
     {
       "titulo": "Edital de Chamamento Público nº 03/2025",
@@ -165,7 +189,11 @@
       "url": "https://pncp.gov.br/app/editais/46523023000181/2025/77",
       "matched_keywords": [
         "sociedade de advogados"
-      ]
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 48m em Cajamar/SP. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
     },
     {
       "titulo": "Edital de Chamamento Público nº 04/2025",
@@ -186,7 +214,11 @@
       "matched_keywords": [
         "sociedade de advogados",
         "servicos advocaticios"
-      ]
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 48m em Cajamar/SP. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
     },
     {
       "titulo": "Edital nº 001/2026",
@@ -207,7 +239,11 @@
       "url": "https://pncp.gov.br/app/editais/02970007000161/2026/15",
       "matched_keywords": [
         "assessoria juridica"
-      ]
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Guarapari/ES. valor nao informado na busca. sem presencial detectado. despesas reembolsaveis.",
+      "lucro": null,
+      "trofeu": null
     },
     {
       "titulo": "Edital de Chamamento Público nº 05/2025",
@@ -227,7 +263,11 @@
       "url": "https://pncp.gov.br/app/editais/19864323000151/2025/15",
       "matched_keywords": [
         "servicos advocaticios"
-      ]
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 12m em Uberaba/MG. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
     },
     {
       "titulo": "Edital de Chamamento Público nº 01/2025-CHPC/2035",
@@ -247,7 +287,11 @@
       "url": "https://pncp.gov.br/app/editais/09485046000112/2035/1",
       "matched_keywords": [
         "servicos advocaticios"
-      ]
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 121m em Sobral/CE. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
     },
     {
       "titulo": "Edital de Chamamento Público nº 01/2024-CHPC/2034",
@@ -267,7 +311,11 @@
       "url": "https://pncp.gov.br/app/editais/09485046000112/2034/1",
       "matched_keywords": [
         "servicos advocaticios"
-      ]
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 121m em Sobral/CE. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
     },
     {
       "titulo": "Edital nº 90005/2026",
@@ -287,7 +335,11 @@
       "url": "https://pncp.gov.br/app/editais/26994558000123/2026/79",
       "matched_keywords": [
         "servicos de advocacia"
-      ]
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Brasília/DF. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
     }
   ]
 }
