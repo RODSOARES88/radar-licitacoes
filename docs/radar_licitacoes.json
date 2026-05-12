@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-05-11T15:50:11.539532+00:00",
+  "gerado_em": "2026-05-12T11:50:51.997188+00:00",
   "fonte": "PNCP",
   "filtro": "recebendo_proposta + juridico",
   "palavras_chave": [
@@ -18,30 +18,55 @@
     "parecer juridico",
     "recuperacao de creditos tributarios"
   ],
-  "total": 13,
+  "total": 14,
   "items": [
     {
-      "titulo": "Aviso de Contratação Direta nº 202617862/2026",
-      "descricao": "SERVIÇOS DE ASSESSORIA JURÍDICA E DE CONTABILIDADE (EEMTI SITIO SAO JOSE)",
+      "titulo": "Aviso de Contratação Direta nº 26/2026",
+      "descricao": "Contratação de empresa para prestar serviços técnicos de consultoria jurídica para implantação, execução, acompanhamento e prestação de contas da Política Nacional Aldir Blanc – PNAB, nos termos do Artigo 75, inciso II, da Lei Federal 14.133/21.",
       "areas": [
         "Geral"
       ],
-      "orgao": "ESTADO DO CEARA",
-      "uf": "CE",
-      "municipio": "Fortaleza",
-      "esfera": "Estadual",
+      "orgao": "MUNICIPIO DE SIQUEIRA CAMPOS",
+      "uf": "PR",
+      "municipio": "Siqueira Campos",
+      "esfera": "Municipal",
       "modalidade": "Dispensa",
       "situacao": "Divulgada no PNCP",
       "valor": null,
-      "data_publicacao": "2026-05-06T11:36:42.184498063",
-      "data_fim_vigencia": "2026-05-11T13:00",
-      "url": "https://pncp.gov.br/app/editais/07954480000179/2026/12121",
+      "data_publicacao": "2026-05-12T08:19:07.819351802",
+      "data_fim_vigencia": "2026-05-19T08:00",
+      "url": "https://pncp.gov.br/app/editais/76919083000189/2026/69",
       "matched_keywords": [
         "consultoria juridica",
-        "assessoria juridica"
+        "assessoria juridica",
+        "parecer juridico"
       ],
       "bandeira": "cinza",
-      "resumo": "Contrato 1m em Fortaleza/CE. valor nao informado na busca. sem presencial detectado.",
+      "resumo": "Contrato 1m em Siqueira Campos/PR. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Aviso de Contratação Direta nº 13/2026",
+      "descricao": "Contratação de empresa especializada para prestação de serviços de consultoria jurídica destinada à implantação e manutenção das atividades da Procuradoria da Mulher da Câmara Municipal",
+      "areas": [
+        "Geral"
+      ],
+      "orgao": "GOIANINHA CAMARA MUNICIPAL",
+      "uf": "RN",
+      "municipio": "Goianinha",
+      "esfera": "Municipal",
+      "modalidade": "Dispensa",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-05-11T14:37:36.729721532",
+      "data_fim_vigencia": "2026-05-15T10:00",
+      "url": "https://pncp.gov.br/app/editais/11932977000163/2026/19",
+      "matched_keywords": [
+        "consultoria juridica"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Goianinha/RN. valor nao informado na busca. sem presencial detectado.",
       "lucro": null,
       "trofeu": null
     },
