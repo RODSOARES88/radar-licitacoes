@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-05-12T11:50:51.997188+00:00",
+  "gerado_em": "2026-05-13T12:00:37.735343+00:00",
   "fonte": "PNCP",
   "filtro": "recebendo_proposta + juridico",
   "palavras_chave": [
@@ -164,7 +164,8 @@
       "data_fim_vigencia": "2027-02-27T17:00",
       "url": "https://pncp.gov.br/app/editais/14106280000121/2026/15",
       "matched_keywords": [
-        "consultoria juridica"
+        "consultoria juridica",
+        "assessoria juridica"
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 12m em Ituaçu/BA. valor nao informado na busca. sem presencial detectado.",
