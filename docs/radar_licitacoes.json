@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-05-13T12:00:37.735343+00:00",
+  "gerado_em": "2026-05-14T11:48:33.383399+00:00",
   "fonte": "PNCP",
   "filtro": "recebendo_proposta + juridico",
   "palavras_chave": [
@@ -20,6 +20,31 @@
   ],
   "total": 14,
   "items": [
+    {
+      "titulo": "Aviso de Contratação Direta nº 13/2026",
+      "descricao": "Contratação de pessoa física ou jurídica para prestação de serviços de Assessoria e Consultoria Jurídica para oferecer suporte técnico-legal à secretaria de assistência social, com foco na análise e interpretações de projetos, legislações e normativas pertinentes à política de assistência social de Tacaimbó/PE",
+      "areas": [
+        "Geral"
+      ],
+      "orgao": "FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE TACAIMBO",
+      "uf": "PE",
+      "municipio": "Tacaimbó",
+      "esfera": "Municipal",
+      "modalidade": "Dispensa",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-05-13T16:40:36.762163351",
+      "data_fim_vigencia": "2026-05-18T23:59:59",
+      "url": "https://pncp.gov.br/app/editais/13132152000190/2026/17",
+      "matched_keywords": [
+        "consultoria juridica",
+        "assessoria juridica"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Tacaimbó/PE. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
     {
       "titulo": "Aviso de Contratação Direta nº 26/2026",
       "descricao": "Contratação de empresa para prestar serviços técnicos de consultoria jurídica para implantação, execução, acompanhamento e prestação de contas da Política Nacional Aldir Blanc – PNAB, nos termos do Artigo 75, inciso II, da Lei Federal 14.133/21.",
@@ -67,31 +92,6 @@
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 1m em Goianinha/RN. valor nao informado na busca. sem presencial detectado.",
-      "lucro": null,
-      "trofeu": null
-    },
-    {
-      "titulo": "Aviso de Contratação Direta nº 023/2026",
-      "descricao": "Destina-se à contratação de empresa especializada em consultoria e assessoria jurÍdica, com eventual propositura de ação para este consorcio de desenvolvimento territorial .\nEm: 2/1/2026",
-      "areas": [
-        "Geral"
-      ],
-      "orgao": "CONSORCIO DE DESENVOLVIMENTO SUSTENTAVEL DO TERRITORIO PIEMONTE NORTE DO ITAPICURU - CDS SENHOR DO BONFIM",
-      "uf": "BA",
-      "municipio": "Senhor do Bonfim",
-      "esfera": "Não se aplica",
-      "modalidade": "Dispensa",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "data_publicacao": "2026-05-05T11:06:20.042744451",
-      "data_fim_vigencia": "2026-12-31T08:20",
-      "url": "https://pncp.gov.br/app/editais/13332525000176/2026/25",
-      "matched_keywords": [
-        "consultoria juridica",
-        "assessoria juridica"
-      ],
-      "bandeira": "cinza",
-      "resumo": "Contrato 12m em Senhor do Bonfim/BA. valor nao informado na busca. sem presencial detectado.",
       "lucro": null,
       "trofeu": null
     },
@@ -164,8 +164,7 @@
       "data_fim_vigencia": "2027-02-27T17:00",
       "url": "https://pncp.gov.br/app/editais/14106280000121/2026/15",
       "matched_keywords": [
-        "consultoria juridica",
-        "assessoria juridica"
+        "consultoria juridica"
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 12m em Ituaçu/BA. valor nao informado na busca. sem presencial detectado.",
