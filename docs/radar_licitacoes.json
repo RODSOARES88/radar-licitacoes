@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-05-15T11:52:07.186536+00:00",
+  "gerado_em": "2026-05-16T10:59:12.973888+00:00",
   "fonte": "PNCP",
   "filtro": "recebendo_proposta + juridico",
   "palavras_chave": [
@@ -18,7 +18,7 @@
     "parecer juridico",
     "recuperacao de creditos tributarios"
   ],
-  "total": 14,
+  "total": 13,
   "items": [
     {
       "titulo": "Aviso de Contratação Direta nº 13/2026",
@@ -68,30 +68,6 @@
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 1m em Siqueira Campos/PR. valor nao informado na busca. sem presencial detectado.",
-      "lucro": null,
-      "trofeu": null
-    },
-    {
-      "titulo": "Aviso de Contratação Direta nº 13/2026",
-      "descricao": "Contratação de empresa especializada para prestação de serviços de consultoria jurídica destinada à implantação e manutenção das atividades da Procuradoria da Mulher da Câmara Municipal",
-      "areas": [
-        "Geral"
-      ],
-      "orgao": "GOIANINHA CAMARA MUNICIPAL",
-      "uf": "RN",
-      "municipio": "Goianinha",
-      "esfera": "Municipal",
-      "modalidade": "Dispensa",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "data_publicacao": "2026-05-11T14:37:36.729721532",
-      "data_fim_vigencia": "2026-05-15T10:00",
-      "url": "https://pncp.gov.br/app/editais/11932977000163/2026/19",
-      "matched_keywords": [
-        "consultoria juridica"
-      ],
-      "bandeira": "cinza",
-      "resumo": "Contrato 1m em Goianinha/RN. valor nao informado na busca. sem presencial detectado.",
       "lucro": null,
       "trofeu": null
     },
@@ -164,7 +140,8 @@
       "data_fim_vigencia": "2027-02-27T17:00",
       "url": "https://pncp.gov.br/app/editais/14106280000121/2026/15",
       "matched_keywords": [
-        "consultoria juridica"
+        "consultoria juridica",
+        "assessoria juridica"
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 12m em Ituaçu/BA. valor nao informado na busca. sem presencial detectado.",
