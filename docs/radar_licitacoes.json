@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-05-19T12:36:35.101980+00:00",
+  "gerado_em": "2026-05-20T12:19:06.878443+00:00",
   "fonte": "PNCP",
   "filtro": "recebendo_proposta + juridico",
   "palavras_chave": [
@@ -18,7 +18,7 @@
     "parecer juridico",
     "recuperacao de creditos tributarios"
   ],
-  "total": 13,
+  "total": 15,
   "items": [
     {
       "titulo": "Aviso de Contratação Direta nº 16/2026",
@@ -201,6 +201,54 @@
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 48m em Cajamar/SP. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Edital nº Concorrência Eletrônica nº 001/2026/2026",
+      "descricao": "Contratação de pessoa jurídica para prestação de serviços de assessoria jurídica para a Câmara Municipal de Maranguape.",
+      "areas": [
+        "Geral"
+      ],
+      "orgao": "MUNICIPIO DE MARANGUAPE - CAMARA MUNICIPAL",
+      "uf": "CE",
+      "municipio": "Maranguape",
+      "esfera": "Municipal",
+      "modalidade": "Concorrência - Eletrônica",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-05-19T12:56:25.493795",
+      "data_fim_vigencia": "2026-07-10T09:00",
+      "url": "https://pncp.gov.br/app/editais/06024566000130/2026/13",
+      "matched_keywords": [
+        "assessoria juridica"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Maranguape/CE. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Aviso de Contratação Direta nº 68/2026",
+      "descricao": "Aquisição de frigobar para a dependência da Assessoria Jurídica da Câmara Municipal de Lins",
+      "areas": [
+        "Geral"
+      ],
+      "orgao": "LINS CAMARA MUNICIPAL",
+      "uf": "SP",
+      "municipio": "Lins",
+      "esfera": "Municipal",
+      "modalidade": "Dispensa",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-05-19T12:26:26.508441977",
+      "data_fim_vigencia": "2026-05-25T08:00",
+      "url": "https://pncp.gov.br/app/editais/49890130000136/2026/42",
+      "matched_keywords": [
+        "assessoria juridica"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Lins/SP. valor nao informado na busca. sem presencial detectado.",
       "lucro": null,
       "trofeu": null
     },
