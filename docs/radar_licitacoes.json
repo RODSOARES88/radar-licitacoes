@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-05-20T12:19:06.878443+00:00",
+  "gerado_em": "2026-05-21T12:42:17.976722+00:00",
   "fonte": "PNCP",
   "filtro": "recebendo_proposta + juridico",
   "palavras_chave": [
@@ -18,7 +18,7 @@
     "parecer juridico",
     "recuperacao de creditos tributarios"
   ],
-  "total": 15,
+  "total": 17,
   "items": [
     {
       "titulo": "Aviso de Contratação Direta nº 16/2026",
@@ -155,6 +155,31 @@
       "trofeu": "AGU"
     },
     {
+      "titulo": "Edital nº 90001/2025",
+      "descricao": "Contratação de escritório de advocacia para prestação de serviços jurídicos atinentes a defesa dos interesses do Instituto de Previdência Municipal de Governador Valadares – IPREM/GV, nos processos em tramitação em 2ª Instância nos Tribunais de Justiça de Minas Gerais, Regional do Trabalho da 3ª Região, Regional Federal da 6ª Região, Tribunal de Contas do Estado de Minas Gerais, Tribunal de Contas da União, bem como Tribunais Superiores, a saber, STF, STJ, TST.",
+      "areas": [
+        "Administrativo"
+      ],
+      "orgao": "INSTITUTO DE PREVIDENCIA MUNICIPAL DE GOV. VALADARES",
+      "uf": "MG",
+      "municipio": "Governador Valadares",
+      "esfera": "Municipal",
+      "modalidade": "Concorrência - Eletrônica",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-05-21T07:13:35.832528905",
+      "data_fim_vigencia": "2026-07-13T09:00",
+      "url": "https://pncp.gov.br/app/editais/86813953000194/2025/37",
+      "matched_keywords": [
+        "escritorio de advocacia",
+        "servicos de advocacia"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Governador Valadares/MG. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
       "titulo": "Edital de Chamamento Público nº 03/2025",
       "descricao": "Credenciamento de sociedade de advogados para prestação de serviços técnico profissional especializado no patrocínio e defesa em causas judiciais e/ou administrativas que envolvam participações Governamentais (royalties e participação especial) devidas pela indústria Agência Nacional do Petróleo, Gás Natural e Biocombustiveis – ANP",
       "areas": [
@@ -201,6 +226,31 @@
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 48m em Cajamar/SP. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Aviso de Contratação Direta nº 00041/2026",
+      "descricao": "AQUISIÇÃO DE OBRAS JURIDICAS",
+      "areas": [
+        "Geral"
+      ],
+      "orgao": "FRANCA CAMARA MUNICIPAL",
+      "uf": "SP",
+      "municipio": "Franca",
+      "esfera": "Municipal",
+      "modalidade": "Dispensa",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-05-21T08:51:56.625160162",
+      "data_fim_vigencia": "2026-05-27T23:59",
+      "url": "https://pncp.gov.br/app/editais/49219538000180/2026/49",
+      "matched_keywords": [
+        "assessoria juridica",
+        "parecer juridico"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Franca/SP. valor nao informado na busca. sem presencial detectado.",
       "lucro": null,
       "trofeu": null
     },
@@ -360,10 +410,10 @@
       "municipio": "Brasília",
       "esfera": "Federal",
       "modalidade": "Pregão - Eletrônico",
-      "situacao": "Suspensa",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-05-05T07:00:24.088957",
-      "data_fim_vigencia": "2026-05-20T10:00",
+      "data_fim_vigencia": "2026-06-09T10:00",
       "url": "https://pncp.gov.br/app/editais/26994558000123/2026/79",
       "matched_keywords": [
         "servicos de advocacia"
