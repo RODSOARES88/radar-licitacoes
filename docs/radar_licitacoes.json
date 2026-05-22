@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-05-21T12:42:17.976722+00:00",
+  "gerado_em": "2026-05-22T12:15:22.585145+00:00",
   "fonte": "PNCP",
   "filtro": "recebendo_proposta + juridico",
   "palavras_chave": [
@@ -18,7 +18,7 @@
     "parecer juridico",
     "recuperacao de creditos tributarios"
   ],
-  "total": 17,
+  "total": 16,
   "items": [
     {
       "titulo": "Aviso de Contratação Direta nº 16/2026",
@@ -34,7 +34,7 @@
       "situacao": "Divulgada no PNCP",
       "valor": null,
       "data_publicacao": "2026-05-18T18:01:01.439896",
-      "data_fim_vigencia": "2026-05-22T08:00",
+      "data_fim_vigencia": "2026-05-26T08:00",
       "url": "https://pncp.gov.br/app/editais/04165775000178/2026/19",
       "matched_keywords": [
         "consultoria juridica",
@@ -230,6 +230,31 @@
       "trofeu": null
     },
     {
+      "titulo": "Aviso de Contratação Direta nº 69/2026",
+      "descricao": "Aquisição de livros jurídicos, especialmente obras atualizadas de Direito Administrativo, com foco na Administração Pública, incluindo doutrina, manuais e publicações especializadas, destinados a atender às demandas da Assessoria Jurídica da Fundação, em apoio às atividades institucionais, à capacitação técnica e à atualização profissional.",
+      "areas": [
+        "Tributario",
+        "Administrativo"
+      ],
+      "orgao": "FUNDACAO PAULISTANA DE EDUCACAO, TECNOLOGIA E CULTURA",
+      "uf": "SP",
+      "municipio": "São Paulo",
+      "esfera": "Municipal",
+      "modalidade": "Dispensa",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-05-21T14:37:50.445030",
+      "data_fim_vigencia": "2026-05-27T08:00",
+      "url": "https://pncp.gov.br/app/editais/07039800000165/2026/2",
+      "matched_keywords": [
+        "assessoria juridica"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em São Paulo/SP. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
       "titulo": "Aviso de Contratação Direta nº 00041/2026",
       "descricao": "AQUISIÇÃO DE OBRAS JURIDICAS",
       "areas": [
@@ -299,31 +324,6 @@
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 1m em Lins/SP. valor nao informado na busca. sem presencial detectado.",
-      "lucro": null,
-      "trofeu": null
-    },
-    {
-      "titulo": "Edital nº 001/2026",
-      "descricao": "[Portal de Compras Públicas] - O Instituto de Previdência dos Servidores do Município de Guarapari/ES – IPG/ES torna público que, por intermédio de seu Agente de Contratação, realizará licitação na modalidade Pregão Eletrônico, sob o critério de julgamento de maior desconto sobre a Taxa de Remuneração do Agente de Viagens – RAV (Service Fee ou Taxa de Transação). \n\nVisando à contratação de empresa especializada na prestação de serviços de agenciamento, cotação, reserva, emissão, marcação, remarcação e reembolso de passagens aéreas nacionais, conforme condições, especificações e exigências estabelecidas neste Edital 001/2026 e em seus anexos, especialmente no Termo de Referência nº 050/2025.\n\nO procedimento licitatório será realizado no âmbito do Processo nº 200204/2025, devidamente autorizado pela autoridade competente e submetido à análise da Assessoria Jurídica da Autarquia.",
-      "areas": [
-        "Tributario",
-        "Empresarial"
-      ],
-      "orgao": "INSTITUTO DE PREVIDENCIA DOS SERVIDORES DO MUNICIPIO DE GUARAPARI / ES - IPG",
-      "uf": "ES",
-      "municipio": "Guarapari",
-      "esfera": "Municipal",
-      "modalidade": "Pregão - Eletrônico",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "data_publicacao": "2026-05-06T14:01:56.973413",
-      "data_fim_vigencia": "2026-05-22T08:30",
-      "url": "https://pncp.gov.br/app/editais/02970007000161/2026/15",
-      "matched_keywords": [
-        "assessoria juridica"
-      ],
-      "bandeira": "cinza",
-      "resumo": "Contrato 1m em Guarapari/ES. valor nao informado na busca. sem presencial detectado. despesas reembolsaveis.",
       "lucro": null,
       "trofeu": null
     },
@@ -420,32 +420,6 @@
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 1m em Brasília/DF. valor nao informado na busca. sem presencial detectado.",
-      "lucro": null,
-      "trofeu": null
-    },
-    {
-      "titulo": "Aviso de Contratação Direta nº 46 | Processo 129/2026",
-      "descricao": "CONTRATACAO DE EMPRESA ESPECIALIZADA PARA PRESTACAO DE SERVICOS DE ELABORACAO E ATUALIZACAO DE CALCULOS JUDICIAIS TRABALHISTAS  CIVEIS  PREVIDENCIARIOS E RESPECTIVAS IMPUGNACOES  LIQUIDACOES DE SENTENCA  EMISSAO DE PARECERES TECNICOS  ATUANDO COMO ASSISTENTE TECNICO PERICIAL E FORNECENDO SUBSIDIOS TECNICOS PARA A EQUIPE DA SECRETARIA MUNICIPAL DOS NEGOCIOS JURIDICOS",
-      "areas": [
-        "Tributario",
-        "Trabalhista",
-        "Previdenciario"
-      ],
-      "orgao": "MUNICIPIO DE MIRASSOL",
-      "uf": "SP",
-      "municipio": "Mirassol",
-      "esfera": "Municipal",
-      "modalidade": "Dispensa",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "data_publicacao": "2026-05-18T11:46:29.089105850",
-      "data_fim_vigencia": "2026-05-22T09:00",
-      "url": "https://pncp.gov.br/app/editais/46612032000149/2026/129",
-      "matched_keywords": [
-        "parecer juridico"
-      ],
-      "bandeira": "cinza",
-      "resumo": "Contrato 1m em Mirassol/SP. valor nao informado na busca. sem presencial detectado.",
       "lucro": null,
       "trofeu": null
     }
