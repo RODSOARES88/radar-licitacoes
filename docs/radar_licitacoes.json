@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-05-25T12:58:15.730866+00:00",
+  "gerado_em": "2026-05-25T16:00:52.425501+00:00",
   "fonte": "PNCP",
   "filtro": "recebendo_proposta + juridico",
   "palavras_chave": [
@@ -146,8 +146,7 @@
       "data_fim_vigencia": "2027-02-26T18:26:54",
       "url": "https://pncp.gov.br/app/editais/07443708000166/2026/16",
       "matched_keywords": [
-        "consultoria juridica",
-        "assessoria juridica"
+        "consultoria juridica"
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 12m em Jaguaribe/CE. valor nao informado na busca. sem presencial detectado. trofeu: AGU.",
