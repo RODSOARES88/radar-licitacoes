@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-05-24T11:12:49.544156+00:00",
+  "gerado_em": "2026-05-25T12:58:15.730866+00:00",
   "fonte": "PNCP",
   "filtro": "recebendo_proposta + juridico",
   "palavras_chave": [
@@ -146,7 +146,8 @@
       "data_fim_vigencia": "2027-02-26T18:26:54",
       "url": "https://pncp.gov.br/app/editais/07443708000166/2026/16",
       "matched_keywords": [
-        "consultoria juridica"
+        "consultoria juridica",
+        "assessoria juridica"
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 12m em Jaguaribe/CE. valor nao informado na busca. sem presencial detectado. trofeu: AGU.",
@@ -303,30 +304,6 @@
       "trofeu": null
     },
     {
-      "titulo": "Aviso de Contratação Direta nº 68/2026",
-      "descricao": "Aquisição de frigobar para a dependência da Assessoria Jurídica da Câmara Municipal de Lins",
-      "areas": [
-        "Geral"
-      ],
-      "orgao": "LINS CAMARA MUNICIPAL",
-      "uf": "SP",
-      "municipio": "Lins",
-      "esfera": "Municipal",
-      "modalidade": "Dispensa",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "data_publicacao": "2026-05-19T12:26:26.508441977",
-      "data_fim_vigencia": "2026-05-25T08:00",
-      "url": "https://pncp.gov.br/app/editais/49890130000136/2026/42",
-      "matched_keywords": [
-        "assessoria juridica"
-      ],
-      "bandeira": "cinza",
-      "resumo": "Contrato 1m em Lins/SP. valor nao informado na busca. sem presencial detectado.",
-      "lucro": null,
-      "trofeu": null
-    },
-    {
       "titulo": "Edital de Chamamento Público nº 05/2025",
       "descricao": "[LICITANET] - CREDENCIAMENTO DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS CONTENCIOSOS E ACOMPANHAMENTO PROCESSUAL EM TODOS OS GRAUS DE JURISDIÇÃO, INICIALMENTE NA JUSTIÇA FEDERAL PARA APURAR E REAVER OS VALORES PAGOS A TÍTULO DE IRPJ/IRRF A UNIÃO, NOS TERMOS DO TEMA 1.130 DA REPERCUSSÃO GERAL DO STF, ESPECIALMENTE DOTADA DE CAPACIDADE TÉCNICA/JURÍDICA PARA ATUAR NA FASE DE CUMPRIMENTO DE SENTENÇA, PARA ATENDIMENTO DOS MUNICÍPIOS CONSORCIADOS.\n\n",
       "areas": [
@@ -395,6 +372,30 @@
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 121m em Sobral/CE. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Edital nº 90009/2026",
+      "descricao": "Contratação de serviços de engenharia, contínuos de manutenção preventiva, corretiva, serviços sob demanda e serviços eletivos para o imóvel da Advocacia-Geral da União circunscrito na Rua Rui Barbosa nº 142, Centro de Rio Branco/AC, CEP 69900150,... no Estado do Acre. ...Nos termos da tabela constante do Termo de Referência, anexo I do Edital   e  conforme condições, quantidades e exigências estabelecidas no Edital e seus anexos.",
+      "areas": [
+        "Geral"
+      ],
+      "orgao": "ADVOCACIA GERAL DA UNIAO",
+      "uf": "DF",
+      "municipio": "Brasília",
+      "esfera": "Federal",
+      "modalidade": "Pregão - Eletrônico",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-05-25T07:16:45.986418093",
+      "data_fim_vigencia": "2026-06-11T10:00",
+      "url": "https://pncp.gov.br/app/editais/26994558000123/2026/101",
+      "matched_keywords": [
+        "servicos de advocacia"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Brasília/DF. valor nao informado na busca. sem presencial detectado.",
       "lucro": null,
       "trofeu": null
     },
