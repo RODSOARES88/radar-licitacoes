@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-05-25T16:00:52.425501+00:00",
+  "gerado_em": "2026-05-27T12:49:37.596966+00:00",
   "fonte": "PNCP",
   "filtro": "recebendo_proposta + juridico",
   "palavras_chave": [
@@ -20,38 +20,6 @@
   ],
   "total": 16,
   "items": [
-    {
-      "titulo": "Aviso de Contratação Direta nº 16/2026",
-      "descricao": "Contratação de pessoa jurídica especializada na prestação de serviços de consultoria e assessoria jurídica, no âmbito judicial e administrativo, abrangendo as áreas de Direito do Trabalho, Administrativo, Licitações e Contratos, Contratos e Convênio, Cível, Tributário (exceto cobrança judicial e administrativa do passivo tributário), patrocínio judicial perante a Justiça Federal do Amazonas, e outras que se fizerem necessárias para atender as necessidades do contratante, visando à proteção dos direitos e interesses do Conselho Regional de Contabilidade do Amazonas.",
-      "areas": [
-        "Administrativo"
-      ],
-      "orgao": "CONSELHO REGIONAL DE CONTABILIDADE DO ESTADO DO AMAZONAS",
-      "uf": "AM",
-      "municipio": "Manaus",
-      "esfera": "Federal",
-      "modalidade": "Dispensa",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "data_publicacao": "2026-05-18T18:01:01.439896",
-      "data_fim_vigencia": "2026-05-26T08:00",
-      "url": "https://pncp.gov.br/app/editais/04165775000178/2026/19",
-      "matched_keywords": [
-        "consultoria juridica",
-        "escritorio de advocacia",
-        "assessoria juridica",
-        "servicos de advocacia",
-        "patrocinio judicial",
-        "contencioso administrativo",
-        "contencioso tributario",
-        "contencioso trabalhista",
-        "parecer juridico"
-      ],
-      "bandeira": "cinza",
-      "resumo": "Contrato 1m em Manaus/AM. valor nao informado na busca. sem presencial detectado.",
-      "lucro": null,
-      "trofeu": null
-    },
     {
       "titulo": "Edital nº 90001/2026",
       "descricao": "Contratação de serviços por meio de sociedade de Advogado(s) para prestação de serviços técnicos de natureza jurídica ao Conselho Regional de Biologia do Rio Grande do Sul – CRBio03 – sem exclusividade e sem vínculo empregatício – para manter a continuidade do Programa de Integridade, representar o CRBio-03 em ações trabalhistas e em demais órgãos de fiscalização, além de prestar consultoria ao Plenário, Diretoria e Gerências, de acordo com as necessidades e demanda.",
@@ -146,7 +114,8 @@
       "data_fim_vigencia": "2027-02-26T18:26:54",
       "url": "https://pncp.gov.br/app/editais/07443708000166/2026/16",
       "matched_keywords": [
-        "consultoria juridica"
+        "consultoria juridica",
+        "assessoria juridica"
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 12m em Jaguaribe/CE. valor nao informado na busca. sem presencial detectado. trofeu: AGU.",
@@ -225,31 +194,6 @@
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 48m em Cajamar/SP. valor nao informado na busca. sem presencial detectado.",
-      "lucro": null,
-      "trofeu": null
-    },
-    {
-      "titulo": "Aviso de Contratação Direta nº 69/2026",
-      "descricao": "Aquisição de livros jurídicos, especialmente obras atualizadas de Direito Administrativo, com foco na Administração Pública, incluindo doutrina, manuais e publicações especializadas, destinados a atender às demandas da Assessoria Jurídica da Fundação, em apoio às atividades institucionais, à capacitação técnica e à atualização profissional.",
-      "areas": [
-        "Tributario",
-        "Administrativo"
-      ],
-      "orgao": "FUNDACAO PAULISTANA DE EDUCACAO, TECNOLOGIA E CULTURA",
-      "uf": "SP",
-      "municipio": "São Paulo",
-      "esfera": "Municipal",
-      "modalidade": "Dispensa",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "data_publicacao": "2026-05-21T14:37:50.445030",
-      "data_fim_vigencia": "2026-05-27T08:00",
-      "url": "https://pncp.gov.br/app/editais/07039800000165/2026/2",
-      "matched_keywords": [
-        "assessoria juridica"
-      ],
-      "bandeira": "cinza",
-      "resumo": "Contrato 1m em São Paulo/SP. valor nao informado na busca. sem presencial detectado.",
       "lucro": null,
       "trofeu": null
     },
@@ -371,6 +315,54 @@
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 121m em Sobral/CE. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Edital nº 90011/2025",
+      "descricao": "Contratação de solução de tecnologia da informação e comunicação de empresa especializada para fornecimento de Software e-learning Adobe Captivate - For Teams na modalidade VIP, pelo período de 12 (doze) meses, para a Escola da Advocacia-Geral da União (EAGU), conforme condições, quantidades e exigências estabelecidas neste Edital e seus anexos.",
+      "areas": [
+        "Geral"
+      ],
+      "orgao": "ADVOCACIA GERAL DA UNIAO",
+      "uf": "DF",
+      "municipio": "Brasília",
+      "esfera": "Federal",
+      "modalidade": "Pregão - Eletrônico",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2025-11-03T12:02:41.555169",
+      "data_fim_vigencia": "2026-06-17T10:00",
+      "url": "https://pncp.gov.br/app/editais/26994558000123/2025/195",
+      "matched_keywords": [
+        "servicos de advocacia"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Brasília/DF. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Edital nº 04/2026",
+      "descricao": "Contratação de pessoa jurídica especializada na prestação de serviços jurídicos de advocacia pública, para atendimento às demandas da Secretaria Municipal de Desenvolvimento Social, voltadas à população em situação de vulnerabilidade social.",
+      "areas": [
+        "Geral"
+      ],
+      "orgao": "MUNICIPIO DE RODEIRO",
+      "uf": "MG",
+      "municipio": "Rodeiro",
+      "esfera": "Municipal",
+      "modalidade": "Pregão - Eletrônico",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-05-25T16:35:19.828863389",
+      "data_fim_vigencia": "2026-06-09T09:00",
+      "url": "https://pncp.gov.br/app/editais/18128256000144/2026/46",
+      "matched_keywords": [
+        "servicos de advocacia"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Rodeiro/MG. valor nao informado na busca. sem presencial detectado.",
       "lucro": null,
       "trofeu": null
     },
