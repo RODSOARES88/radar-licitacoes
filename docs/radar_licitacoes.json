@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-05-27T12:49:37.596966+00:00",
+  "gerado_em": "2026-05-28T13:44:26.759741+00:00",
   "fonte": "PNCP",
   "filtro": "recebendo_proposta + juridico",
   "palavras_chave": [
@@ -18,207 +18,32 @@
     "parecer juridico",
     "recuperacao de creditos tributarios"
   ],
-  "total": 16,
+  "total": 12,
   "items": [
     {
-      "titulo": "Edital nº 90001/2026",
-      "descricao": "Contratação de serviços por meio de sociedade de Advogado(s) para prestação de serviços técnicos de natureza jurídica ao Conselho Regional de Biologia do Rio Grande do Sul – CRBio03 – sem exclusividade e sem vínculo empregatício – para manter a continuidade do Programa de Integridade, representar o CRBio-03 em ações trabalhistas e em demais órgãos de fiscalização, além de prestar consultoria ao Plenário, Diretoria e Gerências, de acordo com as necessidades e demanda.",
+      "titulo": "Aviso de Contratação Direta nº 6/2026",
+      "descricao": "CONTRATACAO DE EMPRESA ESPECIALIZADA PARA PRESTACAO DE SERVICOS TECNICOS PROFISSIONAIS DE ASSESSORIA, CONSULTORIA E ATUACAO JURIDICA, NAS AREAS PREVIDENCIARIA E ADMINISTRATIVA, VISANDO ATENDER AS NECESSIDADES DA CAIXA DE APOSENTADORIA E PREVIDENCIA DOS SERVIDORES MUNICIPAIS DE ARANDU   CAPSMAR, INCLUSIVE COM REPRESENTACAO JUDICIAL VINCULADA A GESTAO DO REGIME PROPRIO DE PREVIDENCIA SOCIAL   RPPS.",
       "areas": [
         "Tributario",
-        "Trabalhista"
-      ],
-      "orgao": "CONSELHO REGIONAL DE BIOLOGIA 3 REGIAO",
-      "uf": "RS",
-      "municipio": "Porto Alegre",
-      "esfera": "Federal",
-      "modalidade": "Concorrência - Eletrônica",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "data_publicacao": "2026-04-29T07:06:28.853399",
-      "data_fim_vigencia": "2026-06-23T10:00",
-      "url": "https://pncp.gov.br/app/editais/04053157000136/2026/20",
-      "matched_keywords": [
-        "consultoria juridica",
-        "sociedade de advogados",
-        "assessoria juridica"
-      ],
-      "bandeira": "cinza",
-      "resumo": "Contrato 1m em Porto Alegre/RS. valor nao informado na busca. sem presencial detectado.",
-      "lucro": null,
-      "trofeu": null
-    },
-    {
-      "titulo": "Edital nº 01/2026",
-      "descricao": "Contratação de empresa especializada na prestação de serviços técnicos de assessoria e consultoria jurídica pública e administrativa, para atender as necessidades da Câmara Municipal de Santa Rosa de Viterbo/SP.",
-      "areas": [
+        "Previdenciario",
         "Administrativo"
       ],
-      "orgao": "CAMARA MUNICIPAL DE SANTA ROSA DE VITERBO",
+      "orgao": "CAIXA DE APOSENT E PREVID DOS SERV PUBL MUNIC DE ARANDU",
       "uf": "SP",
-      "municipio": "Santa Rosa de Viterbo",
-      "esfera": "Municipal",
-      "modalidade": "Concorrência - Eletrônica",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "data_publicacao": "2026-04-13T08:56:06.076508561",
-      "data_fim_vigencia": "2026-06-10T09:00",
-      "url": "https://pncp.gov.br/app/editais/49224017000111/2026/13",
-      "matched_keywords": [
-        "consultoria juridica",
-        "assessoria juridica"
-      ],
-      "bandeira": "cinza",
-      "resumo": "Contrato 1m em Santa Rosa de Viterbo/SP. valor nao informado na busca. sem presencial detectado.",
-      "lucro": null,
-      "trofeu": null
-    },
-    {
-      "titulo": "Edital nº 002/2026",
-      "descricao": "Credenciamento de advogado(a) para prestação de serviços técnicos especializados de assessoria e consultoria jurídica no âmbito do Centro de Referência Especializado de Assistência Social (CREAS) do Município de Ituaçu, visando à recomposição da equipe técnica e à manutenção da regularidade dos serviços socioassistenciais.",
-      "areas": [
-        "Geral"
-      ],
-      "orgao": "MUNICIPIO DE ITUACU",
-      "uf": "BA",
-      "municipio": "Ituaçu",
-      "esfera": "Municipal",
-      "modalidade": "Credenciamento",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "data_publicacao": "2026-03-18T10:14:39.842077550",
-      "data_fim_vigencia": "2027-02-27T17:00",
-      "url": "https://pncp.gov.br/app/editais/14106280000121/2026/15",
-      "matched_keywords": [
-        "consultoria juridica",
-        "assessoria juridica"
-      ],
-      "bandeira": "cinza",
-      "resumo": "Contrato 12m em Ituaçu/BA. valor nao informado na busca. sem presencial detectado.",
-      "lucro": null,
-      "trofeu": null
-    },
-    {
-      "titulo": "Edital nº 19.02.01/2026",
-      "descricao": "PRESTAÇÃO DE SERVIÇOS DE ASSESSORIA E CONSULTORIA JURÍDICA COM ATUAÇÃO JURÍDICO-ADMINISTRATIVA E CONSULTIVA, JUNTO ÀS SECRETARIAS DO MUNICÍPIO DE JAGUARIBE",
-      "areas": [
-        "Administrativo"
-      ],
-      "orgao": "MUNICIPIO DE JAGUARIBE",
-      "uf": "CE",
-      "municipio": "Jaguaribe",
-      "esfera": "Municipal",
-      "modalidade": "Pré-qualificação",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "data_publicacao": "2026-02-26T18:26:58.062763613",
-      "data_fim_vigencia": "2027-02-26T18:26:54",
-      "url": "https://pncp.gov.br/app/editais/07443708000166/2026/16",
-      "matched_keywords": [
-        "consultoria juridica",
-        "assessoria juridica"
-      ],
-      "bandeira": "cinza",
-      "resumo": "Contrato 12m em Jaguaribe/CE. valor nao informado na busca. sem presencial detectado. trofeu: AGU.",
-      "lucro": null,
-      "trofeu": "AGU"
-    },
-    {
-      "titulo": "Edital nº 90001/2025",
-      "descricao": "Contratação de escritório de advocacia para prestação de serviços jurídicos atinentes a defesa dos interesses do Instituto de Previdência Municipal de Governador Valadares – IPREM/GV, nos processos em tramitação em 2ª Instância nos Tribunais de Justiça de Minas Gerais, Regional do Trabalho da 3ª Região, Regional Federal da 6ª Região, Tribunal de Contas do Estado de Minas Gerais, Tribunal de Contas da União, bem como Tribunais Superiores, a saber, STF, STJ, TST.",
-      "areas": [
-        "Administrativo"
-      ],
-      "orgao": "INSTITUTO DE PREVIDENCIA MUNICIPAL DE GOV. VALADARES",
-      "uf": "MG",
-      "municipio": "Governador Valadares",
-      "esfera": "Municipal",
-      "modalidade": "Concorrência - Eletrônica",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "data_publicacao": "2026-05-21T07:13:35.832528905",
-      "data_fim_vigencia": "2026-07-13T09:00",
-      "url": "https://pncp.gov.br/app/editais/86813953000194/2025/37",
-      "matched_keywords": [
-        "escritorio de advocacia",
-        "servicos de advocacia"
-      ],
-      "bandeira": "cinza",
-      "resumo": "Contrato 1m em Governador Valadares/MG. valor nao informado na busca. sem presencial detectado.",
-      "lucro": null,
-      "trofeu": null
-    },
-    {
-      "titulo": "Edital de Chamamento Público nº 03/2025",
-      "descricao": "Credenciamento de sociedade de advogados para prestação de serviços técnico profissional especializado no patrocínio e defesa em causas judiciais e/ou administrativas que envolvam participações Governamentais (royalties e participação especial) devidas pela indústria Agência Nacional do Petróleo, Gás Natural e Biocombustiveis – ANP",
-      "areas": [
-        "Tributario",
-        "Administrativo"
-      ],
-      "orgao": "MUNICIPIO DE CAJAMAR",
-      "uf": "SP",
-      "municipio": "Cajamar",
-      "esfera": "Municipal",
-      "modalidade": "Credenciamento",
-      "situacao": "Revogada",
-      "valor": null,
-      "data_publicacao": "2025-06-09T09:07:50.285628",
-      "data_fim_vigencia": "2029-07-20T23:59",
-      "url": "https://pncp.gov.br/app/editais/46523023000181/2025/77",
-      "matched_keywords": [
-        "sociedade de advogados"
-      ],
-      "bandeira": "cinza",
-      "resumo": "Contrato 48m em Cajamar/SP. valor nao informado na busca. sem presencial detectado.",
-      "lucro": null,
-      "trofeu": null
-    },
-    {
-      "titulo": "Edital de Chamamento Público nº 04/2025",
-      "descricao": "Credenciamento de sociedade de advogados para prestação de serviços advocatícios contenciosos e acompanhamento processual em todos os graus de jurisdição da Justiça Federal para apurar e reaver os valores pagos a menor pelo SUS",
-      "areas": [
-        "Geral"
-      ],
-      "orgao": "MUNICIPIO DE CAJAMAR",
-      "uf": "SP",
-      "municipio": "Cajamar",
-      "esfera": "Municipal",
-      "modalidade": "Credenciamento",
-      "situacao": "Revogada",
-      "valor": null,
-      "data_publicacao": "2025-06-09T09:10:58.995850",
-      "data_fim_vigencia": "2029-07-20T23:59",
-      "url": "https://pncp.gov.br/app/editais/46523023000181/2025/78",
-      "matched_keywords": [
-        "sociedade de advogados",
-        "servicos advocaticios"
-      ],
-      "bandeira": "cinza",
-      "resumo": "Contrato 48m em Cajamar/SP. valor nao informado na busca. sem presencial detectado.",
-      "lucro": null,
-      "trofeu": null
-    },
-    {
-      "titulo": "Aviso de Contratação Direta nº 00041/2026",
-      "descricao": "AQUISIÇÃO DE OBRAS JURIDICAS",
-      "areas": [
-        "Geral"
-      ],
-      "orgao": "FRANCA CAMARA MUNICIPAL",
-      "uf": "SP",
-      "municipio": "Franca",
+      "municipio": "Arandu",
       "esfera": "Municipal",
       "modalidade": "Dispensa",
       "situacao": "Divulgada no PNCP",
       "valor": null,
-      "data_publicacao": "2026-05-21T08:51:56.625160162",
-      "data_fim_vigencia": "2026-05-27T23:59",
-      "url": "https://pncp.gov.br/app/editais/49219538000180/2026/49",
+      "data_publicacao": "2026-05-27T11:55:12.410345993",
+      "data_fim_vigencia": "2026-06-01T16:00",
+      "url": "https://pncp.gov.br/app/editais/57268617000100/2026/3",
       "matched_keywords": [
         "assessoria juridica",
-        "parecer juridico"
+        "representacao judicial"
       ],
       "bandeira": "cinza",
-      "resumo": "Contrato 1m em Franca/SP. valor nao informado na busca. sem presencial detectado.",
+      "resumo": "Contrato 1m em Arandu/SP. valor nao informado na busca. sem presencial detectado.",
       "lucro": null,
       "trofeu": null
     },
@@ -271,6 +96,30 @@
       "trofeu": null
     },
     {
+      "titulo": "Edital de Chamamento Público nº 04/2025",
+      "descricao": "Credenciamento de sociedade de advogados para prestação de serviços advocatícios contenciosos e acompanhamento processual em todos os graus de jurisdição da Justiça Federal para apurar e reaver os valores pagos a menor pelo SUS",
+      "areas": [
+        "Geral"
+      ],
+      "orgao": "MUNICIPIO DE CAJAMAR",
+      "uf": "SP",
+      "municipio": "Cajamar",
+      "esfera": "Municipal",
+      "modalidade": "Credenciamento",
+      "situacao": "Revogada",
+      "valor": null,
+      "data_publicacao": "2025-06-09T09:10:58.995850",
+      "data_fim_vigencia": "2029-07-20T23:59",
+      "url": "https://pncp.gov.br/app/editais/46523023000181/2025/78",
+      "matched_keywords": [
+        "servicos advocaticios"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 48m em Cajamar/SP. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
       "titulo": "Edital de Chamamento Público nº 01/2025-CHPC/2035",
       "descricao": "Credenciamento de serviços advocatícios destinados à VDP (Verba de Desempenho Parlamentar) da Câmara Municipal de Sobral-CE.",
       "areas": [
@@ -315,6 +164,30 @@
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 121m em Sobral/CE. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Edital nº 90006/2026",
+      "descricao": "Contratação de serviços contínuos de manutenção preventiva e corretiva em aparelhos de ar-condicionado e bebedouros, de desinstalação e instalação de aparelhos de ar-condicionado, incluindo o fornecimento de peças originais, nas unidades da Advocacia- Geral da União localizadas nas cidades de Maceió/AL e Barreiras/BA",
+      "areas": [
+        "Geral"
+      ],
+      "orgao": "ADVOCACIA GERAL DA UNIAO",
+      "uf": "PE",
+      "municipio": "Recife",
+      "esfera": "Federal",
+      "modalidade": "Pregão - Eletrônico",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-05-28T07:16:53.833422713",
+      "data_fim_vigencia": "2026-06-15T10:00",
+      "url": "https://pncp.gov.br/app/editais/26994558000123/2026/103",
+      "matched_keywords": [
+        "servicos de advocacia"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Recife/PE. valor nao informado na busca. sem presencial detectado.",
       "lucro": null,
       "trofeu": null
     },
@@ -411,6 +284,30 @@
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 1m em Brasília/DF. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Edital nº 90001/2025",
+      "descricao": "Contratação de escritório de advocacia para prestação de serviços jurídicos atinentes a defesa dos interesses do Instituto de Previdência Municipal de Governador Valadares – IPREM/GV, nos processos em tramitação em 2ª Instância nos Tribunais de Justiça de Minas Gerais, Regional do Trabalho da 3ª Região, Regional Federal da 6ª Região, Tribunal de Contas do Estado de Minas Gerais, Tribunal de Contas da União, bem como Tribunais Superiores, a saber, STF, STJ, TST.",
+      "areas": [
+        "Administrativo"
+      ],
+      "orgao": "INSTITUTO DE PREVIDENCIA MUNICIPAL DE GOV. VALADARES",
+      "uf": "MG",
+      "municipio": "Governador Valadares",
+      "esfera": "Municipal",
+      "modalidade": "Concorrência - Eletrônica",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-05-21T07:13:35.832528905",
+      "data_fim_vigencia": "2026-07-13T09:00",
+      "url": "https://pncp.gov.br/app/editais/86813953000194/2025/37",
+      "matched_keywords": [
+        "servicos de advocacia"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Governador Valadares/MG. valor nao informado na busca. sem presencial detectado.",
       "lucro": null,
       "trofeu": null
     }
