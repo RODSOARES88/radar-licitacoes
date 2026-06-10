@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-06-09T12:32:28.853424+00:00",
+  "gerado_em": "2026-06-10T12:52:24.428581+00:00",
   "fonte": "PNCP",
   "filtro": "recebendo_proposta + juridico",
   "palavras_chave": [
@@ -18,6 +18,201 @@
     "parecer juridico",
     "recuperacao de creditos tributarios"
   ],
-  "total": 0,
-  "items": []
+  "total": 8,
+  "items": [
+    {
+      "titulo": "Aviso de Contratação Direta nº 00041/2026",
+      "descricao": "AQUISIÇÃO DE OBRAS JURIDICAS",
+      "areas": [
+        "Geral"
+      ],
+      "orgao": "FRANCA CAMARA MUNICIPAL",
+      "uf": "SP",
+      "municipio": "Franca",
+      "esfera": "Municipal",
+      "modalidade": "Dispensa",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-05-21T08:51:56.625160",
+      "data_fim_vigencia": "2026-06-16T23:59",
+      "url": "https://pncp.gov.br/app/editais/49219538000180/2026/49",
+      "matched_keywords": [
+        "assessoria juridica",
+        "parecer juridico"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Franca/SP. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Aviso de Contratação Direta nº 4/2026",
+      "descricao": "Contratação de prestação de serviços especializados de assessoria e consultoria jurídica em matéria de Regime Próprio de Previdência Social RPPS, voltados ao apoio técnico, jurídico e administrativo ao Instituto Municipal de Previdência dos Servidores Públicos do Município de BocaiúvaMG – PREVIBOC.",
+      "areas": [
+        "Previdenciario",
+        "Administrativo"
+      ],
+      "orgao": "INSTITUTO MUNICIPAL DOS SERVIDORES PUBLICOS DE BOCAIUVA",
+      "uf": "MG",
+      "municipio": "Bocaiúva",
+      "esfera": "Municipal",
+      "modalidade": "Dispensa",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-06-08T16:47:17.879402353",
+      "data_fim_vigencia": "2026-06-12T09:00",
+      "url": "https://pncp.gov.br/app/editais/00324208000166/2026/5",
+      "matched_keywords": [
+        "assessoria juridica"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Bocaiúva/MG. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Edital nº PCE 59/2026",
+      "descricao": "Contratação de empresa especializada prestar serviço de advocacia, in loco, no Centro de Referência Especializado em Assistência Social CREAS, da Secretaria de Habitação e Assistência Social.",
+      "areas": [
+        "Geral"
+      ],
+      "orgao": "MUNICIPIO DE FARROUPILHA",
+      "uf": "RS",
+      "municipio": "Farroupilha",
+      "esfera": "Municipal",
+      "modalidade": "Pregão - Eletrônico",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-06-09T12:32:29.287608094",
+      "data_fim_vigencia": "2026-07-06T08:29:59",
+      "url": "https://pncp.gov.br/app/editais/89848949000150/2026/708",
+      "matched_keywords": [
+        "servicos advocaticios"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Farroupilha/RS. valor nao informado na busca. presenca esporadico (1x/mes). logistica ~R$ 1.500/mes.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Edital de Chamamento Público nº 05/2025",
+      "descricao": "[LICITANET] - CREDENCIAMENTO DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS CONTENCIOSOS E ACOMPANHAMENTO PROCESSUAL EM TODOS OS GRAUS DE JURISDIÇÃO, INICIALMENTE NA JUSTIÇA FEDERAL PARA APURAR E REAVER OS VALORES PAGOS A TÍTULO DE IRPJ/IRRF A UNIÃO, NOS TERMOS DO TEMA 1.130 DA REPERCUSSÃO GERAL DO STF, ESPECIALMENTE DOTADA DE CAPACIDADE TÉCNICA/JURÍDICA PARA ATUAR NA FASE DE CUMPRIMENTO DE SENTENÇA, PARA ATENDIMENTO DOS MUNICÍPIOS CONSORCIADOS.\n\n",
+      "areas": [
+        "Geral"
+      ],
+      "orgao": "CONSORCIO INTERMUNICIPAL DE DESENVOLVIMENTO REGIONAL",
+      "uf": "MG",
+      "municipio": "Uberaba",
+      "esfera": "Não se aplica",
+      "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2025-09-02T12:38:39.302105",
+      "data_fim_vigencia": "2026-10-16T23:59:59",
+      "url": "https://pncp.gov.br/app/editais/19864323000151/2025/15",
+      "matched_keywords": [
+        "servicos advocaticios"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 12m em Uberaba/MG. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Edital de Chamamento Público nº 04/2025",
+      "descricao": "Credenciamento de sociedade de advogados para prestação de serviços advocatícios contenciosos e acompanhamento processual em todos os graus de jurisdição da Justiça Federal para apurar e reaver os valores pagos a menor pelo SUS",
+      "areas": [
+        "Geral"
+      ],
+      "orgao": "MUNICIPIO DE CAJAMAR",
+      "uf": "SP",
+      "municipio": "Cajamar",
+      "esfera": "Municipal",
+      "modalidade": "Credenciamento",
+      "situacao": "Revogada",
+      "valor": null,
+      "data_publicacao": "2025-06-09T09:10:58.995850",
+      "data_fim_vigencia": "2029-07-20T23:59",
+      "url": "https://pncp.gov.br/app/editais/46523023000181/2025/78",
+      "matched_keywords": [
+        "servicos advocaticios"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 48m em Cajamar/SP. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Edital de Chamamento Público nº 01/2025-CHPC/2035",
+      "descricao": "Credenciamento de serviços advocatícios destinados à VDP (Verba de Desempenho Parlamentar) da Câmara Municipal de Sobral-CE.",
+      "areas": [
+        "Geral"
+      ],
+      "orgao": "MUNICIPIO DE SOBRAL/CAMARA MUNICIPAL",
+      "uf": "CE",
+      "municipio": "Sobral",
+      "esfera": "Municipal",
+      "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2025-02-25T08:41:48.089097",
+      "data_fim_vigencia": "2035-02-23T23:59",
+      "url": "https://pncp.gov.br/app/editais/09485046000112/2035/1",
+      "matched_keywords": [
+        "servicos advocaticios"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 121m em Sobral/CE. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Edital de Chamamento Público nº 01/2024-CHPC/2034",
+      "descricao": "Credenciamento de serviços advocatícios destinados à VDP (Verba de Desempenho Parlamentar) da Câmara Municipal de Sobral-CE.",
+      "areas": [
+        "Geral"
+      ],
+      "orgao": "MUNICIPIO DE SOBRAL/CAMARA MUNICIPAL",
+      "uf": "CE",
+      "municipio": "Sobral",
+      "esfera": "Municipal",
+      "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2024-06-11T12:30:45.066675",
+      "data_fim_vigencia": "2034-06-11T13:00",
+      "url": "https://pncp.gov.br/app/editais/09485046000112/2034/1",
+      "matched_keywords": [
+        "servicos advocaticios"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 121m em Sobral/CE. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Edital nº 10/2026",
+      "descricao": "REGIME DE EMPREITADA POR PREÇO GLOBAL DO TIPO MENOR PREÇO para a contratação de empresa especializada para EXECUÇÃO de 4.302,72 m², de RECAPEAMENTO ASFALTICO em CBUQ, Com espessura de 3,00 cm, na rua Agripino Pimentel de Azevedo , localizada na Agrovila III município de Caiuá/SP de acordo com o processo: SGRI-PRC-2026-DM, Convenio: 102235/2026, Parecer Jurídico: 08/2025, DEMANDA: 120556, Com Participação da Secretaria de Governo e Relações Institucionais e Prefeitura município de CAIUÁ",
+      "areas": [
+        "Geral"
+      ],
+      "orgao": "MUNICIPIO DE CAIUA",
+      "uf": "SP",
+      "municipio": "Caiuá",
+      "esfera": "Municipal",
+      "modalidade": "Concorrência - Eletrônica",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-05-29T09:23:54.491902417",
+      "data_fim_vigencia": "2026-06-22T08:30",
+      "url": "https://pncp.gov.br/app/editais/53307906000110/2026/13",
+      "matched_keywords": [
+        "parecer juridico"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Caiuá/SP. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    }
+  ]
 }
