@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-06-12T12:51:25.564254+00:00",
+  "gerado_em": "2026-06-13T11:51:56.804082+00:00",
   "fonte": "PNCP",
   "filtro": "recebendo_proposta + juridico",
   "palavras_chave": [
@@ -18,6 +18,179 @@
     "parecer juridico",
     "recuperacao de creditos tributarios"
   ],
-  "total": 0,
-  "items": []
+  "total": 7,
+  "items": [
+    {
+      "titulo": "Aviso de Contratação Direta nº 16/2026",
+      "descricao": "Contratação de pessoa jurídica especializada na prestação de serviços de consultoria e assessoria jurídica, no âmbito judicial e administrativo, abrangendo as áreas de Direito do Trabalho, Administrativo, Licitações e Contratos, Contratos e Convênio, Cível, Tributário (exceto cobrança judicial e administrativa do passivo tributário), patrocínio judicial perante a Justiça Federal do Amazonas, e outras que se fizerem necessárias para atender as necessidades do contratante, visando à proteção dos direitos e interesses do Conselho Regional de Contabilidade do Amazonas.",
+      "areas": [
+        "Administrativo"
+      ],
+      "orgao": "CONSELHO REGIONAL DE CONTABILIDADE DO ESTADO DO AMAZONAS",
+      "uf": "AM",
+      "municipio": "Manaus",
+      "esfera": "Federal",
+      "modalidade": "Dispensa",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-05-18T18:01:01.439896",
+      "data_fim_vigencia": "2026-06-19T08:00",
+      "url": "https://pncp.gov.br/app/editais/04165775000178/2026/19",
+      "matched_keywords": [
+        "consultoria juridica",
+        "contencioso tributario",
+        "parecer juridico"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Manaus/AM. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Edital nº 90001/2026",
+      "descricao": "Contratação de serviços por meio de sociedade de Advogado(s) para prestação de serviços técnicos de natureza jurídica ao Conselho Regional de Biologia do Rio Grande do Sul – CRBio03 – sem exclusividade e sem vínculo empregatício – para manter a continuidade do Programa de Integridade, representar o CRBio-03 em ações trabalhistas e em demais órgãos de fiscalização, além de prestar consultoria ao Plenário, Diretoria e Gerências, de acordo com as necessidades e demanda.",
+      "areas": [
+        "Tributario",
+        "Trabalhista"
+      ],
+      "orgao": "CONSELHO REGIONAL DE BIOLOGIA 3 REGIAO",
+      "uf": "RS",
+      "municipio": "Porto Alegre",
+      "esfera": "Federal",
+      "modalidade": "Concorrência - Eletrônica",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-04-29T07:06:28.853399",
+      "data_fim_vigencia": "2026-06-23T10:00",
+      "url": "https://pncp.gov.br/app/editais/04053157000136/2026/20",
+      "matched_keywords": [
+        "consultoria juridica"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Porto Alegre/RS. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Edital nº 002/2026",
+      "descricao": "Credenciamento de advogado(a) para prestação de serviços técnicos especializados de assessoria e consultoria jurídica no âmbito do Centro de Referência Especializado de Assistência Social (CREAS) do Município de Ituaçu, visando à recomposição da equipe técnica e à manutenção da regularidade dos serviços socioassistenciais.",
+      "areas": [
+        "Geral"
+      ],
+      "orgao": "MUNICIPIO DE ITUACU",
+      "uf": "BA",
+      "municipio": "Ituaçu",
+      "esfera": "Municipal",
+      "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-03-18T10:14:39.842077550",
+      "data_fim_vigencia": "2027-02-27T17:00",
+      "url": "https://pncp.gov.br/app/editais/14106280000121/2026/15",
+      "matched_keywords": [
+        "consultoria juridica"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 12m em Ituaçu/BA. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Edital nº 19.02.01/2026",
+      "descricao": "PRESTAÇÃO DE SERVIÇOS DE ASSESSORIA E CONSULTORIA JURÍDICA COM ATUAÇÃO JURÍDICO-ADMINISTRATIVA E CONSULTIVA, JUNTO ÀS SECRETARIAS DO MUNICÍPIO DE JAGUARIBE",
+      "areas": [
+        "Administrativo"
+      ],
+      "orgao": "MUNICIPIO DE JAGUARIBE",
+      "uf": "CE",
+      "municipio": "Jaguaribe",
+      "esfera": "Municipal",
+      "modalidade": "Pré-qualificação",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-02-26T18:26:58.062763613",
+      "data_fim_vigencia": "2027-02-26T18:26:54",
+      "url": "https://pncp.gov.br/app/editais/07443708000166/2026/16",
+      "matched_keywords": [
+        "consultoria juridica"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 12m em Jaguaribe/CE. valor nao informado na busca. sem presencial detectado. trofeu: AGU.",
+      "lucro": null,
+      "trofeu": "AGU"
+    },
+    {
+      "titulo": "Edital nº 02/2026",
+      "descricao": "CONSTITUI OBJETO DO PRESENTE EDITAL O CREDENCIAMENTO DE PESSOAS FISICAS E JURIDICAS PARA COMPOSICAO DE BANCO DE PARECERISTAS RESPONSAVEIS PELA ANALISE TECNICA, AVALIACAO E EMISSAO DE PARECERES DE MERITO CULTURAL SOBRE PROJETOS CULTURAIS VINCULADOS A POLITICA NACIONAL ALDIR BLANC DE FOMENTO A CULTURA (PNAB), INCLUINDO A ANALISE E MANIFESTACAO TECNICA ACERCA DE EVENTUAIS RECURSOS ADMINISTRATIVOS INTERPOSTOS NO AMBITO DOS RESPECTIVOS PROCESSOS SELETIVOS, OBSERVADAS AS DISPOSICOES DA LEI FEDERAL Nº 14.133/2021, DO DECRETO MUNICIPAL Nº 052/2025 E DEMAIS NORMAS CORRELATAS APLICAVEIS. ",
+      "areas": [
+        "Tributario",
+        "Administrativo"
+      ],
+      "orgao": "MUNICIPIO DE GARANHUNS",
+      "uf": "PE",
+      "municipio": "Garanhuns",
+      "esfera": "Municipal",
+      "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-06-11T16:35:40.591381",
+      "data_fim_vigencia": "2026-07-13T09:00",
+      "url": "https://pncp.gov.br/app/editais/11303906000100/2026/127",
+      "matched_keywords": [
+        "parecer juridico"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Garanhuns/PE. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Aviso de Contratação Direta nº 00041/2026",
+      "descricao": "AQUISIÇÃO DE OBRAS JURIDICAS",
+      "areas": [
+        "Geral"
+      ],
+      "orgao": "FRANCA CAMARA MUNICIPAL",
+      "uf": "SP",
+      "municipio": "Franca",
+      "esfera": "Municipal",
+      "modalidade": "Dispensa",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-05-21T08:51:56.625160",
+      "data_fim_vigencia": "2026-06-16T23:59",
+      "url": "https://pncp.gov.br/app/editais/49219538000180/2026/49",
+      "matched_keywords": [
+        "parecer juridico"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Franca/SP. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Edital nº 10/2026",
+      "descricao": "REGIME DE EMPREITADA POR PREÇO GLOBAL DO TIPO MENOR PREÇO para a contratação de empresa especializada para EXECUÇÃO de 4.302,72 m², de RECAPEAMENTO ASFALTICO em CBUQ, Com espessura de 3,00 cm, na rua Agripino Pimentel de Azevedo , localizada na Agrovila III município de Caiuá/SP de acordo com o processo: SGRI-PRC-2026-DM, Convenio: 102235/2026, Parecer Jurídico: 08/2025, DEMANDA: 120556, Com Participação da Secretaria de Governo e Relações Institucionais e Prefeitura município de CAIUÁ",
+      "areas": [
+        "Geral"
+      ],
+      "orgao": "MUNICIPIO DE CAIUA",
+      "uf": "SP",
+      "municipio": "Caiuá",
+      "esfera": "Municipal",
+      "modalidade": "Concorrência - Eletrônica",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-05-29T09:23:54.491902417",
+      "data_fim_vigencia": "2026-06-22T08:30",
+      "url": "https://pncp.gov.br/app/editais/53307906000110/2026/13",
+      "matched_keywords": [
+        "parecer juridico"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Caiuá/SP. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    }
+  ]
 }
