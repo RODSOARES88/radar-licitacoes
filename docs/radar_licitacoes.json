@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-06-16T15:07:22.287020+00:00",
+  "gerado_em": "2026-06-17T13:38:37.637467+00:00",
   "fonte": "PNCP",
   "filtro": "recebendo_proposta + juridico",
   "palavras_chave": [
@@ -62,8 +62,11 @@
       "url": "https://pncp.gov.br/app/editais/04165775000178/2026/19",
       "matched_keywords": [
         "consultoria juridica",
+        "assessoria juridica",
         "servicos de advocacia",
-        "patrocinio judicial"
+        "patrocinio judicial",
+        "contencioso tributario",
+        "contencioso trabalhista"
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 1m em Manaus/AM. valor nao informado na busca. sem presencial detectado.",
@@ -71,125 +74,125 @@
       "trofeu": null
     },
     {
-      "titulo": "Edital nº PCE 59/2026",
-      "descricao": "Contratação de empresa especializada prestar serviço de advocacia, in loco, no Centro de Referência Especializado em Assistência Social CREAS, da Secretaria de Habitação e Assistência Social.",
+      "titulo": "Edital nº FMS 004/26/2026",
+      "descricao": "Contratação de pessoa juridica para prestação de serviço de assessoria e suporte técnico na gestão dos sistemas de informações em saúde pública, em especial os sistemas: cadastro nacional de estabelecimentos de saúde, sistema de informações ambulatoriais, boletim de produção ambulatorial e ficha de programação orçamentária.",
       "areas": [
         "Geral"
       ],
-      "orgao": "MUNICIPIO DE FARROUPILHA",
-      "uf": "RS",
-      "municipio": "Farroupilha",
+      "orgao": "FUNDO MUNICIPAL DE SAUDE DE CAPAO ALTO",
+      "uf": "SC",
+      "municipio": "Capão Alto",
       "esfera": "Municipal",
       "modalidade": "Pregão - Eletrônico",
       "situacao": "Divulgada no PNCP",
       "valor": null,
-      "data_publicacao": "2026-06-09T12:32:29.287608094",
-      "data_fim_vigencia": "2026-07-06T08:29:59",
-      "url": "https://pncp.gov.br/app/editais/89848949000150/2026/708",
+      "data_publicacao": "2026-06-15T09:17:29.529697873",
+      "data_fim_vigencia": "2026-06-17T13:30:01",
+      "url": "https://pncp.gov.br/app/editais/15408168000108/2026/1",
       "matched_keywords": [
-        "servicos advocaticios",
-        "servicos de advocacia"
+        "assessoria juridica"
       ],
       "bandeira": "cinza",
-      "resumo": "Contrato 1m em Farroupilha/RS. valor nao informado na busca. presenca esporadico (1x/mes). logistica ~R$ 1.500/mes.",
+      "resumo": "Contrato 1m em Capão Alto/SC. valor nao informado na busca. sem presencial detectado.",
       "lucro": null,
       "trofeu": null
     },
     {
-      "titulo": "Edital de Chamamento Público nº 05/2025",
-      "descricao": "[LICITANET] - CREDENCIAMENTO DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS CONTENCIOSOS E ACOMPANHAMENTO PROCESSUAL EM TODOS OS GRAUS DE JURISDIÇÃO, INICIALMENTE NA JUSTIÇA FEDERAL PARA APURAR E REAVER OS VALORES PAGOS A TÍTULO DE IRPJ/IRRF A UNIÃO, NOS TERMOS DO TEMA 1.130 DA REPERCUSSÃO GERAL DO STF, ESPECIALMENTE DOTADA DE CAPACIDADE TÉCNICA/JURÍDICA PARA ATUAR NA FASE DE CUMPRIMENTO DE SENTENÇA, PARA ATENDIMENTO DOS MUNICÍPIOS CONSORCIADOS.\n\n",
+      "titulo": "Edital nº Concorrência Eletrônica nº 001/2026/2026",
+      "descricao": "Contratação de pessoa jurídica para prestação de serviços de assessoria jurídica para a Câmara Municipal de Maranguape.",
       "areas": [
         "Geral"
       ],
-      "orgao": "CONSORCIO INTERMUNICIPAL DE DESENVOLVIMENTO REGIONAL",
-      "uf": "MG",
-      "municipio": "Uberaba",
-      "esfera": "Não se aplica",
-      "modalidade": "Credenciamento",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "data_publicacao": "2025-09-02T12:38:39.302105",
-      "data_fim_vigencia": "2026-10-16T23:59:59",
-      "url": "https://pncp.gov.br/app/editais/19864323000151/2025/15",
-      "matched_keywords": [
-        "servicos advocaticios"
-      ],
-      "bandeira": "cinza",
-      "resumo": "Contrato 12m em Uberaba/MG. valor nao informado na busca. sem presencial detectado.",
-      "lucro": null,
-      "trofeu": null
-    },
-    {
-      "titulo": "Edital de Chamamento Público nº 04/2025",
-      "descricao": "Credenciamento de sociedade de advogados para prestação de serviços advocatícios contenciosos e acompanhamento processual em todos os graus de jurisdição da Justiça Federal para apurar e reaver os valores pagos a menor pelo SUS",
-      "areas": [
-        "Geral"
-      ],
-      "orgao": "MUNICIPIO DE CAJAMAR",
-      "uf": "SP",
-      "municipio": "Cajamar",
-      "esfera": "Municipal",
-      "modalidade": "Credenciamento",
-      "situacao": "Revogada",
-      "valor": null,
-      "data_publicacao": "2025-06-09T09:10:58.995850",
-      "data_fim_vigencia": "2029-07-20T23:59",
-      "url": "https://pncp.gov.br/app/editais/46523023000181/2025/78",
-      "matched_keywords": [
-        "servicos advocaticios"
-      ],
-      "bandeira": "cinza",
-      "resumo": "Contrato 48m em Cajamar/SP. valor nao informado na busca. sem presencial detectado.",
-      "lucro": null,
-      "trofeu": null
-    },
-    {
-      "titulo": "Edital de Chamamento Público nº 01/2025-CHPC/2035",
-      "descricao": "Credenciamento de serviços advocatícios destinados à VDP (Verba de Desempenho Parlamentar) da Câmara Municipal de Sobral-CE.",
-      "areas": [
-        "Geral"
-      ],
-      "orgao": "MUNICIPIO DE SOBRAL/CAMARA MUNICIPAL",
+      "orgao": "MUNICIPIO DE MARANGUAPE - CAMARA MUNICIPAL",
       "uf": "CE",
-      "municipio": "Sobral",
+      "municipio": "Maranguape",
       "esfera": "Municipal",
-      "modalidade": "Credenciamento",
+      "modalidade": "Concorrência - Eletrônica",
       "situacao": "Divulgada no PNCP",
       "valor": null,
-      "data_publicacao": "2025-02-25T08:41:48.089097",
-      "data_fim_vigencia": "2035-02-23T23:59",
-      "url": "https://pncp.gov.br/app/editais/09485046000112/2035/1",
+      "data_publicacao": "2026-05-19T12:56:25.493795",
+      "data_fim_vigencia": "2026-07-10T09:00",
+      "url": "https://pncp.gov.br/app/editais/06024566000130/2026/13",
       "matched_keywords": [
-        "servicos advocaticios"
+        "assessoria juridica"
       ],
       "bandeira": "cinza",
-      "resumo": "Contrato 121m em Sobral/CE. valor nao informado na busca. sem presencial detectado.",
+      "resumo": "Contrato 1m em Maranguape/CE. valor nao informado na busca. sem presencial detectado.",
       "lucro": null,
       "trofeu": null
     },
     {
-      "titulo": "Edital de Chamamento Público nº 01/2024-CHPC/2034",
-      "descricao": "Credenciamento de serviços advocatícios destinados à VDP (Verba de Desempenho Parlamentar) da Câmara Municipal de Sobral-CE.",
+      "titulo": "Edital nº 90001/2026",
+      "descricao": "Contratação de serviços por meio de sociedade de Advogado(s) para prestação de serviços técnicos de natureza jurídica ao Conselho Regional de Biologia do Rio Grande do Sul – CRBio03 – sem exclusividade e sem vínculo empregatício – para manter a continuidade do Programa de Integridade, representar o CRBio-03 em ações trabalhistas e em demais órgãos de fiscalização, além de prestar consultoria ao Plenário, Diretoria e Gerências, de acordo com as necessidades e demanda.",
+      "areas": [
+        "Tributario",
+        "Trabalhista"
+      ],
+      "orgao": "CONSELHO REGIONAL DE BIOLOGIA 3 REGIAO",
+      "uf": "RS",
+      "municipio": "Porto Alegre",
+      "esfera": "Federal",
+      "modalidade": "Concorrência - Eletrônica",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-04-29T07:06:28.853399",
+      "data_fim_vigencia": "2026-06-23T10:00",
+      "url": "https://pncp.gov.br/app/editais/04053157000136/2026/20",
+      "matched_keywords": [
+        "assessoria juridica"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Porto Alegre/RS. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Edital nº 002/2026",
+      "descricao": "Credenciamento de advogado(a) para prestação de serviços técnicos especializados de assessoria e consultoria jurídica no âmbito do Centro de Referência Especializado de Assistência Social (CREAS) do Município de Ituaçu, visando à recomposição da equipe técnica e à manutenção da regularidade dos serviços socioassistenciais.",
       "areas": [
         "Geral"
       ],
-      "orgao": "MUNICIPIO DE SOBRAL/CAMARA MUNICIPAL",
-      "uf": "CE",
-      "municipio": "Sobral",
+      "orgao": "MUNICIPIO DE ITUACU",
+      "uf": "BA",
+      "municipio": "Ituaçu",
       "esfera": "Municipal",
       "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
-      "data_publicacao": "2024-06-11T12:30:45.066675",
-      "data_fim_vigencia": "2034-06-11T13:00",
-      "url": "https://pncp.gov.br/app/editais/09485046000112/2034/1",
+      "data_publicacao": "2026-03-18T10:14:39.842077550",
+      "data_fim_vigencia": "2027-02-27T17:00",
+      "url": "https://pncp.gov.br/app/editais/14106280000121/2026/15",
       "matched_keywords": [
-        "servicos advocaticios"
+        "assessoria juridica"
       ],
       "bandeira": "cinza",
-      "resumo": "Contrato 121m em Sobral/CE. valor nao informado na busca. sem presencial detectado.",
+      "resumo": "Contrato 12m em Ituaçu/BA. valor nao informado na busca. sem presencial detectado.",
       "lucro": null,
       "trofeu": null
+    },
+    {
+      "titulo": "Edital nº 19.02.01/2026",
+      "descricao": "PRESTAÇÃO DE SERVIÇOS DE ASSESSORIA E CONSULTORIA JURÍDICA COM ATUAÇÃO JURÍDICO-ADMINISTRATIVA E CONSULTIVA, JUNTO ÀS SECRETARIAS DO MUNICÍPIO DE JAGUARIBE",
+      "areas": [
+        "Administrativo"
+      ],
+      "orgao": "MUNICIPIO DE JAGUARIBE",
+      "uf": "CE",
+      "municipio": "Jaguaribe",
+      "esfera": "Municipal",
+      "modalidade": "Pré-qualificação",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-02-26T18:26:58.062763613",
+      "data_fim_vigencia": "2027-02-26T18:26:54",
+      "url": "https://pncp.gov.br/app/editais/07443708000166/2026/16",
+      "matched_keywords": [
+        "assessoria juridica"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 12m em Jaguaribe/CE. valor nao informado na busca. sem presencial detectado. trofeu: AGU.",
+      "lucro": null,
+      "trofeu": "AGU"
     },
     {
       "titulo": "Edital nº 90013/2026",
@@ -240,6 +243,30 @@
       "trofeu": null
     },
     {
+      "titulo": "Edital nº PCE 59/2026",
+      "descricao": "Contratação de empresa especializada prestar serviço de advocacia, in loco, no Centro de Referência Especializado em Assistência Social CREAS, da Secretaria de Habitação e Assistência Social.",
+      "areas": [
+        "Geral"
+      ],
+      "orgao": "MUNICIPIO DE FARROUPILHA",
+      "uf": "RS",
+      "municipio": "Farroupilha",
+      "esfera": "Municipal",
+      "modalidade": "Pregão - Eletrônico",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-06-09T12:32:29.287608094",
+      "data_fim_vigencia": "2026-07-06T08:29:59",
+      "url": "https://pncp.gov.br/app/editais/89848949000150/2026/708",
+      "matched_keywords": [
+        "servicos de advocacia"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Farroupilha/RS. valor nao informado na busca. presenca esporadico (1x/mes). logistica ~R$ 1.500/mes.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
       "titulo": "Edital nº 90009/2026",
       "descricao": "Contratação de serviços de engenharia, contínuos de manutenção preventiva, corretiva, serviços sob demanda e serviços eletivos para o imóvel da Advocacia-Geral da União circunscrito na Rua Rui Barbosa nº 142, Centro de Rio Branco/AC, CEP 69900150,... no Estado do Acre. ...Nos termos da tabela constante do Termo de Referência, anexo I do Edital   e  conforme condições, quantidades e exigências estabelecidas no Edital e seus anexos.",
       "areas": [
@@ -279,30 +306,6 @@
       "data_publicacao": "2026-06-08T07:20:49.550325592",
       "data_fim_vigencia": "2026-06-23T10:00",
       "url": "https://pncp.gov.br/app/editais/26994558000123/2026/108",
-      "matched_keywords": [
-        "servicos de advocacia"
-      ],
-      "bandeira": "cinza",
-      "resumo": "Contrato 1m em Brasília/DF. valor nao informado na busca. sem presencial detectado.",
-      "lucro": null,
-      "trofeu": null
-    },
-    {
-      "titulo": "Edital nº 90011/2025",
-      "descricao": "Contratação de solução de tecnologia da informação e comunicação de empresa especializada para fornecimento de Software e-learning Adobe Captivate - For Teams na modalidade VIP, pelo período de 12 (doze) meses, para a Escola da Advocacia-Geral da União (EAGU), conforme condições, quantidades e exigências estabelecidas neste Edital e seus anexos.",
-      "areas": [
-        "Geral"
-      ],
-      "orgao": "ADVOCACIA GERAL DA UNIAO",
-      "uf": "DF",
-      "municipio": "Brasília",
-      "esfera": "Federal",
-      "modalidade": "Pregão - Eletrônico",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "data_publicacao": "2025-11-03T12:02:41.555169",
-      "data_fim_vigencia": "2026-06-17T10:00",
-      "url": "https://pncp.gov.br/app/editais/26994558000123/2025/195",
       "matched_keywords": [
         "servicos de advocacia"
       ],
