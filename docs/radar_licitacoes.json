@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-06-29T14:00:51.272330+00:00",
+  "gerado_em": "2026-06-30T12:05:35.539641+00:00",
   "fonte": "PNCP",
   "filtro": "recebendo_proposta + juridico",
   "palavras_chave": [
@@ -18,7 +18,7 @@
     "parecer juridico",
     "recuperacao de creditos tributarios"
   ],
-  "total": 13,
+  "total": 11,
   "items": [
     {
       "titulo": "Edital nº 1606.01/2026-CP/2026",
@@ -37,8 +37,7 @@
       "data_fim_vigencia": "2026-07-07T08:59",
       "url": "https://pncp.gov.br/app/editais/07598642000183/2026/13",
       "matched_keywords": [
-        "consultoria juridica",
-        "assessoria juridica"
+        "consultoria juridica"
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 1m em Senador Sá/CE. valor nao informado na busca. sem presencial detectado.",
@@ -144,54 +143,6 @@
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 48m em Cajamar/SP. valor nao informado na busca. sem presencial detectado.",
-      "lucro": null,
-      "trofeu": null
-    },
-    {
-      "titulo": "Aviso de Contratação Direta nº 000010/2026",
-      "descricao": "Contratação de serviços de 2 (duas) manutenções preventivas em cada aparelho de ar-condicionado SPLIT, a saber: Assessoria Jurídica/Controladoria Interna, Gabinete dos Vereadores, Setor Contábil, Assessoria do Presidente, Secretaria, Almoxarifado/Patrimônio e Sala de Sessões da CÂMARA MUNICIPAL DE PINHEIROS. Tudo conforme condições, especificações e quantidades estabelecidas no presente Termo de Referência",
-      "areas": [
-        "Geral"
-      ],
-      "orgao": "CAMARA MUNICIPAL DE PINHEIRO",
-      "uf": "ES",
-      "municipio": "Pinheiros",
-      "esfera": "Municipal",
-      "modalidade": "Dispensa",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "data_publicacao": "2026-06-26T10:43:37.478725361",
-      "data_fim_vigencia": "2026-07-01T23:59",
-      "url": "https://pncp.gov.br/app/editais/28494664000173/2026/15",
-      "matched_keywords": [
-        "assessoria juridica"
-      ],
-      "bandeira": "cinza",
-      "resumo": "Contrato 1m em Pinheiros/ES. valor nao informado na busca. sem presencial detectado.",
-      "lucro": null,
-      "trofeu": null
-    },
-    {
-      "titulo": "Edital nº PE 2/2026",
-      "descricao": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM PRESTAÇÃO DE SERVIÇOS DE SOFTWARE ENVOLVENDO: IMPLANTAÇÃO, TREINAMENTO, MANUTENÇÃO, ATUALIZAÇÃO, SUPORTE TÉCNICO E PRESTAÇÃO DE SERVIÇOS DE LOCAÇÃO DE LICENÇA DE USO PERMANENTE DE SISTEMA DE INFORMAÇÃO PREVIDENCIÁRIA PARA GERENCIAMENTO DE REGIME PRÓPRIO DE PREVIDÊNCIA SOCIAL DOS SERVIDORES PÚBLICOS DE VILA RICA-MT, COMPREENDENDO AINDA O TREINAMENTO DE USUÁRIOS, MANUTENÇÃO E SUPORTE TÉCNICO PARA TODOS OS MÓDULOS DO SISTEMA DE INFORMAÇÃO PREVIDENCIÁRIA E SEUS REQUERIMENTOS DURANTE TODA A VIGÊNCIA DO CONTRATO, ASSESSORIA JURÍDICA, ASSESSORIA ATUARIAL E A ELABORAÇÃO ENVIOS DE DOCUMENTOS PARA RENOVAÇÃO DO CRP- CERTIFICADO DE REGULARIDADE PREVIDENCIÁRIA",
-      "areas": [
-        "Geral"
-      ],
-      "orgao": "IMPREV-INSTITUTO MUNICIPAL DE PREVIDENCIA SOCIAL",
-      "uf": "MT",
-      "municipio": "Vila Rica",
-      "esfera": "Municipal",
-      "modalidade": "Pregão - Eletrônico",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "data_publicacao": "2026-06-19T16:51:22.935014575",
-      "data_fim_vigencia": "2026-06-30T08:30",
-      "url": "https://pncp.gov.br/app/editais/00937576000180/2026/2",
-      "matched_keywords": [
-        "assessoria juridica"
-      ],
-      "bandeira": "cinza",
-      "resumo": "Evento unico em Vila Rica/MT. valor nao informado na busca. presenca esporadico (1x/mes). logistica ~R$ 1.500/mes.",
       "lucro": null,
       "trofeu": null
     },
