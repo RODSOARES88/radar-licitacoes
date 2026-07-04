@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-03T12:05:49.872018+00:00",
+  "gerado_em": "2026-07-04T11:22:50.600874+00:00",
   "fonte": "PNCP",
   "filtro": "recebendo_proposta + juridico",
   "palavras_chave": [
@@ -18,8 +18,84 @@
     "parecer juridico",
     "recuperacao de creditos tributarios"
   ],
-  "total": 11,
+  "total": 13,
   "items": [
+    {
+      "titulo": "Edital nº 005/2026",
+      "descricao": "CONTRATAÇÃO DE SERVIÇOS ESPECIALIZADOS DE ASSESSORIA E CONSULTORIA JURÍDICA, COM O OBJETIVO DE GARANTIR SUPORTE JURÍDICO ÀS ATIVIDADES DO CENTRO DE REFERÊNCIA DE ASSISTÊNCIA SOCIAL - CREAS, VINCULADO À SECRETARIA MUNICIPAL DE DESENVOLVIMENTO SOCIAL DE PAINS/MG",
+      "areas": [
+        "Geral"
+      ],
+      "orgao": "MUNICIPIO DE PAINS",
+      "uf": "MG",
+      "municipio": "Pains",
+      "esfera": "Municipal",
+      "modalidade": "Concorrência - Eletrônica",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-07-03T15:46:02.867157",
+      "data_fim_vigencia": "2026-07-30T08:30",
+      "url": "https://pncp.gov.br/app/editais/20920575000130/2026/19",
+      "matched_keywords": [
+        "consultoria juridica",
+        "assessoria juridica"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Pains/MG. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Aviso de Contratação Direta nº 46/2026",
+      "descricao": "Aquisição de livros técnicos e jurídicos, em formato físico, destinados à atualização e ao aprimoramento do acervo bibliográfico da Consultoria Jurídica da Secretaria de Estado da Fazenda (COJUR/SEF), visando fornecer suporte técnico às atividades de consultoria, assessoramento jurídico, elaboração de pareceres, manifestações jurídicas e demais ativi-dades institucionais da unidade.",
+      "areas": [
+        "Geral"
+      ],
+      "orgao": "SECRETARIA DE ESTADO DA FAZENDA",
+      "uf": "SC",
+      "municipio": "Florianópolis",
+      "esfera": "Estadual",
+      "modalidade": "Dispensa",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-07-01T17:00:44.959170730",
+      "data_fim_vigencia": "2026-07-06T13:30",
+      "url": "https://pncp.gov.br/app/editais/82951310000156/2026/27",
+      "matched_keywords": [
+        "consultoria juridica",
+        "assessoria juridica",
+        "parecer juridico"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Florianópolis/SC. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Edital nº 1606.01/2026-CP/2026",
+      "descricao": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO DE SERVIÇOS TÉCNICOS ESPECIALIZADOS DE CONSULTORIA E ASSESSORIA JURÍDICA PARA REPRESENTAR OS INTERESSES DOS ÓRGÃOS DO MUNICÍPIO DE SENADOR SA - CE, PERANTE OS TRIBUNAIS DE JUSTIÇA COMUM E PERANTE OS TRIBUNAIS SUPERIORES, ATUANDO, AINDA, FRENTE AOS ÓRGÃOS ADMINISTRATIVOS MUNICIPAIS, ESTADUAIS E FEDERAIS, NOS PROCEDIMENTOS DE INTERESSE DO MUNICÍPIO DE SENADOR SÁ/CE",
+      "areas": [
+        "Administrativo"
+      ],
+      "orgao": "MUNICIPIO DE SENADOR SA",
+      "uf": "CE",
+      "municipio": "Senador Sá",
+      "esfera": "Municipal",
+      "modalidade": "Concorrência - Eletrônica",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-06-23T09:08:58.418655470",
+      "data_fim_vigencia": "2026-07-07T08:59",
+      "url": "https://pncp.gov.br/app/editais/07598642000183/2026/13",
+      "matched_keywords": [
+        "consultoria juridica",
+        "assessoria juridica"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Senador Sá/CE. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
     {
       "titulo": "Edital nº 04/2026/2026",
       "descricao": "CONTRATAÇÃO DE SERVIÇOS TÉCNICOS ESPECIALIZADOS, DE NATUREZA PREDOMINANTEMENTE INTELECTUAL, A SEREM PRESTADOS POR ESCRITÓRIO DE ADVOCACIA, COM O OBJETIVO DE ATUAÇÃO PROCESSUAL PERANTE O TRIBUNAL DE CONTAS DO ESTADO DE SÃO PAULO (TCESP), BEM COMO PARA A PRESTAÇÃO DE ASSESSORIA E CONSULTORIA JURÍDICA RELACIONADAS AOS EFEITOS DAS DECISÕES E DEMAIS ATOS DE CONTROLE E FISCALIZAÇÃO PROMOVIDOS POR AQUELE TRIBUNAL",
@@ -38,13 +114,64 @@
       "data_fim_vigencia": "2026-08-10T08:50",
       "url": "https://pncp.gov.br/app/editais/46634440000100/2026/117",
       "matched_keywords": [
+        "consultoria juridica",
         "escritorio de advocacia",
-        "servicos de advocacia"
+        "assessoria juridica"
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 1m em Itu/SP. valor nao informado na busca. sem presencial detectado.",
       "lucro": null,
       "trofeu": null
+    },
+    {
+      "titulo": "Edital nº 002/2026",
+      "descricao": "Credenciamento de advogado(a) para prestação de serviços técnicos especializados de assessoria e consultoria jurídica no âmbito do Centro de Referência Especializado de Assistência Social (CREAS) do Município de Ituaçu, visando à recomposição da equipe técnica e à manutenção da regularidade dos serviços socioassistenciais.",
+      "areas": [
+        "Geral"
+      ],
+      "orgao": "MUNICIPIO DE ITUACU",
+      "uf": "BA",
+      "municipio": "Ituaçu",
+      "esfera": "Municipal",
+      "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-03-18T10:14:39.842077550",
+      "data_fim_vigencia": "2027-02-27T17:00",
+      "url": "https://pncp.gov.br/app/editais/14106280000121/2026/15",
+      "matched_keywords": [
+        "consultoria juridica",
+        "assessoria juridica"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 12m em Ituaçu/BA. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Edital nº 19.02.01/2026",
+      "descricao": "PRESTAÇÃO DE SERVIÇOS DE ASSESSORIA E CONSULTORIA JURÍDICA COM ATUAÇÃO JURÍDICO-ADMINISTRATIVA E CONSULTIVA, JUNTO ÀS SECRETARIAS DO MUNICÍPIO DE JAGUARIBE",
+      "areas": [
+        "Administrativo"
+      ],
+      "orgao": "MUNICIPIO DE JAGUARIBE",
+      "uf": "CE",
+      "municipio": "Jaguaribe",
+      "esfera": "Municipal",
+      "modalidade": "Pré-qualificação",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-02-26T18:26:58.062763613",
+      "data_fim_vigencia": "2027-02-26T18:26:54",
+      "url": "https://pncp.gov.br/app/editais/07443708000166/2026/16",
+      "matched_keywords": [
+        "consultoria juridica",
+        "assessoria juridica"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 12m em Jaguaribe/CE. valor nao informado na busca. sem presencial detectado. trofeu: AGU.",
+      "lucro": null,
+      "trofeu": "AGU"
     },
     {
       "titulo": "Edital nº 90001/2025",
@@ -63,8 +190,7 @@
       "data_fim_vigencia": "2026-07-13T09:00",
       "url": "https://pncp.gov.br/app/editais/86813953000194/2025/37",
       "matched_keywords": [
-        "escritorio de advocacia",
-        "servicos de advocacia"
+        "escritorio de advocacia"
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 1m em Governador Valadares/MG. valor nao informado na busca. sem presencial detectado.",
@@ -113,8 +239,7 @@
       "data_fim_vigencia": "2029-07-20T23:59",
       "url": "https://pncp.gov.br/app/editais/46523023000181/2025/78",
       "matched_keywords": [
-        "sociedade de advogados",
-        "servicos advocaticios"
+        "sociedade de advogados"
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 48m em Cajamar/SP. valor nao informado na busca. sem presencial detectado.",
@@ -122,123 +247,26 @@
       "trofeu": null
     },
     {
-      "titulo": "Edital nº PCE 59/2026",
-      "descricao": "Contratação de empresa especializada prestar serviço de advocacia, in loco, no Centro de Referência Especializado em Assistência Social CREAS, da Secretaria de Habitação e Assistência Social.",
+      "titulo": "Edital nº Concorrência Eletrônica nº 001/2026/2026",
+      "descricao": "Contratação de pessoa jurídica para prestação de serviços de assessoria jurídica para a Câmara Municipal de Maranguape.",
       "areas": [
         "Geral"
       ],
-      "orgao": "MUNICIPIO DE FARROUPILHA",
-      "uf": "RS",
-      "municipio": "Farroupilha",
-      "esfera": "Municipal",
-      "modalidade": "Pregão - Eletrônico",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "data_publicacao": "2026-06-09T12:32:29.287608094",
-      "data_fim_vigencia": "2026-07-06T08:29:59",
-      "url": "https://pncp.gov.br/app/editais/89848949000150/2026/708",
-      "matched_keywords": [
-        "servicos advocaticios",
-        "servicos de advocacia"
-      ],
-      "bandeira": "cinza",
-      "resumo": "Contrato 1m em Farroupilha/RS. valor nao informado na busca. presenca esporadico (1x/mes). logistica ~R$ 1.500/mes.",
-      "lucro": null,
-      "trofeu": null
-    },
-    {
-      "titulo": "Edital de Chamamento Público nº 05/2025",
-      "descricao": "[LICITANET] - CREDENCIAMENTO DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS CONTENCIOSOS E ACOMPANHAMENTO PROCESSUAL EM TODOS OS GRAUS DE JURISDIÇÃO, INICIALMENTE NA JUSTIÇA FEDERAL PARA APURAR E REAVER OS VALORES PAGOS A TÍTULO DE IRPJ/IRRF A UNIÃO, NOS TERMOS DO TEMA 1.130 DA REPERCUSSÃO GERAL DO STF, ESPECIALMENTE DOTADA DE CAPACIDADE TÉCNICA/JURÍDICA PARA ATUAR NA FASE DE CUMPRIMENTO DE SENTENÇA, PARA ATENDIMENTO DOS MUNICÍPIOS CONSORCIADOS.\n\n",
-      "areas": [
-        "Geral"
-      ],
-      "orgao": "CONSORCIO INTERMUNICIPAL DE DESENVOLVIMENTO REGIONAL",
-      "uf": "MG",
-      "municipio": "Uberaba",
-      "esfera": "Não se aplica",
-      "modalidade": "Credenciamento",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "data_publicacao": "2025-09-02T12:38:39.302105",
-      "data_fim_vigencia": "2026-10-16T23:59:59",
-      "url": "https://pncp.gov.br/app/editais/19864323000151/2025/15",
-      "matched_keywords": [
-        "servicos advocaticios"
-      ],
-      "bandeira": "cinza",
-      "resumo": "Contrato 12m em Uberaba/MG. valor nao informado na busca. sem presencial detectado.",
-      "lucro": null,
-      "trofeu": null
-    },
-    {
-      "titulo": "Edital de Chamamento Público nº 01/2025-CHPC/2035",
-      "descricao": "Credenciamento de serviços advocatícios destinados à VDP (Verba de Desempenho Parlamentar) da Câmara Municipal de Sobral-CE.",
-      "areas": [
-        "Geral"
-      ],
-      "orgao": "MUNICIPIO DE SOBRAL/CAMARA MUNICIPAL",
+      "orgao": "MUNICIPIO DE MARANGUAPE - CAMARA MUNICIPAL",
       "uf": "CE",
-      "municipio": "Sobral",
+      "municipio": "Maranguape",
       "esfera": "Municipal",
-      "modalidade": "Credenciamento",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "data_publicacao": "2025-02-25T08:41:48.089097",
-      "data_fim_vigencia": "2035-02-23T23:59",
-      "url": "https://pncp.gov.br/app/editais/09485046000112/2035/1",
-      "matched_keywords": [
-        "servicos advocaticios"
-      ],
-      "bandeira": "cinza",
-      "resumo": "Contrato 121m em Sobral/CE. valor nao informado na busca. sem presencial detectado.",
-      "lucro": null,
-      "trofeu": null
-    },
-    {
-      "titulo": "Edital de Chamamento Público nº 01/2024-CHPC/2034",
-      "descricao": "Credenciamento de serviços advocatícios destinados à VDP (Verba de Desempenho Parlamentar) da Câmara Municipal de Sobral-CE.",
-      "areas": [
-        "Geral"
-      ],
-      "orgao": "MUNICIPIO DE SOBRAL/CAMARA MUNICIPAL",
-      "uf": "CE",
-      "municipio": "Sobral",
-      "esfera": "Municipal",
-      "modalidade": "Credenciamento",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "data_publicacao": "2024-06-11T12:30:45.066675",
-      "data_fim_vigencia": "2034-06-11T13:00",
-      "url": "https://pncp.gov.br/app/editais/09485046000112/2034/1",
-      "matched_keywords": [
-        "servicos advocaticios"
-      ],
-      "bandeira": "cinza",
-      "resumo": "Contrato 121m em Sobral/CE. valor nao informado na busca. sem presencial detectado.",
-      "lucro": null,
-      "trofeu": null
-    },
-    {
-      "titulo": "Edital nº 90007/2025",
-      "descricao": "Contratação de serviços técnicos de advocacia de natureza trabalhista para a defesa dos interesses do CREA-SP.",
-      "areas": [
-        "Trabalhista"
-      ],
-      "orgao": "CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA DO ESTADO DE SAO PAULO",
-      "uf": "SP",
-      "municipio": "São Paulo",
-      "esfera": "Federal",
       "modalidade": "Concorrência - Eletrônica",
       "situacao": "Divulgada no PNCP",
       "valor": null,
-      "data_publicacao": "2025-11-28T07:07:10.349791",
-      "data_fim_vigencia": "2026-08-06T10:00",
-      "url": "https://pncp.gov.br/app/editais/60985017000177/2025/54",
+      "data_publicacao": "2026-05-19T12:56:25.493795",
+      "data_fim_vigencia": "2026-07-10T09:00",
+      "url": "https://pncp.gov.br/app/editais/06024566000130/2026/13",
       "matched_keywords": [
-        "servicos de advocacia"
+        "assessoria juridica"
       ],
       "bandeira": "cinza",
-      "resumo": "Contrato 1m em São Paulo/SP. valor nao informado na busca. sem presencial detectado.",
+      "resumo": "Contrato 1m em Maranguape/CE. valor nao informado na busca. sem presencial detectado.",
       "lucro": null,
       "trofeu": null
     },
@@ -267,26 +295,51 @@
       "trofeu": null
     },
     {
-      "titulo": "Aviso de Contratação Direta nº 46/2026",
-      "descricao": "Aquisição de livros técnicos e jurídicos, em formato físico, destinados à atualização e ao aprimoramento do acervo bibliográfico da Consultoria Jurídica da Secretaria de Estado da Fazenda (COJUR/SEF), visando fornecer suporte técnico às atividades de consultoria, assessoramento jurídico, elaboração de pareceres, manifestações jurídicas e demais ativi-dades institucionais da unidade.",
+      "titulo": "Edital nº 29/2026",
+      "descricao": "CONTRATAÇÃO DE PESSOA JURIDICA PARA PRESTAR SERVIÇO PROFISSIONAL NA ÁREA DE PSICOLOGIA DE 30 HORAS PARA ATENDER A DEMANDA DA SECRETARIA MUNICIPAL DE ASSISTENCIA SOCIAL DE GUAIRAÇÁ/PR..",
       "areas": [
-        "Geral"
+        "Tributario"
       ],
-      "orgao": "SECRETARIA DE ESTADO DA FAZENDA",
-      "uf": "SC",
-      "municipio": "Florianópolis",
-      "esfera": "Estadual",
-      "modalidade": "Dispensa",
+      "orgao": "MUNICIPIO DE GUAIRACA",
+      "uf": "PR",
+      "municipio": "Guairaçá",
+      "esfera": "Municipal",
+      "modalidade": "Pregão - Eletrônico",
       "situacao": "Divulgada no PNCP",
       "valor": null,
-      "data_publicacao": "2026-07-01T17:00:44.959170730",
-      "data_fim_vigencia": "2026-07-06T13:30",
-      "url": "https://pncp.gov.br/app/editais/82951310000156/2026/27",
+      "data_publicacao": "2026-06-23T15:36:36.294349935",
+      "data_fim_vigencia": "2026-07-13T09:00",
+      "url": "https://pncp.gov.br/app/editais/76238443000187/2026/80",
       "matched_keywords": [
         "parecer juridico"
       ],
       "bandeira": "cinza",
-      "resumo": "Contrato 1m em Florianópolis/SC. valor nao informado na busca. sem presencial detectado.",
+      "resumo": "Contrato 1m em Guairaçá/PR. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Edital nº 02/2026",
+      "descricao": "CONSTITUI OBJETO DO PRESENTE EDITAL O CREDENCIAMENTO DE PESSOAS FISICAS E JURIDICAS PARA COMPOSICAO DE BANCO DE PARECERISTAS RESPONSAVEIS PELA ANALISE TECNICA, AVALIACAO E EMISSAO DE PARECERES DE MERITO CULTURAL SOBRE PROJETOS CULTURAIS VINCULADOS A POLITICA NACIONAL ALDIR BLANC DE FOMENTO A CULTURA (PNAB), INCLUINDO A ANALISE E MANIFESTACAO TECNICA ACERCA DE EVENTUAIS RECURSOS ADMINISTRATIVOS INTERPOSTOS NO AMBITO DOS RESPECTIVOS PROCESSOS SELETIVOS, OBSERVADAS AS DISPOSICOES DA LEI FEDERAL Nº 14.133/2021, DO DECRETO MUNICIPAL Nº 052/2025 E DEMAIS NORMAS CORRELATAS APLICAVEIS. ",
+      "areas": [
+        "Tributario",
+        "Administrativo"
+      ],
+      "orgao": "MUNICIPIO DE GARANHUNS",
+      "uf": "PE",
+      "municipio": "Garanhuns",
+      "esfera": "Municipal",
+      "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-06-11T16:35:40.591381",
+      "data_fim_vigencia": "2026-07-13T09:00",
+      "url": "https://pncp.gov.br/app/editais/11303906000100/2026/127",
+      "matched_keywords": [
+        "parecer juridico"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Garanhuns/PE. valor nao informado na busca. sem presencial detectado.",
       "lucro": null,
       "trofeu": null
     }
