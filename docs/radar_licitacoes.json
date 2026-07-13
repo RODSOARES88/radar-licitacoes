@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-12T11:07:20.384461+00:00",
+  "gerado_em": "2026-07-13T12:27:52.804726+00:00",
   "fonte": "PNCP",
   "filtro": "recebendo_proposta + juridico",
   "palavras_chave": [
@@ -18,6 +18,56 @@
     "parecer juridico",
     "recuperacao de creditos tributarios"
   ],
-  "total": 0,
-  "items": []
+  "total": 2,
+  "items": [
+    {
+      "titulo": "Edital de Chamamento Público nº 03/2025",
+      "descricao": "Credenciamento de sociedade de advogados para prestação de serviços técnico profissional especializado no patrocínio e defesa em causas judiciais e/ou administrativas que envolvam participações Governamentais (royalties e participação especial) devidas pela indústria Agência Nacional do Petróleo, Gás Natural e Biocombustiveis – ANP",
+      "areas": [
+        "Tributario",
+        "Administrativo"
+      ],
+      "orgao": "MUNICIPIO DE CAJAMAR",
+      "uf": "SP",
+      "municipio": "Cajamar",
+      "esfera": "Municipal",
+      "modalidade": "Credenciamento",
+      "situacao": "Revogada",
+      "valor": null,
+      "data_publicacao": "2025-06-09T09:07:50.285628",
+      "data_fim_vigencia": "2029-07-20T23:59",
+      "url": "https://pncp.gov.br/app/editais/46523023000181/2025/77",
+      "matched_keywords": [
+        "sociedade de advogados"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 48m em Cajamar/SP. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Edital de Chamamento Público nº 04/2025",
+      "descricao": "Credenciamento de sociedade de advogados para prestação de serviços advocatícios contenciosos e acompanhamento processual em todos os graus de jurisdição da Justiça Federal para apurar e reaver os valores pagos a menor pelo SUS",
+      "areas": [
+        "Geral"
+      ],
+      "orgao": "MUNICIPIO DE CAJAMAR",
+      "uf": "SP",
+      "municipio": "Cajamar",
+      "esfera": "Municipal",
+      "modalidade": "Credenciamento",
+      "situacao": "Revogada",
+      "valor": null,
+      "data_publicacao": "2025-06-09T09:10:58.995850",
+      "data_fim_vigencia": "2029-07-20T23:59",
+      "url": "https://pncp.gov.br/app/editais/46523023000181/2025/78",
+      "matched_keywords": [
+        "sociedade de advogados"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 48m em Cajamar/SP. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    }
+  ]
 }
