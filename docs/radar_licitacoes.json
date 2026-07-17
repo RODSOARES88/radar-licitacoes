@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-16T11:29:47.991889+00:00",
+  "gerado_em": "2026-07-17T11:18:14.860835+00:00",
   "fonte": "PNCP",
   "filtro": "recebendo_proposta + juridico",
   "palavras_chave": [
@@ -18,8 +18,32 @@
     "parecer juridico",
     "recuperacao de creditos tributarios"
   ],
-  "total": 10,
+  "total": 12,
   "items": [
+    {
+      "titulo": "Edital nº 59/2026",
+      "descricao": "OUTROS SERVICOS TERCEIROS PESSOA JURIDICA",
+      "areas": [
+        "Geral"
+      ],
+      "orgao": "MUNICIPIO DE IVOTI",
+      "uf": "RS",
+      "municipio": "Ivoti",
+      "esfera": "Municipal",
+      "modalidade": "Pregão - Eletrônico",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-07-16T11:51:55.461124",
+      "data_fim_vigencia": "2026-07-31T08:55",
+      "url": "https://pncp.gov.br/app/editais/88254909000117/2026/1029",
+      "matched_keywords": [
+        "consultoria juridica"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Ivoti/RS. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
     {
       "titulo": "Edital nº 000028/2026",
       "descricao": "CONTRATAÇÃO DA DISPONIBILIZAÇÃO DE SOLUÇÃO TECNOLÓGICA INTEGRADA PARA AUTOMAÇÃO DOS SERVIÇOS DE GESTÃO DE PROCESSOS JUDICIAIS E DEEXECUÇÃO DA DÍVIDA ATIVA, COMPREENDENDO LICENÇA DE USO DO SISTEMA E SERVIÇOS TÉCNICOS ASSOCIADOS DE IMPLANTAÇÃO, PARAMETRIZAÇÃO, TREINAMENTO, SUPORTE TÉCNICO E MANUTENÇÃO, DESTINADA AO ATENDIMENTO DAS NECESSIDADES DA PROCURADORIA GERAL DO MUNICÍPIO DE SÃO MATEUS/ES, RESPONSÁVEL PELA REPRESENTAÇÃO JUDICIAL E CONSULTORIA JURÍDICA DO MUNICÍPIO.",
@@ -37,7 +61,8 @@
       "data_fim_vigencia": "2026-07-21T09:00",
       "url": "https://pncp.gov.br/app/editais/27167477000112/2026/369",
       "matched_keywords": [
-        "consultoria juridica"
+        "consultoria juridica",
+        "representacao judicial"
       ],
       "bandeira": "cinza",
       "resumo": "Evento unico em São Mateus/ES. valor nao informado na busca. presenca esporadico (1x/mes). logistica ~R$ 800/mes.",
@@ -111,36 +136,10 @@
       "url": "https://pncp.gov.br/app/editais/46634440000100/2026/117",
       "matched_keywords": [
         "consultoria juridica",
-        "escritorio de advocacia",
         "servicos de advocacia"
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 1m em Itu/SP. valor nao informado na busca. sem presencial detectado.",
-      "lucro": null,
-      "trofeu": null
-    },
-    {
-      "titulo": "Edital nº 90006/2026",
-      "descricao": "Contratação de escritório de advocacia para prestação de serviços jurídicos, sob demanda, especializados em direito e processo do trabalho, com atuação perante a Justiça do Trabalho em todas as instâncias e em todo território nacional, em ações trabalhistas individuais e coletivas nas quais a CEITEC S.A seja parte, terceira ou interessada, independentemente da fase processual, conforme descrito no Termo de Referência.",
-      "areas": [
-        "Trabalhista"
-      ],
-      "orgao": "CENTRO NACIONAL DE TEC ELETRONICA AVANçADA SA",
-      "uf": "RS",
-      "municipio": "Porto Alegre",
-      "esfera": "Federal",
-      "modalidade": "Pregão - Eletrônico",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "data_publicacao": "2026-04-16T07:14:11.560522",
-      "data_fim_vigencia": "2026-07-21T09:00",
-      "url": "https://pncp.gov.br/app/editais/10770641000189/2026/15",
-      "matched_keywords": [
-        "escritorio de advocacia",
-        "servicos de advocacia"
-      ],
-      "bandeira": "cinza",
-      "resumo": "Contrato 1m em Porto Alegre/RS. valor nao informado na busca. sem presencial detectado.",
       "lucro": null,
       "trofeu": null
     },
@@ -194,6 +193,30 @@
       "trofeu": null
     },
     {
+      "titulo": "Edital nº 137/2026",
+      "descricao": "Contratação de serviços contínuos de apoio administrativo (assistente administrativo) visando atender às demandas das Unidades da Advocacia-Geral da União em Manaus/AM, a serem executados com regime de dedicação exclusiva de mão de obra, conforme condições, quantidades e exigências estabelecidas neste Edital e seus anexos.",
+      "areas": [
+        "Administrativo"
+      ],
+      "orgao": "ADVOCACIA GERAL DA UNIAO",
+      "uf": "DF",
+      "municipio": "Brasília",
+      "esfera": "Federal",
+      "modalidade": "Pregão - Eletrônico",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-07-17T04:00:12.180336",
+      "data_fim_vigencia": "2026-07-31T09:59",
+      "url": "https://pncp.gov.br/app/editais/26994558000123/2026/127",
+      "matched_keywords": [
+        "servicos de advocacia"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Brasília/DF. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
       "titulo": "Edital nº 58/2026",
       "descricao": "Prestação dos serviços de confecção, fornecimento e instalação de persianas sob medida, na sede da Advocacia-Geral do Estado de Minas Gerais.",
       "areas": [
@@ -238,6 +261,30 @@
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 1m em Belo Horizonte/MG. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Edital nº 90006/2026",
+      "descricao": "Contratação de escritório de advocacia para prestação de serviços jurídicos, sob demanda, especializados em direito e processo do trabalho, com atuação perante a Justiça do Trabalho em todas as instâncias e em todo território nacional, em ações trabalhistas individuais e coletivas nas quais a CEITEC S.A seja parte, terceira ou interessada, independentemente da fase processual, conforme descrito no Termo de Referência.",
+      "areas": [
+        "Trabalhista"
+      ],
+      "orgao": "CENTRO NACIONAL DE TEC ELETRONICA AVANçADA SA",
+      "uf": "RS",
+      "municipio": "Porto Alegre",
+      "esfera": "Federal",
+      "modalidade": "Pregão - Eletrônico",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-04-16T07:14:11.560522",
+      "data_fim_vigencia": "2026-07-21T09:00",
+      "url": "https://pncp.gov.br/app/editais/10770641000189/2026/15",
+      "matched_keywords": [
+        "servicos de advocacia"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Porto Alegre/RS. valor nao informado na busca. sem presencial detectado.",
       "lucro": null,
       "trofeu": null
     },
