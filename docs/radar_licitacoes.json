@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-23T11:47:51.084726+00:00",
+  "gerado_em": "2026-07-24T11:38:28.853140+00:00",
   "fonte": "PNCP",
   "filtro": "recebendo_proposta + juridico",
   "palavras_chave": [
@@ -18,33 +18,8 @@
     "parecer juridico",
     "recuperacao de creditos tributarios"
   ],
-  "total": 3,
+  "total": 4,
   "items": [
-    {
-      "titulo": "Edital nº 04/2026/2026",
-      "descricao": "CONTRATAÇÃO DE SERVIÇOS TÉCNICOS ESPECIALIZADOS, DE NATUREZA PREDOMINANTEMENTE INTELECTUAL, A SEREM PRESTADOS POR ESCRITÓRIO DE ADVOCACIA, COM O OBJETIVO DE ATUAÇÃO PROCESSUAL PERANTE O TRIBUNAL DE CONTAS DO ESTADO DE SÃO PAULO (TCESP), BEM COMO PARA A PRESTAÇÃO DE ASSESSORIA E CONSULTORIA JURÍDICA RELACIONADAS AOS EFEITOS DAS DECISÕES E DEMAIS ATOS DE CONTROLE E FISCALIZAÇÃO PROMOVIDOS POR AQUELE TRIBUNAL",
-      "areas": [
-        "Tributario",
-        "Administrativo"
-      ],
-      "orgao": "MUNICIPIO DE ITU",
-      "uf": "SP",
-      "municipio": "Itu",
-      "esfera": "Municipal",
-      "modalidade": "Concorrência - Eletrônica",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "data_publicacao": "2026-06-17T16:50:35.065938752",
-      "data_fim_vigencia": "2026-08-10T08:50",
-      "url": "https://pncp.gov.br/app/editais/46634440000100/2026/117",
-      "matched_keywords": [
-        "escritorio de advocacia"
-      ],
-      "bandeira": "cinza",
-      "resumo": "Contrato 1m em Itu/SP. valor nao informado na busca. sem presencial detectado.",
-      "lucro": null,
-      "trofeu": null
-    },
     {
       "titulo": "Edital nº 59/2026",
       "descricao": "OUTROS SERVICOS TERCEIROS PESSOA JURIDICA",
@@ -62,7 +37,8 @@
       "data_fim_vigencia": "2026-07-31T08:55",
       "url": "https://pncp.gov.br/app/editais/88254909000117/2026/1029",
       "matched_keywords": [
-        "assessoria juridica"
+        "assessoria juridica",
+        "parecer juridico"
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 1m em Ivoti/RS. valor nao informado na busca. sem presencial detectado.",
@@ -83,14 +59,62 @@
       "modalidade": "Pregão - Eletrônico",
       "situacao": "Divulgada no PNCP",
       "valor": null,
-      "data_publicacao": "2026-07-22T18:31:07.076541746",
+      "data_publicacao": "2026-07-22T18:31:07.076542",
       "data_fim_vigencia": "2026-08-18T09:15",
       "url": "https://pncp.gov.br/app/editais/06274757000150/2026/2",
       "matched_keywords": [
-        "contencioso trabalhista"
+        "contencioso administrativo"
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 1m em São Luís/MA. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Edital nº 36/2026",
+      "descricao": "[Portal de Compras Públicas] - CONTRATAÇÃO DE PESSOA JURIDICA PARA PRESTAÇÃO DE SERVIÇOS DE REALIZAÇÃO DE CONSULTAS MÉDICAS EM DIVERSAS ESPECIALIDADES, PARA ATENDER AS DEMANDAS DA SECRETARIA DE SAUDE DO MUNICIPIO DE AREIA-PB",
+      "areas": [
+        "Geral"
+      ],
+      "orgao": "MUNICIPIO DE AREIA",
+      "uf": "PB",
+      "municipio": "Areia",
+      "esfera": "Municipal",
+      "modalidade": "Pregão - Eletrônico",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-07-20T07:30:14.738528",
+      "data_fim_vigencia": "2026-08-03T09:30",
+      "url": "https://pncp.gov.br/app/editais/08754111000103/2026/92",
+      "matched_keywords": [
+        "parecer juridico"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Areia/PB. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Edital de Chamamento Público nº 33 | Processo 115/2026",
+      "descricao": "Credenciamento de profissionais Psicologos as  e Assistentes Sociais  pessoas juridicas  para prestacao de servicos especializados na rede publica municipal de saude  em regime ambulatorial e hospitalar  conforme as necessidades da Secretaria Municipal de Saude",
+      "areas": [
+        "Tributario"
+      ],
+      "orgao": "MUNICIPIO DE SALTO DO LONTRA",
+      "uf": "PR",
+      "municipio": "Salto do Lontra",
+      "esfera": "Municipal",
+      "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-07-15T11:23:35.038247920",
+      "data_fim_vigencia": "2027-07-15T14:01",
+      "url": "https://pncp.gov.br/app/editais/76205707000104/2026/119",
+      "matched_keywords": [
+        "parecer juridico"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 12m em Salto do Lontra/PR. valor nao informado na busca. sem presencial detectado.",
       "lucro": null,
       "trofeu": null
     }
