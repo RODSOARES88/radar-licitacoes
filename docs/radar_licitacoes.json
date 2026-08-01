@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-31T11:54:28.303316+00:00",
+  "gerado_em": "2026-08-01T11:12:32.548341+00:00",
   "fonte": "PNCP",
   "filtro": "recebendo_proposta + juridico",
   "palavras_chave": [
@@ -18,7 +18,7 @@
     "parecer juridico",
     "recuperacao de creditos tributarios"
   ],
-  "total": 14,
+  "total": 11,
   "items": [
     {
       "titulo": "Edital nº LE0262026/2026",
@@ -43,32 +43,6 @@
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 1m em São Luís/MA. valor nao informado na busca. sem presencial detectado.",
-      "lucro": null,
-      "trofeu": null
-    },
-    {
-      "titulo": "Edital nº 59/2026",
-      "descricao": "OUTROS SERVICOS TERCEIROS PESSOA JURIDICA",
-      "areas": [
-        "Geral"
-      ],
-      "orgao": "MUNICIPIO DE IVOTI",
-      "uf": "RS",
-      "municipio": "Ivoti",
-      "esfera": "Municipal",
-      "modalidade": "Pregão - Eletrônico",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "data_publicacao": "2026-07-16T11:51:55.461124",
-      "data_fim_vigencia": "2026-07-31T08:55",
-      "url": "https://pncp.gov.br/app/editais/88254909000117/2026/1029",
-      "matched_keywords": [
-        "consultoria juridica",
-        "assessoria juridica",
-        "parecer juridico"
-      ],
-      "bandeira": "cinza",
-      "resumo": "Contrato 1m em Ivoti/RS. valor nao informado na busca. sem presencial detectado.",
       "lucro": null,
       "trofeu": null
     },
@@ -293,30 +267,6 @@
       "trofeu": null
     },
     {
-      "titulo": "Edital nº 137/2026",
-      "descricao": "Contratação de serviços contínuos de apoio administrativo (assistente administrativo) visando atender às demandas das Unidades da Advocacia-Geral da União em Manaus/AM, a serem executados com regime de dedicação exclusiva de mão de obra, conforme condições, quantidades e exigências estabelecidas neste Edital e seus anexos.",
-      "areas": [
-        "Administrativo"
-      ],
-      "orgao": "ADVOCACIA GERAL DA UNIAO",
-      "uf": "DF",
-      "municipio": "Brasília",
-      "esfera": "Federal",
-      "modalidade": "Pregão - Eletrônico",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "data_publicacao": "2026-07-17T04:00:12.180336",
-      "data_fim_vigencia": "2026-07-31T09:59",
-      "url": "https://pncp.gov.br/app/editais/26994558000123/2026/127",
-      "matched_keywords": [
-        "servicos de advocacia"
-      ],
-      "bandeira": "cinza",
-      "resumo": "Contrato 1m em Brasília/DF. valor nao informado na busca. sem presencial detectado.",
-      "lucro": null,
-      "trofeu": null
-    },
-    {
       "titulo": "Edital nº 90007/2025",
       "descricao": "Contratação de serviços técnicos de advocacia de natureza trabalhista para a defesa dos interesses do CREA-SP.",
       "areas": [
@@ -337,30 +287,6 @@
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 1m em São Paulo/SP. valor nao informado na busca. sem presencial detectado.",
-      "lucro": null,
-      "trofeu": null
-    },
-    {
-      "titulo": "Edital nº 36/2026",
-      "descricao": "[Portal de Compras Públicas] - CONTRATAÇÃO DE PESSOA JURIDICA PARA PRESTAÇÃO DE SERVIÇOS DE REALIZAÇÃO DE CONSULTAS MÉDICAS EM DIVERSAS ESPECIALIDADES, PARA ATENDER AS DEMANDAS DA SECRETARIA DE SAUDE DO MUNICIPIO DE AREIA-PB",
-      "areas": [
-        "Geral"
-      ],
-      "orgao": "MUNICIPIO DE AREIA",
-      "uf": "PB",
-      "municipio": "Areia",
-      "esfera": "Municipal",
-      "modalidade": "Pregão - Eletrônico",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "data_publicacao": "2026-07-20T07:30:14.738528",
-      "data_fim_vigencia": "2026-08-03T09:30",
-      "url": "https://pncp.gov.br/app/editais/08754111000103/2026/92",
-      "matched_keywords": [
-        "parecer juridico"
-      ],
-      "bandeira": "cinza",
-      "resumo": "Contrato 1m em Areia/PB. valor nao informado na busca. sem presencial detectado.",
       "lucro": null,
       "trofeu": null
     }
