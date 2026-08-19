@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-18T10:22:27.162927+00:00",
+  "gerado_em": "2026-08-19T10:22:39.134315+00:00",
   "fonte": "PNCP",
   "filtro": "recebendo_proposta + juridico",
   "palavras_chave": [
@@ -18,176 +18,125 @@
     "parecer juridico",
     "recuperacao de creditos tributarios"
   ],
-  "total": 7,
+  "total": 5,
   "items": [
     {
-      "titulo": "Edital nº LE0262026/2026",
-      "descricao": "Contratação dos serviços técnicos especializados de consultoria jurídica preventiva, administrativa e contenciosa nas áreas de direito do trabalho (individual e coletivo) e previdenciário, perante todas as instâncias dos tribunais regionais, e superiores, a serem prestados por sociedade de advogados para a companhia de saneamento ambiental do Maranhão - CAEMA, conforme especificações, quantitativos e condições do Termo de Referência, Anexo I do Edital.",
+      "titulo": "Aviso de Contratação Direta nº 92/2026",
+      "descricao": "Contratação de empresa especializada para a prestação de serviços de confecção, sob demanda, de placas de identificação e inauguração destinadas às unidades da Advocacia-Geral do Estado de Minas Gerai",
       "areas": [
-        "Administrativo",
-        "Ambiental"
+        "Geral"
       ],
-      "orgao": "COMPANHIA DE SANEAMENTO AMBIENTAL DO MARANHÃO",
-      "uf": "MA",
-      "municipio": "São Luís",
+      "orgao": "ADVOCACIA-GERAL DO ESTADO",
+      "uf": "MG",
+      "municipio": "Belo Horizonte",
       "esfera": "Estadual",
+      "modalidade": "Dispensa",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-08-18T14:38:14.598441373",
+      "data_fim_vigencia": "2026-08-24T08:40:16",
+      "url": "https://pncp.gov.br/app/editais/16745465000101/2026/87",
+      "matched_keywords": [
+        "servicos de advocacia"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Belo Horizonte/MG. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Edital nº 23/2026",
+      "descricao": "Contratação de serviço contínuo de fornecimento indireto de energia elétrica, sem dedicação de mão de obra exclusiva, por meio da compensação de créditos oriundos de geração distribuída compartilhada com fonte renovável solar, nos termos da Lei nº 14.300/2022 e da regulamentação da Agência Nacional de Energia Elétrica (Aneel), visando ao atendimento das unidades consumidoras da Advocacia-Geral da União no Estado de Minas Gerais, conforme condições, quantidades e exigências estabelecidas no Edital e seus anexos.",
+      "areas": [
+        "Consumidor"
+      ],
+      "orgao": "ADVOCACIA GERAL DA UNIAO",
+      "uf": "MG",
+      "municipio": "Belo Horizonte",
+      "esfera": "Federal",
       "modalidade": "Pregão - Eletrônico",
       "situacao": "Divulgada no PNCP",
       "valor": null,
-      "data_publicacao": "2026-07-22T18:31:07.076542",
-      "data_fim_vigencia": "2026-08-18T09:15",
-      "url": "https://pncp.gov.br/app/editais/06274757000150/2026/2",
+      "data_publicacao": "2026-08-18T04:00:20.351754",
+      "data_fim_vigencia": "2026-09-08T10:00",
+      "url": "https://pncp.gov.br/app/editais/26994558000123/2026/140",
       "matched_keywords": [
-        "sociedade de advogados"
+        "servicos de advocacia"
       ],
       "bandeira": "cinza",
-      "resumo": "Contrato 1m em São Luís/MA. valor nao informado na busca. sem presencial detectado.",
+      "resumo": "Contrato 1m em Belo Horizonte/MG. valor nao informado na busca. sem presencial detectado.",
       "lucro": null,
       "trofeu": null
     },
     {
-      "titulo": "Edital de Chamamento Público nº 03/2025",
-      "descricao": "Credenciamento de sociedade de advogados para prestação de serviços técnico profissional especializado no patrocínio e defesa em causas judiciais e/ou administrativas que envolvam participações Governamentais (royalties e participação especial) devidas pela indústria Agência Nacional do Petróleo, Gás Natural e Biocombustiveis – ANP",
-      "areas": [
-        "Tributario",
-        "Administrativo"
-      ],
-      "orgao": "MUNICIPIO DE CAJAMAR",
-      "uf": "SP",
-      "municipio": "Cajamar",
-      "esfera": "Municipal",
-      "modalidade": "Credenciamento",
-      "situacao": "Revogada",
-      "valor": null,
-      "data_publicacao": "2025-06-09T09:07:50.285628",
-      "data_fim_vigencia": "2029-07-20T23:59",
-      "url": "https://pncp.gov.br/app/editais/46523023000181/2025/77",
-      "matched_keywords": [
-        "sociedade de advogados"
-      ],
-      "bandeira": "cinza",
-      "resumo": "Contrato 48m em Cajamar/SP. valor nao informado na busca. sem presencial detectado.",
-      "lucro": null,
-      "trofeu": null
-    },
-    {
-      "titulo": "Edital de Chamamento Público nº 04/2025",
-      "descricao": "Credenciamento de sociedade de advogados para prestação de serviços advocatícios contenciosos e acompanhamento processual em todos os graus de jurisdição da Justiça Federal para apurar e reaver os valores pagos a menor pelo SUS",
+      "titulo": "Edital nº 65/2026",
+      "descricao": "CONTRATAÇÃO DE SERVIÇOS CONTÍNUOS DE VIGILÂNCIA PATRIMONIAL ARMADA, COM DEDICAÇÃO EXCLUSIVA DE MÃO DE OBRA, A SEREM EXECUTADOS POR MEIO DE POSTOS DE TRABALHO, NAS UNIDADES DA ADVOCACIA-GERAL DA UNIÃO NO ESTADO DA PARAÍBA",
       "areas": [
         "Geral"
       ],
-      "orgao": "MUNICIPIO DE CAJAMAR",
-      "uf": "SP",
-      "municipio": "Cajamar",
-      "esfera": "Municipal",
-      "modalidade": "Credenciamento",
-      "situacao": "Revogada",
+      "orgao": "ADVOCACIA GERAL DA UNIAO",
+      "uf": "PE",
+      "municipio": "Recife",
+      "esfera": "Federal",
+      "modalidade": "Pregão - Eletrônico",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
-      "data_publicacao": "2025-06-09T09:10:58.995850",
-      "data_fim_vigencia": "2029-07-20T23:59",
-      "url": "https://pncp.gov.br/app/editais/46523023000181/2025/78",
+      "data_publicacao": "2026-08-03T04:00:04.310910",
+      "data_fim_vigencia": "2026-09-01T11:00",
+      "url": "https://pncp.gov.br/app/editais/26994558000123/2026/132",
       "matched_keywords": [
-        "sociedade de advogados",
-        "servicos advocaticios"
+        "servicos de advocacia"
       ],
       "bandeira": "cinza",
-      "resumo": "Contrato 48m em Cajamar/SP. valor nao informado na busca. sem presencial detectado.",
+      "resumo": "Contrato 1m em Recife/PE. valor nao informado na busca. sem presencial detectado.",
       "lucro": null,
       "trofeu": null
     },
     {
-      "titulo": "Edital de Chamamento Público nº 05/2025",
-      "descricao": "[LICITANET] - CREDENCIAMENTO DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS CONTENCIOSOS E ACOMPANHAMENTO PROCESSUAL EM TODOS OS GRAUS DE JURISDIÇÃO, INICIALMENTE NA JUSTIÇA FEDERAL PARA APURAR E REAVER OS VALORES PAGOS A TÍTULO DE IRPJ/IRRF A UNIÃO, NOS TERMOS DO TEMA 1.130 DA REPERCUSSÃO GERAL DO STF, ESPECIALMENTE DOTADA DE CAPACIDADE TÉCNICA/JURÍDICA PARA ATUAR NA FASE DE CUMPRIMENTO DE SENTENÇA, PARA ATENDIMENTO DOS MUNICÍPIOS CONSORCIADOS.\n\n",
+      "titulo": "Aviso de Contratação Direta nº Inf11/2026/2026",
+      "descricao": "Contratação de escritório de advocacia especializado em recuperação de valores com ajuizamento, acompanhamento integral e gestão de ações judiciais a serem promovidas pelo IPASGO Saúde em face de beneficiários inadimplentes, devendo atender as necessidades deste SSA.",
       "areas": [
         "Geral"
       ],
-      "orgao": "CONSORCIO INTERMUNICIPAL DE DESENVOLVIMENTO REGIONAL",
-      "uf": "MG",
-      "municipio": "Uberaba",
+      "orgao": "SERVICO SOCIAL AUTONOMO DE ASSISTENCIA A SAUDE DOS SERVIDORES PUBLICOS E MILITARES DO ESTADO DE GOIAS - IPASGO SAUDE",
+      "uf": "GO",
+      "municipio": "Goiânia",
       "esfera": "Não se aplica",
-      "modalidade": "Credenciamento",
+      "modalidade": "Dispensa",
       "situacao": "Divulgada no PNCP",
       "valor": null,
-      "data_publicacao": "2025-09-02T12:38:39.302105",
-      "data_fim_vigencia": "2026-10-16T23:59:59",
-      "url": "https://pncp.gov.br/app/editais/19864323000151/2025/15",
+      "data_publicacao": "2026-08-05T18:32:41.598116081",
+      "data_fim_vigencia": "2026-08-19T08:00",
+      "url": "https://pncp.gov.br/app/editais/50565317000143/2026/30",
       "matched_keywords": [
-        "servicos advocaticios"
+        "servicos de advocacia"
       ],
       "bandeira": "cinza",
-      "resumo": "Contrato 12m em Uberaba/MG. valor nao informado na busca. sem presencial detectado.",
+      "resumo": "Contrato 1m em Goiânia/GO. valor nao informado na busca. sem presencial detectado.",
       "lucro": null,
       "trofeu": null
     },
     {
-      "titulo": "Edital de Chamamento Público nº 01/2025-CHPC/2035",
-      "descricao": "Credenciamento de serviços advocatícios destinados à VDP (Verba de Desempenho Parlamentar) da Câmara Municipal de Sobral-CE.",
+      "titulo": "Edital nº 59/2026",
+      "descricao": "CONTRATAÇÃO DE SERVIÇOS COMUNS DE ENGENHARIA DE APLICAÇÃO DE REVESTIMENTO CERÂMICO NAS FACHADAS, SUBSTITUIÇÃO DE ESQUADRIAS E ELABORAÇÃO DE PROJETO DE COMBATE A INCÊNDIO NO EDIFÍCIO SEDE DA PROCURADORIA FEDERAL E CONSULTORIA JURÍDICA DA UNIÃO EM ARACAJU/SE",
       "areas": [
         "Geral"
       ],
-      "orgao": "MUNICIPIO DE SOBRAL/CAMARA MUNICIPAL",
-      "uf": "CE",
-      "municipio": "Sobral",
-      "esfera": "Municipal",
-      "modalidade": "Credenciamento",
+      "orgao": "ADVOCACIA GERAL DA UNIAO",
+      "uf": "PE",
+      "municipio": "Recife",
+      "esfera": "Federal",
+      "modalidade": "Pregão - Eletrônico",
       "situacao": "Divulgada no PNCP",
       "valor": null,
-      "data_publicacao": "2025-02-25T08:41:48.089097",
-      "data_fim_vigencia": "2035-02-23T23:59",
-      "url": "https://pncp.gov.br/app/editais/09485046000112/2035/1",
+      "data_publicacao": "2026-08-04T04:00:11.164217",
+      "data_fim_vigencia": "2026-08-19T10:00",
+      "url": "https://pncp.gov.br/app/editais/26994558000123/2026/135",
       "matched_keywords": [
-        "servicos advocaticios"
+        "servicos de advocacia"
       ],
       "bandeira": "cinza",
-      "resumo": "Contrato 121m em Sobral/CE. valor nao informado na busca. sem presencial detectado.",
-      "lucro": null,
-      "trofeu": null
-    },
-    {
-      "titulo": "Edital de Chamamento Público nº 01/2024-CHPC/2034",
-      "descricao": "Credenciamento de serviços advocatícios destinados à VDP (Verba de Desempenho Parlamentar) da Câmara Municipal de Sobral-CE.",
-      "areas": [
-        "Geral"
-      ],
-      "orgao": "MUNICIPIO DE SOBRAL/CAMARA MUNICIPAL",
-      "uf": "CE",
-      "municipio": "Sobral",
-      "esfera": "Municipal",
-      "modalidade": "Credenciamento",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "data_publicacao": "2024-06-11T12:30:45.066675",
-      "data_fim_vigencia": "2034-06-11T13:00",
-      "url": "https://pncp.gov.br/app/editais/09485046000112/2034/1",
-      "matched_keywords": [
-        "servicos advocaticios"
-      ],
-      "bandeira": "cinza",
-      "resumo": "Contrato 121m em Sobral/CE. valor nao informado na busca. sem presencial detectado.",
-      "lucro": null,
-      "trofeu": null
-    },
-    {
-      "titulo": "Edital de Chamamento Público nº 33 | Processo 115/2026",
-      "descricao": "Credenciamento de profissionais Psicologos as  e Assistentes Sociais  pessoas juridicas  para prestacao de servicos especializados na rede publica municipal de saude  em regime ambulatorial e hospitalar  conforme as necessidades da Secretaria Municipal de Saude",
-      "areas": [
-        "Tributario"
-      ],
-      "orgao": "MUNICIPIO DE SALTO DO LONTRA",
-      "uf": "PR",
-      "municipio": "Salto do Lontra",
-      "esfera": "Municipal",
-      "modalidade": "Credenciamento",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "data_publicacao": "2026-07-15T11:23:35.038247920",
-      "data_fim_vigencia": "2027-07-15T14:01",
-      "url": "https://pncp.gov.br/app/editais/76205707000104/2026/119",
-      "matched_keywords": [
-        "parecer juridico"
-      ],
-      "bandeira": "cinza",
-      "resumo": "Contrato 12m em Salto do Lontra/PR. valor nao informado na busca. sem presencial detectado.",
+      "resumo": "Contrato 1m em Recife/PE. valor nao informado na busca. sem presencial detectado.",
       "lucro": null,
       "trofeu": null
     }
