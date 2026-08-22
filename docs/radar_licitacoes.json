@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-21T10:23:55.658322+00:00",
+  "gerado_em": "2026-08-22T10:17:31.954330+00:00",
   "fonte": "PNCP",
   "filtro": "recebendo_proposta + juridico",
   "palavras_chave": [
@@ -18,55 +18,125 @@
     "parecer juridico",
     "recuperacao de creditos tributarios"
   ],
-  "total": 5,
+  "total": 12,
   "items": [
     {
-      "titulo": "Edital de Chamamento Público nº 03/2025",
-      "descricao": "Credenciamento de sociedade de advogados para prestação de serviços técnico profissional especializado no patrocínio e defesa em causas judiciais e/ou administrativas que envolvam participações Governamentais (royalties e participação especial) devidas pela indústria Agência Nacional do Petróleo, Gás Natural e Biocombustiveis – ANP",
+      "titulo": "Aviso de Contratação Direta nº 224/2026",
+      "descricao": "Aquisição de 07 (sete) microcomputadores completos, compostos por unidade central de processamento (CPU), monitor, teclado e mouse, destinados a atender às necessidades administrativas da Assessoria Jurídica, Intendência, Serviço de Recrutamento Distrital (SRD) e Núcleo de Assistência Social (NAS) do Comando do 6º Distrito Naval. Os equipamentos deverão atender às especificações técnicas estabelecidas no Termo de Referência, incluindo processador Intel Core i7, memória RAM de 16 GB, armazenamento SSD de 512 GB, monitor de 23 polegadas com resolução Full HD (1920x1080) e taxa de atualização de 75 Hz, gabinete Micro ATX com fonte bivolt, além de teclado e mouse. O objeto deverá ser fornecido em conformidade com as condições, quantidades e requisitos estabelecidos nos documentos da contratação.\n",
       "areas": [
-        "Tributario",
         "Administrativo"
       ],
-      "orgao": "MUNICIPIO DE CAJAMAR",
-      "uf": "SP",
-      "municipio": "Cajamar",
-      "esfera": "Municipal",
-      "modalidade": "Credenciamento",
-      "situacao": "Revogada",
+      "orgao": "COMANDO DA MARINHA",
+      "uf": "MS",
+      "municipio": "Campo Grande",
+      "esfera": "Federal",
+      "modalidade": "Dispensa",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
-      "data_publicacao": "2025-06-09T09:07:50.285628",
-      "data_fim_vigencia": "2029-07-20T23:59",
-      "url": "https://pncp.gov.br/app/editais/46523023000181/2025/77",
+      "data_publicacao": "2026-08-19T15:59:37.042578",
+      "data_fim_vigencia": "2026-08-24T08:00",
+      "url": "https://pncp.gov.br/app/editais/00394502000144/2026/10127",
       "matched_keywords": [
-        "sociedade de advogados"
+        "assessoria juridica"
       ],
       "bandeira": "cinza",
-      "resumo": "Contrato 48m em Cajamar/SP. valor nao informado na busca. sem presencial detectado.",
+      "resumo": "Contrato 1m em Campo Grande/MS. valor nao informado na busca. sem presencial detectado.",
       "lucro": null,
       "trofeu": null
     },
     {
-      "titulo": "Edital de Chamamento Público nº 04/2025",
-      "descricao": "Credenciamento de sociedade de advogados para prestação de serviços advocatícios contenciosos e acompanhamento processual em todos os graus de jurisdição da Justiça Federal para apurar e reaver os valores pagos a menor pelo SUS",
+      "titulo": "Aviso de Contratação Direta nº 15/2026",
+      "descricao": "Aquisição de Livros Jurídicos para a Assessoria Jurídica da 8ª CJM",
       "areas": [
         "Geral"
       ],
-      "orgao": "MUNICIPIO DE CAJAMAR",
-      "uf": "SP",
-      "municipio": "Cajamar",
-      "esfera": "Municipal",
-      "modalidade": "Credenciamento",
-      "situacao": "Revogada",
+      "orgao": "AUDITORIAS DA JUSTICA MILITAR",
+      "uf": "PA",
+      "municipio": "Belém",
+      "esfera": "Federal",
+      "modalidade": "Dispensa",
+      "situacao": "Divulgada no PNCP",
       "valor": null,
-      "data_publicacao": "2025-06-09T09:10:58.995850",
-      "data_fim_vigencia": "2029-07-20T23:59",
-      "url": "https://pncp.gov.br/app/editais/46523023000181/2025/78",
+      "data_publicacao": "2026-08-12T15:02:19.115135",
+      "data_fim_vigencia": "2026-08-24T08:00",
+      "url": "https://pncp.gov.br/app/editais/00497552001986/2026/14",
       "matched_keywords": [
-        "sociedade de advogados",
-        "servicos advocaticios"
+        "assessoria juridica"
       ],
       "bandeira": "cinza",
-      "resumo": "Contrato 48m em Cajamar/SP. valor nao informado na busca. sem presencial detectado.",
+      "resumo": "Contrato 1m em Belém/PA. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Edital nº FMS 004/26 REP I/2026",
+      "descricao": "Contratação de pessoa juridica para prestação de serviço de assessoria e suporte técnico na gestão dos sistemas de informações em saúde pública, em especial os sistemas: cadastro nacional de estabelecimentos de saúde, sistema de informações ambulatoriais, boletim de produção ambulatorial e ficha de programação orçamentária.",
+      "areas": [
+        "Geral"
+      ],
+      "orgao": "FUNDO MUNICIPAL DE SAUDE DE CAPAO ALTO",
+      "uf": "SC",
+      "municipio": "Capão Alto",
+      "esfera": "Municipal",
+      "modalidade": "Pregão - Eletrônico",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-08-12T00:00:08.594630566",
+      "data_fim_vigencia": "2026-08-25T13:00:01",
+      "url": "https://pncp.gov.br/app/editais/15408168000108/2026/2",
+      "matched_keywords": [
+        "assessoria juridica"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Capão Alto/SC. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Edital nº PE 3/2026",
+      "descricao": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM PRESTAÇÃO DE SERVIÇOS DE SOFTWARE ENVOLVENDO: IMPLANTAÇÃO, TREINAMENTO, MANUTENÇÃO, ATUALIZAÇÃO, SUPORTE TÉCNICO E PRESTAÇÃO DE SERVIÇOS DE LOCAÇÃO DE LICENÇA DE USO PERMANENTE DE SISTEMA DE INFORMAÇÃO PREVIDENCIÁRIA PARA GERENCIAMENTO DE REGIME PRÓPRIO DE PREVIDÊNCIA SOCIAL DOS SERVIDORES PÚBLICOS DE VILA RICA-MT, COMPREENDENDO AINDA O TREINAMENTO DE USUÁRIOS, MANUTENÇÃO E SUPORTE TÉCNICO PARA TODOS OS MÓDULOS DO SISTEMA DE INFORMAÇÃO PREVIDENCIÁRIA E SEUS REQUERIMENTOS DURANTE TODA A VIGÊNCIA DO CONTRATO, ASSESSORIA JURÍDICA, ASSESSORIA ATUARIAL E A ELABORAÇÃO ENVIOS DE DOCUMENTOS PARA RENOVAÇÃO DO CRP- CERTIFICADO DE REGULARIDADE PREVIDENCIÁRIA",
+      "areas": [
+        "Geral"
+      ],
+      "orgao": "IMPREV-INSTITUTO MUNICIPAL DE PREVIDENCIA SOCIAL",
+      "uf": "MT",
+      "municipio": "Vila Rica",
+      "esfera": "Municipal",
+      "modalidade": "Pregão - Eletrônico",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-08-11T14:37:52.711338786",
+      "data_fim_vigencia": "2026-08-24T08:30",
+      "url": "https://pncp.gov.br/app/editais/00937576000180/2026/3",
+      "matched_keywords": [
+        "assessoria juridica"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Evento unico em Vila Rica/MT. valor nao informado na busca. presenca esporadico (1x/mes). logistica ~R$ 1.500/mes.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Edital nº 003/2026/2026",
+      "descricao": "REGISTRO DE PREÇO PARA FUTURA E EVENTUAL CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM PRESTAÇÃO DE SERVIÇOS DE SOFTWARE ENVOLVENDO: IMPLANTAÇÃO, TREINAMENTO, MANUTENÇÃO, ATUALIZAÇÃO, SUPORTE TÉCNICO E PRESTAÇÃO DE SERVIÇOS DE LOCAÇÃO DE LICENÇA DE USO PERMANENTE DE SISTEMA DE INFORMAÇÃO PREVIDENCIÁRIA PARA GERENCIAMENTO DE REGIME PRÓPRIO DE PREVIDÊNCIA SOCIAL DOS SERVIDORES PÚBLICOS DE VILA RICA - MT, COMPREENDENDO AINDA O TREINAMENTO DE USUÁRIOS, MANUTENÇÃO E SUPORTE TÉCNICO PARA TODOS OS MÓDULOS DO SISTEMA DE INFORMAÇÃO PREVIDENCIÁRIA E SEUS REQUERIMENTOS DURANTE TODA A VIGÊNCIA DO CONTRATO, ASSESSORIA JURÍDICA, ASSESSORIA ATUARIAL E A ELABORAÇÃO ENVIOS DE DOCUMENTOS PARA RENOVAÇÃO DO CRP- CERTIFICADO DE REGULARIDADE PREVIDENCIÁRIA, CONFORME CONDIÇÕES E EXIGÊNCIAS ESTABELECIDAS NESTE INSTRUMENTO.",
+      "areas": [
+        "Geral"
+      ],
+      "orgao": "MUNICIPIO DE VILA RICA",
+      "uf": "MT",
+      "municipio": "Vila Rica",
+      "esfera": "Municipal",
+      "modalidade": "Pregão - Eletrônico",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-08-10T18:32:50.559267313",
+      "data_fim_vigencia": "2026-08-24T09:00",
+      "url": "https://pncp.gov.br/app/editais/03238862000145/2026/67",
+      "matched_keywords": [
+        "assessoria juridica"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Evento unico em Vila Rica/MT. valor nao informado na busca. presenca esporadico (1x/mes). logistica ~R$ 1.500/mes.",
       "lucro": null,
       "trofeu": null
     },
@@ -91,6 +161,30 @@
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 12m em Uberaba/MG. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Edital de Chamamento Público nº 04/2025",
+      "descricao": "Credenciamento de sociedade de advogados para prestação de serviços advocatícios contenciosos e acompanhamento processual em todos os graus de jurisdição da Justiça Federal para apurar e reaver os valores pagos a menor pelo SUS",
+      "areas": [
+        "Geral"
+      ],
+      "orgao": "MUNICIPIO DE CAJAMAR",
+      "uf": "SP",
+      "municipio": "Cajamar",
+      "esfera": "Municipal",
+      "modalidade": "Credenciamento",
+      "situacao": "Revogada",
+      "valor": null,
+      "data_publicacao": "2025-06-09T09:10:58.995850",
+      "data_fim_vigencia": "2029-07-20T23:59",
+      "url": "https://pncp.gov.br/app/editais/46523023000181/2025/78",
+      "matched_keywords": [
+        "servicos advocaticios"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 48m em Cajamar/SP. valor nao informado na busca. sem presencial detectado.",
       "lucro": null,
       "trofeu": null
     },
@@ -139,6 +233,78 @@
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 121m em Sobral/CE. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Aviso de Contratação Direta nº 92/2026",
+      "descricao": "Contratação de empresa especializada para a prestação de serviços de confecção, sob demanda, de placas de identificação e inauguração destinadas às unidades da Advocacia-Geral do Estado de Minas Gerai",
+      "areas": [
+        "Geral"
+      ],
+      "orgao": "ADVOCACIA-GERAL DO ESTADO",
+      "uf": "MG",
+      "municipio": "Belo Horizonte",
+      "esfera": "Estadual",
+      "modalidade": "Dispensa",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-08-18T14:38:14.598441373",
+      "data_fim_vigencia": "2026-08-24T08:40:16",
+      "url": "https://pncp.gov.br/app/editais/16745465000101/2026/87",
+      "matched_keywords": [
+        "servicos de advocacia"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Belo Horizonte/MG. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Edital nº 23/2026",
+      "descricao": "Contratação de serviço contínuo de fornecimento indireto de energia elétrica, sem dedicação de mão de obra exclusiva, por meio da compensação de créditos oriundos de geração distribuída compartilhada com fonte renovável solar, nos termos da Lei nº 14.300/2022 e da regulamentação da Agência Nacional de Energia Elétrica (Aneel), visando ao atendimento das unidades consumidoras da Advocacia-Geral da União no Estado de Minas Gerais, conforme condições, quantidades e exigências estabelecidas no Edital e seus anexos.",
+      "areas": [
+        "Consumidor"
+      ],
+      "orgao": "ADVOCACIA GERAL DA UNIAO",
+      "uf": "MG",
+      "municipio": "Belo Horizonte",
+      "esfera": "Federal",
+      "modalidade": "Pregão - Eletrônico",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-08-18T04:00:20.351754",
+      "data_fim_vigencia": "2026-09-08T10:00",
+      "url": "https://pncp.gov.br/app/editais/26994558000123/2026/140",
+      "matched_keywords": [
+        "servicos de advocacia"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Belo Horizonte/MG. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Edital nº 65/2026",
+      "descricao": "CONTRATAÇÃO DE SERVIÇOS CONTÍNUOS DE VIGILÂNCIA PATRIMONIAL ARMADA, COM DEDICAÇÃO EXCLUSIVA DE MÃO DE OBRA, A SEREM EXECUTADOS POR MEIO DE POSTOS DE TRABALHO, NAS UNIDADES DA ADVOCACIA-GERAL DA UNIÃO NO ESTADO DA PARAÍBA",
+      "areas": [
+        "Geral"
+      ],
+      "orgao": "ADVOCACIA GERAL DA UNIAO",
+      "uf": "PE",
+      "municipio": "Recife",
+      "esfera": "Federal",
+      "modalidade": "Pregão - Eletrônico",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-08-03T04:00:04.310910",
+      "data_fim_vigencia": "2026-09-01T11:00",
+      "url": "https://pncp.gov.br/app/editais/26994558000123/2026/132",
+      "matched_keywords": [
+        "servicos de advocacia"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Recife/PE. valor nao informado na busca. sem presencial detectado.",
       "lucro": null,
       "trofeu": null
     }
