@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-25T10:25:46.440402+00:00",
+  "gerado_em": "2026-08-26T10:29:45.159429+00:00",
   "fonte": "PNCP",
   "filtro": "recebendo_proposta + juridico",
   "palavras_chave": [
@@ -18,8 +18,106 @@
     "parecer juridico",
     "recuperacao de creditos tributarios"
   ],
-  "total": 4,
+  "total": 8,
   "items": [
+    {
+      "titulo": "Aviso de Contratação Direta nº 22/2026",
+      "descricao": "Contratação de sociedade de advocacia devidamente inscrita nos quadros da Ordem dos Advogados do Brasil (OAB), para a prestação de serviços continuados de assessoria e consultoria jurídica técnica na área da Educação, junto ao Departamento Municipal de Educação de Ubarana/SP, mediante a realização de, no mínimo, 01 (uma) visita técnica presencial semanal, com carga horária mínima de 08 (oito) horas, pelo período de 06 (seis) meses, conforme especificações, condições e escopo estabelecidos no Termo de Referência (Anexo II).",
+      "areas": [
+        "Geral"
+      ],
+      "orgao": "MUNICIPIO DE UBARANA",
+      "uf": "SP",
+      "municipio": "Ubarana",
+      "esfera": "Municipal",
+      "modalidade": "Dispensa",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-08-25T13:25:50.899445109",
+      "data_fim_vigencia": "2026-08-28T16:30",
+      "url": "https://pncp.gov.br/app/editais/65708786000141/2026/84",
+      "matched_keywords": [
+        "assessoria juridica",
+        "parecer juridico"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Ubarana/SP. valor nao informado na busca. presenca semanal (4x/mes). logistica ~R$ 3.200/mes.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Edital nº 44 | Processo 1551/2026",
+      "descricao": "CONTRATACAO DE EMPRESA ESPECIALIZADA PARA PRESTACAO DE SERVICOS TECNICOS DE APOIO A GESTAO  FISCALIZACAO  ACOMPANHAMENTO CONTRATUAL E ASSESSORAMENTO TECNICO REGULATORIO DOS SERVICOS PUBLICOS DE ABASTECIMENTO DE AGUA E ESGOTAMENTO SANITARIO DO MUNICIPIO DE SOLEDADE RS  ABRANGENDO AS AREAS JURIDICO ADMINISTRATIVA  OPERACAO  COMERCIAL  ELETROMECANICA E QUALIDADE NO TRATAMENTO  TUDO CONFORME TERMO DE REFERENCIA ANEXO.",
+      "areas": [
+        "Tributario",
+        "Administrativo"
+      ],
+      "orgao": "MUNICIPIO DE SOLEDADE",
+      "uf": "RS",
+      "municipio": "Soledade",
+      "esfera": "Municipal",
+      "modalidade": "Pregão - Eletrônico",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-08-25T11:02:30.421053758",
+      "data_fim_vigencia": "2026-09-10T09:00",
+      "url": "https://pncp.gov.br/app/editais/87738530000110/2026/1442",
+      "matched_keywords": [
+        "assessoria juridica"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Soledade/RS. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Aviso de Contratação Direta nº 014-26DP-PMG/2026",
+      "descricao": "AVISO DE DISPENSA DE LICITAÇÃO - DISPENSA DE LICITAÇÃO Nº 014-26DP-PMG  -  PROCESSO ADMINISTRATIVO Nº 133-26-PMG  \nContratação de empresa para fornecimento de licença de uso de software de gestão jurídica para organização dos processos judiciais, agenda de audiências, controle de prazos com os serviços de implantação, treinamento, manutenção, suporte técnico e acompanhamento durante o período contratual, destinados ao atendimento das necessidades da Assessoria Jurídica. ",
+      "areas": [
+        "Administrativo"
+      ],
+      "orgao": "MUNICIPIO DE GUANAMBI",
+      "uf": "BA",
+      "municipio": "Guanambi",
+      "esfera": "Municipal",
+      "modalidade": "Dispensa",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-08-25T10:09:30.348582239",
+      "data_fim_vigencia": "2026-08-31T17:00",
+      "url": "https://pncp.gov.br/app/editais/13982640000196/2026/128",
+      "matched_keywords": [
+        "assessoria juridica"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Evento unico em Guanambi/BA. valor nao informado na busca. presenca esporadico (1x/mes). logistica ~R$ 1.500/mes.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Aviso de Contratação Direta nº 000039/2026",
+      "descricao": "Contratação de empresa especializada em arquitetura e/ou engenharia para execução de serviço de engenharia para montagem e instalação de divisórias em atendimento a Assessoria Jurídica deste Município, com emprego de mão de obra, insumo, materiais e equipamentos de acordo com a planilha orçamentária (SINAPI/DER/ES).",
+      "areas": [
+        "Geral"
+      ],
+      "orgao": "SECRETARIA MUNICIPAL DE ADMINISTRACAO E FINANCAS DE BAIXO GUANDU/ES",
+      "uf": "ES",
+      "municipio": "Baixo Guandu",
+      "esfera": "Municipal",
+      "modalidade": "Dispensa",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-08-25T08:11:30.616106174",
+      "data_fim_vigencia": "2026-08-31T09:00",
+      "url": "https://pncp.gov.br/app/editais/28840427000117/2026/28",
+      "matched_keywords": [
+        "assessoria juridica"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Baixo Guandu/ES. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
     {
       "titulo": "Edital de Chamamento Público nº 05/2025",
       "descricao": "[LICITANET] - CREDENCIAMENTO DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS CONTENCIOSOS E ACOMPANHAMENTO PROCESSUAL EM TODOS OS GRAUS DE JURISDIÇÃO, INICIALMENTE NA JUSTIÇA FEDERAL PARA APURAR E REAVER OS VALORES PAGOS A TÍTULO DE IRPJ/IRRF A UNIÃO, NOS TERMOS DO TEMA 1.130 DA REPERCUSSÃO GERAL DO STF, ESPECIALMENTE DOTADA DE CAPACIDADE TÉCNICA/JURÍDICA PARA ATUAR NA FASE DE CUMPRIMENTO DE SENTENÇA, PARA ATENDIMENTO DOS MUNICÍPIOS CONSORCIADOS.\n\n",
