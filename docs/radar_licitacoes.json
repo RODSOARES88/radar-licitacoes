@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-02T14:01:18.811859+00:00",
+  "gerado_em": "2026-09-03T14:03:57.655447+00:00",
   "fonte": "PNCP",
   "filtro": "recebendo_proposta + juridico",
   "palavras_chave": [
@@ -18,6 +18,56 @@
     "parecer juridico",
     "recuperacao de creditos tributarios"
   ],
-  "total": 0,
-  "items": []
+  "total": 2,
+  "items": [
+    {
+      "titulo": "Edital nº 36/2026",
+      "descricao": "Contratação de pessoa jurídica especializada para prestação de serviços técnicos profissionais de assessoria e consultoria jurídica trabalhista, de natureza continuada, nas áreas contenciosa, consultiva, preventiva e estratégica, destinados ao atendimento das demandas do Conselho Regional de Medicina do Estado de Santa Catarina – CRM-SC,",
+      "areas": [
+        "Tributario",
+        "Trabalhista"
+      ],
+      "orgao": "CONSELHO REGIONAL DE MEDICINA DO EST DE SANTA CATARINA",
+      "uf": "SC",
+      "municipio": "Florianópolis",
+      "esfera": "Federal",
+      "modalidade": "Concorrência - Eletrônica",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-08-27T08:36:27.398492",
+      "data_fim_vigencia": "2026-10-19T10:00",
+      "url": "https://pncp.gov.br/app/editais/79831566000115/2026/27",
+      "matched_keywords": [
+        "consultoria juridica"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Florianópolis/SC. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Edital nº 87/2026",
+      "descricao": "Contratação de empresa especializada para a execução de reforma\ncompleta do Escritório Seccional da Advocacia-Geral do Estado de Minas\nGerais no município de  Sete Lagoas ",
+      "areas": [
+        "Geral"
+      ],
+      "orgao": "ADVOCACIA-GERAL DO ESTADO",
+      "uf": "MG",
+      "municipio": "Belo Horizonte",
+      "esfera": "Estadual",
+      "modalidade": "Pregão - Eletrônico",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-08-28T11:53:17.595044578",
+      "data_fim_vigencia": "2026-09-18T10:00",
+      "url": "https://pncp.gov.br/app/editais/16745465000101/2026/97",
+      "matched_keywords": [
+        "escritorio de advocacia"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Belo Horizonte/MG. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    }
+  ]
 }
