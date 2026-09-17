@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-16T14:32:18.935362+00:00",
+  "gerado_em": "2026-09-17T14:36:04.829447+00:00",
   "fonte": "PNCP",
   "filtro": "recebendo_proposta + juridico",
   "palavras_chave": [
@@ -21,6 +21,32 @@
   "total": 6,
   "items": [
     {
+      "titulo": "Edital nº LE0262026/2026",
+      "descricao": "Contratação dos serviços técnicos especializados de consultoria jurídica preventiva, administrativa e contenciosa nas áreas de direito do trabalho (individual e coletivo) e previdenciário, perante todas as instâncias dos tribunais regionais, e superiores, a serem prestados por sociedade de advogados para a companhia de saneamento ambiental do Maranhão - CAEMA, conforme especificações, quantitativos e condições do Termo de Referência, Anexo I do Edital.",
+      "areas": [
+        "Administrativo",
+        "Ambiental"
+      ],
+      "orgao": "COMPANHIA DE SANEAMENTO AMBIENTAL DO MARANHÃO",
+      "uf": "MA",
+      "municipio": "São Luís",
+      "esfera": "Estadual",
+      "modalidade": "Pregão - Eletrônico",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-07-22T18:31:07.076542",
+      "data_fim_vigencia": "2026-10-15T09:15",
+      "url": "https://pncp.gov.br/app/editais/06274757000150/2026/2",
+      "matched_keywords": [
+        "consultoria juridica",
+        "contencioso trabalhista"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 2m em São Luís/MA. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
       "titulo": "Edital nº 36/2026",
       "descricao": "Contratação de pessoa jurídica especializada para prestação de serviços técnicos profissionais de assessoria e consultoria jurídica trabalhista, de natureza continuada, nas áreas contenciosa, consultiva, preventiva e estratégica, destinados ao atendimento das demandas do Conselho Regional de Medicina do Estado de Santa Catarina – CRM-SC,",
       "areas": [
@@ -38,7 +64,8 @@
       "data_fim_vigencia": "2026-10-19T10:00",
       "url": "https://pncp.gov.br/app/editais/79831566000115/2026/27",
       "matched_keywords": [
-        "consultoria juridica"
+        "consultoria juridica",
+        "contencioso trabalhista"
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 1m em Florianópolis/SC. valor nao informado na busca. sem presencial detectado.",
@@ -70,26 +97,28 @@
       "trofeu": null
     },
     {
-      "titulo": "Edital nº 24 | Processo 54/2026",
-      "descricao": "Registro de Precos para a eventual e futura contratacao de pessoa juridica especializada na prestacao de servicos continuos de assistencia e assessoria tecnica em Engenharia Civil  destinados ao  poio complementar das atividades do Departamento de Engenharia do Municipio de Campo Bonito   PR",
+      "titulo": "Edital nº 3/2026",
+      "descricao": "Contratação de sociedade de advogados especializada na prestação de serviços jurídicos, sob demanda, de natureza contenciosa judicial e administrativa, perante o Poder Judiciário Estadual e Federal, bem como perante órgãos e instâncias administrativas competentes, nas áreas previdenciária, cível, tributária e trabalhista.",
       "areas": [
-        "Geral"
+        "Trabalhista",
+        "Administrativo"
       ],
-      "orgao": "MUNICIPIO DE CAMPO BONITO",
-      "uf": "PR",
-      "municipio": "Campo Bonito",
-      "esfera": "Municipal",
-      "modalidade": "Pregão - Eletrônico",
+      "orgao": "SECRETARIA DE GESTAO E GOVERNO DIGITAL",
+      "uf": "SP",
+      "municipio": "São Paulo",
+      "esfera": "Estadual",
+      "modalidade": "Concorrência - Eletrônica",
       "situacao": "Divulgada no PNCP",
       "valor": null,
-      "data_publicacao": "2026-09-08T15:56:05.903970921",
-      "data_fim_vigencia": "2026-09-28T08:00",
-      "url": "https://pncp.gov.br/app/editais/80869621000145/2026/54",
+      "data_publicacao": "2026-09-16T13:02:22.031354",
+      "data_fim_vigencia": "2026-11-10T10:00",
+      "url": "https://pncp.gov.br/app/editais/39467292000102/2026/69",
       "matched_keywords": [
-        "assessoria juridica"
+        "servicos de advocacia",
+        "contencioso trabalhista"
       ],
       "bandeira": "cinza",
-      "resumo": "Contrato 1m em Campo Bonito/PR. valor nao informado na busca. sem presencial detectado.",
+      "resumo": "Contrato 1m em São Paulo/SP. valor nao informado na busca. sem presencial detectado.",
       "lucro": null,
       "trofeu": null
     },
@@ -138,30 +167,6 @@
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 1m em Recife/PE. valor nao informado na busca. sem presencial detectado.",
-      "lucro": null,
-      "trofeu": null
-    },
-    {
-      "titulo": "Edital de Chamamento Público nº 33 | Processo 115/2026",
-      "descricao": "Credenciamento de profissionais Psicologos as  e Assistentes Sociais  pessoas juridicas  para prestacao de servicos especializados na rede publica municipal de saude  em regime ambulatorial e hospitalar  conforme as necessidades da Secretaria Municipal de Saude",
-      "areas": [
-        "Tributario"
-      ],
-      "orgao": "MUNICIPIO DE SALTO DO LONTRA",
-      "uf": "PR",
-      "municipio": "Salto do Lontra",
-      "esfera": "Municipal",
-      "modalidade": "Credenciamento",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "data_publicacao": "2026-07-15T11:23:35.038248",
-      "data_fim_vigencia": "2027-07-15T14:01",
-      "url": "https://pncp.gov.br/app/editais/76205707000104/2026/119",
-      "matched_keywords": [
-        "parecer juridico"
-      ],
-      "bandeira": "cinza",
-      "resumo": "Contrato 12m em Salto do Lontra/PR. valor nao informado na busca. sem presencial detectado.",
       "lucro": null,
       "trofeu": null
     }
