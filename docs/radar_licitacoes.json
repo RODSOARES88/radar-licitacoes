@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-22T14:18:12.446324+00:00",
+  "gerado_em": "2026-09-23T14:37:09.072449+00:00",
   "fonte": "PNCP",
   "filtro": "recebendo_proposta + juridico",
   "palavras_chave": [
@@ -18,33 +18,8 @@
     "parecer juridico",
     "recuperacao de creditos tributarios"
   ],
-  "total": 7,
+  "total": 13,
   "items": [
-    {
-      "titulo": "Aviso de Contratação Direta nº 4894/2026",
-      "descricao": "CONTRATAÇÃO DE PESSOA JURÍDICA PARA PRESTAÇÃO DE SERVIÇOS TÉCNICOS ESPECIALIZADOS DE CONSULTORIA E ASSESSORIA JURÍDICA, COM ATUAÇÃO NAS ÁREAS DO DIREITO RELACIONADAS ÀS ATIVIDADES DA PASTA TRIBUTÁRIA ",
-      "areas": [
-        "Geral"
-      ],
-      "orgao": "MUNICIPIO DE JOVIANIA",
-      "uf": "GO",
-      "municipio": "Joviânia",
-      "esfera": "Municipal",
-      "modalidade": "Dispensa",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "data_publicacao": "2026-09-22T09:38:56.305687310",
-      "data_fim_vigencia": "2026-09-22T17:00",
-      "url": "https://pncp.gov.br/app/editais/02029957000196/2026/178",
-      "matched_keywords": [
-        "consultoria tributaria",
-        "assessoria juridica"
-      ],
-      "bandeira": "cinza",
-      "resumo": "Contrato 1m em Joviânia/GO. valor nao informado na busca. sem presencial detectado.",
-      "lucro": null,
-      "trofeu": null
-    },
     {
       "titulo": "Edital nº 000001/2026",
       "descricao": "Contratação de Empresa Especializada Para a Prestação de Serviços Advocatícios Destinados à Assessoria e Consultoria Jurídica, Abrangendo Todas as Secretarias e Setores da Administração Pública Direta, bem como para atuação Técnica e Jurídica na Defesa do Município perante o Tribunal de Contas do Estado de São Paulo",
@@ -62,10 +37,90 @@
       "data_fim_vigencia": "2026-11-17T09:00",
       "url": "https://pncp.gov.br/app/editais/44730331000152/2026/86",
       "matched_keywords": [
-        "assessoria juridica"
+        "consultoria juridica",
+        "assessoria juridica",
+        "servicos advocaticios"
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 1m em Cosmópolis/SP. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Aviso de Contratação Direta nº 1 | Processo 2/2026",
+      "descricao": "Contratacao de pessoa juridica especializada para prestacao de servicos tecnicos de consultoria em materia de revisao e atualizacao da Lei Organica Municipal e do Regimento Interno da Camara Municipal de Cidade Gaucha   PR  visando adequar os referidos diplomas ao ordenamento juridico vigente  bem como modernizar as normas que disciplinam o Processo Legislativo Municipal e o PROLEGIS",
+      "areas": [
+        "Geral"
+      ],
+      "orgao": "CIDADE GAUCHA CAMARA MUNICIPAL",
+      "uf": "PR",
+      "municipio": "Cidade Gaúcha",
+      "esfera": "Municipal",
+      "modalidade": "Dispensa",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-09-18T11:22:21.784626151",
+      "data_fim_vigencia": "2026-09-24T23:59",
+      "url": "https://pncp.gov.br/app/editais/01201556000109/2026/2",
+      "matched_keywords": [
+        "consultoria juridica"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Cidade Gaúcha/PR. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Edital nº LE0262026/2026",
+      "descricao": "Contratação dos serviços técnicos especializados de consultoria jurídica preventiva, administrativa e contenciosa nas áreas de direito do trabalho (individual e coletivo) e previdenciário, perante todas as instâncias dos tribunais regionais, e superiores, a serem prestados por sociedade de advogados para a companhia de saneamento ambiental do Maranhão - CAEMA, conforme especificações, quantitativos e condições do Termo de Referência, Anexo I do Edital.",
+      "areas": [
+        "Administrativo",
+        "Ambiental"
+      ],
+      "orgao": "COMPANHIA DE SANEAMENTO AMBIENTAL DO MARANHÃO",
+      "uf": "MA",
+      "municipio": "São Luís",
+      "esfera": "Estadual",
+      "modalidade": "Pregão - Eletrônico",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-07-22T18:31:07.076542",
+      "data_fim_vigencia": "2026-10-15T09:15",
+      "url": "https://pncp.gov.br/app/editais/06274757000150/2026/2",
+      "matched_keywords": [
+        "consultoria juridica",
+        "contencioso administrativo",
+        "contencioso trabalhista"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 2m em São Luís/MA. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Edital nº 36/2026",
+      "descricao": "Contratação de pessoa jurídica especializada para prestação de serviços técnicos profissionais de assessoria e consultoria jurídica trabalhista, de natureza continuada, nas áreas contenciosa, consultiva, preventiva e estratégica, destinados ao atendimento das demandas do Conselho Regional de Medicina do Estado de Santa Catarina – CRM-SC,",
+      "areas": [
+        "Tributario",
+        "Trabalhista"
+      ],
+      "orgao": "CONSELHO REGIONAL DE MEDICINA DO EST DE SANTA CATARINA",
+      "uf": "SC",
+      "municipio": "Florianópolis",
+      "esfera": "Federal",
+      "modalidade": "Concorrência - Eletrônica",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-08-27T08:36:27.398492",
+      "data_fim_vigencia": "2026-10-19T10:00",
+      "url": "https://pncp.gov.br/app/editais/79831566000115/2026/27",
+      "matched_keywords": [
+        "consultoria juridica",
+        "assessoria juridica",
+        "contencioso trabalhista"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Florianópolis/SC. valor nao informado na busca. sem presencial detectado.",
       "lucro": null,
       "trofeu": null
     },
@@ -118,27 +173,122 @@
       "trofeu": null
     },
     {
-      "titulo": "Edital nº 36/2026",
-      "descricao": "Contratação de pessoa jurídica especializada para prestação de serviços técnicos profissionais de assessoria e consultoria jurídica trabalhista, de natureza continuada, nas áreas contenciosa, consultiva, preventiva e estratégica, destinados ao atendimento das demandas do Conselho Regional de Medicina do Estado de Santa Catarina – CRM-SC,",
+      "titulo": "Edital de Chamamento Público nº 01/2025-CHPC/2035",
+      "descricao": "Credenciamento de serviços advocatícios destinados à VDP (Verba de Desempenho Parlamentar) da Câmara Municipal de Sobral-CE.",
       "areas": [
-        "Tributario",
-        "Trabalhista"
+        "Geral"
       ],
-      "orgao": "CONSELHO REGIONAL DE MEDICINA DO EST DE SANTA CATARINA",
-      "uf": "SC",
-      "municipio": "Florianópolis",
-      "esfera": "Federal",
-      "modalidade": "Concorrência - Eletrônica",
+      "orgao": "MUNICIPIO DE SOBRAL/CAMARA MUNICIPAL",
+      "uf": "CE",
+      "municipio": "Sobral",
+      "esfera": "Municipal",
+      "modalidade": "Credenciamento",
       "situacao": "Divulgada no PNCP",
       "valor": null,
-      "data_publicacao": "2026-08-27T08:36:27.398492",
-      "data_fim_vigencia": "2026-10-19T10:00",
-      "url": "https://pncp.gov.br/app/editais/79831566000115/2026/27",
+      "data_publicacao": "2025-02-25T08:41:48.089097",
+      "data_fim_vigencia": "2035-02-23T23:59",
+      "url": "https://pncp.gov.br/app/editais/09485046000112/2035/1",
       "matched_keywords": [
-        "assessoria juridica"
+        "servicos advocaticios"
       ],
       "bandeira": "cinza",
-      "resumo": "Contrato 1m em Florianópolis/SC. valor nao informado na busca. sem presencial detectado.",
+      "resumo": "Contrato 121m em Sobral/CE. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Edital de Chamamento Público nº 05/2025",
+      "descricao": "[LICITANET] - CREDENCIAMENTO DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS CONTENCIOSOS E ACOMPANHAMENTO PROCESSUAL EM TODOS OS GRAUS DE JURISDIÇÃO, INICIALMENTE NA JUSTIÇA FEDERAL PARA APURAR E REAVER OS VALORES PAGOS A TÍTULO DE IRPJ/IRRF A UNIÃO, NOS TERMOS DO TEMA 1.130 DA REPERCUSSÃO GERAL DO STF, ESPECIALMENTE DOTADA DE CAPACIDADE TÉCNICA/JURÍDICA PARA ATUAR NA FASE DE CUMPRIMENTO DE SENTENÇA, PARA ATENDIMENTO DOS MUNICÍPIOS CONSORCIADOS.\n\n",
+      "areas": [
+        "Geral"
+      ],
+      "orgao": "CONSORCIO INTERMUNICIPAL DE DESENVOLVIMENTO REGIONAL",
+      "uf": "MG",
+      "municipio": "Uberaba",
+      "esfera": "Não se aplica",
+      "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2025-09-02T12:38:39.302105",
+      "data_fim_vigencia": "2026-10-16T23:59:59",
+      "url": "https://pncp.gov.br/app/editais/19864323000151/2025/15",
+      "matched_keywords": [
+        "servicos advocaticios"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 12m em Uberaba/MG. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Edital de Chamamento Público nº 04/2025",
+      "descricao": "Credenciamento de sociedade de advogados para prestação de serviços advocatícios contenciosos e acompanhamento processual em todos os graus de jurisdição da Justiça Federal para apurar e reaver os valores pagos a menor pelo SUS",
+      "areas": [
+        "Geral"
+      ],
+      "orgao": "MUNICIPIO DE CAJAMAR",
+      "uf": "SP",
+      "municipio": "Cajamar",
+      "esfera": "Municipal",
+      "modalidade": "Credenciamento",
+      "situacao": "Revogada",
+      "valor": null,
+      "data_publicacao": "2025-06-09T09:10:58.995850",
+      "data_fim_vigencia": "2029-07-20T23:59",
+      "url": "https://pncp.gov.br/app/editais/46523023000181/2025/78",
+      "matched_keywords": [
+        "servicos advocaticios"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 48m em Cajamar/SP. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Edital de Chamamento Público nº 01/2024-CHPC/2034",
+      "descricao": "Credenciamento de serviços advocatícios destinados à VDP (Verba de Desempenho Parlamentar) da Câmara Municipal de Sobral-CE.",
+      "areas": [
+        "Geral"
+      ],
+      "orgao": "MUNICIPIO DE SOBRAL/CAMARA MUNICIPAL",
+      "uf": "CE",
+      "municipio": "Sobral",
+      "esfera": "Municipal",
+      "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2024-06-11T12:30:45.066675",
+      "data_fim_vigencia": "2034-06-11T13:00",
+      "url": "https://pncp.gov.br/app/editais/09485046000112/2034/1",
+      "matched_keywords": [
+        "servicos advocaticios"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 121m em Sobral/CE. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Aviso de Contratação Direta nº 124/2026",
+      "descricao": "contratação de empresa especializada para a prestação de serviços de confecção, sob demanda, de placas de identificação destinadas às unidades da Advocacia-Geral do Estado de Minas Gerais (AGE-MG)",
+      "areas": [
+        "Geral"
+      ],
+      "orgao": "ADVOCACIA-GERAL DO ESTADO",
+      "uf": "MG",
+      "municipio": "Belo Horizonte",
+      "esfera": "Estadual",
+      "modalidade": "Dispensa",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-09-22T15:10:19.399975981",
+      "data_fim_vigencia": "2026-09-30T08:40",
+      "url": "https://pncp.gov.br/app/editais/16745465000101/2026/122",
+      "matched_keywords": [
+        "servicos de advocacia"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Belo Horizonte/MG. valor nao informado na busca. sem presencial detectado.",
       "lucro": null,
       "trofeu": null
     },
@@ -160,7 +310,9 @@
       "data_fim_vigencia": "2026-11-10T10:00",
       "url": "https://pncp.gov.br/app/editais/39467292000102/2026/69",
       "matched_keywords": [
-        "servicos de advocacia"
+        "servicos de advocacia",
+        "contencioso administrativo",
+        "contencioso trabalhista"
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 1m em São Paulo/SP. valor nao informado na busca. sem presencial detectado.",
