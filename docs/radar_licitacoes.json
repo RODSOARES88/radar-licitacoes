@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-25T14:56:22.923403+00:00",
+  "gerado_em": "2026-09-26T14:00:31.347255+00:00",
   "fonte": "PNCP",
   "filtro": "recebendo_proposta + juridico",
   "palavras_chave": [
@@ -21,6 +21,31 @@
   "total": 9,
   "items": [
     {
+      "titulo": "Edital nº 000001/2026",
+      "descricao": "Contratação de Empresa Especializada Para a Prestação de Serviços Advocatícios Destinados à Assessoria e Consultoria Jurídica, Abrangendo Todas as Secretarias e Setores da Administração Pública Direta, bem como para atuação Técnica e Jurídica na Defesa do Município perante o Tribunal de Contas do Estado de São Paulo",
+      "areas": [
+        "Administrativo"
+      ],
+      "orgao": "MUNICIPIO DE COSMOPOLIS",
+      "uf": "SP",
+      "municipio": "Cosmópolis",
+      "esfera": "Municipal",
+      "modalidade": "Concorrência - Presencial",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-09-22T11:06:36.616992775",
+      "data_fim_vigencia": "2026-11-17T09:00",
+      "url": "https://pncp.gov.br/app/editais/44730331000152/2026/86",
+      "matched_keywords": [
+        "consultoria juridica",
+        "servicos advocaticios"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Cosmópolis/SP. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
       "titulo": "Edital nº LE0262026/2026",
       "descricao": "Contratação dos serviços técnicos especializados de consultoria jurídica preventiva, administrativa e contenciosa nas áreas de direito do trabalho (individual e coletivo) e previdenciário, perante todas as instâncias dos tribunais regionais, e superiores, a serem prestados por sociedade de advogados para a companhia de saneamento ambiental do Maranhão - CAEMA, conforme especificações, quantitativos e condições do Termo de Referência, Anexo I do Edital.",
       "areas": [
@@ -38,6 +63,7 @@
       "data_fim_vigencia": "2026-10-15T09:15",
       "url": "https://pncp.gov.br/app/editais/06274757000150/2026/2",
       "matched_keywords": [
+        "consultoria juridica",
         "sociedade de advogados",
         "contencioso trabalhista"
       ],
@@ -119,30 +145,6 @@
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 48m em Cajamar/SP. valor nao informado na busca. sem presencial detectado.",
-      "lucro": null,
-      "trofeu": null
-    },
-    {
-      "titulo": "Edital nº 000001/2026",
-      "descricao": "Contratação de Empresa Especializada Para a Prestação de Serviços Advocatícios Destinados à Assessoria e Consultoria Jurídica, Abrangendo Todas as Secretarias e Setores da Administração Pública Direta, bem como para atuação Técnica e Jurídica na Defesa do Município perante o Tribunal de Contas do Estado de São Paulo",
-      "areas": [
-        "Administrativo"
-      ],
-      "orgao": "MUNICIPIO DE COSMOPOLIS",
-      "uf": "SP",
-      "municipio": "Cosmópolis",
-      "esfera": "Municipal",
-      "modalidade": "Concorrência - Presencial",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "data_publicacao": "2026-09-22T11:06:36.616992775",
-      "data_fim_vigencia": "2026-11-17T09:00",
-      "url": "https://pncp.gov.br/app/editais/44730331000152/2026/86",
-      "matched_keywords": [
-        "servicos advocaticios"
-      ],
-      "bandeira": "cinza",
-      "resumo": "Contrato 1m em Cosmópolis/SP. valor nao informado na busca. sem presencial detectado.",
       "lucro": null,
       "trofeu": null
     },
