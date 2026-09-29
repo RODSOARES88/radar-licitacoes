@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-28T17:55:48.660426+00:00",
+  "gerado_em": "2026-09-29T16:17:58.215784+00:00",
   "fonte": "PNCP",
   "filtro": "recebendo_proposta + juridico",
   "palavras_chave": [
@@ -18,33 +18,8 @@
     "parecer juridico",
     "recuperacao de creditos tributarios"
   ],
-  "total": 8,
+  "total": 3,
   "items": [
-    {
-      "titulo": "Edital nº 000001/2026",
-      "descricao": "Contratação de Empresa Especializada Para a Prestação de Serviços Advocatícios Destinados à Assessoria e Consultoria Jurídica, Abrangendo Todas as Secretarias e Setores da Administração Pública Direta, bem como para atuação Técnica e Jurídica na Defesa do Município perante o Tribunal de Contas do Estado de São Paulo",
-      "areas": [
-        "Administrativo"
-      ],
-      "orgao": "MUNICIPIO DE COSMOPOLIS",
-      "uf": "SP",
-      "municipio": "Cosmópolis",
-      "esfera": "Municipal",
-      "modalidade": "Concorrência - Presencial",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "data_publicacao": "2026-09-22T11:06:36.616992775",
-      "data_fim_vigencia": "2026-11-17T09:00",
-      "url": "https://pncp.gov.br/app/editais/44730331000152/2026/86",
-      "matched_keywords": [
-        "consultoria juridica",
-        "assessoria juridica"
-      ],
-      "bandeira": "cinza",
-      "resumo": "Contrato 1m em Cosmópolis/SP. valor nao informado na busca. sem presencial detectado.",
-      "lucro": null,
-      "trofeu": null
-    },
     {
       "titulo": "Edital nº LE0262026/2026",
       "descricao": "Contratação dos serviços técnicos especializados de consultoria jurídica preventiva, administrativa e contenciosa nas áreas de direito do trabalho (individual e coletivo) e previdenciário, perante todas as instâncias dos tribunais regionais, e superiores, a serem prestados por sociedade de advogados para a companhia de saneamento ambiental do Maranhão - CAEMA, conforme especificações, quantitativos e condições do Termo de Referência, Anexo I do Edital.",
@@ -63,107 +38,11 @@
       "data_fim_vigencia": "2026-10-15T09:15",
       "url": "https://pncp.gov.br/app/editais/06274757000150/2026/2",
       "matched_keywords": [
-        "consultoria juridica"
+        "contencioso administrativo",
+        "contencioso trabalhista"
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 2m em São Luís/MA. valor nao informado na busca. sem presencial detectado.",
-      "lucro": null,
-      "trofeu": null
-    },
-    {
-      "titulo": "Edital nº 36/2026",
-      "descricao": "Contratação de pessoa jurídica especializada para prestação de serviços técnicos profissionais de assessoria e consultoria jurídica trabalhista, de natureza continuada, nas áreas contenciosa, consultiva, preventiva e estratégica, destinados ao atendimento das demandas do Conselho Regional de Medicina do Estado de Santa Catarina – CRM-SC,",
-      "areas": [
-        "Tributario",
-        "Trabalhista"
-      ],
-      "orgao": "CONSELHO REGIONAL DE MEDICINA DO EST DE SANTA CATARINA",
-      "uf": "SC",
-      "municipio": "Florianópolis",
-      "esfera": "Federal",
-      "modalidade": "Concorrência - Eletrônica",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "data_publicacao": "2026-08-27T08:36:27.398492",
-      "data_fim_vigencia": "2026-10-19T10:00",
-      "url": "https://pncp.gov.br/app/editais/79831566000115/2026/27",
-      "matched_keywords": [
-        "consultoria juridica"
-      ],
-      "bandeira": "cinza",
-      "resumo": "Contrato 1m em Florianópolis/SC. valor nao informado na busca. sem presencial detectado.",
-      "lucro": null,
-      "trofeu": null
-    },
-    {
-      "titulo": "Edital nº 63/2026",
-      "descricao": "Contratação de empresa para solução informatizada para gestão integrada da assessoria jurídica ",
-      "areas": [
-        "Geral"
-      ],
-      "orgao": "URBANIZADORA MUNICIPAL SA URBAM",
-      "uf": "SP",
-      "municipio": "São José dos Campos",
-      "esfera": "Não se aplica",
-      "modalidade": "Pregão - Eletrônico",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "data_publicacao": "2026-09-22T09:22:00.568981",
-      "data_fim_vigencia": "2026-10-15T09:00",
-      "url": "https://pncp.gov.br/app/editais/45693777000702/2026/145",
-      "matched_keywords": [
-        "assessoria juridica"
-      ],
-      "bandeira": "cinza",
-      "resumo": "Contrato 1m em São José dos Campos/SP. valor nao informado na busca. sem presencial detectado.",
-      "lucro": null,
-      "trofeu": null
-    },
-    {
-      "titulo": "Edital nº 71/2026",
-      "descricao": "CONTRATAÇÃO DE SERVIÇOS CONTÍNUOS DE VIGILÂNCIA PATRIMONIAL ARMADA, COM DEDICAÇÃO EXCLUSIVA DE MÃO DE OBRA, A SEREM EXECUTADOS POR MEIO DE POSTOS DE TRABALHO, NAS UNIDADES DA ADVOCACIA-GERAL DA UNIÃO NO ESTADO DA PARAÍBA",
-      "areas": [
-        "Geral"
-      ],
-      "orgao": "ADVOCACIA GERAL DA UNIAO",
-      "uf": "PE",
-      "municipio": "Recife",
-      "esfera": "Federal",
-      "modalidade": "Pregão - Eletrônico",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "data_publicacao": "2026-09-25T04:00:37.668821",
-      "data_fim_vigencia": "2026-10-14T10:00",
-      "url": "https://pncp.gov.br/app/editais/26994558000123/2026/159",
-      "matched_keywords": [
-        "servicos de advocacia"
-      ],
-      "bandeira": "cinza",
-      "resumo": "Contrato 1m em Recife/PE. valor nao informado na busca. sem presencial detectado.",
-      "lucro": null,
-      "trofeu": null
-    },
-    {
-      "titulo": "Aviso de Contratação Direta nº 124/2026",
-      "descricao": "contratação de empresa especializada para a prestação de serviços de confecção, sob demanda, de placas de identificação destinadas às unidades da Advocacia-Geral do Estado de Minas Gerais (AGE-MG)",
-      "areas": [
-        "Geral"
-      ],
-      "orgao": "ADVOCACIA-GERAL DO ESTADO",
-      "uf": "MG",
-      "municipio": "Belo Horizonte",
-      "esfera": "Estadual",
-      "modalidade": "Dispensa",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "data_publicacao": "2026-09-22T15:10:19.399975981",
-      "data_fim_vigencia": "2026-09-30T08:40",
-      "url": "https://pncp.gov.br/app/editais/16745465000101/2026/122",
-      "matched_keywords": [
-        "servicos de advocacia"
-      ],
-      "bandeira": "cinza",
-      "resumo": "Contrato 1m em Belo Horizonte/MG. valor nao informado na busca. sem presencial detectado.",
       "lucro": null,
       "trofeu": null
     },
@@ -185,7 +64,8 @@
       "data_fim_vigencia": "2026-11-10T10:00",
       "url": "https://pncp.gov.br/app/editais/39467292000102/2026/69",
       "matched_keywords": [
-        "servicos de advocacia"
+        "contencioso administrativo",
+        "contencioso trabalhista"
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 1m em São Paulo/SP. valor nao informado na busca. sem presencial detectado.",
@@ -193,26 +73,27 @@
       "trofeu": null
     },
     {
-      "titulo": "Edital de Chamamento Público nº 33 | Processo 115/2026",
-      "descricao": "Credenciamento de profissionais Psicologos as  e Assistentes Sociais  pessoas juridicas  para prestacao de servicos especializados na rede publica municipal de saude  em regime ambulatorial e hospitalar  conforme as necessidades da Secretaria Municipal de Saude",
+      "titulo": "Edital nº 36/2026",
+      "descricao": "Contratação de pessoa jurídica especializada para prestação de serviços técnicos profissionais de assessoria e consultoria jurídica trabalhista, de natureza continuada, nas áreas contenciosa, consultiva, preventiva e estratégica, destinados ao atendimento das demandas do Conselho Regional de Medicina do Estado de Santa Catarina – CRM-SC,",
       "areas": [
-        "Tributario"
+        "Tributario",
+        "Trabalhista"
       ],
-      "orgao": "MUNICIPIO DE SALTO DO LONTRA",
-      "uf": "PR",
-      "municipio": "Salto do Lontra",
-      "esfera": "Municipal",
-      "modalidade": "Credenciamento",
-      "situacao": "Divulgada no PNCP",
+      "orgao": "CONSELHO REGIONAL DE MEDICINA DO EST DE SANTA CATARINA",
+      "uf": "SC",
+      "municipio": "Florianópolis",
+      "esfera": "Federal",
+      "modalidade": "Concorrência - Eletrônica",
+      "situacao": "Suspensa",
       "valor": null,
-      "data_publicacao": "2026-07-15T11:23:35.038248",
-      "data_fim_vigencia": "2027-07-15T14:01",
-      "url": "https://pncp.gov.br/app/editais/76205707000104/2026/119",
+      "data_publicacao": "2026-08-27T08:36:27.398492",
+      "data_fim_vigencia": "2026-10-19T10:00",
+      "url": "https://pncp.gov.br/app/editais/79831566000115/2026/27",
       "matched_keywords": [
-        "parecer juridico"
+        "contencioso trabalhista"
       ],
       "bandeira": "cinza",
-      "resumo": "Contrato 12m em Salto do Lontra/PR. valor nao informado na busca. sem presencial detectado.",
+      "resumo": "Contrato 1m em Florianópolis/SC. valor nao informado na busca. sem presencial detectado.",
       "lucro": null,
       "trofeu": null
     }
