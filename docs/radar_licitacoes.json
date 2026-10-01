@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-30T16:13:22.536689+00:00",
+  "gerado_em": "2026-10-01T16:50:24.703298+00:00",
   "fonte": "PNCP",
   "filtro": "recebendo_proposta + juridico",
   "palavras_chave": [
@@ -18,7 +18,7 @@
     "parecer juridico",
     "recuperacao de creditos tributarios"
   ],
-  "total": 11,
+  "total": 12,
   "items": [
     {
       "titulo": "Edital nº 36/2026",
@@ -38,8 +38,7 @@
       "data_fim_vigencia": "2026-10-19T10:00",
       "url": "https://pncp.gov.br/app/editais/79831566000115/2026/27",
       "matched_keywords": [
-        "consultoria juridica",
-        "contencioso trabalhista"
+        "consultoria juridica"
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 1m em Florianópolis/SC. valor nao informado na busca. sem presencial detectado.",
@@ -91,7 +90,7 @@
       "matched_keywords": [
         "consultoria juridica",
         "sociedade de advogados",
-        "contencioso trabalhista"
+        "contencioso administrativo"
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 2m em São Luís/MA. valor nao informado na busca. sem presencial detectado.",
@@ -165,7 +164,8 @@
       "url": "https://pncp.gov.br/app/editais/09485046000112/2035/1",
       "matched_keywords": [
         "sociedade de advogados",
-        "servicos advocaticios"
+        "servicos advocaticios",
+        "servicos de advocacia"
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 121m em Sobral/CE. valor nao informado na busca. sem presencial detectado.",
@@ -191,7 +191,8 @@
       "url": "https://pncp.gov.br/app/editais/39467292000102/2026/69",
       "matched_keywords": [
         "sociedade de advogados",
-        "contencioso trabalhista"
+        "servicos de advocacia",
+        "contencioso administrativo"
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 1m em São Paulo/SP. valor nao informado na busca. sem presencial detectado.",
@@ -266,7 +267,8 @@
       "url": "https://pncp.gov.br/app/editais/09485046000112/2034/1",
       "matched_keywords": [
         "sociedade de advogados",
-        "servicos advocaticios"
+        "servicos advocaticios",
+        "servicos de advocacia"
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 121m em Sobral/CE. valor nao informado na busca. sem presencial detectado.",
@@ -290,10 +292,35 @@
       "data_fim_vigencia": "2026-10-16T23:59:59",
       "url": "https://pncp.gov.br/app/editais/19864323000151/2025/15",
       "matched_keywords": [
-        "servicos advocaticios"
+        "servicos advocaticios",
+        "servicos de advocacia"
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 12m em Uberaba/MG. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Edital nº 71/2026",
+      "descricao": "CONTRATAÇÃO DE SERVIÇOS CONTÍNUOS DE VIGILÂNCIA PATRIMONIAL ARMADA, COM DEDICAÇÃO EXCLUSIVA DE MÃO DE OBRA, A SEREM EXECUTADOS POR MEIO DE POSTOS DE TRABALHO, NAS UNIDADES DA ADVOCACIA-GERAL DA UNIÃO NO ESTADO DA PARAÍBA",
+      "areas": [
+        "Geral"
+      ],
+      "orgao": "ADVOCACIA GERAL DA UNIAO",
+      "uf": "PE",
+      "municipio": "Recife",
+      "esfera": "Federal",
+      "modalidade": "Pregão - Eletrônico",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-09-25T04:00:37.668821",
+      "data_fim_vigencia": "2026-10-14T10:00",
+      "url": "https://pncp.gov.br/app/editais/26994558000123/2026/159",
+      "matched_keywords": [
+        "servicos de advocacia"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Recife/PE. valor nao informado na busca. sem presencial detectado.",
       "lucro": null,
       "trofeu": null
     }
