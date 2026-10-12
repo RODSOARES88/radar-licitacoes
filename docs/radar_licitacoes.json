@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-11T16:06:28.512967+00:00",
+  "gerado_em": "2026-10-12T19:34:16.295593+00:00",
   "fonte": "PNCP",
   "filtro": "recebendo_proposta + juridico",
   "palavras_chave": [
@@ -38,7 +38,6 @@
       "url": "https://pncp.gov.br/app/editais/09485046000112/2035/1",
       "matched_keywords": [
         "sociedade de advogados",
-        "servicos advocaticios",
         "servicos de advocacia"
       ],
       "bandeira": "cinza",
@@ -64,7 +63,8 @@
       "data_fim_vigencia": "2026-10-15T09:15",
       "url": "https://pncp.gov.br/app/editais/06274757000150/2026/2",
       "matched_keywords": [
-        "sociedade de advogados"
+        "sociedade de advogados",
+        "contencioso administrativo"
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 2m em São Luís/MA. valor nao informado na busca. sem presencial detectado.",
@@ -90,7 +90,8 @@
       "url": "https://pncp.gov.br/app/editais/39467292000102/2026/69",
       "matched_keywords": [
         "sociedade de advogados",
-        "servicos de advocacia"
+        "servicos de advocacia",
+        "contencioso administrativo"
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 1m em São Paulo/SP. valor nao informado na busca. sem presencial detectado.",
@@ -139,8 +140,7 @@
       "data_fim_vigencia": "2029-07-20T23:59",
       "url": "https://pncp.gov.br/app/editais/46523023000181/2025/78",
       "matched_keywords": [
-        "sociedade de advogados",
-        "servicos advocaticios"
+        "sociedade de advogados"
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 48m em Cajamar/SP. valor nao informado na busca. sem presencial detectado.",
@@ -165,60 +165,10 @@
       "url": "https://pncp.gov.br/app/editais/09485046000112/2034/1",
       "matched_keywords": [
         "sociedade de advogados",
-        "servicos advocaticios",
         "servicos de advocacia"
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 121m em Sobral/CE. valor nao informado na busca. sem presencial detectado.",
-      "lucro": null,
-      "trofeu": null
-    },
-    {
-      "titulo": "Edital nº 000001/2026",
-      "descricao": "Contratação de Empresa Especializada Para a Prestação de Serviços Advocatícios Destinados à Assessoria e Consultoria Jurídica, Abrangendo Todas as Secretarias e Setores da Administração Pública Direta, bem como para atuação Técnica e Jurídica na Defesa do Município perante o Tribunal de Contas do Estado de São Paulo",
-      "areas": [
-        "Administrativo"
-      ],
-      "orgao": "MUNICIPIO DE COSMOPOLIS",
-      "uf": "SP",
-      "municipio": "Cosmópolis",
-      "esfera": "Municipal",
-      "modalidade": "Concorrência - Presencial",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "data_publicacao": "2026-09-22T11:06:36.616993",
-      "data_fim_vigencia": "2026-11-17T09:00",
-      "url": "https://pncp.gov.br/app/editais/44730331000152/2026/86",
-      "matched_keywords": [
-        "servicos advocaticios"
-      ],
-      "bandeira": "cinza",
-      "resumo": "Contrato 1m em Cosmópolis/SP. valor nao informado na busca. sem presencial detectado.",
-      "lucro": null,
-      "trofeu": null
-    },
-    {
-      "titulo": "Edital de Chamamento Público nº 05/2025",
-      "descricao": "[LICITANET] - CREDENCIAMENTO DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS CONTENCIOSOS E ACOMPANHAMENTO PROCESSUAL EM TODOS OS GRAUS DE JURISDIÇÃO, INICIALMENTE NA JUSTIÇA FEDERAL PARA APURAR E REAVER OS VALORES PAGOS A TÍTULO DE IRPJ/IRRF A UNIÃO, NOS TERMOS DO TEMA 1.130 DA REPERCUSSÃO GERAL DO STF, ESPECIALMENTE DOTADA DE CAPACIDADE TÉCNICA/JURÍDICA PARA ATUAR NA FASE DE CUMPRIMENTO DE SENTENÇA, PARA ATENDIMENTO DOS MUNICÍPIOS CONSORCIADOS.\n\n",
-      "areas": [
-        "Geral"
-      ],
-      "orgao": "CONSORCIO INTERMUNICIPAL DE DESENVOLVIMENTO REGIONAL",
-      "uf": "MG",
-      "municipio": "Uberaba",
-      "esfera": "Não se aplica",
-      "modalidade": "Credenciamento",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "data_publicacao": "2025-09-02T12:38:39.302105",
-      "data_fim_vigencia": "2026-10-16T23:59:59",
-      "url": "https://pncp.gov.br/app/editais/19864323000151/2025/15",
-      "matched_keywords": [
-        "servicos advocaticios",
-        "servicos de advocacia"
-      ],
-      "bandeira": "cinza",
-      "resumo": "Contrato 12m em Uberaba/MG. valor nao informado na busca. sem presencial detectado.",
       "lucro": null,
       "trofeu": null
     },
@@ -267,6 +217,54 @@
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 1m em Recife/PE. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Edital de Chamamento Público nº 05/2025",
+      "descricao": "[LICITANET] - CREDENCIAMENTO DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS CONTENCIOSOS E ACOMPANHAMENTO PROCESSUAL EM TODOS OS GRAUS DE JURISDIÇÃO, INICIALMENTE NA JUSTIÇA FEDERAL PARA APURAR E REAVER OS VALORES PAGOS A TÍTULO DE IRPJ/IRRF A UNIÃO, NOS TERMOS DO TEMA 1.130 DA REPERCUSSÃO GERAL DO STF, ESPECIALMENTE DOTADA DE CAPACIDADE TÉCNICA/JURÍDICA PARA ATUAR NA FASE DE CUMPRIMENTO DE SENTENÇA, PARA ATENDIMENTO DOS MUNICÍPIOS CONSORCIADOS.\n\n",
+      "areas": [
+        "Geral"
+      ],
+      "orgao": "CONSORCIO INTERMUNICIPAL DE DESENVOLVIMENTO REGIONAL",
+      "uf": "MG",
+      "municipio": "Uberaba",
+      "esfera": "Não se aplica",
+      "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2025-09-02T12:38:39.302105",
+      "data_fim_vigencia": "2026-10-16T23:59:59",
+      "url": "https://pncp.gov.br/app/editais/19864323000151/2025/15",
+      "matched_keywords": [
+        "servicos de advocacia"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 12m em Uberaba/MG. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Edital de Chamamento Público nº 33 | Processo 115/2026",
+      "descricao": "Credenciamento de profissionais Psicologos as  e Assistentes Sociais  pessoas juridicas  para prestacao de servicos especializados na rede publica municipal de saude  em regime ambulatorial e hospitalar  conforme as necessidades da Secretaria Municipal de Saude",
+      "areas": [
+        "Tributario"
+      ],
+      "orgao": "MUNICIPIO DE SALTO DO LONTRA",
+      "uf": "PR",
+      "municipio": "Salto do Lontra",
+      "esfera": "Municipal",
+      "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-07-15T11:23:35.038248",
+      "data_fim_vigencia": "2027-07-15T14:01",
+      "url": "https://pncp.gov.br/app/editais/76205707000104/2026/119",
+      "matched_keywords": [
+        "parecer juridico"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 12m em Salto do Lontra/PR. valor nao informado na busca. sem presencial detectado.",
       "lucro": null,
       "trofeu": null
     }
