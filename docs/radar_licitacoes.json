@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-18T13:43:39.155392+00:00",
+  "gerado_em": "2026-10-19T16:44:56.284026+00:00",
   "fonte": "PNCP",
   "filtro": "recebendo_proposta + juridico",
   "palavras_chave": [
@@ -18,111 +18,8 @@
     "parecer juridico",
     "recuperacao de creditos tributarios"
   ],
-  "total": 11,
+  "total": 6,
   "items": [
-    {
-      "titulo": "Edital nº 36/2026",
-      "descricao": "Contratação de pessoa jurídica especializada para prestação de serviços técnicos profissionais de assessoria e consultoria jurídica trabalhista, de natureza continuada, nas áreas contenciosa, consultiva, preventiva e estratégica, destinados ao atendimento das demandas do Conselho Regional de Medicina do Estado de Santa Catarina – CRM-SC,",
-      "areas": [
-        "Tributario",
-        "Trabalhista"
-      ],
-      "orgao": "CONSELHO REGIONAL DE MEDICINA DO EST DE SANTA CATARINA",
-      "uf": "SC",
-      "municipio": "Florianópolis",
-      "esfera": "Federal",
-      "modalidade": "Concorrência - Eletrônica",
-      "situacao": "Suspensa",
-      "valor": null,
-      "data_publicacao": "2026-08-27T08:36:27.398492",
-      "data_fim_vigencia": "2026-10-19T10:00",
-      "url": "https://pncp.gov.br/app/editais/79831566000115/2026/27",
-      "matched_keywords": [
-        "consultoria juridica",
-        "assessoria juridica",
-        "contencioso trabalhista"
-      ],
-      "bandeira": "cinza",
-      "resumo": "Contrato 1m em Florianópolis/SC. valor nao informado na busca. sem presencial detectado.",
-      "lucro": null,
-      "trofeu": null
-    },
-    {
-      "titulo": "Edital nº 000001/2026",
-      "descricao": "Contratação de Empresa Especializada Para a Prestação de Serviços Advocatícios Destinados à Assessoria e Consultoria Jurídica, Abrangendo Todas as Secretarias e Setores da Administração Pública Direta, bem como para atuação Técnica e Jurídica na Defesa do Município perante o Tribunal de Contas do Estado de São Paulo",
-      "areas": [
-        "Administrativo"
-      ],
-      "orgao": "MUNICIPIO DE COSMOPOLIS",
-      "uf": "SP",
-      "municipio": "Cosmópolis",
-      "esfera": "Municipal",
-      "modalidade": "Concorrência - Presencial",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "data_publicacao": "2026-09-22T11:06:36.616993",
-      "data_fim_vigencia": "2026-11-17T09:00",
-      "url": "https://pncp.gov.br/app/editais/44730331000152/2026/86",
-      "matched_keywords": [
-        "consultoria juridica",
-        "assessoria juridica",
-        "servicos advocaticios"
-      ],
-      "bandeira": "cinza",
-      "resumo": "Contrato 1m em Cosmópolis/SP. valor nao informado na busca. sem presencial detectado.",
-      "lucro": null,
-      "trofeu": null
-    },
-    {
-      "titulo": "Edital de Chamamento Público nº 3 | Processo 74/2025",
-      "descricao": "Credenciamento de PESSOAS JURIDICAS para atender futura e eventual demanda de horas engenharias e arquitetura e urbanismo dos municipios consorciados  conforme disposicoes deste Edital e seus Anexos.",
-      "areas": [
-        "Geral"
-      ],
-      "orgao": "CONSORCIO DE DESENVOLVIMENTO INTERMUNICIPAL DOS MUNICIPIOS DO ALTO JACUI E ALTO DA SERRA BOTUCARAI/RS",
-      "uf": "RS",
-      "municipio": "Ibirubá",
-      "esfera": "Não se aplica",
-      "modalidade": "Credenciamento",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "data_publicacao": "2025-10-24T10:10:09.734565",
-      "data_fim_vigencia": "2030-10-27T17:00",
-      "url": "https://pncp.gov.br/app/editais/03656200000195/2025/92",
-      "matched_keywords": [
-        "consultoria juridica",
-        "assessoria juridica"
-      ],
-      "bandeira": "cinza",
-      "resumo": "Contrato 60m em Ibirubá/RS. valor nao informado na busca. sem presencial detectado.",
-      "lucro": null,
-      "trofeu": null
-    },
-    {
-      "titulo": "Edital de Chamamento Público nº 1 | Processo 28/2026",
-      "descricao": "Credenciamento de pessoas juridicas especializadas para prestacao de servicos horas tecnica de profissionais nas areas de Arquitetura e Urbanismo  Engenharia Cartografica  Engenharia Civil  Engenharia de Agrimensura  Engenharia Ambiental  Engenharia de Seguranca do Trabalho  Engenharia de Trafego  Engenharia Eletrica  Engenharia Eletronica  Engenharia Geografica  Engenharia Mecanica  Engenharia Metalurgica e Topografia  em carater temporario e sob demanda  visando atender as necessidades dos municipios consorciados e do CISVALE.",
-      "areas": [
-        "Tributario",
-        "Ambiental"
-      ],
-      "orgao": "CONSORCIO INTERMUNICIPAL DE SERVICOS DO VALE DO RIO PARDO - CISVALE",
-      "uf": "RS",
-      "municipio": "Santa Cruz do Sul",
-      "esfera": "Não se aplica",
-      "modalidade": "Credenciamento",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "data_publicacao": "2026-06-08T15:13:10.981686",
-      "data_fim_vigencia": "2027-05-31T17:00",
-      "url": "https://pncp.gov.br/app/editais/07664821000171/2026/33",
-      "matched_keywords": [
-        "consultoria juridica"
-      ],
-      "bandeira": "cinza",
-      "resumo": "Contrato 12m em Santa Cruz do Sul/RS. valor nao informado na busca. sem presencial detectado.",
-      "lucro": null,
-      "trofeu": null
-    },
     {
       "titulo": "Edital de Chamamento Público nº 01/2025-CHPC/2035",
       "descricao": "Credenciamento de serviços advocatícios destinados à VDP (Verba de Desempenho Parlamentar) da Câmara Municipal de Sobral-CE.",
@@ -167,8 +64,7 @@
       "url": "https://pncp.gov.br/app/editais/39467292000102/2026/69",
       "matched_keywords": [
         "sociedade de advogados",
-        "contencioso administrativo",
-        "contencioso trabalhista"
+        "contencioso administrativo"
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 1m em São Paulo/SP. valor nao informado na busca. sem presencial detectado.",
@@ -251,50 +147,26 @@
       "trofeu": null
     },
     {
-      "titulo": "Edital nº PE 60/2026",
-      "descricao": "AQUISIÇÃO DE LICENÇAS DE PLATAFORMAS DE INTELIGÊNCIA ARTIFICIAL GENERATIVA CHATGPT E CLAUDE, POR INTERMÉDIO DE EMPRESA ESPECIALIZADA, VISANDO APOIAR AS ROTINAS TÉCNICO-OPERACIONAIS DO DEPARTAMENTO DE INFORMÁTICA, AS ATIVIDADES DO DEPARTAMENTO DE LICITAÇÕES E AS ATIVIDADES DA ASSESSORIA JURÍDICA, DE ACORDO COM AS ESPECIFICAÇÕES, QUANTITATIVOS E CONDIÇÕES ESTABELECIDOS NO TERMO DE REFERÊNCIA.",
-      "areas": [
-        "Geral"
-      ],
-      "orgao": "MUNICIPIO DE ORLEANS",
-      "uf": "SC",
-      "municipio": "Orleans",
-      "esfera": "Municipal",
-      "modalidade": "Pregão - Eletrônico",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "data_publicacao": "2026-10-14T17:23:17.857618237",
-      "data_fim_vigencia": "2026-10-30T12:45",
-      "url": "https://pncp.gov.br/app/editais/82926544000143/2026/188",
-      "matched_keywords": [
-        "assessoria juridica"
-      ],
-      "bandeira": "cinza",
-      "resumo": "Contrato 1m em Orleans/SC. valor nao informado na busca. sem presencial detectado.",
-      "lucro": null,
-      "trofeu": null
-    },
-    {
-      "titulo": "Aviso de Contratação Direta nº 131/2026",
-      "descricao": "CONTRATACAO DE EMPRESA ESPECIALIZADA PARA PRESTACAO DE SERVICOS TECNICOS DE APOIO E ASSESSORAMENTO AO DEPARTAMENTO JURIDICO NA ELABORACAO DE DIAGNOSTICO ORGANIZACIONAL E DESENVOLVIMENTO DE PROPOSTA DE REFORMA ADMINISTRATIVA MUNICIPAL INTEGRADA.",
+      "titulo": "Edital nº 000001/2026",
+      "descricao": "Contratação de Empresa Especializada Para a Prestação de Serviços Advocatícios Destinados à Assessoria e Consultoria Jurídica, Abrangendo Todas as Secretarias e Setores da Administração Pública Direta, bem como para atuação Técnica e Jurídica na Defesa do Município perante o Tribunal de Contas do Estado de São Paulo",
       "areas": [
         "Administrativo"
       ],
-      "orgao": "MUNICIPIO DE CORONEL MACEDO",
+      "orgao": "MUNICIPIO DE COSMOPOLIS",
       "uf": "SP",
-      "municipio": "Coronel Macedo",
+      "municipio": "Cosmópolis",
       "esfera": "Municipal",
-      "modalidade": "Dispensa",
+      "modalidade": "Concorrência - Presencial",
       "situacao": "Divulgada no PNCP",
       "valor": null,
-      "data_publicacao": "2026-10-14T08:52:37.831493567",
-      "data_fim_vigencia": "2026-10-19T23:59",
-      "url": "https://pncp.gov.br/app/editais/46634192000199/2026/114",
+      "data_publicacao": "2026-09-22T11:06:36.616993",
+      "data_fim_vigencia": "2026-11-17T09:00",
+      "url": "https://pncp.gov.br/app/editais/44730331000152/2026/86",
       "matched_keywords": [
-        "assessoria juridica"
+        "servicos advocaticios"
       ],
       "bandeira": "cinza",
-      "resumo": "Contrato 1m em Coronel Macedo/SP. valor nao informado na busca. sem presencial detectado.",
+      "resumo": "Contrato 1m em Cosmópolis/SP. valor nao informado na busca. sem presencial detectado.",
       "lucro": null,
       "trofeu": null
     }
