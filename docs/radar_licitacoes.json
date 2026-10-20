@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-19T16:44:56.284026+00:00",
+  "gerado_em": "2026-10-20T14:37:22.480588+00:00",
   "fonte": "PNCP",
   "filtro": "recebendo_proposta + juridico",
   "palavras_chave": [
@@ -18,7 +18,7 @@
     "parecer juridico",
     "recuperacao de creditos tributarios"
   ],
-  "total": 6,
+  "total": 9,
   "items": [
     {
       "titulo": "Edital de Chamamento Público nº 01/2025-CHPC/2035",
@@ -64,7 +64,7 @@
       "url": "https://pncp.gov.br/app/editais/39467292000102/2026/69",
       "matched_keywords": [
         "sociedade de advogados",
-        "contencioso administrativo"
+        "contencioso trabalhista"
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 1m em São Paulo/SP. valor nao informado na busca. sem presencial detectado.",
@@ -147,6 +147,54 @@
       "trofeu": null
     },
     {
+      "titulo": "Edital nº (428) | 1-0/2026",
+      "descricao": "Contratação de profissional, na condição de pessoa jurídica e ou física legalmente habilitado (advogado(a) regularmente inscrito(a) na ordem dos advogados do brasil), para a prestação de serviços contínuos de assessoria jurídica à Câmara Municipal de Morro Agudo de Goiás – Go, conforme descrito neste edital e seus anexos.",
+      "areas": [
+        "Tributario"
+      ],
+      "orgao": "CAMARA MUNICIPAL DE MORRO AGUDO DE GOIAS",
+      "uf": "GO",
+      "municipio": "Morro Agudo de Goiás",
+      "esfera": "Municipal",
+      "modalidade": "Pregão - Presencial",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-10-19T16:56:02.559159358",
+      "data_fim_vigencia": "2026-11-05T09:29",
+      "url": "https://pncp.gov.br/app/editais/01032083000163/2026/23",
+      "matched_keywords": [
+        "assessoria juridica"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Morro Agudo de Goiás/GO. valor nao informado na busca. sem presencial detectado. trofeu: AGU.",
+      "lucro": null,
+      "trofeu": "AGU"
+    },
+    {
+      "titulo": "Edital nº PE 60/2026",
+      "descricao": "AQUISIÇÃO DE LICENÇAS DE PLATAFORMAS DE INTELIGÊNCIA ARTIFICIAL GENERATIVA CHATGPT E CLAUDE, POR INTERMÉDIO DE EMPRESA ESPECIALIZADA, VISANDO APOIAR AS ROTINAS TÉCNICO-OPERACIONAIS DO DEPARTAMENTO DE INFORMÁTICA, AS ATIVIDADES DO DEPARTAMENTO DE LICITAÇÕES E AS ATIVIDADES DA ASSESSORIA JURÍDICA, DE ACORDO COM AS ESPECIFICAÇÕES, QUANTITATIVOS E CONDIÇÕES ESTABELECIDOS NO TERMO DE REFERÊNCIA.",
+      "areas": [
+        "Geral"
+      ],
+      "orgao": "MUNICIPIO DE ORLEANS",
+      "uf": "SC",
+      "municipio": "Orleans",
+      "esfera": "Municipal",
+      "modalidade": "Pregão - Eletrônico",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-10-14T17:23:17.857618237",
+      "data_fim_vigencia": "2026-10-30T12:45",
+      "url": "https://pncp.gov.br/app/editais/82926544000143/2026/188",
+      "matched_keywords": [
+        "assessoria juridica"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Orleans/SC. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
       "titulo": "Edital nº 000001/2026",
       "descricao": "Contratação de Empresa Especializada Para a Prestação de Serviços Advocatícios Destinados à Assessoria e Consultoria Jurídica, Abrangendo Todas as Secretarias e Setores da Administração Pública Direta, bem como para atuação Técnica e Jurídica na Defesa do Município perante o Tribunal de Contas do Estado de São Paulo",
       "areas": [
@@ -163,10 +211,35 @@
       "data_fim_vigencia": "2026-11-17T09:00",
       "url": "https://pncp.gov.br/app/editais/44730331000152/2026/86",
       "matched_keywords": [
+        "assessoria juridica",
         "servicos advocaticios"
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 1m em Cosmópolis/SP. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Edital de Chamamento Público nº 3 | Processo 74/2025",
+      "descricao": "Credenciamento de PESSOAS JURIDICAS para atender futura e eventual demanda de horas engenharias e arquitetura e urbanismo dos municipios consorciados  conforme disposicoes deste Edital e seus Anexos.",
+      "areas": [
+        "Geral"
+      ],
+      "orgao": "CONSORCIO DE DESENVOLVIMENTO INTERMUNICIPAL DOS MUNICIPIOS DO ALTO JACUI E ALTO DA SERRA BOTUCARAI/RS",
+      "uf": "RS",
+      "municipio": "Ibirubá",
+      "esfera": "Não se aplica",
+      "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2025-10-24T10:10:09.734565",
+      "data_fim_vigencia": "2030-10-27T17:00",
+      "url": "https://pncp.gov.br/app/editais/03656200000195/2025/92",
+      "matched_keywords": [
+        "assessoria juridica"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 60m em Ibirubá/RS. valor nao informado na busca. sem presencial detectado.",
       "lucro": null,
       "trofeu": null
     }
