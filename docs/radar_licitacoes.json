@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-21T14:48:43.626145+00:00",
+  "gerado_em": "2026-10-22T14:49:40.356993+00:00",
   "fonte": "PNCP",
   "filtro": "recebendo_proposta + juridico",
   "palavras_chave": [
@@ -18,7 +18,7 @@
     "parecer juridico",
     "recuperacao de creditos tributarios"
   ],
-  "total": 3,
+  "total": 8,
   "items": [
     {
       "titulo": "Edital nº 00.024/2026/2026",
@@ -90,6 +90,128 @@
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 1m em Orleans/SC. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Edital nº 000001/2026",
+      "descricao": "Contratação de Empresa Especializada Para a Prestação de Serviços Advocatícios Destinados à Assessoria e Consultoria Jurídica, Abrangendo Todas as Secretarias e Setores da Administração Pública Direta, bem como para atuação Técnica e Jurídica na Defesa do Município perante o Tribunal de Contas do Estado de São Paulo",
+      "areas": [
+        "Administrativo"
+      ],
+      "orgao": "MUNICIPIO DE COSMOPOLIS",
+      "uf": "SP",
+      "municipio": "Cosmópolis",
+      "esfera": "Municipal",
+      "modalidade": "Concorrência - Presencial",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-09-22T11:06:36.616993",
+      "data_fim_vigencia": "2026-11-17T09:00",
+      "url": "https://pncp.gov.br/app/editais/44730331000152/2026/86",
+      "matched_keywords": [
+        "assessoria juridica"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Cosmópolis/SP. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Edital de Chamamento Público nº 3 | Processo 74/2025",
+      "descricao": "Credenciamento de PESSOAS JURIDICAS para atender futura e eventual demanda de horas engenharias e arquitetura e urbanismo dos municipios consorciados  conforme disposicoes deste Edital e seus Anexos.",
+      "areas": [
+        "Geral"
+      ],
+      "orgao": "CONSORCIO DE DESENVOLVIMENTO INTERMUNICIPAL DOS MUNICIPIOS DO ALTO JACUI E ALTO DA SERRA BOTUCARAI/RS",
+      "uf": "RS",
+      "municipio": "Ibirubá",
+      "esfera": "Não se aplica",
+      "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2025-10-24T10:10:09.734565",
+      "data_fim_vigencia": "2030-10-27T17:00",
+      "url": "https://pncp.gov.br/app/editais/03656200000195/2025/92",
+      "matched_keywords": [
+        "assessoria juridica"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 60m em Ibirubá/RS. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Edital nº 3/2026",
+      "descricao": "Contratação de sociedade de advogados especializada na prestação de serviços jurídicos, sob demanda, de natureza contenciosa judicial e administrativa, perante o Poder Judiciário Estadual e Federal, bem como perante órgãos e instâncias administrativas competentes, nas áreas previdenciária, cível, tributária e trabalhista.",
+      "areas": [
+        "Trabalhista",
+        "Administrativo"
+      ],
+      "orgao": "SECRETARIA DE GESTAO E GOVERNO DIGITAL",
+      "uf": "SP",
+      "municipio": "São Paulo",
+      "esfera": "Estadual",
+      "modalidade": "Concorrência - Eletrônica",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-09-16T13:02:22.031354",
+      "data_fim_vigencia": "2026-11-10T10:00",
+      "url": "https://pncp.gov.br/app/editais/39467292000102/2026/69",
+      "matched_keywords": [
+        "servicos de advocacia",
+        "contencioso trabalhista"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em São Paulo/SP. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Edital de Chamamento Público nº 01/2025-CHPC/2035",
+      "descricao": "Credenciamento de serviços advocatícios destinados à VDP (Verba de Desempenho Parlamentar) da Câmara Municipal de Sobral-CE.",
+      "areas": [
+        "Geral"
+      ],
+      "orgao": "MUNICIPIO DE SOBRAL/CAMARA MUNICIPAL",
+      "uf": "CE",
+      "municipio": "Sobral",
+      "esfera": "Municipal",
+      "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2025-02-25T08:41:48.089097",
+      "data_fim_vigencia": "2035-02-23T23:59",
+      "url": "https://pncp.gov.br/app/editais/09485046000112/2035/1",
+      "matched_keywords": [
+        "servicos de advocacia"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 121m em Sobral/CE. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Edital de Chamamento Público nº 01/2024-CHPC/2034",
+      "descricao": "Credenciamento de serviços advocatícios destinados à VDP (Verba de Desempenho Parlamentar) da Câmara Municipal de Sobral-CE.",
+      "areas": [
+        "Geral"
+      ],
+      "orgao": "MUNICIPIO DE SOBRAL/CAMARA MUNICIPAL",
+      "uf": "CE",
+      "municipio": "Sobral",
+      "esfera": "Municipal",
+      "modalidade": "Credenciamento",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2024-06-11T12:30:45.066675",
+      "data_fim_vigencia": "2034-06-11T13:00",
+      "url": "https://pncp.gov.br/app/editais/09485046000112/2034/1",
+      "matched_keywords": [
+        "servicos de advocacia"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 121m em Sobral/CE. valor nao informado na busca. sem presencial detectado.",
       "lucro": null,
       "trofeu": null
     }
