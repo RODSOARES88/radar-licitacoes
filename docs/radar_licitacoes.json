@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-23T14:36:05.406889+00:00",
+  "gerado_em": "2026-10-24T13:47:46.502397+00:00",
   "fonte": "PNCP",
   "filtro": "recebendo_proposta + juridico",
   "palavras_chave": [
@@ -18,8 +18,57 @@
     "parecer juridico",
     "recuperacao de creditos tributarios"
   ],
-  "total": 5,
+  "total": 7,
   "items": [
+    {
+      "titulo": "Edital nº 00.024/2026/2026",
+      "descricao": "CONTRATAÇÃO DE SERVIÇOS DE ASSESSORIA E APOIO TÉCNICO-ADMINISTRATIVO AO SETOR DE COMPRAS DA PREFEITURA MUNICIPAL DE NOVO ORIENTE/CE, COMPREENDENDO A ORGANIZAÇÃO E O PLANEJAMENTO OPERACIONAL DAS DEMANDAS DE AQUISIÇÃO, O APOIO À ESPECIFICAÇÃO ADMINISTRATIVA DE BENS E SERVIÇOS, À COLETA E À ORGANIZAÇÃO DE COTAÇÕES, À PESQUISA DE PREÇOS E ELABORAÇÃO DE MAPAS COMPARATIVOS, AO CADASTRO E À COMUNICAÇÃO COM FORNECEDORES, À PADRONIZAÇÃO DE FORMULÁRIOS, AO CONTROLE DAS SOLICITAÇÕES DE COMPRAS E À ELABORAÇÃO DE RELATÓRIOS GERENCIAIS, SEM ABRANGER A CONDUÇÃO DE LICITAÇÕES, A GESTÃO OU FISCALIZAÇÃO CONTRATUAL E A ASSESSORIA JURÍDICA, ATENDENDO AS NECESSIDADES DAS DIVERSAS SECRETARIAS DO MUNICÍPIO DE NOVO ORIENTE, ESTADO DO CEARÁ.",
+      "areas": [
+        "Tributario",
+        "Administrativo"
+      ],
+      "orgao": "MUNICIPIO DE NOVO ORIENTE",
+      "uf": "CE",
+      "municipio": "Novo Oriente",
+      "esfera": "Municipal",
+      "modalidade": "Pregão - Eletrônico",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-10-21T10:49:11.454392592",
+      "data_fim_vigencia": "2026-11-06T08:59",
+      "url": "https://pncp.gov.br/app/editais/07982010000119/2026/30",
+      "matched_keywords": [
+        "assessoria juridica"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Novo Oriente/CE. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Edital nº (428) | 1-0/2026",
+      "descricao": "Contratação de profissional, na condição de pessoa jurídica e ou física legalmente habilitado (advogado(a) regularmente inscrito(a) na ordem dos advogados do brasil), para a prestação de serviços contínuos de assessoria jurídica à Câmara Municipal de Morro Agudo de Goiás – Go, conforme descrito neste edital e seus anexos.",
+      "areas": [
+        "Tributario"
+      ],
+      "orgao": "CAMARA MUNICIPAL DE MORRO AGUDO DE GOIAS",
+      "uf": "GO",
+      "municipio": "Morro Agudo de Goiás",
+      "esfera": "Municipal",
+      "modalidade": "Pregão - Presencial",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-10-19T16:56:02.559159358",
+      "data_fim_vigencia": "2026-11-05T09:29",
+      "url": "https://pncp.gov.br/app/editais/01032083000163/2026/23",
+      "matched_keywords": [
+        "assessoria juridica"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Morro Agudo de Goiás/GO. valor nao informado na busca. sem presencial detectado. trofeu: AGU.",
+      "lucro": null,
+      "trofeu": "AGU"
+    },
     {
       "titulo": "Edital nº 000001/2026",
       "descricao": "Contratação de Empresa Especializada Para a Prestação de Serviços Advocatícios Destinados à Assessoria e Consultoria Jurídica, Abrangendo Todas as Secretarias e Setores da Administração Pública Direta, bem como para atuação Técnica e Jurídica na Defesa do Município perante o Tribunal de Contas do Estado de São Paulo",
@@ -61,8 +110,7 @@
       "data_fim_vigencia": "2035-02-23T23:59",
       "url": "https://pncp.gov.br/app/editais/09485046000112/2035/1",
       "matched_keywords": [
-        "servicos advocaticios",
-        "servicos de advocacia"
+        "servicos advocaticios"
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 121m em Sobral/CE. valor nao informado na busca. sem presencial detectado.",
@@ -110,8 +158,7 @@
       "data_fim_vigencia": "2034-06-11T13:00",
       "url": "https://pncp.gov.br/app/editais/09485046000112/2034/1",
       "matched_keywords": [
-        "servicos advocaticios",
-        "servicos de advocacia"
+        "servicos advocaticios"
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 121m em Sobral/CE. valor nao informado na busca. sem presencial detectado.",
@@ -136,7 +183,8 @@
       "data_fim_vigencia": "2026-11-10T10:00",
       "url": "https://pncp.gov.br/app/editais/39467292000102/2026/69",
       "matched_keywords": [
-        "servicos de advocacia"
+        "contencioso administrativo",
+        "contencioso trabalhista"
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 1m em São Paulo/SP. valor nao informado na busca. sem presencial detectado.",
