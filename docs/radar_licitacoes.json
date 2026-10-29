@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-28T16:23:50.278154+00:00",
+  "gerado_em": "2026-10-29T16:33:01.531634+00:00",
   "fonte": "PNCP",
   "filtro": "recebendo_proposta + juridico",
   "palavras_chave": [
@@ -18,7 +18,7 @@
     "parecer juridico",
     "recuperacao de creditos tributarios"
   ],
-  "total": 6,
+  "total": 9,
   "items": [
     {
       "titulo": "Edital nº 3/2026",
@@ -39,7 +39,6 @@
       "url": "https://pncp.gov.br/app/editais/39467292000102/2026/69",
       "matched_keywords": [
         "sociedade de advogados",
-        "servicos de advocacia",
         "contencioso administrativo",
         "contencioso trabalhista"
       ],
@@ -66,7 +65,7 @@
       "url": "https://pncp.gov.br/app/editais/09485046000112/2035/1",
       "matched_keywords": [
         "sociedade de advogados",
-        "servicos de advocacia"
+        "servicos advocaticios"
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 121m em Sobral/CE. valor nao informado na busca. sem presencial detectado.",
@@ -115,7 +114,8 @@
       "data_fim_vigencia": "2029-07-20T23:59",
       "url": "https://pncp.gov.br/app/editais/46523023000181/2025/78",
       "matched_keywords": [
-        "sociedade de advogados"
+        "sociedade de advogados",
+        "servicos advocaticios"
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 48m em Cajamar/SP. valor nao informado na busca. sem presencial detectado.",
@@ -140,10 +140,34 @@
       "url": "https://pncp.gov.br/app/editais/09485046000112/2034/1",
       "matched_keywords": [
         "sociedade de advogados",
-        "servicos de advocacia"
+        "servicos advocaticios"
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 121m em Sobral/CE. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Edital nº CE-015/2026",
+      "descricao": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS TÉCNICOS PARA A ESTRUTURAÇÃO E IMPLANTAÇÃO DO CADASTRO TÉCNICO MUNICIPAL, ATUALIZAÇÃO DA BASE CARTOGRÁFICA URBANA, DISPONIBILIZAÇÃO DE SOLUÇÃO WEB PARA GESTÃO TRIBUTÁRIA, ASSESSORIA JURÍDICA E SERVIÇOS DE REGULARIZAÇÃO FUNDIÁRIA URBANA – REURB.",
+      "areas": [
+        "Geral"
+      ],
+      "orgao": "MUNICIPIO DE IRACEMA",
+      "uf": "CE",
+      "municipio": "Iracema",
+      "esfera": "Municipal",
+      "modalidade": "Concorrência - Eletrônica",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-10-28T08:21:42.824849",
+      "data_fim_vigencia": "2026-12-09T00:00",
+      "url": "https://pncp.gov.br/app/editais/07891658000180/2026/49",
+      "matched_keywords": [
+        "assessoria juridica"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Iracema/CE. valor nao informado na busca. presenca intenso (16x/mes). logistica ~R$ 42.000/mes.",
       "lucro": null,
       "trofeu": null
     },
@@ -165,10 +189,60 @@
       "data_fim_vigencia": "2026-12-17T10:00",
       "url": "https://pncp.gov.br/app/editais/79831566000115/2026/27",
       "matched_keywords": [
+        "assessoria juridica",
         "contencioso trabalhista"
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 1m em Florianópolis/SC. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Edital nº 00.024/2026/2026",
+      "descricao": "CONTRATAÇÃO DE SERVIÇOS DE ASSESSORIA E APOIO TÉCNICO-ADMINISTRATIVO AO SETOR DE COMPRAS DA PREFEITURA MUNICIPAL DE NOVO ORIENTE/CE, COMPREENDENDO A ORGANIZAÇÃO E O PLANEJAMENTO OPERACIONAL DAS DEMANDAS DE AQUISIÇÃO, O APOIO À ESPECIFICAÇÃO ADMINISTRATIVA DE BENS E SERVIÇOS, À COLETA E À ORGANIZAÇÃO DE COTAÇÕES, À PESQUISA DE PREÇOS E ELABORAÇÃO DE MAPAS COMPARATIVOS, AO CADASTRO E À COMUNICAÇÃO COM FORNECEDORES, À PADRONIZAÇÃO DE FORMULÁRIOS, AO CONTROLE DAS SOLICITAÇÕES DE COMPRAS E À ELABORAÇÃO DE RELATÓRIOS GERENCIAIS, SEM ABRANGER A CONDUÇÃO DE LICITAÇÕES, A GESTÃO OU FISCALIZAÇÃO CONTRATUAL E A ASSESSORIA JURÍDICA, ATENDENDO AS NECESSIDADES DAS DIVERSAS SECRETARIAS DO MUNICÍPIO DE NOVO ORIENTE, ESTADO DO CEARÁ.",
+      "areas": [
+        "Tributario",
+        "Administrativo"
+      ],
+      "orgao": "MUNICIPIO DE NOVO ORIENTE",
+      "uf": "CE",
+      "municipio": "Novo Oriente",
+      "esfera": "Municipal",
+      "modalidade": "Pregão - Eletrônico",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-10-21T10:49:11.454392592",
+      "data_fim_vigencia": "2026-11-06T08:59",
+      "url": "https://pncp.gov.br/app/editais/07982010000119/2026/30",
+      "matched_keywords": [
+        "assessoria juridica"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Novo Oriente/CE. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Edital nº 000001/2026",
+      "descricao": "Contratação de Empresa Especializada Para a Prestação de Serviços Advocatícios Destinados à Assessoria e Consultoria Jurídica, Abrangendo Todas as Secretarias e Setores da Administração Pública Direta, bem como para atuação Técnica e Jurídica na Defesa do Município perante o Tribunal de Contas do Estado de São Paulo",
+      "areas": [
+        "Administrativo"
+      ],
+      "orgao": "MUNICIPIO DE COSMOPOLIS",
+      "uf": "SP",
+      "municipio": "Cosmópolis",
+      "esfera": "Municipal",
+      "modalidade": "Concorrência - Presencial",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-09-22T11:06:36.616993",
+      "data_fim_vigencia": "2026-11-17T09:00",
+      "url": "https://pncp.gov.br/app/editais/44730331000152/2026/86",
+      "matched_keywords": [
+        "servicos advocaticios"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Cosmópolis/SP. valor nao informado na busca. sem presencial detectado.",
       "lucro": null,
       "trofeu": null
     }
