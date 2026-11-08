@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-07T16:02:45.649928+00:00",
+  "gerado_em": "2026-11-08T16:29:00.882198+00:00",
   "fonte": "PNCP",
   "filtro": "recebendo_proposta + juridico",
   "palavras_chave": [
@@ -18,7 +18,7 @@
     "parecer juridico",
     "recuperacao de creditos tributarios"
   ],
-  "total": 10,
+  "total": 12,
   "items": [
     {
       "titulo": "Aviso de Contratação Direta nº 00003426/2026",
@@ -37,10 +37,61 @@
       "data_fim_vigencia": "2026-11-10T07:59",
       "url": "https://pncp.gov.br/app/editais/04837539000150/2026/34",
       "matched_keywords": [
-        "consultoria tributaria"
+        "consultoria tributaria",
+        "consultoria juridica"
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 1m em Madre de Deus de Minas/MG. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Edital nº 15/2026",
+      "descricao": "Contratação de serviços de engenharia contínuos de Manutenção Preditiva, preventiva e corretiva sob demanda, bem como para a realização de serviços diversos no imóvel da AGU circunscrito na Av. Mendonça Furtado, nº 2244, Bairro Santa Rita, Macapá, utilizado como Sede pela Procuradoria da União, Procuradoria Federal, Consultoria Jurídica da União e Unidade Estadual de Administração no Estado de Amapá, compreendendo a Supervisão e gerenciamento dos serviços, o fornecimento de mão de obra, materiais, equipamentos e demais insumos \nnecessários e adequados à sua realização, conforme condições e exigências estabelecidas no edital e seus anexos.",
+      "areas": [
+        "Geral"
+      ],
+      "orgao": "ADVOCACIA GERAL DA UNIAO",
+      "uf": "DF",
+      "municipio": "Brasília",
+      "esfera": "Federal",
+      "modalidade": "Pregão - Eletrônico",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-11-06T04:00:25.256608",
+      "data_fim_vigencia": "2026-11-23T10:00",
+      "url": "https://pncp.gov.br/app/editais/26994558000123/2026/181",
+      "matched_keywords": [
+        "consultoria juridica",
+        "servicos de advocacia"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Brasília/DF. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Edital nº 36/2026",
+      "descricao": "Contratação de pessoa jurídica especializada para prestação de serviços técnicos profissionais de assessoria e consultoria jurídica trabalhista, de natureza continuada, nas áreas contenciosa, consultiva, preventiva e estratégica, destinados ao atendimento das demandas do Conselho Regional de Medicina do Estado de Santa Catarina – CRM-SC,",
+      "areas": [
+        "Tributario",
+        "Trabalhista"
+      ],
+      "orgao": "CONSELHO REGIONAL DE MEDICINA DO EST DE SANTA CATARINA",
+      "uf": "SC",
+      "municipio": "Florianópolis",
+      "esfera": "Federal",
+      "modalidade": "Concorrência - Eletrônica",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-08-27T08:36:27.398492",
+      "data_fim_vigencia": "2026-12-17T10:00",
+      "url": "https://pncp.gov.br/app/editais/79831566000115/2026/27",
+      "matched_keywords": [
+        "consultoria juridica"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Florianópolis/SC. valor nao informado na busca. sem presencial detectado.",
       "lucro": null,
       "trofeu": null
     },
@@ -191,30 +242,6 @@
       "trofeu": null
     },
     {
-      "titulo": "Edital nº 15/2026",
-      "descricao": "Contratação de serviços de engenharia contínuos de Manutenção Preditiva, preventiva e corretiva sob demanda, bem como para a realização de serviços diversos no imóvel da AGU circunscrito na Av. Mendonça Furtado, nº 2244, Bairro Santa Rita, Macapá, utilizado como Sede pela Procuradoria da União, Procuradoria Federal, Consultoria Jurídica da União e Unidade Estadual de Administração no Estado de Amapá, compreendendo a Supervisão e gerenciamento dos serviços, o fornecimento de mão de obra, materiais, equipamentos e demais insumos \nnecessários e adequados à sua realização, conforme condições e exigências estabelecidas no edital e seus anexos.",
-      "areas": [
-        "Geral"
-      ],
-      "orgao": "ADVOCACIA GERAL DA UNIAO",
-      "uf": "DF",
-      "municipio": "Brasília",
-      "esfera": "Federal",
-      "modalidade": "Pregão - Eletrônico",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "data_publicacao": "2026-11-06T04:00:25.256608",
-      "data_fim_vigencia": "2026-11-23T10:00",
-      "url": "https://pncp.gov.br/app/editais/26994558000123/2026/181",
-      "matched_keywords": [
-        "servicos de advocacia"
-      ],
-      "bandeira": "cinza",
-      "resumo": "Contrato 1m em Brasília/DF. valor nao informado na busca. sem presencial detectado.",
-      "lucro": null,
-      "trofeu": null
-    },
-    {
       "titulo": "Aviso de Contratação Direta nº 052007/26-DL/2026",
       "descricao": "Contratação de serviços técnicos profissionais de advocacia, de natureza predominantemente intelectual, na área técnica do direito, com ênfase no mercado financeiro e de capitais aplicada as estruturas jurídicas dos fundos de investimento, em âmbito consultivo e contencioso e nas esferas judicial e extrajudicial, voltados à proteção, ao acompanhamento e à recuperação dos ativos do regime próprio de previdência social investidos em fundos de investimento, com especial atenção aos ativos ilíquidos",
       "areas": [
@@ -256,11 +283,34 @@
       "data_fim_vigencia": "2026-11-10T10:00",
       "url": "https://pncp.gov.br/app/editais/39467292000102/2026/69",
       "matched_keywords": [
-        "servicos de advocacia",
-        "contencioso administrativo"
+        "servicos de advocacia"
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 1m em São Paulo/SP. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Aviso de Contratação Direta nº PRD 21/2026",
+      "descricao": "Eventual contratação de empresa especializada para aquisição de certificados digital E-CNPJ A1 (pfx 1ano) e E-CPF A3 token (2 anos). Para o uso nas dependências da Câmara Municipal de Vereadores de Quatro Barras. Conforme especificações constantes no Tr. Em consonância com o parecer jurídico 142/2026.",
+      "areas": [
+        "Geral"
+      ],
+      "orgao": "CAMARA MUNICIPAL DE QUATRO BARRAS",
+      "uf": "PR",
+      "municipio": "Quatro Barras",
+      "esfera": "Municipal",
+      "modalidade": "Dispensa",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-11-04T11:42:57.264220635",
+      "data_fim_vigencia": "2026-11-10T11:00",
+      "url": "https://pncp.gov.br/app/editais/02177287000155/2026/43",
+      "matched_keywords": [
+        "parecer juridico"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Quatro Barras/PR. valor nao informado na busca. sem presencial detectado.",
       "lucro": null,
       "trofeu": null
     }
