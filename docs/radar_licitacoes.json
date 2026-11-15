@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-14T16:19:30.192746+00:00",
+  "gerado_em": "2026-11-15T16:45:02.561143+00:00",
   "fonte": "PNCP",
   "filtro": "recebendo_proposta + juridico",
   "palavras_chave": [
@@ -18,8 +18,82 @@
     "parecer juridico",
     "recuperacao de creditos tributarios"
   ],
-  "total": 7,
+  "total": 8,
   "items": [
+    {
+      "titulo": "Edital nº 15/2026",
+      "descricao": "Contratação de serviços de engenharia contínuos de Manutenção Preditiva, preventiva e corretiva sob demanda, bem como para a realização de serviços diversos no imóvel da AGU circunscrito na Av. Mendonça Furtado, nº 2244, Bairro Santa Rita, Macapá, utilizado como Sede pela Procuradoria da União, Procuradoria Federal, Consultoria Jurídica da União e Unidade Estadual de Administração no Estado de Amapá, compreendendo a Supervisão e gerenciamento dos serviços, o fornecimento de mão de obra, materiais, equipamentos e demais insumos \nnecessários e adequados à sua realização, conforme condições e exigências estabelecidas no edital e seus anexos.",
+      "areas": [
+        "Geral"
+      ],
+      "orgao": "ADVOCACIA GERAL DA UNIAO",
+      "uf": "DF",
+      "municipio": "Brasília",
+      "esfera": "Federal",
+      "modalidade": "Pregão - Eletrônico",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-11-06T04:00:25.256608",
+      "data_fim_vigencia": "2026-11-23T10:00",
+      "url": "https://pncp.gov.br/app/editais/26994558000123/2026/181",
+      "matched_keywords": [
+        "consultoria juridica",
+        "servicos de advocacia"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Brasília/DF. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Edital nº 36/2026",
+      "descricao": "Contratação de pessoa jurídica especializada para prestação de serviços técnicos profissionais de assessoria e consultoria jurídica trabalhista, de natureza continuada, nas áreas contenciosa, consultiva, preventiva e estratégica, destinados ao atendimento das demandas do Conselho Regional de Medicina do Estado de Santa Catarina – CRM-SC,",
+      "areas": [
+        "Tributario",
+        "Trabalhista"
+      ],
+      "orgao": "CONSELHO REGIONAL DE MEDICINA DO EST DE SANTA CATARINA",
+      "uf": "SC",
+      "municipio": "Florianópolis",
+      "esfera": "Federal",
+      "modalidade": "Concorrência - Eletrônica",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-08-27T08:36:27.398492",
+      "data_fim_vigencia": "2026-12-17T10:00",
+      "url": "https://pncp.gov.br/app/editais/79831566000115/2026/27",
+      "matched_keywords": [
+        "consultoria juridica"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Florianópolis/SC. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Edital nº 27/2026",
+      "descricao": "Contratação de empresa para fornecimento de 10 (dez) licenças de uso de plataforma comercial de Inteligência Artificial Generativa padrão de mercado (produto de prateleira / COTS), disponibilizada na modalidade Software como Serviço (SaaS), sendo 6 (seis) licenças em Plano Padrão (Item 1) e 4 (quatro) licenças em Plano Superior/Avançado (Item 2), pelo período de 12 (doze) meses, com ativação e faturamento mensais na forma deste Termo de Referência. As licenças apoiarão as atividades do Departamento de Compras, Contratos e Licitações, do Controle Interno, da Assessoria Jurídica, da Secretaria Executiva, da Diretoria de Saúde, da Diretoria Administrativa e dos demais setores do CISCOPAR.",
+      "areas": [
+        "Administrativo"
+      ],
+      "orgao": "CONSORCIO INTERMUNICIPAL DE SAUDE COSTA OESTE DO PARANA",
+      "uf": "PR",
+      "municipio": "Toledo",
+      "esfera": "Não se aplica",
+      "modalidade": "Pregão - Eletrônico",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-11-04T14:30:57.541378502",
+      "data_fim_vigencia": "2026-11-17T08:59",
+      "url": "https://pncp.gov.br/app/editais/73449977000164/2026/61",
+      "matched_keywords": [
+        "assessoria juridica"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Toledo/PR. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
     {
       "titulo": "Edital nº 24/2026",
       "descricao": "Contratação de serviços contínuos de copeiragem com dedicação exclusiva de mão de obra, garçons por demanda e fornecimento de utensílios, equipamentos, materiais, produtos e insumos necessários por demanda para atender as unidades da Advocacia-Geral da União, em Minas Gerais, conforme condições, quantidades e exigências estabelecidas no Edital e seus anexos.\n",
@@ -93,30 +167,6 @@
       "trofeu": null
     },
     {
-      "titulo": "Edital nº 15/2026",
-      "descricao": "Contratação de serviços de engenharia contínuos de Manutenção Preditiva, preventiva e corretiva sob demanda, bem como para a realização de serviços diversos no imóvel da AGU circunscrito na Av. Mendonça Furtado, nº 2244, Bairro Santa Rita, Macapá, utilizado como Sede pela Procuradoria da União, Procuradoria Federal, Consultoria Jurídica da União e Unidade Estadual de Administração no Estado de Amapá, compreendendo a Supervisão e gerenciamento dos serviços, o fornecimento de mão de obra, materiais, equipamentos e demais insumos \nnecessários e adequados à sua realização, conforme condições e exigências estabelecidas no edital e seus anexos.",
-      "areas": [
-        "Geral"
-      ],
-      "orgao": "ADVOCACIA GERAL DA UNIAO",
-      "uf": "DF",
-      "municipio": "Brasília",
-      "esfera": "Federal",
-      "modalidade": "Pregão - Eletrônico",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "data_publicacao": "2026-11-06T04:00:25.256608",
-      "data_fim_vigencia": "2026-11-23T10:00",
-      "url": "https://pncp.gov.br/app/editais/26994558000123/2026/181",
-      "matched_keywords": [
-        "servicos de advocacia"
-      ],
-      "bandeira": "cinza",
-      "resumo": "Contrato 1m em Brasília/DF. valor nao informado na busca. sem presencial detectado.",
-      "lucro": null,
-      "trofeu": null
-    },
-    {
       "titulo": "Edital de Chamamento Público nº 01/2025-CHPC/2035",
       "descricao": "Credenciamento de serviços advocatícios destinados à VDP (Verba de Desempenho Parlamentar) da Câmara Municipal de Sobral-CE.",
       "areas": [
@@ -161,31 +211,6 @@
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 121m em Sobral/CE. valor nao informado na busca. sem presencial detectado.",
-      "lucro": null,
-      "trofeu": null
-    },
-    {
-      "titulo": "Edital nº 36/2026",
-      "descricao": "Contratação de pessoa jurídica especializada para prestação de serviços técnicos profissionais de assessoria e consultoria jurídica trabalhista, de natureza continuada, nas áreas contenciosa, consultiva, preventiva e estratégica, destinados ao atendimento das demandas do Conselho Regional de Medicina do Estado de Santa Catarina – CRM-SC,",
-      "areas": [
-        "Tributario",
-        "Trabalhista"
-      ],
-      "orgao": "CONSELHO REGIONAL DE MEDICINA DO EST DE SANTA CATARINA",
-      "uf": "SC",
-      "municipio": "Florianópolis",
-      "esfera": "Federal",
-      "modalidade": "Concorrência - Eletrônica",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "data_publicacao": "2026-08-27T08:36:27.398492",
-      "data_fim_vigencia": "2026-12-17T10:00",
-      "url": "https://pncp.gov.br/app/editais/79831566000115/2026/27",
-      "matched_keywords": [
-        "contencioso trabalhista"
-      ],
-      "bandeira": "cinza",
-      "resumo": "Contrato 1m em Florianópolis/SC. valor nao informado na busca. sem presencial detectado.",
       "lucro": null,
       "trofeu": null
     }
