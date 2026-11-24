@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-23T21:51:44.273293+00:00",
+  "gerado_em": "2026-11-24T20:27:57.917123+00:00",
   "fonte": "PNCP",
   "filtro": "recebendo_proposta + juridico",
   "palavras_chave": [
@@ -21,30 +21,6 @@
   "total": 6,
   "items": [
     {
-      "titulo": "Edital nº 48/2026",
-      "descricao": "A presente contratação tem por objetivo atender às necessidades de mobiliário das unidades integrantes da Advocacia-Geral da União na 4ª Região, nos estados RS, SC e PR, considerando a necessidade de manutenção de ambientes de trabalho adequados, funcionais, seguros e compatíveis com as atividades desenvolvidas pelos servidores e demais usuários dos espaços institucionais.",
-      "areas": [
-        "Ambiental"
-      ],
-      "orgao": "ADVOCACIA GERAL DA UNIAO",
-      "uf": "RS",
-      "municipio": "Porto Alegre",
-      "esfera": "Federal",
-      "modalidade": "Pregão - Eletrônico",
-      "situacao": "Divulgada no PNCP",
-      "valor": null,
-      "data_publicacao": "2026-11-17T04:00:28.433488",
-      "data_fim_vigencia": "2026-12-01T14:30",
-      "url": "https://pncp.gov.br/app/editais/26994558000123/2026/193",
-      "matched_keywords": [
-        "escritorio de advocacia"
-      ],
-      "bandeira": "cinza",
-      "resumo": "Contrato 1m em Porto Alegre/RS. valor nao informado na busca. sem presencial detectado.",
-      "lucro": null,
-      "trofeu": null
-    },
-    {
       "titulo": "Edital nº 001/2026",
       "descricao": "[LICITANET] - CONTRATAÇÃO DE SOCIEDADE DE ADVOGADOS ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS DE ASSESSORIA E CONSULTORIA JURÍDICA PARA ATENDER À FUNDAÇÃO HOSPITALAR MUNICIPAL JOÃO HENRIQUE – CONCEIÇÃO DAS ALAGOAS/MG.",
       "areas": [
@@ -61,10 +37,58 @@
       "data_fim_vigencia": "2026-12-07T13:00",
       "url": "https://pncp.gov.br/app/editais/09281224000193/2026/29",
       "matched_keywords": [
-        "sociedade de advogados"
+        "assessoria juridica"
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 1m em Conceição das Alagoas/MG. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Aviso de Contratação Direta nº 00003426/2026",
+      "descricao": "Contratação de pessoa física ou jurídica especializada na prestação de serviços técnicos de assessoria e consultoria tributária, destinados a subsidiar os vereadores e os integrantes da Comissão de Finanças e Orçamento da Câmara Municipal de Madre de Deus de Minas/MG no estudo, na análise e no acompanhamento da tramitação legislativa do Projeto de Lei Complementar nº 004/2025, referente à reforma do Código Tributário Municipal, mediante esclarecimentos técnicos sobre os dispositivos propostos, seus fundamentos, objetivos e possíveis impactos, orientação quanto à legislação tributária aplicável e auxílio na análise de sugestões, adequações e eventuais emendas, sem substituição das atribuições dos vereadores, das comissões legislativas ou da Assessoria Jurídica do Poder Legislativo.",
+      "areas": [
+        "Tributario"
+      ],
+      "orgao": "CAMARA MUNICIPAL DE MADRE DE DEUS DE MINAS",
+      "uf": "MG",
+      "municipio": "Madre de Deus de Minas",
+      "esfera": "Municipal",
+      "modalidade": "Dispensa",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-11-04T13:44:31.805116",
+      "data_fim_vigencia": "2026-11-26T07:59",
+      "url": "https://pncp.gov.br/app/editais/04837539000150/2026/34",
+      "matched_keywords": [
+        "assessoria juridica"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Madre de Deus de Minas/MG. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Edital nº RET001/2026",
+      "descricao": "Contratação de Empresa Especializada Para a Prestação de Serviços Advocatícios Destinados à Assessoria e Consultoria Jurídica, Abrangendo Todas as Secretarias e Setores da Administração Pública Direta, bem como para atuação Técnica e Jurídica na Defesa do Município perante o Tribunal de Contas do Estado de São Paulo",
+      "areas": [
+        "Administrativo"
+      ],
+      "orgao": "MUNICIPIO DE COSMOPOLIS",
+      "uf": "SP",
+      "municipio": "Cosmópolis",
+      "esfera": "Municipal",
+      "modalidade": "Concorrência - Presencial",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-09-22T11:06:36.616993",
+      "data_fim_vigencia": "2026-12-10T09:00",
+      "url": "https://pncp.gov.br/app/editais/44730331000152/2026/86",
+      "matched_keywords": [
+        "servicos advocaticios"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Cosmópolis/SP. valor nao informado na busca. sem presencial detectado.",
       "lucro": null,
       "trofeu": null
     },
@@ -85,35 +109,10 @@
       "data_fim_vigencia": "2035-02-23T23:59",
       "url": "https://pncp.gov.br/app/editais/09485046000112/2035/1",
       "matched_keywords": [
-        "sociedade de advogados"
+        "servicos advocaticios"
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 121m em Sobral/CE. valor nao informado na busca. sem presencial detectado.",
-      "lucro": null,
-      "trofeu": null
-    },
-    {
-      "titulo": "Edital de Chamamento Público nº 03/2025",
-      "descricao": "Credenciamento de sociedade de advogados para prestação de serviços técnico profissional especializado no patrocínio e defesa em causas judiciais e/ou administrativas que envolvam participações Governamentais (royalties e participação especial) devidas pela indústria Agência Nacional do Petróleo, Gás Natural e Biocombustiveis – ANP",
-      "areas": [
-        "Tributario",
-        "Administrativo"
-      ],
-      "orgao": "MUNICIPIO DE CAJAMAR",
-      "uf": "SP",
-      "municipio": "Cajamar",
-      "esfera": "Municipal",
-      "modalidade": "Credenciamento",
-      "situacao": "Revogada",
-      "valor": null,
-      "data_publicacao": "2025-06-09T09:07:50.285628",
-      "data_fim_vigencia": "2029-07-20T23:59",
-      "url": "https://pncp.gov.br/app/editais/46523023000181/2025/77",
-      "matched_keywords": [
-        "sociedade de advogados"
-      ],
-      "bandeira": "cinza",
-      "resumo": "Contrato 48m em Cajamar/SP. valor nao informado na busca. sem presencial detectado.",
       "lucro": null,
       "trofeu": null
     },
@@ -134,7 +133,7 @@
       "data_fim_vigencia": "2029-07-20T23:59",
       "url": "https://pncp.gov.br/app/editais/46523023000181/2025/78",
       "matched_keywords": [
-        "sociedade de advogados"
+        "servicos advocaticios"
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 48m em Cajamar/SP. valor nao informado na busca. sem presencial detectado.",
@@ -158,7 +157,7 @@
       "data_fim_vigencia": "2034-06-11T13:00",
       "url": "https://pncp.gov.br/app/editais/09485046000112/2034/1",
       "matched_keywords": [
-        "sociedade de advogados"
+        "servicos advocaticios"
       ],
       "bandeira": "cinza",
       "resumo": "Contrato 121m em Sobral/CE. valor nao informado na busca. sem presencial detectado.",
