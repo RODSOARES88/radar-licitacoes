@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-26T19:23:17.616283+00:00",
+  "gerado_em": "2026-11-27T19:18:19.722520+00:00",
   "fonte": "PNCP",
   "filtro": "recebendo_proposta + juridico",
   "palavras_chave": [
@@ -18,8 +18,80 @@
     "parecer juridico",
     "recuperacao de creditos tributarios"
   ],
-  "total": 1,
+  "total": 4,
   "items": [
+    {
+      "titulo": "Edital nº 2611.01/2026/2026",
+      "descricao": "CONTRATAÇÃO DE SERVIÇOS TÉCNICOS ESPECIALIZADOS DE ASSESSORIA E CONSULTORIA JURÍDICA, DESTINADOS AO ATENDIMENTO DAS DEMANDAS DAS DIVERSAS SECRETARIAS DO MUNICÍPIO DE PEREIRO/CE, ABRANGENDO ATIVIDADES DE ORIENTAÇÃO, ASSESSORAMENTO E SUPORTE JURÍDICO-ADMINISTRATIVO, CONSULTIVO, JUDICIAL E EXTRAJUDICIAL",
+      "areas": [
+        "Administrativo"
+      ],
+      "orgao": "MUNICIPIO DE PEREIRO",
+      "uf": "CE",
+      "municipio": "Pereiro",
+      "esfera": "Municipal",
+      "modalidade": "Concorrência - Eletrônica",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-11-27T09:14:41.747133562",
+      "data_fim_vigencia": "2027-01-20T08:00",
+      "url": "https://pncp.gov.br/app/editais/07570518000100/2026/67",
+      "matched_keywords": [
+        "consultoria juridica"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Pereiro/CE. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Edital nº 001/2026",
+      "descricao": "[LICITANET] - CONTRATAÇÃO DE SOCIEDADE DE ADVOGADOS ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS DE ASSESSORIA E CONSULTORIA JURÍDICA PARA ATENDER À FUNDAÇÃO HOSPITALAR MUNICIPAL JOÃO HENRIQUE – CONCEIÇÃO DAS ALAGOAS/MG.",
+      "areas": [
+        "Geral"
+      ],
+      "orgao": "FUNDACAO HOSPITALAR MUNICIPAL JOAO HENRIQUE",
+      "uf": "MG",
+      "municipio": "Conceição das Alagoas",
+      "esfera": "Municipal",
+      "modalidade": "Concorrência - Eletrônica",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-11-18T13:08:09.526471",
+      "data_fim_vigencia": "2026-12-11T13:00",
+      "url": "https://pncp.gov.br/app/editais/09281224000193/2026/29",
+      "matched_keywords": [
+        "consultoria juridica"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Conceição das Alagoas/MG. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
+    {
+      "titulo": "Edital nº RET001/2026",
+      "descricao": "Contratação de Empresa Especializada Para a Prestação de Serviços Advocatícios Destinados à Assessoria e Consultoria Jurídica, Abrangendo Todas as Secretarias e Setores da Administração Pública Direta, bem como para atuação Técnica e Jurídica na Defesa do Município perante o Tribunal de Contas do Estado de São Paulo",
+      "areas": [
+        "Administrativo"
+      ],
+      "orgao": "MUNICIPIO DE COSMOPOLIS",
+      "uf": "SP",
+      "municipio": "Cosmópolis",
+      "esfera": "Municipal",
+      "modalidade": "Concorrência - Presencial",
+      "situacao": "Divulgada no PNCP",
+      "valor": null,
+      "data_publicacao": "2026-09-22T11:06:36.616993",
+      "data_fim_vigencia": "2026-12-10T09:00",
+      "url": "https://pncp.gov.br/app/editais/44730331000152/2026/86",
+      "matched_keywords": [
+        "consultoria juridica"
+      ],
+      "bandeira": "cinza",
+      "resumo": "Contrato 1m em Cosmópolis/SP. valor nao informado na busca. sem presencial detectado.",
+      "lucro": null,
+      "trofeu": null
+    },
     {
       "titulo": "Edital nº 48/2026",
       "descricao": "A presente contratação tem por objetivo atender às necessidades de mobiliário das unidades integrantes da Advocacia-Geral da União na 4ª Região, nos estados RS, SC e PR, considerando a necessidade de manutenção de ambientes de trabalho adequados, funcionais, seguros e compatíveis com as atividades desenvolvidas pelos servidores e demais usuários dos espaços institucionais.",
